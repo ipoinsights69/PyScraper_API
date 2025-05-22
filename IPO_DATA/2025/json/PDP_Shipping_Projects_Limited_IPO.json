@@ -1,0 +1,350 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 10, 2025toMarch 12, 2025"
+    ],
+    [
+      "Listing Date",
+      "March 18, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹135 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "9,37,000shares(aggregating up to ₹12.65Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "9,37,000shares(aggregating up to ₹12.65Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "20,37,424shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "29,74,424shares"
+    ],
+    [
+      "Market Maker Portion",
+      "47,000sharesRikhav Securities Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "-"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "47,000 (5.02%)"
+    },
+    {
+      "Investor Category": "Other Shares Offered",
+      "Shares Offered": "4,45,000 (47.49%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "4,45,000 (47.49%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "9,37,001 (100%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Mar 10, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Mar 12, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Mar 13, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Mar 17, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Mar 17, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Mar 18, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMarch 12, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.9986%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "68.50%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Nov 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "12.32",
+      "8.26",
+      "6.22",
+      "4.22"
+    ],
+    [
+      "Revenue",
+      "13.78",
+      "20.58",
+      "22.6",
+      "28.73"
+    ],
+    [
+      "Profit After Tax",
+      "1.57",
+      "2.31",
+      "1.68",
+      "1.91"
+    ],
+    [
+      "Net Worth",
+      "7.41",
+      "5.84",
+      "3.52",
+      "1.85"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.38",
+      "3.81",
+      "3.46",
+      "1.78"
+    ],
+    [
+      "Total Borrowing",
+      "3.57",
+      "0.5",
+      "0.3",
+      "0.04"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "39.62%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "50.04%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.09"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "39.62%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "7.48"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.71"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.36",
+      "Post IPO": "7.92"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.89",
+      "Post IPO": "17.05"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Part funding long-term working capital requirements",
+      "Expected Amount(in Millions)": "100"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(in Millions)": "8"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "March 18, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544378"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0ABU01016"
+    ],
+    [
+      "Final Issue Price",
+      "₹135 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹135.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹108.25"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹102.85"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹108.25"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹102.85"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "PDP Shipping IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/399731/PDP%20Draft%20Prospectus_20240730132307.pdf",
+      "text": "PDP Shipping IPODRHP"
+    },
+    {
+      "title": "PDP Shipping IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/PDP%20Shipping%20and%20Projects%20Limited%20Prospectus%20&%20GID_070320251144.zip",
+      "text": "PDP Shipping IPORHP"
+    }
+  ],
+  "promoters": "Animesh Kumar is the Promoter of the company.",
+  "company_contact_details": {
+    "company_name": "PDP Shipping & Projects Limited",
+    "address": "A-606, Mahavir Icon,, Plot numbers 89 & 90, Sector 15,, CBD Belapur, Navi Mumbai - 400 614, Phone, :, Email, :, Website, :",
+    "phone": "022 2756 5053",
+    "email": "compliance@pdpprojects.com",
+    "website": "https://www.pdpprojects.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222",
+    "email": "pdp.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2009, PDP Shipping & Projects Limited provides end-to-end logistics solutions, including sea/air freight, customs clearance, and project logistics. As an Authorized Economic Operator (AEO), the company offers global cargo transportation via sea, air, road, rail, and multi-modal options. It operates on an asset-light model, partnering with third-party operators to deliver cost-effective, quality services for specialized goods like machinery, defense equipment, and automobiles, focusing on countries like Brazil, the USA, and South Korea. Business Model: As of  January 27, 2025, the company has 18 employees on the payroll. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Sun Capital Advisory Services (P) Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/193/",
+      "title": "About Sun Capital Advisory Services (P) Ltd"
+    }
+  ],
+  "listing_gain_percent": "-19.81%"
+}

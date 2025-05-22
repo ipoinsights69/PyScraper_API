@@ -1,0 +1,368 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 7, 2025toJanuary 9, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹135 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "63,12,000shares(aggregating up to ₹85.21Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "63,12,000shares(aggregating up to ₹85.21Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,75,12,704shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,38,24,704shares"
+    ],
+    [
+      "Market Maker Portion",
+      "3,16,000sharesSpread X Securities Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "17,86,000 (28.3%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,16,000 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "11,92,000 (18.88%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,94,000 (14.16%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "20,86,000 (33.05%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "38,000 (0.6%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "63,12,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,86,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "24.11"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 8, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 9, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jan 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 9, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.31%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Jul 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "26,999.85",
+      "23,948.52",
+      "19,725.84",
+      "20,338.54"
+    ],
+    [
+      "Revenue",
+      "15,686.45",
+      "59,619.2",
+      "35,329.74",
+      "22,863.32"
+    ],
+    [
+      "Profit After Tax",
+      "194.46",
+      "2,188.91",
+      "1,733.51",
+      "756.09"
+    ],
+    [
+      "Net Worth",
+      "12,863.48",
+      "12,666.79",
+      "10,479.04",
+      "8,746.91"
+    ],
+    [
+      "Reserves and Surplus",
+      "11,124.2",
+      "11,797.15",
+      "9,609.4",
+      "7,877.27"
+    ],
+    [
+      "Total Borrowing",
+      "6,411.09",
+      "4,947.28",
+      "4,163.54",
+      "5,340.28"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "18.91%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "19.72%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.50"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "18.91%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "3.72"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "0.93"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "12.50",
+      "Post IPO": "2.45"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.8",
+      "Post IPO": "55.13"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544335"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE00ST01011"
+    ],
+    [
+      "Final Issue Price",
+      "₹135 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹135.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹135.75"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹135.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹142.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹142.50"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "B.R.Goyal IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/315909/Draft_Red_Herring_Prospectus_BRG%20dated%20August%2002,%202024_20240802201212.pdf",
+      "text": "B.R.Goyal IPODRHP"
+    },
+    {
+      "title": "B.R.Goyal IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/b-r-goyal-infrastructure-limited_90679.html",
+      "text": "B.R.Goyal IPORHP"
+    }
+  ],
+  "promoters": "Mr. Brij Kishore Goyal, Mr. Balkrishna Goyal, Mr. Gopal Goyal, Mr. Rajendra Kumar Goyal, Mr. Yash Goyal, Mr. Uppal Goyal and M/S. B.R. Goyal Holdings Private Limited are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "B.R.Goyal Infrastructure Limited",
+    "address": "3-A, Agrawal Nagar,, Indore 452001,, Phone, :, Email, :, Website, :",
+    "phone": "+91-731 2403831",
+    "email": "cs@brginfra.in",
+    "website": "http://www.brginfra.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "brgoyal.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2005, B.R.Goyal Infrastructure Limited is engaged in the business of construction of infrastructure projects such as roads, highways, bridges and buildings. The company has established an integrated EPC and construction business, supported by a design and engineering team and RMC unit. The RMC unit, located in Indore, has an installed capacity of 1.80 Lakh cubic meters per annum. As of September 30, 2024, the company operates with over 199 construction equipment and vehicles. The company entered the wind energy business by installing a 1.25 MW wind power turbine in Jaisalmer, Rajasthan, commissioned in 2005. The company has successfully executed projects across Madhya Pradesh and is currently executing road construction projects in Maharashtra, Gujarat, Mizoram, Manipur, and Uttar Pradesh after expanding operations. Business is divided into 5 categories: As on September 30, 2024, the company had 402 permanent employees and 212 employees at our TCCs. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt Ltd"
+    }
+  ],
+  "listing_gain_percent": "0.56%"
+}

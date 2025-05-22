@@ -1,0 +1,352 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 20, 2025toMay 22, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹216 per share"
+    ],
+    [
+      "Lot Size",
+      "69 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "67,08,000shares(aggregating up to ₹144.89Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "67,08,000shares(aggregating up to ₹144.89Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,99,37,295shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,66,45,295shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "30,18,543 (45.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "20,12,457 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "10,06,200 (15.00%)",
+      "Maximum Allottees": ""
+    },
+    {
+      "Investor Category": "bNII > ₹10L",
+      "Shares Offered": "6,70,800 (10.00%)",
+      "Maximum Allottees": "694"
+    },
+    {
+      "Investor Category": "sNII < ₹10L",
+      "Shares Offered": "3,35,400 (5.00%)",
+      "Maximum Allottees": "347"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "6,70,800 (10.00%)",
+      "Maximum Allottees": "9,721"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "67,08,000 (100%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 19, 2025"
+    ],
+    [
+      "Shares Offered",
+      "30,18,543"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "65.20"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "June 22, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 21, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, May 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, May 22, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, May 23, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, May 26, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, May 26, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 22, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "69",
+      "Amount": "₹14,904"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "897",
+      "Amount": "₹1,93,752"
+    },
+    {
+      "Application": "S-HNI(Min)",
+      "Lots": "14",
+      "Shares": "966",
+      "Amount": "₹2,08,656"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "4,623",
+      "Amount": "₹9,98,568"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "4,692",
+      "Amount": "₹10,13,472"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "87.19%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "149.67",
+      "137.05",
+      "74.98",
+      "31.90"
+    ],
+    [
+      "Revenue",
+      "215.71",
+      "199.60",
+      "135.53",
+      "42.36"
+    ],
+    [
+      "Profit After Tax",
+      "29.31",
+      "23.59",
+      "16.30",
+      "1.80"
+    ],
+    [
+      "Net Worth",
+      "76.55",
+      "47.39",
+      "24.11",
+      "1.81"
+    ],
+    [
+      "Reserves and Surplus",
+      "56.87",
+      "47.66",
+      "24.07",
+      "1.80"
+    ],
+    [
+      "Total Borrowing",
+      "54.03",
+      "69.10",
+      "38.89",
+      "27.31"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "49.45%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "27.42%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "49.77%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.85"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "9.09"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.83",
+      "Post IPO": "14.66"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.26",
+      "Post IPO": "14.73"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Proposing to finance the cost of establishing a new manufacturing Unit to expand its production capabilities to produce grey fabric at Surat, Gujarat, India",
+      "Expected Amount(in Millions)": "713.48"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding incremental working capital requirements",
+      "Expected Amount(in Millions)": "265.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "2",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "13": [
+    [
+      ""
+    ]
+  ],
+  "prospectus_links": [
+    {
+      "title": "Borana Weaves IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/nov-2024/boranaweaveslimited_88608.html",
+      "text": "Borana Weaves IPODRHP"
+    },
+    {
+      "title": "Borana Weaves IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/borana-weaves-limited-rhp_94060.html",
+      "text": "Borana Weaves IPORHP"
+    }
+  ],
+  "promoters": "Mangilal Ambalal Borana, Ankur Mangilal Borana, Rajkumar Mangilal Borana, Dhwani Ankur Borana, Mangilal Ambalal Borana HUF, Ankur Mangilal Borana HUF, Sandhya Bansal, Rajkumar Mangilal HUF And Borana Filaments Private Limited are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Borana Weaves Limited",
+    "address": "Plot No AA/34, B 16/16,, Hojiwala Industrial Estate, SUSML,, Sachin,, Phone, :, Email, :, Website, :",
+    "phone": "+91-9898426338",
+    "email": "info@boranagroup.in",
+    "website": "https://www.boranagroup.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222",
+    "email": "bwl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2020, Borana Weaves Limited is a manufacturer of unbleached synthetic grey fabric based in Surat, Gujarat. The company's unbleached synthetic grey fabric is often widely used as a base for further processing (including dyeing and printing) in industries such as fashion, traditional textiles, technical textiles, home decor, interior design, etc. The company also manufactures polyester textured yarn (“PTY Yarn”), which is produced by heating polyester oriented yarn (“POY Yarn”), our raw material used in the production of grey fabric. Borana Weaves Limited company operates three manufacturing units in Surat, Gujarat, equipped with textile manufacturing technologies for, inter alia, texturizing, warping, water jet looms, and textile folding. As of September 30, 2024, the company had a total of 15 texturizing machines, 6 warping machines, 700 water jet looms, and 10 folding machines active at its three units.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt Ltd"
+    }
+  ],
+  "listing_gain_percent": null
+}

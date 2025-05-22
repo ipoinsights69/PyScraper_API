@@ -1,0 +1,368 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 7, 2025toJanuary 9, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹130 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "42,00,000shares(aggregating up to ₹54.60Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "38,88,000shares(aggregating up to ₹50.54Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "3,12,000shares of ₹10(aggregating up to ₹4.06Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,14,01,698shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,52,89,698shares"
+    ],
+    [
+      "Market Maker Portion",
+      "2,94,000sharesGiriraj Stock Broking Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "11,70,000 (27.86%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,94,000 (7%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,81,000 (18.6%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,87,000 (13.98%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "13,68,000 (32.57%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "42,00,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "11,70,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "15.21"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 8, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 9, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jan 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 9, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,30,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,30,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,60,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.59%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Oct 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "4,742.31",
+      "3,461.35",
+      "2,110.04",
+      "2,031.61"
+    ],
+    [
+      "Revenue",
+      "4,527.53",
+      "8,116.73",
+      "8,055.86",
+      "5,753.41"
+    ],
+    [
+      "Profit After Tax",
+      "480.81",
+      "822",
+      "513.41",
+      "420.34"
+    ],
+    [
+      "Net Worth",
+      "2,270.11",
+      "3,031.91",
+      "1,141.48",
+      "688.82"
+    ],
+    [
+      "Reserves and Surplus",
+      "1,129.93",
+      "1,758.47",
+      "",
+      ""
+    ],
+    [
+      "Total Borrowing",
+      "1,120.31",
+      "1,003.3",
+      "413.6",
+      "733.57"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "23.69%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "19.32%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.49"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "21.18%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.64"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.53"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.21",
+      "Post IPO": "5.39"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.03",
+      "Post IPO": "24.11"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "DELTIC"
+    ],
+    [
+      "ISIN",
+      "INE0XRN01019"
+    ],
+    [
+      "Final Issue Price",
+      "₹130 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹130.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹175.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹166.25"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹183.75"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹167.25"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "5",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Delta Autocorp IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_4332_11102024230317.zip",
+      "text": "Delta Autocorp IPODRHP"
+    },
+    {
+      "title": "Delta Autocorp IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/delta-autocorp-limited_90439.html",
+      "text": "Delta Autocorp IPORHP"
+    }
+  ],
+  "promoters": "Mr. Ankit Agarwal, Mrs. Priyanka Agarwal and Mr. Sanwarmall Agarwalla are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Delta Autocorp Limited",
+    "address": "Plot No 304 P,, Pithakiarypost-Rupnarayanpur,, Bardhaman, Phone, :, Email, :, Website, :",
+    "phone": "+91 8448223541",
+    "email": "compliance@deltic.co",
+    "website": "http://www.deltic.co/"
+  },
+  "ipo_registrar_details": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "deltaauto.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2016, Delta Autocorp Limited is engaged in the business of manufacturing and selling of2-wheelers&3-wheelers EVs. The Company operates under the brand name \"Deltic”. Initially concentrating on developing electric 3-wheelers prototypes, they marked a significant milestone in 2017 with the launch of their first E-Rickshaw, boasting an impressive mileage of over 150 Km. After analysing market trends and changing customer preferences, the company expanded its product range to electric 2W vehicles. In 2018, prototype development began, and in 2019, the company launched affordable, durable scooters for tier-2 and tier-3 towns. The company operates through a network of over 300 dealers across 25 states and Union Territories, focusing on B2B transactions. The goal is to become a global brand with cost-effective, practical products and excellent service. Their Products: The company focuses on in-house product innovation through its R&D department in Uttar Pradesh, with 11 employees dedicated to designing electric vehicles based on customer needs and preferences. As of 31 October 2024, the company has 139 employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Private Limited"
+    }
+  ],
+  "listing_gain_percent": "34.62%"
+}

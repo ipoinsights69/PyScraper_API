@@ -1,0 +1,332 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 7, 2025toJanuary 9, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "2,74,000shares(aggregating up to ₹1.92Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "2,74,000shares(aggregating up to ₹1.92Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "7,65,158shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "10,39,158shares"
+    ],
+    [
+      "Market Maker Portion",
+      "14,000sharesSKI Capital Services Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "-"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "14,000 (5.11%)"
+    },
+    {
+      "Investor Category": "Other Shares Offered",
+      "Shares Offered": "1,30,000 (47.45%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,30,000 (47.45%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "2,74,001 (100%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jan 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 9, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,80,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "57.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "41.97%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "1,089.09",
+      "484.6",
+      "346.89",
+      "57.66"
+    ],
+    [
+      "Revenue",
+      "1,500.93",
+      "2,205.98",
+      "1,470.21",
+      "28.87"
+    ],
+    [
+      "Profit After Tax",
+      "90.61",
+      "138.19",
+      "69.44",
+      "1.01"
+    ],
+    [
+      "Net Worth",
+      "405.3",
+      "314.68",
+      "176.49",
+      "1.65"
+    ],
+    [
+      "Total Borrowing",
+      "72.02",
+      "71.5",
+      "",
+      "30"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "43.91%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "61.68%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "43.91%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.26"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.70"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "18.06",
+      "Post IPO": "17.44"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "3.88",
+      "Post IPO": "4.01"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544337"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0NQ401016"
+    ],
+    [
+      "Final Issue Price",
+      "₹70 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹70.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹133.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹133.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹139.65"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹139.65"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Avax Apparels And Ornaments IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/332568/AvaxApparelsandOrnamentsDRHP_20230822105417.pdf",
+      "text": "Avax Apparels And Ornaments IPODRHP"
+    },
+    {
+      "title": "Avax Apparels And Ornaments IPO Addendum DRHP",
+      "href": "https://www.bsesme.com/download/332568/Combined_Addendum_cum_DRHP_20240805102324.pdf",
+      "text": "Avax Apparels And Ornaments IPOAddendum DRHP"
+    },
+    {
+      "title": "Avax Apparels And Ornaments IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/avax-apparels-and-ornaments-limited_91559.html",
+      "text": "Avax Apparels And Ornaments IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company are Mr. Harinderpal Singh Sodhi and Mr. Harish Kumar",
+  "company_contact_details": {
+    "company_name": "Avax Apparels And Ornaments Limited",
+    "address": "611 6th Floor, Jaina Tower II Distt. Centre, Janakpuri, West Delhi,-110058, Phone, :, Email, :, Website, :",
+    "phone": "+011-44750642",
+    "email": "secretarial@avaxapparels.com",
+    "website": "https://avaxapparels.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in June 2005, Avax Apparels And Ornaments Limited is involved in two separate lines of business: The company wholesales knitted fabric and sells silver ornaments online, including rings, ladies' payal, gents kada, plate sets, glass, bangles, bowls, chains, and other jewellery. It supplies all major cities across the country. The company has several key advantages in wholesale trading. It is geographically located in the hub of cloth manufacturing, which provides a significant advantage. In addition, the company benefits from the growing demand for these products and the strong business relationships maintained by the management, all of which contribute to the company's success in this segment. Competitive Strengths As of September 2024, the company has 7 full term employees.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "SKI Capital Services Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/427/",
+      "title": "About SKI Capital Services Limited"
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

@@ -1,0 +1,308 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 27, 2025toMay 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹95 to ₹104 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "64,94,400shares(aggregating up to ₹67.54Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "64,94,400shares(aggregating up to ₹67.54Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,81,73,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,46,67,900shares"
+    ],
+    [
+      "Market Maker Portion",
+      "3,26,400sharesRikhav Securities Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 50% of the Net Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not less than 35% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "Not less than 15% of the Net Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 29, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1200",
+      "Amount": "₹1,24,800"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1200",
+      "Amount": "₹1,24,800"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,49,600"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "80.38%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "59.219 %"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "349.78",
+      "299.00",
+      "256.80",
+      "235.30"
+    ],
+    [
+      "Revenue",
+      "272.38",
+      "346.78",
+      "401.31",
+      "358.49"
+    ],
+    [
+      "Profit After Tax",
+      "15.68",
+      "16.60",
+      "8.65",
+      "6.95"
+    ],
+    [
+      "Net Worth",
+      "93.05",
+      "77.37",
+      "54.74",
+      "46.10"
+    ],
+    [
+      "Reserves and Surplus",
+      "74.88",
+      "59.20",
+      "46.13",
+      "37.48"
+    ],
+    [
+      "Total Borrowing",
+      "206.71",
+      "189.24",
+      "163.02",
+      "124.74"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "21.45%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "28.71%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.45"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "21.45%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.79"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.44"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.13",
+      "Post IPO": "8.48"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.39",
+      "Post IPO": "12.27"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(in Millions)": ""
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Capital Expenditure towards setting up of Power Plant",
+      "Expected Amount(in Millions)": "500.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(in Millions)": "50.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "12": [
+    [
+      ""
+    ]
+  ],
+  "prospectus_links": [
+    {
+      "title": "Nikita Papers IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/NikitaPapersLimited_DRHP.pdf",
+      "text": "Nikita Papers IPODRHP"
+    },
+    {
+      "title": "Nikita Papers IPO RHP",
+      "href": "https://ftfinsec.com/resource/Offer_Documents/Image/RHP_Nikita_Papers_Limited.pdf",
+      "text": "Nikita Papers IPORHP"
+    }
+  ],
+  "promoters": "Mr. Ashok Kumar Bansal, Mr. Sudhir Kumar Bansal, Mr. Ayush Bansal, Mr. Abhinav Bansal, Mr. Anuj Bansal, Ashok Kumar Bansal & Sons HUF, Naresh Chand Bansal & Sons HUF, Sudhir Kumar Bansal & Sons HUF, Ayush Bansal & Sons HUF, Abhinav Bansal & Sons HUF, and Anuj Bansal & Sons HUF are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Nikita Papers Limited",
+    "address": "A-10 Floor 1st Land Mark,, Near Deepali Chowk  Saraswati Vihar,, Pitampur, Phone, :, Email, :, Website, :",
+    "phone": "+91-7300712189",
+    "email": "info@nikitapapers.com",
+    "website": "http://www.nikitapapers.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Private Ltd",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in 1989, Nikita Papers Limited is engaged in the manufacturing of paper and paper products. The company specializes in producing a range of paper grades suitable for industrial, commercial, and printing applications. The company typically focuses on environmentally sustainable production processes, often incorporating recycled materials in its manufacturing. With a strong distribution network, Nikita Papers Limited serves both domestic and international markets, striving to maintain quality, consistency. Depending on its size and operations, Nikita Papers Limited may also be involved in verticals such as packaging, tissue paper, or specialty paper products. Products: The company offers Kraft Paper, a durable and breathable packaging solution ranging from 70–200 GSM, ideal for wrapping, bags, cushioning, and various eco-friendly and creative applications. As of May 09, 2025, the company has 208 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Fast Track Finsec Pvt Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/161/",
+      "title": "About Fast Track Finsec Pvt Ltd"
+    }
+  ],
+  "listing_gain_percent": null
+}

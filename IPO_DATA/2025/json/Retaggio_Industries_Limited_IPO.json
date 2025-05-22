@@ -1,0 +1,350 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 27, 2025toApril 2, 2025"
+    ],
+    [
+      "Listing Date",
+      "April 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹25 per share"
+    ],
+    [
+      "Lot Size",
+      "6,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "61,98,000shares(aggregating up to ₹15.50Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "61,98,000shares(aggregating up to ₹15.50Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "93,68,160shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,55,66,160shares"
+    ],
+    [
+      "Market Maker Portion",
+      "5,64,000sharesGretex Share Broking Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "-"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "5,64,000 (9.1%)"
+    },
+    {
+      "Investor Category": "Other Shares Offered",
+      "Shares Offered": "28,17,000 (45.45%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "28,17,000 (45.45%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "61,98,000 (100%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Mar 27, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Apr 2, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Apr 3, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Apr 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Apr 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Apr 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onApril 2, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "6000",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "6000",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "12,000",
+      "Amount": "₹3,00,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "60.18%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "35.99",
+      "33.46",
+      "27.37",
+      "0.05"
+    ],
+    [
+      "Revenue",
+      "9.03",
+      "23.28",
+      "23.07",
+      ""
+    ],
+    [
+      "Profit After Tax",
+      "0.81",
+      "3.34",
+      "3.09",
+      "-0.01"
+    ],
+    [
+      "Net Worth",
+      "19.39",
+      "18.58",
+      "15.27",
+      "0.04"
+    ],
+    [
+      "Reserves and Surplus",
+      "10.02",
+      "9.21",
+      "5.9",
+      "-0.01"
+    ],
+    [
+      "Total Borrowing",
+      "11.39",
+      "11.4",
+      "10.89",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "19.74%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17.04%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.61"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "17.99%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "14.35"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "0.63"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.57",
+      "Post IPO": "1.04"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "7.01",
+      "Post IPO": "23.98"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/Prepayment of Certain Debt Facilities",
+      "Expected Amount(in Millions)": "20.89"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Working Capital Requirements",
+      "Expected Amount(in Millions)": "348.85"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "April 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544391"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0KWJ01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹25 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹25.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹25.10"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹23.85"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹25.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹25.20"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Retaggio Industries IPO DRHP",
+      "href": "https://www.bsesme.com/download/365032/DRHP_Retaggio_20240104183702.pdf",
+      "text": "Retaggio Industries IPODRHP"
+    },
+    {
+      "title": "Retaggio Industries IPO RHP",
+      "href": "https://www.bsesme.com/download/365032/SME_IPO%20Open/01.%20Rettagio_Prospectus_Final_20250325110517.pdf",
+      "text": "Retaggio Industries IPORHP"
+    }
+  ],
+  "promoters": "Mr. Savinay Lodha, Ms. Nidhi Lodha, and M/s. Retaggio Trading Services LLP are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Retaggio Industries Limited",
+    "address": "Unit-204, Options Primo,, Plot No.X-2, Next to Akruti Software Park,, Andheri E,, Phone, :, Email, :, Website, :",
+    "phone": "022-66913355",
+    "email": "info@retaggioindustries.com",
+    "website": "http://www.retaggioindustries.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2022, Retaggio Industries Limited is engaged in the manufacturing of jewelry, including necklaces, bracelets, earrings, and other decorative pieces. The company is a jewelry manufacturer with extensive experience in the B2B sector and offers high-end, heritage pieces known for exceptional craftsmanship and unique designs. The company began as M/s Vaibhav Gems in 2012. In 2022, Mr. Savinay Lodha expanded the business by establishing Retaggio Industries Limited, acquiring M/s Vaibhav Gems through a Business Transfer Agreement. The company has an in-house design team focused on customer needs, market analysis, and offering a wide product range. Its professionalism and commitment aim to build trust and deliver lasting value. Products:Rings, Bangles, Earrings, Necklaces. As of March 03, 2025, the company has 15 employees on payroll. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Gretex Corporate Services Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/123/",
+      "title": "About Gretex Corporate Services Limited"
+    }
+  ],
+  "listing_gain_percent": "0.4%"
+}

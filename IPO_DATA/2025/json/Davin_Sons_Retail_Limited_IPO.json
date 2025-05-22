@@ -1,0 +1,326 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 2, 2025toJanuary 6, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 9, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹55 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "15,96,000shares(aggregating up to ₹8.78Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "15,96,000shares(aggregating up to ₹8.78Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "36,66,792shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "52,62,792shares"
+    ],
+    [
+      "Market Maker Portion",
+      "80,000sharesAftertrade Broking Pvt Ltd"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "-"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "80,000 (5.01%)"
+    },
+    {
+      "Investor Category": "Other Shares Offered",
+      "Shares Offered": "7,58,000 (47.49%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "7,58,000 (47.49%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "15,96,001 (100%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jan 2, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jan 6, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 6, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,10,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,10,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,20,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "90.68%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "63.18%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "1,036.2",
+      "883.12",
+      "455.97",
+      "5"
+    ],
+    [
+      "Revenue",
+      "634.1",
+      "1,339.16",
+      "391.33",
+      ""
+    ],
+    [
+      "Profit After Tax",
+      "73.59",
+      "164.05",
+      "56.62",
+      ""
+    ],
+    [
+      "Net Worth",
+      "627.78",
+      "554.65",
+      "109.37",
+      ""
+    ],
+    [
+      "Total Borrowing",
+      "194.45",
+      "24",
+      "128.15",
+      ""
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "49.41%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "54.52%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "29.58%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "12.25"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.47",
+      "Post IPO": "2.80"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.29",
+      "Post IPO": "19.67"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 9, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544331"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0Q2L01013"
+    ],
+    [
+      "Final Issue Price",
+      "₹55 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹55.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹44.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹41.90"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹46.20"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹46.20"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Davin Sons IPO DRHP",
+      "href": "https://www.bsesme.com/download/351931/DAVIN%20SONS%20-%20DRAFT%20PROSPECTUS_20230726131455.pdf",
+      "text": "Davin Sons IPODRHP"
+    },
+    {
+      "title": "Davin Sons IPO RHP",
+      "href": "https://www.bsesme.com/download/351931/SME_IPO%20Open/Davin_Prospectus_20241227192830.pdf",
+      "text": "Davin Sons IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company are Mr Mohit Arora, Mr Nohit Arora, Mr Davinder Arora, Mrs Lalita Rani and Mrs Sonam Arora.",
+  "company_contact_details": {
+    "company_name": "Davin Sons Retail Limited",
+    "address": "609, Sixth Floor,  Road No. 44, Pitampura, P.P. City Centre Plot No. 3,Road No. 44,, Pitampura Rani Bagh-, North West Delhi -110034, Phone, :, Email, :, Website, :",
+    "phone": "+ 91-11- 4909212",
+    "email": "info@davinsonsretail.com",
+    "website": "http://www.davinsonsretail.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222",
+    "email": "dsrl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "about_company": {
+    "description": "Incorporated in March 2022, Davin Sons Retail Limited manufactures and designs a wide range of high-quality readymade garments, including jeans, denim jackets, and shirts for other brands. The company has two business verticals: The company's area of operation is in the states of Haryana, Delhi, Punjab, Arunachal Pradesh, Rajasthan, Gujarat, Bihar and Chhattisgarh where customers are scattered across large area. As of December 2024, the company has 20 employees in various sectors. Competitive Strength",
+    "competitive_strengths": [
+      "Manufacturing of readymade Garments through job work basis;",
+      "Distribution of FMCG products."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Navigant Corporate Advisors Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/118/",
+      "title": "About Navigant Corporate Advisors Ltd"
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

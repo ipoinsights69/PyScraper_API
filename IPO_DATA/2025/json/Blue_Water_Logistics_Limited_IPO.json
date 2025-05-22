@@ -1,0 +1,303 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 27, 2025toMay 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹132 to ₹135 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "30,00,000shares(aggregating up to ₹40.50Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "30,00,000shares(aggregating up to ₹40.50Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "80,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,10,00,000shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,56,000sharesShreni Shares Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 50% of the Net Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not less than 35% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "Not less than 15% of the Net Isssue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 29, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.62%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.55%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "76.34",
+      "42.12",
+      "29.28",
+      "38.80"
+    ],
+    [
+      "Revenue",
+      "196.29",
+      "138.74",
+      "98.07",
+      "84.72"
+    ],
+    [
+      "Profit After Tax",
+      "10.67",
+      "5.94",
+      "1.54",
+      "1.04"
+    ],
+    [
+      "Net Worth",
+      "20.15",
+      "9.48",
+      "3.54",
+      "0.00"
+    ],
+    [
+      "Reserves and Surplus",
+      "12.15",
+      "7.48",
+      "1.54",
+      "0.00"
+    ],
+    [
+      "Total Borrowing",
+      "36.73",
+      "17.22",
+      "18.81",
+      "0.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "72.02%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "0.30"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.82"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "52.95%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.44"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "11.39"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "13.34",
+      "Post IPO": "9.70"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.12",
+      "Post IPO": "13.92"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of capital expenditure requirements by purchase of Vehicles and its body building",
+      "Expected Amount(in Millions)": "105.17"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding working capital requirements of the Company",
+      "Expected Amount(in Millions)": "200.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "12": [
+    [
+      ""
+    ]
+  ],
+  "prospectus_links": [
+    {
+      "title": "Blue Water Logistics IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/aartic_22012025193333_BWL_DRHP.pdf",
+      "text": "Blue Water Logistics IPODRHP"
+    },
+    {
+      "title": "Blue Water Logistics IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_BLUEWATER.zip",
+      "text": "Blue Water Logistics IPORHP"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Laxmi Narayan Mishra, Mr. Lalit Panda, Ms. Madhusmita Mohanty and Ms. Supriya Mishra.",
+  "company_contact_details": {
+    "company_name": "Blue Water Logistics Limited",
+    "address": "H. No. 8-2-270/B/1/2, Block-3, 4th Floor, Uptown Banjara, Road No. 3,, Banjara Hills, Phone, :, Email, :, Website, :",
+    "phone": "+91 8341101774",
+    "email": "investors@bwl.co.in",
+    "website": "https://bwl.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Private Limited",
+    "phone": "+91-11-45121795-96",
+    "email": "investor.ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in April 2010, Blue Water Logistics Ltd provides logistics and supply chain solutions. The company's primary services include freight forwarding, custom clearance and transportation handling services. The company provides comprehensive project logistics, supply chain management (SCM), and warehousing across air, sea, and land transport, focusing on tailored solutions for client needs, including cargo pick-up, customs clearance, and delivery, offering a complete suite of logistics services. The company has five branches in Chennai, Delhi, Jaipur, Visakhapatnam, and Thane. The company serves customers in confectionery, chemicals, crockery, natural stones, textiles, electronics, and fitness equipment. As of March 31, 2025, the company has 25 commercial vehicles for various transportation needs. The company provides services in Telangana, Gujarat, Maharashtra, Rajasthan, Andhra Pradesh, Tamil Nadu, Delhi, Punjab, Karnataka, Uttar Pradesh, Madhya Pradesh, Odisha, and abroad in Africa, Singapore, and the UAE. As of March 31, 2025, the Company has 83 employees in various departments. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Private Limited"
+    }
+  ],
+  "listing_gain_percent": null
+}

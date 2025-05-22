@@ -1,0 +1,364 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 24, 2025toJanuary 28, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 31, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹75 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "36,99,200shares(aggregating up to ₹27.74Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "36,99,200shares(aggregating up to ₹27.74Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,00,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,36,99,200shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,85,600sharesSpread X Securities Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "10,52,800 (28.46%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,85,600 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,02,400 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,28,000 (14.27%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,30,400 (33.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "36,99,200 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 23, 2025"
+    ],
+    [
+      "Shares Offered",
+      "10,52,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.90"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 28, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jan 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jan 28, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jan 29, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jan 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jan 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jan 31, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 28, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1600",
+      "Amount": "₹1,20,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1600",
+      "Amount": "₹1,20,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,40,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.47%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.15%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "85.99",
+      "72.15",
+      "64.08",
+      "44.34"
+    ],
+    [
+      "Revenue",
+      "45.43",
+      "117.3",
+      "101.67",
+      "62.03"
+    ],
+    [
+      "Profit After Tax",
+      "3.34",
+      "8.19",
+      "6.01",
+      "2.58"
+    ],
+    [
+      "Net Worth",
+      "35.42",
+      "32.27",
+      "24.08",
+      "18.07"
+    ],
+    [
+      "Reserves and Surplus",
+      "25.42",
+      "22.27",
+      "14.08",
+      "8.07"
+    ],
+    [
+      "Total Borrowing",
+      "7.33",
+      "12.25",
+      "6.4",
+      "0.18"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "29.06%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "33.28%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.38"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "25.37%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.99"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.32"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.19",
+      "Post IPO": "4.87"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.16",
+      "Post IPO": "15.39"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 31, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544349"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0DZD01015"
+    ],
+    [
+      "Final Issue Price",
+      "₹75 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹75.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹81.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹76.95"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹81.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹77.04"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "H.M. Electro Mech IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/375153/DRHP%20-%20HM_20240628192322.pdf",
+      "text": "H.M. Electro Mech IPODRHP"
+    },
+    {
+      "title": "H.M. Electro Mech IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/h-m-electro-mech-limited_91433.html",
+      "text": "H.M. Electro Mech IPORHP"
+    }
+  ],
+  "promoters": "The promoters of the company are Dipak Padmakant Pandya, Mahendra Ramabhai Patel, Varsha Mahendra Patel and Mita Dipak Pandya.",
+  "company_contact_details": {
+    "company_name": "H.M. Electro Mech Limited",
+    "address": "305, Ashram Avenue, B/H, Kochrab Ashram, Paldi, Ahmedabad- 380006, Phone, :, Email, :, Website, :",
+    "phone": "+91 079 40092538",
+    "email": "cs@hmelectromech.com",
+    "website": "https://www.hmelectromech.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Limited",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2003, H.M. Electro Mech Limited is an infrastructure firm specialising in turnkey projects, including supply, installation, testing, and commissioning of pumping machinery and providing comprehensive operation and maintenance services. The company's core business includes electrification projects with Indian Railways, banks, and municipal corporations. It has also started EPC projects, which include laying cross-country pipelines and civil work for water supply projects such as water treatment plants, pump houses, diesel generators, panel rooms, instrumentation, and PLC-SCADA. H.M. Electro-Mech has collaborated with other companies for the civil work portion of these EPC projects. Additionally, the company sell products such as pumps, pipes, transformers, and motors. The company's clients include State Governments, Central Governments, Municipal corporations, the banking sector and educational institutes. The company operates nationwide, handling projects in Rajasthan, Maharashtra, Madhya Pradesh, Karnataka, Punjab, and Chandigarh. As of  September 30, 2024, the Company had 37 permanent employees and 107 on contracts. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt Ltd"
+    }
+  ],
+  "listing_gain_percent": "8.0%"
+}

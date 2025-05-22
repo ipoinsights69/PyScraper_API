@@ -1,0 +1,339 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 17, 2025toMarch 19, 2025"
+    ],
+    [
+      "Listing Date",
+      "March 24, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "35,37,600shares(aggregating up to ₹31.84Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "35,37,600shares(aggregating up to ₹31.84Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "95,09,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,30,47,100shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,77,600sharesGiriraj Stock Broking Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "-"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,77,600 (5.02%)"
+    },
+    {
+      "Investor Category": "Other Shares Offered",
+      "Shares Offered": "16,80,000 (47.49%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "16,80,000 (47.49%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "35,37,601 (100%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Mar 17, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Mar 19, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Mar 20, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Mar 21, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Mar 21, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Mar 24, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMarch 19, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1600",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1600",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,88,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.74%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.70%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "28.54",
+      "28.97",
+      "23.26",
+      "19.78"
+    ],
+    [
+      "Revenue",
+      "136.03",
+      "183.41",
+      "246.45",
+      "142.4"
+    ],
+    [
+      "Profit After Tax",
+      "2.5",
+      "1.48",
+      "0.91",
+      "0.28"
+    ],
+    [
+      "Net Worth",
+      "12.3",
+      "9.8",
+      "8.32",
+      "3"
+    ],
+    [
+      "Reserves and Surplus",
+      "9.51",
+      "7.32",
+      "7.32",
+      ""
+    ],
+    [
+      "Total Borrowing",
+      "12.93",
+      "18.61",
+      "14.05",
+      "16.54"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "16.36%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "13.54%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.90"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "16.36%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "0.81"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Prepayment or repayment of all or a portion of certain loans availed by the company",
+      "Expected Amount(in Millions)": "30"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding of working capital requirements of the Company",
+      "Expected Amount(in Millions)": "190"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(in Millions)": "61.91"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "March 24, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "DIVINEHIRA"
+    ],
+    [
+      "ISIN",
+      "INE0NA501011"
+    ],
+    [
+      "Final Issue Price",
+      "₹90 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹85.50"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹85.50"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Divine Hira Jewellers IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/DivineHiraJewellersLimited_DP.pdf",
+      "text": "Divine Hira Jewellers IPODRHP"
+    },
+    {
+      "title": "Divine Hira Jewellers IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/apr-2025/divine-hira-jewellers-limited_93178.html",
+      "text": "Divine Hira Jewellers IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company, are Hirachand Pukhraj Gulecha, Niraj Hirachand Gulecha, Khushbu Niraj Gulecha and Hirachand P Gulecha (HUF).",
+  "company_contact_details": {
+    "company_name": "Divine Hira Jewellers Limited",
+    "address": "74/A, 1st Floor, Office No.2,, Opp. Hotel Bhagat Tarachand, Zaveri Bazar, Phone, :, Email, :, Website, :",
+    "phone": "+91 222 240 2662",
+    "email": "info@divinehirajewellers.com",
+    "website": "http://www.divinehirajewellers.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in July 2022 Divine Hira Jewellers Limited specializes in designing and marketing premium 22 Karat gold jewelry. The company caters to wholesalers, showrooms, and retailers with a diverse range of gold jewelry that combines traditional artistry with modern elegance. Their collection comprises various designs crafted to meet diverse preferences. Products include necklaces, mangalsutras, chains, malas, rings, pendants, bracelets, bangles, kadas, coins, and wedding jewelry. They emphasize localized design, ensuring creations resonate with regional tastes. The company is a wholesaler of gold jewellery, silver articles, bullions, and coins in Mumbai, Maharashtra. As of October 31, 2024, the company had nine employees in various departments. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Horizon Management Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/406/",
+      "title": "About Horizon Management Private Limited"
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

@@ -1,0 +1,403 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 6, 2025toJanuary 8, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 13, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "Lot Size",
+      "107 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "2,92,89,367shares(aggregating up to ₹410.05Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,50,00,000shares(aggregating up to ₹210.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "1,42,89,367shares of ₹10(aggregating up to ₹200.05Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE, BSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "18,44,91,662shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "19,94,91,662shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "87,86,809 (30%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "58,57,875 (20%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "43,93,405 (15%)",
+      "Maximum Allottees": ""
+    },
+    {
+      "Investor Category": "bNII > ₹10L",
+      "Shares Offered": "29,28,937 (10%)",
+      "Maximum Allottees": "1,955"
+    },
+    {
+      "Investor Category": "sNII < ₹10L",
+      "Shares Offered": "14,64,468 (5%)",
+      "Maximum Allottees": "977"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,02,51,278 (35%)",
+      "Maximum Allottees": "95,806"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "2,92,89,367 (100%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 3, 2025"
+    ],
+    [
+      "Shares Offered",
+      "87,86,809"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "123.02"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 7, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 8, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jan 6, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 8, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "107",
+      "Amount": "₹14,980"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1391",
+      "Amount": "₹1,94,740"
+    },
+    {
+      "Application": "S-HNI(Min)",
+      "Lots": "14",
+      "Shares": "1,498",
+      "Amount": "₹2,09,720"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "7,062",
+      "Amount": "₹9,88,680"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "7,169",
+      "Amount": "₹10,03,660"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "72.49%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "756.52",
+      "665.38",
+      "347.79",
+      "298.11"
+    ],
+    [
+      "Revenue",
+      "312.1",
+      "549.68",
+      "500.08",
+      "241.5"
+    ],
+    [
+      "Profit After Tax",
+      "36.27",
+      "60.01",
+      "53.42",
+      "25.15"
+    ],
+    [
+      "Net Worth",
+      "447.8",
+      "409.92",
+      "156.67",
+      "69.91"
+    ],
+    [
+      "Reserves and Surplus",
+      "261.58",
+      "389.18",
+      "139.94",
+      "53.66"
+    ],
+    [
+      "Total Borrowing",
+      "173.8",
+      "129.32",
+      "81.96",
+      "69.81"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "20.74%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "25.49%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.32"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "20.74%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.92"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.70"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.25",
+      "Post IPO": "3.64"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "43.04",
+      "Post IPO": "38.5"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 13, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544333"
+    ],
+    [
+      "NSE Symbol",
+      "SGLTL"
+    ],
+    [
+      "ISIN",
+      "INE0M4D01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹140 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE": "₹140.00",
+      "BSE": "₹140.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE": "₹172.00",
+      "BSE": "₹176.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE": "₹161.00",
+      "BSE": "₹161.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE": "₹182.00",
+      "BSE": "₹181.70"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE": "₹163.28",
+      "BSE": "₹163.35"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "19",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "3",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Standard Glass Lining IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2024/standard-glass-lining-technology-limited_85281.html",
+      "text": "Standard Glass Lining IPODRHP"
+    },
+    {
+      "title": "Standard Glass Lining IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/dec-2024/standard-glass-lining-technology-limited-rhp_90399.html",
+      "text": "Standard Glass Lining IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the Company are Nageswara Rao Kandula, Kandula Krishna Veni, Kandula Ramakrishna, Venkata Mohana Rao Katragadda, Kudaravalli Punna Rao and M/s S2 Engineering Services.",
+  "company_contact_details": {
+    "company_name": "Standard Glass Lining Technology Limited",
+    "address": "10th Floor, PNR High Nest,, Hydernagar, KPHB Colony, Hyderabad- 500085, Phone, :, Email, :, Website, :",
+    "phone": "+ 040 3518 2204",
+    "email": "corporate@standardglr.com",
+    "website": "https://www.standardglr.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222",
+    "email": "sgltl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "about_company": {
+    "description": "Incorporated in September 2012, Standard Glass Lining Technology Limited is a manufacturer of engineering equipment for the pharmaceutical and chemical sectors in India. The company has the capability to manage the entire production process in-house. The company provides turnkey solutions, including design, engineering, manufacturing, assembly, installation, and standard operating procedures for pharmaceutical and chemical manufacturers. The company's product product portfolio includes The company manufactures specialized engineering equipment using glass-lined materials, stainless steel, and nickel alloy. The company's customer includes Apitoria Pharma Private Limited, Aurobindo Pharma Limited, CCL Food and Beverages Private Limited, Cohance Lifesciences Limited, Cadila Pharmaceutical Limited, Deccan Fine Chemicals (India) Private Limited, Dasami Lab Private Limited, Laurus Labs Limited, Granules India Limited, Macleods Pharmaceuticals Limited, MSN Laboratories Private Limited, Natco Pharma Limited, Honour Lab Limited, Hetero Drugs Limited, Hetero Labs Limited, Hazelo Lab Private Limited, Piramal Pharma Limited, Sanvira Biosciences Private Limited, Suven Pharmaceuticals Limited, Tagros Chemicals India Private Limited, Vamsi Labs Limited and Viyash Life Sciences Private Limited. The company has eight manufacturing units situated in Hyderabad, Telangana. The company's sales offices are situated in Vadodara, Gujarat, Ankleshwar, Gujarat, Mumbai, Maharashtra and Vishakhapatnam, Andhra Pradesh and sales team members are in Jhagadia, Gujarat, Chennai, Tamil Nadu, New Delhi, Bengaluru, Karnataka and Vijayawada, Andhra Pradesh with pan-India reach. As of September 30, 2024, the company had 460 full-time employees and 731 contract labourers. Competitive Strength",
+    "competitive_strengths": [
+      "Specialised engineering equipment manufacturers for the pharmaceutical and chemical sectors.",
+      "Customized and innovative range of products throughout the entire pharmaceutical and chemical manufacturing value chain.",
+      "Strategically located manufacturing facilities with advanced technological capabilities.",
+      "Long term relationships with marquee clientele across sectors.",
+      "Consistent track record of profitable growth."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Iifl Securities Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About Iifl Securities Ltd"
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Limited"
+    }
+  ],
+  "listing_gain_percent": "22.86%"
+}

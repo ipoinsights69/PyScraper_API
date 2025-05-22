@@ -1,0 +1,444 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 10, 2025toFebruary 12, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 17, 2025"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹629 per share"
+    ],
+    [
+      "Lot Size",
+      "23 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "2,01,80,446shares(aggregating up to ₹1,269.35Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "2,01,80,446shares of ₹1(aggregating up to ₹1,269.35Cr)"
+    ],
+    [
+      "Employee Discount",
+      "59.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "11,44,06,800shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "11,44,06,800shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "60,30,449 (29.88%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "40,20,300 (19.92%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "30,15,225 (14.94%)",
+      "Maximum Allottees": ""
+    },
+    {
+      "Investor Category": "bNII > ₹10L",
+      "Shares Offered": "20,10,150 (9.96%)",
+      "Maximum Allottees": "6,242"
+    },
+    {
+      "Investor Category": "sNII < ₹10L",
+      "Shares Offered": "10,05,075 (4.98%)",
+      "Maximum Allottees": "3,121"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "70,35,525 (34.86%)",
+      "Maximum Allottees": "3,05,892"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "78,947 (0.39%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "2,01,80,446 (100%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 7, 2025"
+    ],
+    [
+      "Shares Offered",
+      "60,30,449"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "379.32"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "March 14, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 13, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Feb 10, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Feb 12, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Feb 13, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Feb 17, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 12, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "23",
+      "Amount": "₹14,467"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "299",
+      "Amount": "₹1,88,071"
+    },
+    {
+      "Application": "S-HNI(Min)",
+      "Lots": "14",
+      "Shares": "322",
+      "Amount": "₹2,02,538"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "69",
+      "Shares": "1,587",
+      "Amount": "₹9,98,223"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "70",
+      "Shares": "1,610",
+      "Amount": "₹10,12,690"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "93.50%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "80.00%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "1,348.76",
+      "1,236.14",
+      "966.73",
+      "735.31"
+    ],
+    [
+      "Revenue",
+      "794.16",
+      "1,780.07",
+      "1,172.57",
+      "771.85"
+    ],
+    [
+      "Profit After Tax",
+      "101.02",
+      "225.15",
+      "135.9",
+      "66.21"
+    ],
+    [
+      "Net Worth",
+      "995.84",
+      "917.96",
+      "713.8",
+      "578.27"
+    ],
+    [
+      "Reserves and Surplus",
+      "984.4",
+      "906.52",
+      "702.36",
+      "575.41"
+    ],
+    [
+      "Total Borrowing",
+      "",
+      "6.23",
+      "10.14",
+      "7.16"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "24.53%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "32.82%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.01"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "19.39%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "12.65"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.84"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "19.68",
+      "Post IPO": "17.66"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "31.96",
+      "Post IPO": "35.62"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 17, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544356"
+    ],
+    [
+      "NSE Symbol",
+      "AJAXENGG"
+    ],
+    [
+      "ISIN",
+      "INE274Y01021"
+    ],
+    [
+      "Final Issue Price",
+      "₹629 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹629.00",
+      "NSE": "₹629.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹593.00",
+      "NSE": "₹576.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹565.00",
+      "NSE": "₹566.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹608.45",
+      "NSE": "₹609.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹595.60",
+      "NSE": "₹595.40"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "8",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Ajax Engineering IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/ajax-engineering-limited_87319.html",
+      "text": "Ajax Engineering IPODRHP"
+    },
+    {
+      "title": "Ajax Engineering IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/ajax-engineering-limited-prospectus_91946.html",
+      "text": "Ajax Engineering IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company are Krishnaswamy Vijay, Jacob Jiten John, Kalyani Vijay, Madhuri Vijay, Prashanth Vijay, Rachel Rekha Hansen, Savitha Christeena Alexander, Sean Alexander, Green Haven Trust, Ohana Trust, Jacob Hansen Family Trust and The Johns Loaves Trust.",
+  "company_contact_details": {
+    "company_name": "Ajax Engineering Limited",
+    "address": "253/1, 11th Main Road, 3 rd Phase, Peenya Industrial Area, Bengaluru 560058, Phone, :, Email, :, Website, :",
+    "phone": "+91 82 96336111",
+    "email": "complianceofficer@ajax-engg.com",
+    "website": "https://www.ajax-engg.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "ajaxengineering.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in July 1992, Ajax Engineering Limited manufactures a wide range of concrete equipment and services across the value chain. As of September 30, 2024, The company has developed 141 concrete equipment variants for the value chain and sold over 29,800 units in India in the last ten years. As of September 30, 2024, the design, engineering, and development team has 79 full-time employees, about 15.96% of the total workforce. As of September 30, 2024, Ajax Engineering Limited has four facilities in Karnataka, located at Obadenahalli, Gowribidanur, and Bashettihalli, each specializing in different products, especially the Obadenahalli facility. As of September 30, 2024, The company has 51 dealerships across 23 states in India, providing 114 touchpoints, including 51 headquarters and 63 branches, 34 of which also serve as service centers. As of September 30, 2024, the company has established 25 dealers and distributors across South and Southeast Asia, the Middle East, and Africa. As of September 30, 2024, the company has sold concrete equipment and spare parts to over 15,700 customers. Product Portfolio: As of September 30, 2024, the service team included 85 employees, such as coordinators, managers, specialists, and customer service executives supporting our dealer network. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "ICICI Securities Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Limited"
+    },
+    {
+      "name": "Citigroup Global Markets India Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/23/",
+      "title": "About Citigroup Global Markets India Private Limited"
+    },
+    {
+      "name": "Jm Financial Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About Jm Financial Limited"
+    },
+    {
+      "name": "Nuvama Wealth Management Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/408/",
+      "title": "About Nuvama Wealth Management Limited"
+    },
+    {
+      "name": "SBI Capital Markets Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/21/",
+      "title": "About SBI Capital Markets Limited"
+    }
+  ],
+  "listing_gain_percent": "-8.43%"
+}

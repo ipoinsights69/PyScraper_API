@@ -1,0 +1,361 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 23, 2025toJanuary 27, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 30, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹250 per share"
+    ],
+    [
+      "Lot Size",
+      "600 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "28,92,000shares(aggregating up to ₹72.30Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "28,92,000shares(aggregating up to ₹72.30Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "76,61,250shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,05,53,250shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,56,000sharesAryaman Capital Markets Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "8,20,800 (28.38%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,56,000 (5.39%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "5,47,200 (18.92%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,10,400 (14.19%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,57,600 (33.11%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "28,92,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 22, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,20,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "20.52"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 27, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 28, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jan 23, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jan 27, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jan 28, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jan 29, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jan 29, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jan 30, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 27, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "600",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "600",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "1,200",
+      "Amount": "₹3,00,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.54%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "119.73",
+      "113.27",
+      "109.62",
+      "62.05"
+    ],
+    [
+      "Revenue",
+      "75.84",
+      "132.86",
+      "128.88",
+      "121.7"
+    ],
+    [
+      "Profit After Tax",
+      "4.64",
+      "9.79",
+      "0.73",
+      "3.64"
+    ],
+    [
+      "Net Worth",
+      "18.01",
+      "13.37",
+      "3.58",
+      "2.86"
+    ],
+    [
+      "Reserves and Surplus",
+      "10.35",
+      "9.97",
+      "2.45",
+      "1.72"
+    ],
+    [
+      "Total Borrowing",
+      "6.78",
+      "",
+      "",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "115%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "91.55%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "73.19%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "7.38"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "12.78",
+      "Post IPO": "9.28"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "19.57",
+      "Post IPO": "26.95"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 30, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544347"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0WDX01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹250 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹250.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹256.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹252.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹268.80"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹254.15"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "CLN Energy IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/343256/DRHP_CLN_20240731202804.pdf",
+      "text": "CLN Energy IPODRHP"
+    },
+    {
+      "title": "CLN Energy IPO Addendum DRHP",
+      "href": "https://www.bsesme.com/download/343256/Addendum_and_DRHP_CLN_20241119171830.pdf",
+      "text": "CLN Energy IPOAddendum DRHP"
+    },
+    {
+      "title": "CLN Energy IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/cln-energy-limited_91991.html",
+      "text": "CLN Energy IPORHP"
+    }
+  ],
+  "promoters": "The promoters of the company are CLN Energy Pte. Ltd. and Rajiv Seth.",
+  "company_contact_details": {
+    "company_name": "CLN Energy Limited",
+    "address": "Plot-18, Sector-140,, Phase-2, Nepz Post Office, Gautam Buddha Nagar, Dadri, 201305, Phone, :, Email, :, Website, :",
+    "phone": "+91 75799 06940",
+    "email": "info@clnenergy.in",
+    "website": "https://www.clnenergy.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2019, CLN Energy Limited manufactures customized lithium-ion batteries and motors, and it deals in powertrain components for electric vehicles, including controllers, throttles, DC-DC converters, displays, and differentials. The company offers B2B solutions for electric vehicles and stationary applications like solar, energy storage systems (ESS), and telecommunications. The company manufactures a range of components for electric vehicles, including motors, controllers, battery management systems (BMS), throttle bodies, and DC-DC converters. The company sells Lithium-ion Battery Packs, motors and powertrain components under the “CLN Energy” brand The company has two manufacturing facilities, one in Noida and the second one in Pune, Maharashtra. The manufacturing facilities are ISO certified has QMS 9001:2015, EMS 14001:2015 & OHSAS 45001:2018 certifications. As of September 30, 2024, the company had 155 permanent employees and 286 employees on a contract basis. Competitive Strengths",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Aryaman Financial Services Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/77/",
+      "title": "About Aryaman Financial Services Limited"
+    }
+  ],
+  "listing_gain_percent": "2.4%"
+}

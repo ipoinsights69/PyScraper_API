@@ -1,0 +1,330 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 21, 2025toMay 23, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹60 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "42,76,000shares(aggregating up to ₹25.66Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "42,76,000shares(aggregating up to ₹25.66Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,00,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,42,76,000shares"
+    ],
+    [
+      "Market Maker Portion",
+      "2,16,000sharesSmc Global Securities Ltd."
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "12,16,000 (28.44%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,16,000 (5.05%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "8,12,000 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,10,000 (14.27%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "14,22,000 (33.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "42,76,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 20, 2025"
+    ],
+    [
+      "Shares Offered",
+      "12,16,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.30"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "June 25, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 24, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, May 21, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, May 23, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, May 26, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 23, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,20,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,20,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,40,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "98.47%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "221.60",
+      "235.82",
+      "187.27"
+    ],
+    [
+      "Revenue",
+      "31.03",
+      "33.01",
+      "25.57"
+    ],
+    [
+      "Profit After Tax",
+      "4.92",
+      "3.97",
+      "2.93"
+    ],
+    [
+      "Net Worth",
+      "69.67",
+      "65.25",
+      "61.78"
+    ],
+    [
+      "Reserves and Surplus",
+      "60.52",
+      "56.10",
+      "52.63"
+    ],
+    [
+      "Total Borrowing",
+      "145.89",
+      "165.58",
+      "120.45"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "6.17%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "9.22%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.51"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "6.08%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "12.38"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "0.92"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.97",
+      "Post IPO": "4.59"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "15.12",
+      "Post IPO": "13.06"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Augment the capital base of the Company",
+      "Expected Amount(in Millions)": "220.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Millions)": ""
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Dar Credit and Capital IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_5037_27022025220917.zip",
+      "text": "Dar Credit and Capital IPODRHP"
+    },
+    {
+      "title": "Dar Credit and Capital IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_DCCL.zip",
+      "text": "Dar Credit and Capital IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company are Mr. Ramesh Kumar Vijay, Mr. Rajkumar Vijay and Mrs. Rakshita Vijay.",
+  "company_contact_details": {
+    "company_name": "Dar Credit and Capital Limited",
+    "address": "Business Tower, 206, AJC Bose Road, 6 th Floor, Unit No. 6B,, Phone, :, Email, :, Website, :",
+    "phone": "+91 9883847875",
+    "email": "co.secretary@darcredit.com",
+    "website": "https://www.darcredit.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222",
+    "email": "dccl.ipo@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "about_company": {
+    "description": "Incorporated in 1994, Dar Credit and Capital Limited is a Non-Banking Finance Company (NBFC) offering three primary types of financial products: (i) Personal Loans, (ii) Unsecured MSME Loans, and (iii) Secured MSME Loans. The company offers credit solutions to low-income individuals, especially those in class-four employment roles like cleaners and peons in municipalities. Additionally, DCCL extends credit to small-scale shopkeepers and vendors, strongly focusing on empowering women entrepreneurs. As of December 31, the company had 24,608 Active Customers, who are served by our 27 branches and Camps across 64 districts in 6 states in India. The company's loan portfolio was moderately diversified, comprising 44.46% personal loans to individuals, 40.12% micro loans, 2.65% unsecured SME loans, and 12.76% secured MSME loans. Services: As of December 31, 2024, the company had 224 employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Private Limited"
+    }
+  ],
+  "listing_gain_percent": null
+}

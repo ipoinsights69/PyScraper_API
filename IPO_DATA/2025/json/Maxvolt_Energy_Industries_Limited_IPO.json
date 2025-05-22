@@ -1,0 +1,368 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 12, 2025toFebruary 14, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 19, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹180 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "30,00,000shares(aggregating up to ₹54.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "24,00,000shares(aggregating up to ₹43.20Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "6,00,000shares of ₹10(aggregating up to ₹10.80Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "85,03,928shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,09,03,928shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,52,000sharesRikhav Securities Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "8,51,200 (28.37%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,52,000 (5.07%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "5,68,800 (18.96%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,28,000 (14.27%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,00,000 (33.33%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "30,00,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 11, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,51,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "15.32"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "March 19, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 18, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Feb 12, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Feb 17, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Feb 19, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 14, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,88,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "57.25%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "39.14%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "53.77",
+      "31.51",
+      "10.25",
+      "3.61"
+    ],
+    [
+      "Revenue",
+      "41.09",
+      "48.79",
+      "13.92",
+      "6.18"
+    ],
+    [
+      "Profit After Tax",
+      "4.77",
+      "5.21",
+      "0.28",
+      "0.01"
+    ],
+    [
+      "Net Worth",
+      "23.94",
+      "11.55",
+      "0.64",
+      "0.37"
+    ],
+    [
+      "Reserves and Surplus",
+      "15.44",
+      "3.79",
+      "0.32",
+      "0.05"
+    ],
+    [
+      "Total Borrowing",
+      "4.97",
+      "5.89",
+      "2.92",
+      "2.33"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "85.41%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "39.46%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.51"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "45.09%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.77"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "11.48"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.12",
+      "Post IPO": "8.75"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "29.39",
+      "Post IPO": "20.57"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 19, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "MAXVOLT"
+    ],
+    [
+      "ISIN",
+      "INE10A501018"
+    ],
+    [
+      "Final Issue Price",
+      "₹180 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹180.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹180.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹171.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹182.05"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹180.90"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Maxvolt Energy IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_4992_04022025191852.zip",
+      "text": "Maxvolt Energy IPODRHP"
+    },
+    {
+      "title": "Maxvolt Energy IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/maxvolt-energy-industries-limited_91989.html",
+      "text": "Maxvolt Energy IPORHP"
+    }
+  ],
+  "promoters": "Mr. Bhuvneshwar Pal Singh, Mr. Vishal Gupta, and Mr. Sachin Gupta are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Maxvolt Energy Industries Limited",
+    "address": "F-108, Plot No. 1 F/F United Plaza,, Community Centre, Karkardooma,, East Delhi, Phone, :, Email, :, Website, :",
+    "phone": "91 98188 89835",
+    "email": "bhuvneshwar@maxvoltenergy.com",
+    "website": "http://www.maxvoltenergy.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2019, Maxvolt Energy Industries Limited is engaged in the business of manufacturing of lithium-ion batteries. The company manufactures lithium-ion batteries for electric vehicles, energy storage, and electronics, sold through dealers, distributors, and OEMs under the \"MaxVolt Energy\" brand. The company manufactures customized battery packs, supplies Graphene battery packs, and chargers under its own brand name. As of September 30, 2024, the company has service centers in five states, providing support to dealers and distributors for battery issues. The company’s manufacturing facility has advanced machinery, safety measures, and testing labs. It ensures quality control from raw material procurement to final product testing, packaging, and dispatch. Business Model: Products: As on September 30, 2024, the company has employed 97 personnel. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Private Limited"
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

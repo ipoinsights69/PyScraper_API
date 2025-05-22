@@ -1,0 +1,369 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 2, 2025toJanuary 6, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 9, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹61 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "40,56,000shares(aggregating up to ₹24.74Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "40,56,000shares(aggregating up to ₹24.74Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,12,50,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,53,06,000shares"
+    ],
+    [
+      "Market Maker Portion",
+      "2,06,000sharesSpread X Securities Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "11,54,000 (28.45%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,06,000 (5.08%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,70,000 (18.98%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,78,000 (14.25%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "13,48,000 (33.23%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "40,56,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 1, 2025"
+    ],
+    [
+      "Shares Offered",
+      "11,54,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.04"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 5, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 6, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jan 2, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jan 6, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 6, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,22,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2000",
+      "Amount": "₹1,22,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,44,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.33%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.81%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Oct 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "6,732.67",
+      "7,010.27",
+      "5,412.42",
+      "4,112.89"
+    ],
+    [
+      "Revenue",
+      "75,730.83",
+      "1,10,246.35",
+      "97,270.61",
+      "90,227.47"
+    ],
+    [
+      "Profit After Tax",
+      "570.29",
+      "721.93",
+      "889.53",
+      "685.16"
+    ],
+    [
+      "Net Worth",
+      "4,291.13",
+      "3,720.83",
+      "2,998.9",
+      "2,109.37"
+    ],
+    [
+      "Reserves and Surplus",
+      "3,166.13",
+      "2,970.83",
+      "2,248.9",
+      "1,359.37"
+    ],
+    [
+      "Total Borrowing",
+      "1,468.99",
+      "2,188.86",
+      "1,660.02",
+      "1,383.71"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "21.49%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17.51%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.59"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "19.40%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "0.66"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.84"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.42",
+      "Post IPO": "6.39"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.51",
+      "Post IPO": "9.55"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 9, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544330"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0QQJ01021"
+    ],
+    [
+      "Final Issue Price",
+      "₹61 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹61.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹84.50"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹81.05"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹88.72"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹88.72"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Parmeshwar Metal IPO DRHP",
+      "href": "https://www.bsesme.com/download/363659/Parmeshwar_Metal_DRHP_20240630175532.pdf",
+      "text": "Parmeshwar Metal IPODRHP"
+    },
+    {
+      "title": "Parmeshwar Metal IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/parmeshwar-metal-limited_90420.html",
+      "text": "Parmeshwar Metal IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company are Mr Shantilal Kailashchandra Shah, Mr Suchitkumar Maheshbhai Patel, Mr Piyush Giriraj Shah, Mr Radheshayam Jankilal Shah, Mr Parth Maheshbhai Patel, Mr Pratik Radheshyam Shah and Mrs Kailashben Radheshyam Shah.",
+  "company_contact_details": {
+    "company_name": "Parmeshwar Metal Limited",
+    "address": "Office at Survey No. 130 P & 131, State Highway No. 69 Sampa Lavad Road, Village Suja Na Muvada, Post-Sampa, Dehgam, Phone, :, Email, :, Website, :",
+    "phone": "+91 6357076561",
+    "email": "cs@parmeshwarmetal.com",
+    "website": "https://www.parmeshwarmetal.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "parmeshwar.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in August 2016, Parmeshwar Metal Limited manufactures copper wire and rods by recycling copper scrap. The company's manufacturing unit is situated in Dehgam, Gujarat. The company is an ISO 9001:2015 certified business offering a product portfolio of 1.6 mm, 8 mm, and 12.5 mm copper wire rods, each tailored to meet customer specifications. The company's products are used in various industries such as power cables, building wires, transformers, the automotive industry, household cables as well as bare and enamelled wires. As of December 31, 2023 the company employees a total 89 Employees. Competitive Strength",
+    "competitive_strengths": [
+      "Experienced Promoter and Management Team",
+      "Strong relationship with customers",
+      "Customized Product Offering",
+      "Strong and diversified supplier base for sourcing raw materials"
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt Ltd"
+    }
+  ],
+  "listing_gain_percent": "38.52%"
+}

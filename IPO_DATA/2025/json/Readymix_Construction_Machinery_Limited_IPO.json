@@ -1,0 +1,364 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 6, 2025toFebruary 10, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 13, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹123 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "30,62,000shares(aggregating up to ₹37.66Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "30,62,000shares(aggregating up to ₹37.66Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "78,96,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,09,58,500shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,54,000sharesHem Finlease Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "8,71,000 (28.45%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,54,000 (5.03%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "5,82,000 (19.01%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,37,000 (14.27%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,18,000 (33.25%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "30,62,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 5, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,71,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "10.71"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "March 13, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 12, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Feb 6, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Feb 10, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Feb 11, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Feb 12, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Feb 12, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Feb 13, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 10, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,23,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,23,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,46,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.06%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "52.43",
+      "38.97",
+      "32.16",
+      "30.16"
+    ],
+    [
+      "Revenue",
+      "35.5",
+      "69.84",
+      "55.01",
+      "47.83"
+    ],
+    [
+      "Profit After Tax",
+      "1.04",
+      "9.28",
+      "2.78",
+      "1.33"
+    ],
+    [
+      "Net Worth",
+      "19.8",
+      "18.75",
+      "9.43",
+      "6.63"
+    ],
+    [
+      "Reserves and Surplus",
+      "11.9",
+      "18.29",
+      "8.96",
+      "6.17"
+    ],
+    [
+      "Total Borrowing",
+      "16.68",
+      "7.9",
+      "7.6",
+      "4.68"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "65.90%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "48.96%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.42"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "49.51%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "13.30"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.18"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.76",
+      "Post IPO": "1.27"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.46",
+      "Post IPO": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 13, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "READYMIX"
+    ],
+    [
+      "ISIN",
+      "INE10QL01011"
+    ],
+    [
+      "Final Issue Price",
+      "₹123 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹123.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹123.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹116.85"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹123.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹116.85"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Readymix Construction IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_17092024211851_ReadymixConstructionMachineryLimited.pdf",
+      "text": "Readymix Construction IPODRHP"
+    },
+    {
+      "title": "Readymix Construction IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/readymix-construction-machinery-limited_91508.html",
+      "text": "Readymix Construction IPORHP"
+    }
+  ],
+  "promoters": "Anand Suresh Watve, Atul Jagannath Kulkarni, Prashant Balasaheb and Shubhangi Rohit Deo are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Readymix Construction Machinery Limited",
+    "address": "Office No. 401, 3rd and 4th Floor, Plot No. 209,, Survey No. 96/2B, Paud Road, Right Bhusari Colony,, Kothrud, Phone, :, Email, :, Website, :",
+    "phone": "+91-20-25289212",
+    "email": "cs@rcmpl.co.in",
+    "website": "http://www.rcmpl.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2012, Readymix Construction Machinery Limited is a multidisciplinary manufacturer and supplier in the construction equipment sector. The company offers engineering solutions for designing, developing, fabricating, and installing plant machinery and equipment, including Dry Mix Mortar Plants, concrete plant support, silos, and customized projects. The company provides end-to-end turnkey solutions, including conceptualization, development, fabrication, testing, installation, and after-sales services such as repair and maintenance for plant machinery and equipment. The company offers business consultancy services, including design, engineering, technology solutions, equipment installation support, and recipe consultancy to optimize performance, reduce costs, and enhance efficiency. Product Portfolio:The product portfolio comprises of various plant & machineries. As of December 31, 2024, the Company has 114 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Limited"
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

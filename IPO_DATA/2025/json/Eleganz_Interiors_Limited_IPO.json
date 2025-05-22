@@ -1,0 +1,360 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 7, 2025toFebruary 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹130 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "60,05,000shares(aggregating up to ₹78.07Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "60,05,000shares(aggregating up to ₹78.07Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,65,94,626shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,25,99,626shares"
+    ],
+    [
+      "Market Maker Portion",
+      "3,01,000sharesRikhav Securities Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "17,10,000 (28.48%)"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,01,000 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "11,41,000 (19%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,56,000 (14.25%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,97,000 (33.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "60,05,000 (100%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,10,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "22.23"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "March 14, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 13, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Feb 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Feb 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Feb 12, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Feb 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Feb 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 11, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,30,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1000",
+      "Amount": "₹1,30,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,60,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "93.94%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "233.99",
+      "172.12",
+      "116.19",
+      "103.03"
+    ],
+    [
+      "Revenue",
+      "192.4",
+      "223.09",
+      "191.17",
+      "155.34"
+    ],
+    [
+      "Profit After Tax",
+      "9.53",
+      "12.21",
+      "10.31",
+      "5.09"
+    ],
+    [
+      "Net Worth",
+      "70.9",
+      "51.37",
+      "39.16",
+      "28.85"
+    ],
+    [
+      "Reserves and Surplus",
+      "54.31",
+      "36.01",
+      "38.2",
+      "27.89"
+    ],
+    [
+      "Total Borrowing",
+      "31.7",
+      "42.8",
+      "28.23",
+      "22.62"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "26.96%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "24.23%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.83"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "26.96%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.52"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.36",
+      "Post IPO": "8.44"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "17.67",
+      "Post IPO": "15.41"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "ELGNZ"
+    ],
+    [
+      "ISIN",
+      "INE0R9101015"
+    ],
+    [
+      "Final Issue Price",
+      "₹130 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹130.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹122.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹115.90"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹122.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹116.05"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Eleganz Interiors IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_19102024021232_DRHPELEGANZINTERIORSLIMITED.pdf",
+      "text": "Eleganz Interiors IPODRHP"
+    },
+    {
+      "title": "Eleganz Interiors IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/EleganzInteriorsLimited_RHP.pdf",
+      "text": "Eleganz Interiors IPORHP"
+    }
+  ],
+  "promoters": "Sameer Akshay Pakvasa is the promoter of the company.",
+  "company_contact_details": {
+    "company_name": "Eleganz Interiors Limited",
+    "address": "Gala Nos. 1 – 7, Ground Floor, Sarita ‘B’,, Prabhat Industrial Estate, Western Express Highway, Dahisar (E), Phone, :, Email, :, Website, :",
+    "phone": "+91-22-28960081",
+    "email": "cs@eleganz.co.in",
+    "website": "http://www.eleganz.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt Ltd",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1996, Eleganz Interiors Limited is engaged in the business of Interior solutions to Corporate, laboratories, airport lounge etc. The company specializes in providing fit-out solutions for corporate and commercial spaces, including corporate offices, research and development facilities, laboratories, airport lounges, flexible workspaces, and commercial retail spaces. The company bids for domestic tenders issued by large domestic and multinational corporations, project management consultants, and international property consultants for design and build (D&B) and general contracting (GC) services. The company employs a team of qualified engineers, architects, designers, and project management professionals, supported by third-party consultants to ensure timely project completion, compliance, and quality standards. Business Segment: Design & Build services:The company offers end-to-end design and build services, including design, shop drawings, resource planning, execution, and post-project support. General Contracting (“GC”) services: The company’s GC services include civil, mechanical, electrical work, and final refinements such as installation, finishes, inspection, and touch-ups. The company has completed over 200 projects, totaling more than 45 lakh Sq Ft of development. As of December 31, 2024, the order book includes 47 ongoing projects across 12 cities. As on December 30, 2024, the Company had 63 permanent employees and had engaged 380 persons on retainership basis. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Vivro Financial Services Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/62/",
+      "title": "About Vivro Financial Services Private Limited"
+    }
+  ],
+  "listing_gain_percent": "-6.15%"
+}

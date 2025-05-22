@@ -1,0 +1,287 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 7, 2025toJanuary 9, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 17, 2025"
+    ],
+    [
+      "Face Value",
+      "₹99per share"
+    ],
+    [
+      "Issue Price",
+      "₹99 per share"
+    ],
+    [
+      "Lot Size",
+      "150 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "15,78,00,000shares(aggregating up to ₹1,578.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "10,77,00,000shares(aggregating up to ₹1,077.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "5,01,00,000shares of ₹99(aggregating up to ₹501.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingInvIT"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 75% of the Offer"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "Not less than 25% of the Offer"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "7,10,10,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "710.10"
+    ],
+    [
+      "Anchor lock-in period end date for 50% shares (30 Days)",
+      "February 12, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 13, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jan 14, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jan 16, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jan 16, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jan 17, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 9, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "150",
+      "Amount": "₹15,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1950",
+      "Amount": "₹1,95,000"
+    },
+    {
+      "Application": "S-HNI(Min)",
+      "Lots": "14",
+      "Shares": "2,100",
+      "Amount": "₹2,10,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "9,900",
+      "Amount": "₹9,90,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "10,050",
+      "Amount": "₹10,05,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "4,905.26",
+      "4,724.07",
+      "4,283.33",
+      "2,502.8"
+    ],
+    [
+      "Revenue",
+      "792.27",
+      "1,543.51",
+      "2,518.92",
+      "1,981.42"
+    ],
+    [
+      "Profit After Tax",
+      "115.43",
+      "125.77",
+      "497.19",
+      "125.56"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 17, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544338"
+    ],
+    [
+      "NSE Symbol",
+      "CAPINVIT"
+    ],
+    [
+      "ISIN",
+      "INE0Z8Z23013"
+    ],
+    [
+      "Final Issue Price",
+      "₹99 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹99.00",
+      "NSE": "₹99.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹99.00",
+      "NSE": "₹99.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹98.57",
+      "NSE": "₹98.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹99.49",
+      "NSE": "₹99.20"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹99.01",
+      "NSE": "₹99.02"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "3",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Capital Infra Trust Invit RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_CAPINVIT.zip",
+      "text": "Capital Infra Trust InvitRHP"
+    }
+  ],
+  "company_contact_details": {
+    "company_name": "Capital Infra Trust",
+    "address": "Unit No. 1401-1403, 14th Floor,, Tower B, SAS Tower,, Medicity, Sector-38, Phone, :, Email, :, Website, :",
+    "phone": "+0124 4920139",
+    "email": "compliance@capitalinfratrust.com",
+    "website": "https://www.capitalinfratrust.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Limited",
+    "phone": "04067162222",
+    "email": "nationalinfra.units@kfintech.com",
+    "website": "https://kosmic.kfintech.com/ipostatus/"
+  },
+  "about_company": {
+    "description": "Established in September 2023, Capital Infra Trust is an infrastructure investment trust sponsored by Gawar Construction Limited. The InvIT was established to engage in activities and make investments as an infrastructure investment trust, as allowed under the SEBI InvIT Regulations. The sponsoring company specializes in constructing road and highway projects across 19 states in India for various government bodies, including the NHAI, MoRTH, MMRDA, and CPWD. As of December 2024, the sponsor company's portfolio of 26 road projects on a hybrid annuity mode (“HAM”)with NHAI, of which 11 are completed projects, including the five acquired assets which Sadbhav Infrastructure Project Limited erstwhile owned, and 15 under-construction projects.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "SBI Capital Markets Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/21/",
+      "title": "About SBI Capital Markets Limited"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/82/",
+      "title": "About Hdfc Bank Limited"
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

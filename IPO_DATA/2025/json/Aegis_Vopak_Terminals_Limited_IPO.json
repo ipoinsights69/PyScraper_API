@@ -1,0 +1,314 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 26, 2025toMay 28, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹223 to ₹235 per share"
+    ],
+    [
+      "Lot Size",
+      "63 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "11,91,48,936shares(aggregating up to ₹2,800.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "11,91,48,936shares(aggregating up to ₹2,800.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "98,88,42,553shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,10,79,91,489shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not less than 75% of the Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not more than 10% of the Issue"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "Not more than 15% of the Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, May 26, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 28, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "63",
+      "Amount": "₹14,805"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "819",
+      "Amount": "₹1,92,465"
+    },
+    {
+      "Application": "S-HNI(Min)",
+      "Lots": "14",
+      "Shares": "882",
+      "Amount": "₹2,07,270"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "4,221",
+      "Amount": "₹9,91,935"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "4,284",
+      "Amount": "₹10,06,740"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.41%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "85.93%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "5,855.60",
+      "4,523.40",
+      "3,481.48",
+      "102.56"
+    ],
+    [
+      "Revenue",
+      "476.15",
+      "570.12",
+      "355.99",
+      "0.00"
+    ],
+    [
+      "Profit After Tax",
+      "85.89",
+      "86.54",
+      "-0.08",
+      "-1.09"
+    ],
+    [
+      "Net Worth",
+      "2,037.61",
+      "1,151.94",
+      "1,098.20",
+      "-0.53"
+    ],
+    [
+      "Reserves and Surplus",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    [
+      "Total Borrowing",
+      "2,485.75",
+      "2,586.42",
+      "1,745.17",
+      "98.10"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "8.68%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "8.39%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.59"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "7.51%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "15.18"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "17.71"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "0.88",
+      "Post IPO": "0.91"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "268.51",
+      "Post IPO": "259.32"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Aegis Vopak Terminals IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/nov-2024/aegis-vopak-terminals-limited_88746.html",
+      "text": "Aegis Vopak Terminals IPODRHP"
+    },
+    {
+      "title": "Aegis Vopak Terminals IPO RHP",
+      "href": "https://www.icicisecurities.com/Upload/ArticleAttachments/Aegis%20Vopak%20-%20Red%20Herring%20Prospectus.pdf",
+      "text": "Aegis Vopak Terminals IPORHP"
+    }
+  ],
+  "promoters": "Aegis Logistics Limited, Huron Holdings Limited, Trans Asia Petroleum INC, Asia Infrastructure Investment Limited, Vopak India B.V., and Koninklijke Vopak N.V. are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Aegis Vopak Terminals Limited",
+    "address": "502, Skylon, G.I.D.C,, Char Rasta, Vapi, Valsad,, 396195, Gujarat, India, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 4193 6666",
+    "email": "secretarial@aegisindia.com",
+    "website": "http://www.aegisvopak.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Link Intime India Private Ltd",
+    "phone": "+91-22-4918 6270",
+    "email": "aegisvopak.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2013, Aegis Vopak Terminals Limited (AVTL) is a company that owns and operates storage terminals for liquefied petroleum gas (LPG) and various liquid products. The company provides safe storage and related infrastructure for products like petroleum, vegetable oils, lubricants, chemicals, and gases such as propane and butane. As of June 30, 2024, AVTL manages a total storage capacity of around 1.50 million cubic meters for liquid products and 70,800 metric tons (MT) for LPG. AVTL runs its business through two main divisions: The company operates two LPG storage terminals and 16 liquid storage terminals located across five major ports in India. These terminals handle coastal shipping, imports, and exports. The terminals are located in the ports of Haldia, West Bengal (“Haldia Terminal”), Kochi, Kerala (“Kochi Terminal”), Mangalore, Karnataka (“Mangalore Terminal”), Pipavav, Gujarat (“Pipavav Terminal”), and Kandla, Gujarat (“Kandla Terminal”) have an aggregate storage capacity of approximately 1.50 million cubic meters for liquid products and 70,800 MT of static capacity for LPG. As of March 31, 2022, 2023 and 2024 and June 30, 2023 and 2024 we had 24, 316, 396, 366, and 392 full-time employees, respectively.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "ICICI Securities Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Limited"
+    },
+    {
+      "name": "Bnp Paribas",
+      "profile_link": "/report/ipo-lead-manager-review/112/137/",
+      "title": "About Bnp Paribas"
+    },
+    {
+      "name": "Iifl Securities Ltd",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About Iifl Securities Ltd"
+    },
+    {
+      "name": "Jefferies India Private Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/112/",
+      "title": "About Jefferies India Private Limited"
+    },
+    {
+      "name": "Hdfc Bank Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/82/",
+      "title": "About Hdfc Bank Limited"
+    }
+  ],
+  "listing_gain_percent": null
+}

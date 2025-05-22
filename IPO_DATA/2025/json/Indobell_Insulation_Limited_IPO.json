@@ -1,0 +1,338 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 6, 2025toJanuary 8, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 13, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹46 per share"
+    ],
+    [
+      "Lot Size",
+      "3,000 Shares"
+    ],
+    [
+      "Total Issue Size",
+      "22,05,000shares(aggregating up to ₹10.14Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "22,05,000shares(aggregating up to ₹10.14Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "40,94,952shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "62,99,952shares"
+    ],
+    [
+      "Market Maker Portion",
+      "1,11,000sharesBlack Fox Financial Private Limited"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Anchor Investor Shares Offered",
+      "Shares Offered": "-"
+    },
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,11,000 (5.03%)"
+    },
+    {
+      "Investor Category": "Other Shares Offered",
+      "Shares Offered": "10,47,000 (47.48%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,47,000 (47.48%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "22,05,001 (100%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jan 6, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 8, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "3000",
+      "Amount": "₹1,38,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "3000",
+      "Amount": "₹1,38,000"
+    },
+    {
+      "Application": "HNI(Min)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,76,000"
+    },
+    {
+      "Application": "Lot Size Calculator",
+      "Lots": "",
+      "Shares": "",
+      "Amount": ""
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "65.00%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "1,320.22",
+      "1,528.77",
+      "1,232.03",
+      "1,488.6"
+    ],
+    [
+      "Revenue",
+      "556.3",
+      "1,798.57",
+      "2,105.22",
+      "977.31"
+    ],
+    [
+      "Profit After Tax",
+      "42.39",
+      "103.26",
+      "90.01",
+      "15.34"
+    ],
+    [
+      "Net Worth",
+      "609.49",
+      "567.09",
+      "472.63",
+      "389.37"
+    ],
+    [
+      "Reserves and Surplus",
+      "199.99",
+      "157.6",
+      "404.38",
+      "321.12"
+    ],
+    [
+      "Total Borrowing",
+      "341.84",
+      "526.92",
+      "424.34",
+      "612.79"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "18.21%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "28.15%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.93"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "18.21%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.74"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.32"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.52",
+      "Post IPO": "1.35"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.24",
+      "Post IPO": "34.18"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 13, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544334"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0FK501019"
+    ],
+    [
+      "Final Issue Price",
+      "₹46 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹46.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹87.40"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹83.03"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹91.77"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹91.77"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Indobell Insulation IPO DRHP",
+      "href": "https://www.bsesme.com/download/372520/DP_Indobell_BSE_29082024_20240829230829.pdf",
+      "text": "Indobell Insulation IPODRHP"
+    },
+    {
+      "title": "Indobell Insulation IPO RHP",
+      "href": "https://www.bsesme.com/download/372520/SME_IPO%20Open/1_Prospectus_Indobell_BSE_30122024_Sd_20250101172923.pdf",
+      "text": "Indobell Insulation IPORHP"
+    }
+  ],
+  "promoters": "The Promoters of the company are Mr. Vijay Burman, Mr. Man Mohan Burman, Ms. Megha Burman and Ms. Raksha Burman.",
+  "company_contact_details": {
+    "company_name": "Indobell Insulation Limited",
+    "address": "88C, Lake View Road,, Kolkata - 700029, Phone, :, Email, :, Website, :",
+    "phone": "+91 99032 51056",
+    "email": "cs@indobell.com",
+    "website": "https://www.indobell.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Integrated Registry Management Services Private Limited",
+    "phone": "044 - 28140801",
+    "email": "smeipo@integratedindia.in",
+    "website": "https://www.integratedregistry.in/RegistrarsToSTA.aspx?OD=1"
+  },
+  "about_company": {
+    "description": "Incorporated in May 1972, Indobell Insulation Limited manufactures and manufactures insulation products, including nodulated and granulated wool (mineral and ceramic fibre nodules) and prefabricated thermal insulation jackets. The company's products are used in residential, commercial, and industrial applications alongside various related insulation materials. The company's product range includes The company provides customized insulation solutions tailored to each client's needs, including specific sizes, shapes, and densities for projects involving 3D and 2D designs, manufacturing drawings, and thermal analysis. The company's manufacturing units are situated in West Bengal and Maharastra. The company has received certifications for ISO 9001:2015 (Quality Management System), ISO 14001:2015 (Environmental Management System), and ISO 45001:2018 (Occupational Health & Safety Management System) for producing Nodulated Fibers and for thermal insulation materials. As of December 30, 2024, the company employs 31 people in various departments.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Finshore Management Services Limited",
+      "profile_link": "/report/ipo-lead-manager-review/112/147/",
+      "title": "About Finshore Management Services Limited"
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}
