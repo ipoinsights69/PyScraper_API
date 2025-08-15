@@ -36,11 +36,7 @@ print_error() {
 }
 
 # Check if running as root
-if [[ $EUID -eq 0 ]]; then
-   print_error "This script should not be run as root for security reasons."
-   print_status "Please run as a regular user with sudo privileges."
-   exit 1
-fi
+
 
 # Update system packages
 print_status "Updating system packages..."
