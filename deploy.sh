@@ -43,7 +43,20 @@ print_status "Using Python ${PYTHON_VERSION} ($(python3 --version))"
 
 # Install only essential packages if not present
 print_status "Installing essential packages (if needed)..."
-sudo apt update
+
+# Remove problematic deadsnakes PPA if it exists
+if grep -q "deadsnakes" /etc/apt/sources.list.d/*.list 2>/dev/null; then
+    print_warning "Removing problematic deadsnakes PPA..."
+    sudo add-apt-repository --remove ppa:deadsnakes/ppa -y 2>/dev/null || true
+fi
+
+# Update package lists with error handling
+print_status "Updating package lists..."
+sudo apt update || {
+    print_warning "apt update encountered some errors, but continuing..."
+    sudo apt update --allow-releaseinfo-change || true
+}
+
 sudo apt install -y curl wget git cron python3-venv python3-pip
 
 # Install Node.js and PM2 only if not present
