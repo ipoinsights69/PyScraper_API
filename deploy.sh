@@ -45,10 +45,14 @@ print_status "Checking system requirements..."
 command -v python3 >/dev/null 2>&1 || { print_error "Python3 is required but not installed. Aborting."; exit 1; }
 command -v pip3 >/dev/null 2>&1 || { print_error "pip3 is required but not installed. Aborting."; exit 1; }
 
+# Get the available Python3 version
+PYTHON_VERSION=$(python3 --version | cut -d' ' -f2 | cut -d'.' -f1,2)
+print_status "Using Python ${PYTHON_VERSION} ($(python3 --version))"
+
 # Install only essential packages if not present
 print_status "Installing essential packages (if needed)..."
 sudo apt update
-sudo apt install -y curl wget git cron
+sudo apt install -y curl wget git cron python3-venv python3-pip
 
 # Install Node.js and PM2 only if not present
 if ! command -v node &> /dev/null; then
@@ -99,7 +103,7 @@ print_status "Setting up Python virtual environment..."
 sudo -u $APP_USER bash << EOF
 cd $APP_DIR
 
-# Create virtual environment
+# Create virtual environment using available Python3
 python3 -m venv venv
 source venv/bin/activate
 
@@ -238,6 +242,10 @@ sudo systemctl daemon-reload
 sudo systemctl enable pm2-$APP_USER
 sudo systemctl start pm2-$APP_USER
 
+# Run initial data fetch
+print_status "Running initial data fetch..."
+sudo -u $APP_USER $APP_DIR/fetch_data.sh
+
 # Create nginx configuration (optional)
 if command -v nginx &> /dev/null; then
     print_status "Creating Nginx reverse proxy configuration..."
@@ -282,8 +290,10 @@ echo -e "App Name: ${BLUE}$APP_NAME${NC}"
 echo -e "App Directory: ${BLUE}$APP_DIR${NC}"
 echo -e "App User: ${BLUE}$APP_USER${NC}"
 echo -e "Port: ${BLUE}$PORT${NC}"
+echo -e "Python Version: ${BLUE}$PYTHON_VERSION${NC}"
 echo -e "PM2 Status: ${BLUE}$(sudo -u $APP_USER pm2 list | grep $APP_NAME)${NC}"
 echo -e "Redis Status: ${BLUE}$(sudo systemctl is-active redis-server)${NC}"
+echo -e "Cron Status: ${BLUE}$(sudo systemctl is-active cron)${NC}"
 echo -e "Application URL: ${BLUE}http://$(hostname -I | awk '{print $1}'):$PORT${NC}"
 
 print_status "Cron job configured to run data fetching every hour"
@@ -292,11 +302,11 @@ print_status "Data fetching includes: meta_data.py -> parser.py"
 print_status "Useful commands:"
 echo -e "  View API logs: ${YELLOW}sudo -u $APP_USER pm2 logs $APP_NAME${NC}"
 echo -e "  View cron logs: ${YELLOW}sudo -u $APP_USER tail -f $APP_DIR/logs/cron.log${NC}"
-echo -e "  Check cron jobs: ${YELLOW}sudo -u $APP_USER crontab -l${NC}"
-echo -e "  Manual data fetch: ${YELLOW}sudo -u $APP_USER $APP_DIR/fetch_data.sh${NC}"
 echo -e "  Restart app: ${YELLOW}sudo -u $APP_USER pm2 restart $APP_NAME${NC}"
 echo -e "  Stop app: ${YELLOW}sudo -u $APP_USER pm2 stop $APP_NAME${NC}"
 echo -e "  Monitor: ${YELLOW}sudo -u $APP_USER pm2 monit${NC}"
 echo -e "  Redis CLI: ${YELLOW}redis-cli${NC}"
+echo -e "  Check cron jobs: ${YELLOW}sudo -u $APP_USER crontab -l${NC}"
+echo -e "  Manual data fetch: ${YELLOW}sudo -u $APP_USER $APP_DIR/fetch_data.sh${NC}"
 
 print_status "Deployment script completed!"
