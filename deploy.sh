@@ -36,7 +36,6 @@ print_error() {
 # Check if required commands exist
 print_status "Checking system requirements..."
 command -v python3 >/dev/null 2>&1 || { print_error "Python3 is required but not installed. Aborting."; exit 1; }
-command -v pip3 >/dev/null 2>&1 || { print_error "pip3 is required but not installed. Aborting."; exit 1; }
 
 # Get the available Python3 version
 PYTHON_VERSION=$(python3 --version | cut -d' ' -f2 | cut -d'.' -f1,2)
