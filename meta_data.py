@@ -7,12 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # --- Configuration ---
 API_KEYS = [
-    "df9ebfee868506bcf0ff042b76582dc6",
-    "7d6edd0f8f6a9599fd5d8528b495532c",
-    "f99c07ccbc39bd2ddda0622c03b4d705",
-    "ee80ac20239ca7ac2308d759b3351e8f",
-    "5d21f0e5a6c1723bbc24dc4d8a4bc05f",
-    "040887ef4b6cb5fb849cf83fbd7e6033",
+    "4359f18e8ba816dcfa44c714a5ce649d"
 ]
 
 SCRAPERAPI_ACCOUNT_URL = "https://api.scraperapi.com/account"
@@ -92,12 +87,25 @@ def get_html_path(ipo_name, year):
     return os.path.join(html_dir, filename)
 
 
+import re
+
+def extract_ipo_id(url):
+    """Extracts the IPO ID from a Chittorgarh IPO URL."""
+    match = re.search(r'/ipo/[^/]+/(\d+)/', url)
+    return match.group(1) if match else None
+
+
 def fetch_and_save_ipo_html(ipo, year, api_key, force_fetch=False):
     ipo_name = ipo["name"]
     ipo_url = ipo["url"]
 
     if ipo_url.startswith("/"):
         ipo_url = urljoin("https://www.chittorgarh.com", ipo_url)
+
+    ipo_id = extract_ipo_id(ipo_url)
+    if not ipo_id:
+        print(f"[ERROR] Could not extract IPO ID for {ipo_name}")
+        return ipo, None
 
     file_path = get_html_path(ipo_name, year)
 
@@ -106,18 +114,36 @@ def fetch_and_save_ipo_html(ipo, year, api_key, force_fetch=False):
         return ipo, os.path.relpath(file_path, OUTPUT_DIR)
 
     print(f"[FETCH] {'Re-fetching' if force_fetch else 'Fetching'}: {ipo_name}")
+
+    # Step 1: Fetch IPO main HTML using ScraperAPI
     res = scrape_data_with_scraperapi(ipo_url, api_key)
-    if res and res.status_code == 200:
-        try:
-            with open(file_path, "w", encoding="utf-8") as f:
-                f.write(res.text)
-            print(f"[SAVED] {ipo_name}")
-            return ipo, os.path.relpath(file_path, OUTPUT_DIR)
-        except:
-            print(f"[ERROR] Failed to save: {ipo_name}")
-    else:
-        print(f"[ERROR] Failed to fetch: {ipo_name}")
-    return ipo, None
+    main_html = res.text if res and res.status_code == 200 else None
+
+    if not main_html:
+        print(f"[ERROR] Failed to fetch IPO page: {ipo_name}")
+        return ipo, None
+
+    # Step 2: Fetch subscription details via direct request (no ScraperAPI)
+    sub_url = f"https://www.chittorgarh.net/documents/subscription/{ipo_id}/details.html"
+    try:
+        sub_res = requests.get(sub_url, headers=HEADERS, timeout=20)
+        subscription_html = sub_res.text if sub_res.status_code == 200 else "<!-- Subscription data not found -->"
+    except Exception as e:
+        print(f"[WARN] Subscription fetch failed for {ipo_name}: {e}")
+        subscription_html = "<!-- Subscription fetch error -->"
+
+    # Step 3: Combine both HTMLs
+    combined_html = f"{main_html}\n<hr/>\n<!-- Subscription Data -->\n{subscription_html}"
+
+    # Step 4: Save the combined HTML
+    try:
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(combined_html)
+        print(f"[SAVED] {ipo_name}")
+        return ipo, os.path.relpath(file_path, OUTPUT_DIR)
+    except:
+        print(f"[ERROR] Failed to save HTML: {ipo_name}")
+        return ipo, None
 
 
 def save_meta_data(meta, year, endpoint_name):

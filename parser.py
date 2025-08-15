@@ -515,7 +515,8 @@ def process_meta_json():
 
 
         # Full path to HTML file
-        full_html_path = os.path.join("IPO_DATA", str(current_year), html_path.replace(f"{current_year}/", ""))
+        html_path_clean = html_path.replace(f"{current_year}/", "") if html_path else ""
+        full_html_path = os.path.join("IPO_DATA", str(current_year), html_path_clean)
 
         if not os.path.exists(full_html_path):
             print(f"Warning: HTML file '{full_html_path}' not found for {ipo_name}")
@@ -527,6 +528,7 @@ def process_meta_json():
                 html_content = f.read()
 
             parsed_data = parse_html_content(html_content)
+
 
             # Create JSON filename (sanitize IPO name for filename)
             json_filename = re.sub(r'[^\w\s-]', '', ipo_name).strip()
