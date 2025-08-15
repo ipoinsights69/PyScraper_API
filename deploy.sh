@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # IPO Scraper PM2 Deployment Script for Ubuntu Server
-# This script installs dependencies, sets up environment, and deploys the application
+# This script sets up environment, deploys the application, and configures cron jobs
 
 set -e  # Exit on any error
 
@@ -17,8 +17,6 @@ APP_NAME="ipo-scraper-api"
 APP_DIR="/opt/ipo-scraper"
 APP_USER="ipo-user"
 PORT=1234
-NODE_VERSION="18"
-PYTHON_VERSION="3.11"
 
 echo -e "${BLUE}Starting IPO Scraper deployment...${NC}"
 
@@ -36,37 +34,49 @@ print_error() {
 }
 
 # Check if running as root
+if [[ $EUID -eq 0 ]]; then
+   print_error "This script should not be run as root for security reasons."
+   print_status "Please run as a regular user with sudo privileges."
+   exit 1
+fi
 
+# Check if required commands exist
+print_status "Checking system requirements..."
+command -v python3 >/dev/null 2>&1 || { print_error "Python3 is required but not installed. Aborting."; exit 1; }
+command -v pip3 >/dev/null 2>&1 || { print_error "pip3 is required but not installed. Aborting."; exit 1; }
 
-# Update system packages
-print_status "Updating system packages..."
-sudo apt update && sudo apt upgrade -y
+# Install only essential packages if not present
+print_status "Installing essential packages (if needed)..."
+sudo apt update
+sudo apt install -y curl wget git cron
 
-# Install essential packages
-print_status "Installing essential packages..."
-sudo apt install -y curl wget git build-essential software-properties-common
+# Install Node.js and PM2 only if not present
+if ! command -v node &> /dev/null; then
+    print_status "Installing Node.js..."
+    curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+    sudo apt install -y nodejs
+else
+    print_status "Node.js already installed: $(node --version)"
+fi
 
-# Install Python 3.11 and pip
-print_status "Installing Python ${PYTHON_VERSION}..."
-sudo apt install -y python${PYTHON_VERSION} python${PYTHON_VERSION}-venv python${PYTHON_VERSION}-dev python3-pip
+if ! command -v pm2 &> /dev/null; then
+    print_status "Installing PM2..."
+    sudo npm install -g pm2
+else
+    print_status "PM2 already installed: $(pm2 --version)"
+fi
 
-# Install Node.js and npm (required for PM2)
-print_status "Installing Node.js ${NODE_VERSION}..."
-curl -fsSL https://deb.nodesource.com/setup_${NODE_VERSION}.x | sudo -E bash -
-sudo apt install -y nodejs
-
-# Install PM2 globally
-print_status "Installing PM2..."
-sudo npm install -g pm2
-
-# Install Redis server
-print_status "Installing Redis server..."
-sudo apt install -y redis-server
-
-# Configure Redis
-print_status "Configuring Redis..."
-sudo systemctl enable redis-server
-sudo systemctl start redis-server
+# Install Redis only if not present
+if ! command -v redis-server &> /dev/null; then
+    print_status "Installing Redis server..."
+    sudo apt install -y redis-server
+    sudo systemctl enable redis-server
+    sudo systemctl start redis-server
+else
+    print_status "Redis already installed"
+    sudo systemctl enable redis-server
+    sudo systemctl start redis-server
+fi
 
 # Create application user if it doesn't exist
 if ! id "$APP_USER" &>/dev/null; then
@@ -90,7 +100,7 @@ sudo -u $APP_USER bash << EOF
 cd $APP_DIR
 
 # Create virtual environment
-python${PYTHON_VERSION} -m venv venv
+python3 -m venv venv
 source venv/bin/activate
 
 # Upgrade pip
@@ -101,6 +111,9 @@ pip install -r requirements.txt
 
 # Create logs directory
 mkdir -p logs
+
+# Create IPO_DATA directory if it doesn't exist
+mkdir -p IPO_DATA
 
 EOF
 
@@ -132,6 +145,52 @@ module.exports = {
   }]
 };
 EOF
+
+# Create cron job scripts
+print_status "Creating cron job scripts..."
+
+# Create data fetching script
+sudo -u $APP_USER tee $APP_DIR/fetch_data.sh > /dev/null << 'EOF'
+#!/bin/bash
+cd /opt/ipo-scraper
+source venv/bin/activate
+
+# Log start time
+echo "$(date): Starting data fetch process" >> logs/cron.log
+
+# Run meta_data.py to fetch data
+echo "$(date): Running meta_data.py" >> logs/cron.log
+python3 meta_data.py >> logs/cron.log 2>&1
+
+# Wait a moment then run parser.py
+echo "$(date): Running parser.py" >> logs/cron.log
+python3 parser.py >> logs/cron.log 2>&1
+
+echo "$(date): Data fetch process completed" >> logs/cron.log
+EOF
+
+# Make the script executable
+sudo chmod +x $APP_DIR/fetch_data.sh
+sudo chown $APP_USER:$APP_USER $APP_DIR/fetch_data.sh
+
+# Add cron job to run every hour
+print_status "Setting up cron job to run data fetching every hour..."
+sudo -u $APP_USER bash << EOF
+# Remove any existing cron jobs for this application
+crontab -l 2>/dev/null | grep -v "$APP_DIR/fetch_data.sh" | crontab -
+
+# Add new cron job to run every hour
+(crontab -l 2>/dev/null; echo "0 * * * * $APP_DIR/fetch_data.sh") | crontab -
+
+# Verify cron job was added
+echo "Current cron jobs for $APP_USER:"
+crontab -l
+EOF
+
+# Ensure cron service is running
+print_status "Ensuring cron service is running..."
+sudo systemctl enable cron
+sudo systemctl start cron
 
 # Create systemd service for PM2
 print_status "Creating systemd service for PM2..."
@@ -227,8 +286,14 @@ echo -e "PM2 Status: ${BLUE}$(sudo -u $APP_USER pm2 list | grep $APP_NAME)${NC}"
 echo -e "Redis Status: ${BLUE}$(sudo systemctl is-active redis-server)${NC}"
 echo -e "Application URL: ${BLUE}http://$(hostname -I | awk '{print $1}'):$PORT${NC}"
 
+print_status "Cron job configured to run data fetching every hour"
+print_status "Data fetching includes: meta_data.py -> parser.py"
+
 print_status "Useful commands:"
-echo -e "  View logs: ${YELLOW}sudo -u $APP_USER pm2 logs $APP_NAME${NC}"
+echo -e "  View API logs: ${YELLOW}sudo -u $APP_USER pm2 logs $APP_NAME${NC}"
+echo -e "  View cron logs: ${YELLOW}sudo -u $APP_USER tail -f $APP_DIR/logs/cron.log${NC}"
+echo -e "  Check cron jobs: ${YELLOW}sudo -u $APP_USER crontab -l${NC}"
+echo -e "  Manual data fetch: ${YELLOW}sudo -u $APP_USER $APP_DIR/fetch_data.sh${NC}"
 echo -e "  Restart app: ${YELLOW}sudo -u $APP_USER pm2 restart $APP_NAME${NC}"
 echo -e "  Stop app: ${YELLOW}sudo -u $APP_USER pm2 stop $APP_NAME${NC}"
 echo -e "  Monitor: ${YELLOW}sudo -u $APP_USER pm2 monit${NC}"
