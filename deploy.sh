@@ -33,13 +33,6 @@ print_error() {
     echo -e "${RED}[ERROR]${NC} $1"
 }
 
-# Check if running as root
-if [[ $EUID -eq 0 ]]; then
-   print_error "This script should not be run as root for security reasons."
-   print_status "Please run as a regular user with sudo privileges."
-   exit 1
-fi
-
 # Check if required commands exist
 print_status "Checking system requirements..."
 command -v python3 >/dev/null 2>&1 || { print_error "Python3 is required but not installed. Aborting."; exit 1; }
