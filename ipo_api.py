@@ -1,37 +1,14 @@
 import os
 import json
-from flask import Flask, jsonify, abort, request, make_response
+from flask import Flask, jsonify, abort, request
 from datetime import datetime, date
 import re
 import unicodedata
 import logging
 import threading
 import time
-import ssl
-import subprocess
-import hashlib
-from flask_caching import Cache
-import redis
 
 app = Flask(__name__)
-
-# Configure Flask-Caching with Redis
-app.config['CACHE_TYPE'] = 'RedisCache'
-app.config['CACHE_REDIS_URL'] = os.environ.get('REDIS_URL', 'redis://localhost:6379/0')
-app.config['CACHE_DEFAULT_TIMEOUT'] = 3600  # 1 hour default timeout
-app.config['CACHE_KEY_PREFIX'] = 'ipo_api:'
-
-# Initialize cache
-cache = Cache(app)
-
-# Initialize Redis client for custom caching operations
-try:
-    redis_client = redis.from_url(app.config['CACHE_REDIS_URL'])
-    redis_client.ping()  # Test connection
-    app.logger.info("Redis connection established successfully")
-except Exception as e:
-    app.logger.warning(f"Redis connection failed: {e}. Falling back to in-memory cache.")
-    redis_client = None
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -48,93 +25,6 @@ ipo_cache = {}
 
 # Cache refresh interval (in seconds, 4 hours = 4 * 60 * 60)
 CACHE_REFRESH_INTERVAL_SECONDS = 4 * 60 * 60
-
-# Cache timeouts for different data types
-CACHE_TIMEOUTS = {
-    'meta_data': 3600,      # 1 hour for meta data
-    'ipo_details': 1800,    # 30 minutes for individual IPO details
-    'search_results': 900,  # 15 minutes for search results
-    'overview': 600,        # 10 minutes for overview data
-    'status_data': 300      # 5 minutes for status-based queries
-}
-
-def generate_cache_key(*args, **kwargs):
-    """
-    Generate a consistent cache key from arguments.
-    """
-    key_parts = [str(arg) for arg in args]
-    key_parts.extend([f"{k}:{v}" for k, v in sorted(kwargs.items())])
-    key_string = ":".join(key_parts)
-    return hashlib.md5(key_string.encode()).hexdigest()
-
-def get_cached_data(cache_key, timeout=None):
-    """
-    Get data from Redis cache with fallback to in-memory cache.
-    """
-    if redis_client:
-        try:
-            data = redis_client.get(cache_key)
-            if data:
-                return json.loads(data)
-        except Exception as e:
-            app.logger.warning(f"Redis get failed for key {cache_key}: {e}")
-    
-    # Fallback to Flask-Caching
-    return cache.get(cache_key)
-
-def set_cached_data(cache_key, data, timeout=None):
-    """
-    Set data in Redis cache with fallback to in-memory cache.
-    """
-    if redis_client:
-        try:
-            redis_client.setex(
-                cache_key, 
-                timeout or CACHE_TIMEOUTS['meta_data'], 
-                json.dumps(data, default=str)
-            )
-            return True
-        except Exception as e:
-            app.logger.warning(f"Redis set failed for key {cache_key}: {e}")
-    
-    # Fallback to Flask-Caching
-    cache.set(cache_key, data, timeout=timeout)
-    return True
-
-def add_cache_headers(response, max_age=300, etag_data=None):
-    """
-    Add comprehensive caching headers to HTTP response including ETags.
-    """
-    # Basic cache control headers
-    response.headers['Cache-Control'] = f'public, max-age={max_age}'
-    response.headers['Expires'] = (datetime.utcnow() + 
-                                 datetime.timedelta(seconds=max_age)).strftime('%a, %d %b %Y %H:%M:%S GMT')
-    
-    # Add ETag for conditional requests
-    if etag_data:
-        etag = hashlib.md5(json.dumps(etag_data, sort_keys=True, default=str).encode()).hexdigest()
-        response.headers['ETag'] = f'"{etag}"'
-    
-    # Add additional caching headers
-    response.headers['Vary'] = 'Accept-Encoding'
-    response.headers['Last-Modified'] = datetime.utcnow().strftime('%a, %d %b %Y %H:%M:%S GMT')
-    
-    return response
-
-def check_etag_and_return_304(etag_data):
-    """
-    Check if client has current version via ETag and return 304 if unchanged.
-    """
-    if etag_data:
-        current_etag = hashlib.md5(json.dumps(etag_data, sort_keys=True, default=str).encode()).hexdigest()
-        client_etag = request.headers.get('If-None-Match', '').strip('"')
-        
-        if client_etag == current_etag:
-            response = make_response('', 304)
-            response.headers['ETag'] = f'"{current_etag}"'
-            return response
-    
-    return None
 
 def slugify(value):
     """
@@ -338,19 +228,6 @@ def get_available_years():
     """
     Returns a list of all years for which IPO data is available.
     """
-    cache_key = "available_years"
-    
-    # Try to get from cache first
-    cached_data = get_cached_data(cache_key)
-    if cached_data:
-        # Check ETag for 304 Not Modified
-        etag_response = check_etag_and_return_304(cached_data)
-        if etag_response:
-            return etag_response
-            
-        response = make_response(jsonify(cached_data))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['meta_data'], etag_data=cached_data)
-    
     years = []
     if os.path.exists(IPO_DATA_BASE_DIR):
         for item in os.listdir(IPO_DATA_BASE_DIR):
@@ -364,19 +241,7 @@ def get_available_years():
                 except ValueError:
                     app.logger.debug(f"Skipping non-numeric directory in IPO_DATA: {item}")
                     continue
-    
-    result = sorted(years, reverse=True)
-    
-    # Check ETag before sending response
-    etag_response = check_etag_and_return_304(result)
-    if etag_response:
-        return etag_response
-    
-    # Cache the result
-    set_cached_data(cache_key, result, CACHE_TIMEOUTS['meta_data'])
-    
-    response = make_response(jsonify(result))
-    return add_cache_headers(response, max_age=CACHE_TIMEOUTS['meta_data'], etag_data=result)
+    return jsonify(sorted(years, reverse=True))
 
 
 @app.route('/api/ipo/all', methods=['GET'])
@@ -385,14 +250,6 @@ def get_all_ipos():
     Returns a flattened list of all IPOs from all available years,
     with their basic metadata and calculated status. Includes the 'slug'.
     """
-    cache_key = "all_ipos"
-    
-    # Try to get from cache first
-    cached_data = get_cached_data(cache_key)
-    if cached_data:
-        response = make_response(jsonify(cached_data))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['meta_data'])
-    
     all_ipos = []
     years_to_process = []
     if os.path.exists(IPO_DATA_BASE_DIR):
@@ -406,37 +263,24 @@ def get_all_ipos():
     for year in sorted(years_to_process, reverse=True):
         if load_year_data(year):  # Ensure meta data is loaded/fresh
             for ipo_meta in ipo_cache[year]['meta_data']:
-                json_path = ipo_meta.get('json_path')
-
-                # Check if json_path exists
-                if not json_path:
-                    app.logger.debug(f"Skipping IPO with missing json_path: {ipo_meta.get('name')}")
-                    continue
-
-                ipo_data_for_status = get_ipo_detail_data(year, json_path)
+                # For basic list, we only need meta data and status (which requires ipo_details)
+                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['json_path'])
                 status = "Unknown"
-
                 if ipo_data_for_status and "ipo_details" in ipo_data_for_status:
                     status = get_ipo_status(ipo_data_for_status["ipo_details"])
                 else:
-                    app.logger.debug(
-                        f"No 'ipo_details' found or failed to load data for {ipo_meta.get('name')} (for status).")
+                    app.logger.debug(f"No 'ipo_details' found or failed to load data for {ipo_meta.get('name')} (for status).")
 
                 all_ipos.append({
                     "name": ipo_meta.get("name"),
                     "slug": ipo_meta.get("slug"),
                     "url": ipo_meta.get("url"),
                     "html_path": ipo_meta.get("html_path"),
-                    "json_path": json_path,
+                    "json_path": ipo_meta.get("json_path"),
                     "year": year,
                     "status": status
                 })
-
-    # Cache the result
-    set_cached_data(cache_key, all_ipos, CACHE_TIMEOUTS['meta_data'])
-    
-    response = make_response(jsonify(all_ipos))
-    return add_cache_headers(response, max_age=CACHE_TIMEOUTS['meta_data'])
+    return jsonify(all_ipos)
 
 
 @app.route('/api/ipo/year/<int:year>', methods=['GET'])
@@ -445,14 +289,6 @@ def get_ipos_by_year(year):
     Returns a list of all IPOs for a specific year,
     with their basic metadata and calculated status. Includes the 'slug'.
     """
-    cache_key = f"year_{year}_ipos"
-    
-    # Try to get from cache first
-    cached_data = get_cached_data(cache_key)
-    if cached_data:
-        response = make_response(jsonify(cached_data))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['meta_data'])
-    
     if not load_year_data(year):
         abort(404, description=f"No IPO data found for year {year}")
 
@@ -475,12 +311,7 @@ def get_ipos_by_year(year):
             "year": year,
             "status": status
         })
-    
-    # Cache the result
-    set_cached_data(cache_key, ipos_in_year, CACHE_TIMEOUTS['meta_data'])
-    
-    response = make_response(jsonify(ipos_in_year))
-    return add_cache_headers(response, max_age=CACHE_TIMEOUTS['meta_data'])
+    return jsonify(ipos_in_year)
 
 
 @app.route('/api/ipo/details/<string:ipo_slug>', methods=['GET'])
@@ -493,15 +324,6 @@ def get_single_ipo_by_slug(ipo_slug):
                                 Supports dot notation for nested keys (e.g., 'company_contact_details.company_name').
                                 Also supports array indexing (e.g., 'ipo_details.0.1').
     """
-    fields_param = request.args.get('fields')
-    cache_key = generate_cache_key("ipo_details", ipo_slug, fields=fields_param or "all")
-    
-    # Try to get from cache first
-    cached_data = get_cached_data(cache_key)
-    if cached_data:
-        response = make_response(jsonify(cached_data))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['ipo_details'])
-    
     found_ipo_meta = None
     target_year = None
 
@@ -545,6 +367,7 @@ def get_single_ipo_by_slug(ipo_slug):
     ipo_data['status'] = status  # Always append status
 
     # Handle 'fields' query parameter for filtering
+    fields_param = request.args.get('fields')
     if fields_param:
         requested_fields = [f.strip() for f in fields_param.split(',')]
         filtered_response = {}
@@ -571,18 +394,9 @@ def get_single_ipo_by_slug(ipo_slug):
                         if part not in temp_target or not isinstance(temp_target[part], dict):
                             temp_target[part] = {}
                         temp_target = temp_target[part]
-        
-        # Cache the filtered result
-        set_cached_data(cache_key, filtered_response, CACHE_TIMEOUTS['ipo_details'])
-        
-        response = make_response(jsonify(filtered_response))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['ipo_details'])
+        return jsonify(filtered_response)
     else:
-        # Cache the full result
-        set_cached_data(cache_key, ipo_data, CACHE_TIMEOUTS['ipo_details'])
-        
-        response = make_response(jsonify(ipo_data))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['ipo_details'])
+        return jsonify(ipo_data)
 
 
 @app.route('/api/ipo/status/<status_type>', methods=['GET'])
@@ -655,39 +469,34 @@ def search_ipos():
     for year in sorted(years_to_process, reverse=True):
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
-                json_path = ipo_meta.get('json_path')
-                if not json_path:
-                    app.logger.debug(f"Skipping IPO with missing json_path: {ipo_meta.get('name')}")
-                    continue
-
-                ipo_data_for_search = get_ipo_detail_data(year, json_path)
+                # Need ipo_details for status and about_company.description for search
+                ipo_data_for_search = get_ipo_detail_data(year, ipo_meta['json_path'])
                 status = "Unknown"
                 if ipo_data_for_search and "ipo_details" in ipo_data_for_search:
                     status = get_ipo_status(ipo_data_for_search["ipo_details"])
 
-                # Check name match
-                name = ipo_meta.get('name', '')
-                name_match = search_query_lower in name.lower() if name else False
+                # Check name
+                name_match = False
+                if ipo_meta.get('name') and search_query_lower in ipo_meta['name'].lower():
+                    name_match = True
 
-                # Check description match
-                description = (
-                    ipo_data_for_search.get('about_company', {}).get('description', '')
-                    if ipo_data_for_search else ''
-                )
-                description_match = search_query_lower in description.lower() if description else False
+                # Check company description (if available)
+                description_match = False
+                if ipo_data_for_search and 'about_company' in ipo_data_for_search and 'description' in ipo_data_for_search['about_company']:
+                    if ipo_data_for_search['about_company']['description'] and \
+                       search_query_lower in ipo_data_for_search['about_company']['description'].lower():
+                        description_match = True
 
-                # If any match found, add to result
                 if name_match or description_match:
                     matching_ipos.append({
-                        "name": name,
+                        "name": ipo_meta.get("name"),
                         "slug": ipo_meta.get("slug"),
                         "url": ipo_meta.get("url"),
                         "html_path": ipo_meta.get("html_path"),
-                        "json_path": json_path,
+                        "json_path": ipo_meta.get("json_path"),
                         "year": year,
                         "status": status
                     })
-
     return jsonify(matching_ipos)
 
 
@@ -695,20 +504,11 @@ def search_ipos():
 def get_ipo_overview():
     """
     Provides a summary of IPOs, including counts for current year, upcoming, open, and closed IPOs.
-    Also includes detailed information about each IPO including dates, prices, and subscription details.
-    
+    Optionally returns a limited list of IPOs for each status.
     Query Parameters:
         limit (int, optional): The maximum number of IPOs to return for each status list.
     """
     limit = request.args.get('limit', type=int)
-    cache_key = generate_cache_key("overview", limit=limit)
-    
-    # Try to get from cache first
-    cached_data = get_cached_data(cache_key)
-    if cached_data:
-        response = make_response(jsonify(cached_data))
-        return add_cache_headers(response, max_age=CACHE_TIMEOUTS['overview'])
-    
     current_year = date.today().year
 
     total_ipos_current_year = 0
@@ -723,78 +523,25 @@ def get_ipo_overview():
                 year = int(year_str)
                 years_to_process.append(year)
             except ValueError:
-                pass
+                pass # Ignore non-numeric directory names
 
     for year in sorted(years_to_process, reverse=True):
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
-                json_path = ipo_meta.get('json_path')
-                if not json_path:
-                    print(f"Skipping IPO with missing json_path: {ipo_meta}")
-                    continue
-
-                ipo_data = get_ipo_detail_data(year, json_path)
+                # Need ipo_details for status calculation
+                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['json_path'])
                 status = "Unknown"
-                ipo_dates = {"open_date": None, "close_date": None, "listing_date": None}
-                ipo_prices = {"issue_price": None, "listing_price": None}
-                lot_size = None
-                listing_gain = None
-
-                if ipo_data and "ipo_details" in ipo_data:
-                    status = get_ipo_status(ipo_data["ipo_details"])
-                    
-                    # Extract dates and prices from ipo_details
-                    for detail in ipo_data["ipo_details"]:
-                        if detail[0] == "IPO Date":
-                            date_match = re.match(r'(\w+ \d+, \d{4})to(\w+ \d+, \d{4})', detail[1])
-                            if date_match:
-                                ipo_dates["open_date"] = parse_date_robustly(date_match.group(1))
-                                ipo_dates["close_date"] = parse_date_robustly(date_match.group(2))
-                            else:
-                                single_date = parse_date_robustly(detail[1])
-                                ipo_dates["open_date"] = single_date
-                                ipo_dates["close_date"] = single_date
-                        elif detail[0] == "Listing Date":
-                            ipo_dates["listing_date"] = parse_date_robustly(detail[1])
-                        elif detail[0] == "Issue Price":
-                            try:
-                                price_match = re.search(r'₹\s*(\d+(?:\.\d+)?)', detail[1])
-                                if price_match:
-                                    ipo_prices["issue_price"] = float(price_match.group(1))
-                            except (ValueError, TypeError):
-                                pass
-                        elif detail[0] == "Listing Price":
-                            try:
-                                price_match = re.search(r'₹\s*(\d+(?:\.\d+)?)', detail[1])
-                                if price_match:
-                                    ipo_prices["listing_price"] = float(price_match.group(1))
-                            except (ValueError, TypeError):
-                                pass
-                        elif detail[0] == "Lot Size":
-                            try:
-                                lot_match = re.search(r'(\d+)', detail[1])
-                                if lot_match:
-                                    lot_size = int(lot_match.group(1))
-                            except (ValueError, TypeError):
-                                pass
-
-                # Calculate listing gain if both prices are available
-                if ipo_prices["issue_price"] and ipo_prices["listing_price"]:
-                    listing_gain = round(((ipo_prices["listing_price"] - ipo_prices["issue_price"]) / ipo_prices["issue_price"]) * 100, 2)
+                if ipo_data_for_status and "ipo_details" in ipo_data_for_status:
+                    status = get_ipo_status(ipo_data_for_status["ipo_details"])
 
                 ipo_entry = {
                     "name": ipo_meta.get("name"),
                     "slug": ipo_meta.get("slug"),
                     "url": ipo_meta.get("url"),
+                    "html_path": ipo_meta.get("html_path"),
+                    "json_path": ipo_meta.get("json_path"),
                     "year": year,
-                    "status": status,
-                    "issue_price": ipo_prices["issue_price"],
-                    "listing_price": ipo_prices["listing_price"],
-                    "lot_size": lot_size,
-                    "listing_gain": listing_gain,
-                    "open_date": ipo_dates["open_date"].strftime('%Y-%m-%d') if ipo_dates["open_date"] else None,
-                    "close_date": ipo_dates["close_date"].strftime('%Y-%m-%d') if ipo_dates["close_date"] else None,
-                    "listing_date": ipo_dates["listing_date"].strftime('%Y-%m-%d') if ipo_dates["listing_date"] else None
+                    "status": status
                 }
 
                 # Categorize for counts and lists
@@ -808,26 +555,22 @@ def get_ipo_overview():
                 elif status == "Closed":
                     closed_ipos.append(ipo_entry)
 
-    # Apply limit if provided for the lists of IPOs returned
+    # Apply limit if provided for the *lists* of IPOs returned
     limited_upcoming_ipos = upcoming_ipos[:limit] if limit is not None else upcoming_ipos
     limited_open_ipos = open_ipos[:limit] if limit is not None else open_ipos
     limited_closed_ipos = closed_ipos[:limit] if limit is not None else closed_ipos
 
     overview = {
         "total_ipos_current_year": total_ipos_current_year,
-        "total_upcoming_ipos_count": len(upcoming_ipos),
-        "total_open_ipos_count": len(open_ipos),
-        "total_closed_ipos_count": len(closed_ipos),
+        "total_upcoming_ipos_count": len(upcoming_ipos), # Use len of full list for total count
+        "total_open_ipos_count": len(open_ipos),         # Use len of full list for total count
+        "total_closed_ipos_count": len(closed_ipos),     # Use len of full list for total count
         "upcoming_ipos_list": limited_upcoming_ipos,
         "open_ipos_list": limited_open_ipos,
         "closed_ipos_list": limited_closed_ipos
     }
 
-    # Cache the result
-    set_cached_data(cache_key, overview, CACHE_TIMEOUTS['overview'])
-    
-    response = make_response(jsonify(overview))
-    return add_cache_headers(response, max_age=CACHE_TIMEOUTS['overview'])
+    return jsonify(overview)
 
 
 @app.route('/api/ipo/today', methods=['GET'])
@@ -959,29 +702,12 @@ def get_ipos_by_listing_type(listing_type):
 
 def clear_and_preload_cache():
     """
-    Clears the entire IPO cache (both Redis and in-memory) and then reloads only the meta data for all years.
+    Clears the entire IPO cache and then reloads only the meta data for all years.
     Individual IPO details are loaded lazily upon first access.
     """
     global ipo_cache
     app.logger.info("Clearing and pre-loading cache (meta data only)...")
-    
-    # Clear Redis cache
-    if redis_client:
-        try:
-            # Clear all keys with our prefix
-            pattern = f"{app.config['CACHE_KEY_PREFIX']}*"
-            keys = redis_client.keys(pattern)
-            if keys:
-                redis_client.delete(*keys)
-                app.logger.info(f"Cleared {len(keys)} keys from Redis cache")
-        except Exception as e:
-            app.logger.warning(f"Failed to clear Redis cache: {e}")
-    
-    # Clear Flask-Caching
-    cache.clear()
-    
-    # Clear in-memory cache
-    ipo_cache = {}
+    ipo_cache = {} # Clear the cache
 
     # Load all meta data for all available years
     available_years_for_meta = []
@@ -1028,86 +754,14 @@ def force_cache_clear_api():
     clear_and_preload_cache()
     return jsonify({"message": "Cache cleared and meta-data pre-loaded successfully. Individual details will load on demand."}), 200
 
-# --- PRODUCTION CONFIGURATION ---
-
-# Configure app for production
-if os.environ.get('FLASK_ENV') == 'production':
-    app.config['DEBUG'] = False
-    app.config['TESTING'] = False
-    # Disable Flask's development server warnings
-    import warnings
-    warnings.filterwarnings('ignore', message='.*development server.*')
-else:
-    app.config['DEBUG'] = True
-
-# Add health check endpoint
-@app.route('/health', methods=['GET'])
-def health_check():
-    """
-    Health check endpoint for load balancers and monitoring.
-    """
-    try:
-        # Test Redis connection if available
-        redis_status = "connected" if redis_client and redis_client.ping() else "disconnected"
-        
-        # Test file system access
-        fs_status = "accessible" if os.path.exists(IPO_DATA_BASE_DIR) else "inaccessible"
-        
-        return jsonify({
-            "status": "healthy",
-            "timestamp": datetime.utcnow().isoformat(),
-            "redis": redis_status,
-            "filesystem": fs_status,
-            "cache_keys_count": len(ipo_cache)
-        }), 200
-    except Exception as e:
-        return jsonify({
-            "status": "unhealthy",
-            "error": str(e),
-            "timestamp": datetime.utcnow().isoformat()
-        }), 503
-
-# Add metrics endpoint
-@app.route('/metrics', methods=['GET'])
-def metrics():
-    """
-    Basic metrics endpoint for monitoring.
-    """
-    try:
-        total_years = len(ipo_cache)
-        total_ipos = sum(len(year_data.get('meta_data', [])) for year_data in ipo_cache.values())
-        
-        return jsonify({
-            "total_years_cached": total_years,
-            "total_ipos_cached": total_ipos,
-            "cache_refresh_interval": CACHE_REFRESH_INTERVAL_SECONDS,
-            "redis_connected": redis_client is not None,
-            "uptime_seconds": time.time() - app.start_time if hasattr(app, 'start_time') else 0
-        }), 200
-    except Exception as e:
-        return jsonify({"error": str(e)}), 500
-
 # --- MAIN APPLICATION START ---
 
 if __name__ == '__main__':
-    app.start_time = time.time()  # Track startup time
     app.logger.info("Starting IPO API application...")
-    
-    # Log configuration
-    app.logger.info(f"Environment: {os.environ.get('FLASK_ENV', 'development')}")
-    app.logger.info(f"Redis URL: {app.config['CACHE_REDIS_URL']}")
-    app.logger.info(f"Debug mode: {app.config['DEBUG']}")
 
     # Initial clear and preload on startup to ensure meta-data cache is hot
     clear_and_preload_cache()
     # Start the background cache refresher
     start_cache_refresher()
 
-    # Production vs Development server
-    if os.environ.get('FLASK_ENV') == 'production':
-        # In production, this should be run with gunicorn or similar WSGI server
-        app.logger.info("Production mode: Use gunicorn or similar WSGI server")
-        app.run(host="0.0.0.0", port=int(os.environ.get('PORT', 1234)), use_reloader=False)
-    else:
-        # Development server
-        app.run(debug=True, host="0.0.0.0", port=1234, use_reloader=False)
+    app.run(debug=True, host="0.0.0.0", port=1233, use_reloader=False) # use_reloader=False when using threading

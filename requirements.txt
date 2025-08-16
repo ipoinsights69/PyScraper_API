@@ -4,5 +4,4 @@ beautifulsoup4==4.12.2
 redis==5.0.1
 Flask-Caching==2.1.0
 gunicorn==21.2.0
-lxml==4.9.3
 html5lib==1.1
