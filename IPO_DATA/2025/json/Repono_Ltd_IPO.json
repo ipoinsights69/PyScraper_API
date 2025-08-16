@@ -1,0 +1,461 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 28, 2025 to July 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 4, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "27,79,200shares(aggregating up to ₹26.68Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,39,200shares(aggregating up to ₹1.34Cr)JSK Securities & Services Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "26,40,000shares(aggregating up to ₹25.34Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "75,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,02,79,200shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,39,200 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "13,20,000 (47.50%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "7,92,000 (28.50%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,28,000 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "3,96,000 (14.25%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,64,000 (9.50%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,32,000 (4.75%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,24,000 (33.25%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "27,79,200 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 25, 2025"
+    ],
+    [
+      "Shares Offered",
+      "7,92,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.60"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 31, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 30, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 30, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,30,400"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,30,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,45,600"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹9,21,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "10,800",
+      "Amount": "₹10,36,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.32%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.46%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024"
+    ],
+    [
+      "Assets",
+      "25.87",
+      "17.65"
+    ],
+    [
+      "Total Income",
+      "51.59",
+      "34.14"
+    ],
+    [
+      "Profit After Tax",
+      "5.15",
+      "4.18"
+    ],
+    [
+      "EBITDA",
+      "8.13",
+      "6.04"
+    ],
+    [
+      "Net Worth",
+      "14.22",
+      "9.07"
+    ],
+    [
+      "Reserves and Surplus",
+      "6.72",
+      "6.57"
+    ],
+    [
+      "Total Borrowing",
+      "6.13",
+      "3.54"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "44.22%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "38.39%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.43"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "36.21%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.07%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.91%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.06"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.87",
+      "Post IPO": "5.01"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.98",
+      "Post IPO": "19.16"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding Capital Expenditure towards Purchase of Forklift, Hand Pallet Trolley, Reach stacker",
+      "Expected Amount(in Millions)": "72.41"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding of capital expenditure requirements of the Company towards set up of Warehouse Racking System",
+      "Expected Amount(in Millions)": "16.05"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding towards the Development of Software for Warehouse Management",
+      "Expected Amount(in Millions)": "10.5"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Funding the working capital requirements of the Company",
+      "Expected Amount(in Millions)": "95"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 4, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544463"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE15WN01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹96.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹89.99"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹85.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹89.99"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹87.09"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "29.03",
+      "Shares Offered": "5,28,000",
+      "Shares bid for": "1,53,27,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "107.34",
+      "Shares Offered": "3,96,000",
+      "Shares bid for": "4,25,05,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "126.27",
+      "Shares Offered": "2,64,000",
+      "Shares bid for": "3,33,36,000",
+      "Total Application": "31,424"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "70.52",
+      "Shares Offered": "1,32,000",
+      "Shares bid for": "93,08,400",
+      "Total Application": "31,424"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "67.31",
+      "Shares Offered": "9,24,000",
+      "Shares bid for": "6,21,98,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "64.95",
+      "Shares Offered": "18,48,000",
+      "Shares bid for": "12,00,31,200",
+      "Total Application": "31,424"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Repono IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/317253/DRHP_Repono%20Limited_20241028175507.pdf",
+      "text": "Repono IPODRHP"
+    },
+    {
+      "title": "Repono IPO RHP",
+      "href": "https://www.bsesme.com/download/317253/SME_IPO%20Open/1.%20RHP_20250721164540.pdf",
+      "text": "Repono IPORHP"
+    },
+    {
+      "title": "Repono IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/317253/SME_IPO%20BasisOfAllotment/Prospectus%20I%20Sigend_20250731142522.pdf",
+      "text": "Repono IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Dibyendu Deepak and Mr. Sankalpa Bhattacherjee are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Repono Ltd.",
+    "address": "S-Wing, 3rd Floor, Office No. 3061,, Plot No 03, Akshar Business Park,, Vashi, Navi Mumbai, Sanpada, Thane, Mumbai, Vashi, ,, Maharashtra, , 400703, Phone, :, Email, :, Website, :",
+    "phone": "022  4014 8290",
+    "email": "info@repono.in",
+    "website": "https://repono.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2017, Repono Limited is a warehousing and logistics company in India, specializing in storage solutions for the oil and petrochemical sectors. The company offers a comprehensive range of services, including warehousing, secondary transportation, and logistics support, catering to industries such as petrochemicals, oil & gas, lube oil, and specialty chemicals. The company has been recognized as one of the top 10 3PL logistics service providers in 2024 by Industry Outlook. Repono is also preparing for an IPO to further expand its operations and services. The company provides services across the oil value chain, including O&M of crude oil terminals, handling petrochemicals, diesel, ATF, ethanol, and managing warehousing for public sector and energy industry clients. Business Segments: As of October 24, 2024, the company had 381 Employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Wealth Mine Networks Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/434/",
+      "title": "About Wealth Mine Networks Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-6.26%"
+}

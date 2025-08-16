@@ -1,0 +1,409 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 14, 2025 to February 18, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 24, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹120 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "30,00,000shares(aggregating up to ₹36.00Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,53,600shares(aggregating up to ₹1.84Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "16,46,400shares(aggregating up to ₹19.76Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "12,00,000shares of ₹10(aggregating up to ₹14.40Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "28,46,400shares(aggregating up to ₹34.16Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "93,00,200shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,11,00,200shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,53,600 (7.11%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "14,22,000 (65.83%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,40,000 (38.89%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,82,000 (26.94%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,06,800 (18.83%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,17,600 (47.11%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "21,60,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 13, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,40,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "10.08"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "March 21, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 20, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Feb 19, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Feb 20, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Feb 20, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Feb 24, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 18, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,88,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.96%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "55.69",
+      "52.25",
+      "43.85",
+      "42.48"
+    ],
+    [
+      "Total Income",
+      "46.06",
+      "100.99",
+      "98.03",
+      "64.82"
+    ],
+    [
+      "Profit After Tax",
+      "3.18",
+      "11.93",
+      "9.57",
+      "2.12"
+    ],
+    [
+      "Net Worth",
+      "45.45",
+      "42.27",
+      "30.35",
+      "20.78"
+    ],
+    [
+      "Reserves and Surplus",
+      "36.15",
+      "32.97",
+      "28.53",
+      "18.96"
+    ],
+    [
+      "Total Borrowing",
+      "2.02",
+      "0.2",
+      "1.42",
+      "7.81"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "32.85%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "37.73%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "28.21%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.95%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.64"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "12.82",
+      "Post IPO": "5.72"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.36",
+      "Post IPO": "20.98"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 24, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "ROYALARC"
+    ],
+    [
+      "ISIN",
+      "INE0EO401019"
+    ],
+    [
+      "Final Issue Price",
+      "₹120 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹120.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹120.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹120.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹122.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹121.30"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.04",
+      "Shares Offered": "5,60,400",
+      "Shares bid for": "5,84,400",
+      "Total Application": "3"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "0.92",
+      "Shares Offered": "4,45,200",
+      "Shares bid for": "4,11,600",
+      "Total Application": "65"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.2",
+      "Shares Offered": "10,00,800",
+      "Shares bid for": "22,05,600",
+      "Total Application": "1,838"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.6",
+      "Shares Offered": "20,06,400",
+      "Shares bid for": "32,01,600",
+      "Total Application": "1,906"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Royal Arc Electrodes IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/RoyalArcElectrodesLimited_DRHP.pdf",
+      "text": "Royal Arc Electrodes IPODRHP"
+    },
+    {
+      "title": "Royal Arc Electrodes IPO RHP",
+      "href": "https://archives.nseindia.com/content/ipo/RHP_ROYALARC.zip",
+      "text": "Royal Arc Electrodes IPORHP"
+    },
+    {
+      "title": "Royal Arc Electrodes IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/RoyalArcElectrodesLimited_PROSP.pdf",
+      "text": "Royal Arc Electrodes IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Bipin Sanghvi, Tarulata Sanghvi, Hardik Sanghvi and Swagat Sanghvi are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Royal Arc Electrodes Ltd.",
+    "address": "72 B, Bombay Talkies Compound,, S.V. Road, Malad West,, Mumbai, ,, Maharashtra, , 400064, Phone, :, Email, :, Website, :",
+    "phone": "+91 78880 00553",
+    "email": "cs@royalarc.in",
+    "website": "https://royalarc.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "rael.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 1996, Royalarc Electrodes Limited is engaged in the business of manufacturing of welding consumables such as, welding electrodes, flux cored wire, MIG/TIG wires. The company is used welding consumables for welding tanks, boilers, heavy structures, beams, pipes, cylinders, pressure vessels, and more, across industries such as railways, roadways, airports, refineries, shipyards, mining, sugar, telecom, thermal power stations, and PEB sectors. The company is also involved in trading ancillary and incidental products such as wheels, electro slag, welding flux-cored wire, electro slag strip cladding, saw flux, and TIG/MIG wires. The company manufactures products using copper-coated wire, MS strips, MS wire, SS strips, SS wire, nickel wire, and ferro alloy powder at a state-of-the-art facility spread over 269,198 sq. ft. in Zaroli, Umbergaon, Gujarat. The company manufactures standardized and customized products, supplying domestically and exporting to 20+ countries. Products are certified by American Bureau of Shipping (ABS), Indian Boilers Regulation (IBR), Bureau of Indian Standard (BIS), with inspections outsourced to NABL-accredited laboratories. Products: As of December 31, 2024, the company has a total workforce of 144 permanent employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Fedex Securities Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/144/",
+      "title": "About Fedex Securities Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

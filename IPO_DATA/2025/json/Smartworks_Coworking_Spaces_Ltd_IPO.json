@@ -1,0 +1,515 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 10, 2025 to July 14, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 17, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹407 per share"
+    ],
+    [
+      "Lot Size",
+      "36 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,43,22,614shares(aggregating up to ₹582.93Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,09,42,874shares(aggregating up to ₹445.37Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "33,79,740shares of ₹10(aggregating up to ₹137.56Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹37.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "10,31,89,592shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "11,41,32,466shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "71,10,630 (49.65%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "42,66,378 (29.79%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "28,44,252 (19.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "21,33,190 (14.89%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "14,22,127 (9.93%)",
+      "Maximum Allottees": "2,821"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "7,11,063 (4.96%)",
+      "Maximum Allottees": "1,410"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "49,77,442 (34.75%)",
+      "Maximum Allottees": "1,38,262"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "1,01,351 (0.71%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,43,22,613 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 9, 2025"
+    ],
+    [
+      "Shares Offered",
+      "42,66,378"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "173.64"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 13, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 12, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jul 14, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 15, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 16, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 16, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 17, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 14, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "36",
+      "Amount": "₹14,652"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "468",
+      "Amount": "₹1,90,476"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "504",
+      "Amount": "₹2,05,128"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "68",
+      "Shares": "2,448",
+      "Amount": "₹9,96,336"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "69",
+      "Shares": "2,484",
+      "Amount": "₹10,10,988"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "65.19%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "58.25%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "4,650.85",
+      "4,147.08",
+      "4,473.50"
+    ],
+    [
+      "Total Income",
+      "1,409.67",
+      "1,113.11",
+      "744.07"
+    ],
+    [
+      "Profit After Tax",
+      "-63.18",
+      "-49.96",
+      "-101.05"
+    ],
+    [
+      "EBITDA",
+      "857.26",
+      "659.67",
+      "424.00"
+    ],
+    [
+      "Net Worth",
+      "107.51",
+      "50.01",
+      "31.47"
+    ],
+    [
+      "Reserves and Surplus",
+      "4.69",
+      "29.01",
+      "-46.23"
+    ],
+    [
+      "Total Borrowing",
+      "397.77",
+      "427.35",
+      "515.39"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROCE",
+      "Values": "42.30%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.90"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "-58.76%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "62.39%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "38.58"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "-6.12",
+      "Post IPO": "-5.54"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/ prepayment/ redemption, in full or in part, of certain borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "114.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Capital expenditure for fit-outs in the New Centres and for security deposits of the New Centres",
+      "Expected Amount(₹ in crores)": "225.84"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "56.63"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 17, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544447"
+    ],
+    [
+      "NSE Symbol",
+      "SMARTWORKS"
+    ],
+    [
+      "ISIN",
+      "INE0NAZ01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹407 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹407.00",
+      "NSE": "₹407.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹436.10",
+      "NSE": "₹435.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹436.00",
+      "NSE": "₹435.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹469.00",
+      "NSE": "₹469.25"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹445.10",
+      "NSE": "₹445.05"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "6",
+      "Neutral": "2",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "11",
+      "Neutral": "0",
+      "Avoid": "2"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "24.92",
+      "Shares Offered": "28,44,254",
+      "Shares bid for": "7,08,75,864"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "23.68",
+      "Shares Offered": "21,33,190",
+      "Shares bid for": "5,05,06,848"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "28.21",
+      "Shares Offered": "14,22,126",
+      "Shares bid for": "4,01,12,460"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "14.62",
+      "Shares Offered": "7,11,063",
+      "Shares bid for": "1,03,94,388"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "3.69",
+      "Shares Offered": "49,77,442",
+      "Shares bid for": "1,83,80,880"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "2.51",
+      "Shares Offered": "1,01,351",
+      "Shares bid for": "2,54,844"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "13.92",
+      "Shares Offered": "1,00,56,237",
+      "Shares bid for": "14,00,18,436"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Smartworks Coworking Spaces IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2024/smartworks-coworking-spaces-limited_85838.html",
+      "text": "Smartworks Coworking Spaces IPODRHP"
+    },
+    {
+      "title": "Smartworks Coworking Spaces IPO Addendum DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/dec-2024/smartworks-coworking-spaces-limited-addendum-to-drhp_90292.html",
+      "text": "Smartworks Coworking Spaces IPOAddendum DRHP"
+    },
+    {
+      "title": "Smartworks Coworking Spaces IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/smartworks-coworking-spaces-limited-rhp_95069.html",
+      "text": "Smartworks Coworking Spaces IPORHP"
+    },
+    {
+      "title": "Smartworks Coworking Spaces IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/smartworks-coworking-spaces-limited-prospectus_95281.html",
+      "text": "Smartworks Coworking Spaces IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Neetish Sarda, Harsh Binani, Saumya Binani, NS Niketan LLP, SNS Infrareality LLP and Aryadeep Realstates Private Limited are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Smartworks Coworking Spaces Ltd.",
+    "address": "Unit No. 305-310,, Plot No 9, 10 and 11, Vardhman Trade Centre,, Nehru Place, South Delhi,, Delhi, ,, New Delhi, , 110019, Phone, :, Email, :, Website, :",
+    "phone": "+91 83840 62876",
+    "email": "companysecretary@sworks.co.in",
+    "website": "https://www.smartworksoffice.com/home/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "smartwork.ipo@in.mpms.mufg.com",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2015, Smartworks Coworking Spaces Limited is engaged in the business of customized managed workspace solutions, offering fully serviced, tech-enabled office environments with aesthetic designs and essential amenities to meet the specific needs of enterprises and their employees. The company serves mid-to-large enterprises, including Indian corporates, MNCs, and startups, offering modern campuses with design, technology, and amenities like cafeterias, gyms, crèches, and medical centers for employee well-being. As of March 31, 2025, the company had 794 permanent employees.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "BOB Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/48/",
+      "title": "About BOB Capital Markets Ltd."
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "Kotak Mahindra Capital Co.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/12/",
+      "title": "About Kotak Mahindra Capital Co.Ltd."
+    }
+  ],
+  "listing_gain_percent": "6.88%"
+}

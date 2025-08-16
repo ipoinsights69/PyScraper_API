@@ -1,0 +1,500 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 30, 2025 to August 1, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹150 per share"
+    ],
+    [
+      "Lot Size",
+      "100 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "5,28,13,724shares(aggregating up to ₹792.21Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹14.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "43,59,09,986shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "48,87,23,710shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "2,63,33,332 (49.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "1,57,99,999 (29.92%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "1,05,33,333 (19.94%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "79,00,000 (14.96%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "52,66,666 (9.97%)",
+      "Maximum Allottees": "3,761"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "26,33,334 (4.99%)",
+      "Maximum Allottees": "1,880"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,84,33,334 (34.90%)",
+      "Maximum Allottees": "1,84,333"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "1,47,058 (0.28%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "5,28,13,724 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 29, 2025"
+    ],
+    [
+      "Shares Offered",
+      "1,57,99,999"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "237.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 2, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 1, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 1, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "100",
+      "Amount": "₹15,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1,300",
+      "Amount": "₹1,95,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "1,400",
+      "Amount": "₹2,10,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "6,600",
+      "Amount": "₹9,90,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "6,700",
+      "Amount": "₹10,05,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "91.78%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "81.86%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "1,218.60",
+      "736.81",
+      "486.23"
+    ],
+    [
+      "Total Income",
+      "569.28",
+      "466.19",
+      "169.95"
+    ],
+    [
+      "Profit After Tax",
+      "227.89",
+      "119.14",
+      "16.80"
+    ],
+    [
+      "EBITDA",
+      "288.97",
+      "158.55",
+      "20.84"
+    ],
+    [
+      "Net Worth",
+      "932.44",
+      "169.56",
+      "48.36"
+    ],
+    [
+      "Reserves and Surplus",
+      "888.93",
+      "149.60",
+      "28.32"
+    ],
+    [
+      "Total Borrowing",
+      "122.13",
+      "428.24",
+      "328.93"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "24.39%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "27.22%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.13"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "24.39%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "41.46%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "52.57%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.01"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.23",
+      "Post IPO": "4.66"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "28.69",
+      "Post IPO": "32.17"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Investment in the Subsidiaries, Richfeel Real Estate Private Limited, Dhyan Projects Private Limited and Tryksha Real Estate Private Limited for part-funding development and construction cost of their Ongoing Projects, Amalfi, The Arcadian and Varun, respectively",
+      "Expected Amount(₹ in crores)": "550.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544469"
+    ],
+    [
+      "NSE Symbol",
+      "LOTUSDEV"
+    ],
+    [
+      "ISIN",
+      "INE0V9Q01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹150 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹150.00",
+      "NSE": "₹150.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹179.10",
+      "NSE": "₹178.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹176.60",
+      "NSE": "₹176.70"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹197.00",
+      "NSE": "₹195.80"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹196.85",
+      "NSE": "₹195.67"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "18",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "175.61",
+      "Shares Offered": "1,05,33,334",
+      "Shares bid for": "1,84,97,37,200"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "61.82",
+      "Shares Offered": "79,00,000",
+      "Shares bid for": "48,84,14,100"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "59.13",
+      "Shares Offered": "52,66,667",
+      "Shares bid for": "31,14,07,400"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "67.22",
+      "Shares Offered": "26,33,333",
+      "Shares bid for": "17,70,06,700"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "21.77",
+      "Shares Offered": "1,84,33,333",
+      "Shares bid for": "40,12,62,000"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "21.37",
+      "Shares Offered": "1,47,059",
+      "Shares bid for": "31,42,500"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "74.10",
+      "Shares Offered": "3,70,13,726",
+      "Shares bid for": "2,74,25,55,800"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Sri Lotus Developers IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/sri-lotus-developers-and-realty-limited_90557.html",
+      "text": "Sri Lotus Developers IPODRHP"
+    },
+    {
+      "title": "Sri Lotus Developers IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_LOTUSDEV.zip",
+      "text": "Sri Lotus Developers IPORHP"
+    },
+    {
+      "title": "Sri Lotus Developers IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE0V9Q01010_04AUG2025.pdf",
+      "text": "Sri Lotus Developers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the Company are Anand Kamalnayan Pandit, Roopa Anand Pandit and Ashka Anand Pandit.",
+  "company_contact_details": {
+    "company_name": "Sri Lotus Developers & Realty Ltd.",
+    "address": "5th & 6th Floor, Lotus Towe, 1 Jai Hind Society, N S Road No. 12/A,, JVPD Scheme, Juhu,, Mumbai, ,, Maharashtra, , 400049, Phone, :, Email, :, Website, :",
+    "phone": "+91 7506283400",
+    "email": "investors@lotusdevelopers.com",
+    "website": "https://www.lotusdevelopers.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "srilotus.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in February 2015, Sri Lotus Developers and Realty Limited is a developer of residential and commercial properties located in Mumbai, Maharashtra, specializing in redevelopment projects within the ultra-luxury and luxury segments of the western suburbs. As of June 30, 2025, the company possesses a developable area of 0.93 million square feet, encompassing residential and commercial properties. The company's developmental focus is primarily directed towards ultra-luxury and luxury residential properties, in addition to commercial properties, through the following initiatives: As of June 30, 2025, the company has four (4) Completed Projects, five (5) Ongoing Projects and eleven (11) Upcoming Projects.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    },
+    {
+      "name": "Monarch Networth Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/132/",
+      "title": "About Monarch Networth Capital Ltd."
+    }
+  ],
+  "listing_gain_percent": "18.67%"
+}

@@ -1,0 +1,425 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 26, 2025 to June 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "62,00,000shares(aggregating up to ₹43.40Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "14,98,000shares(aggregating up to ₹10.49Cr)Gretex Share Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "47,02,000shares(aggregating up to ₹32.91Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,26,06,336shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,88,06,336shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "14,98,000 (19.46%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "23,50,000 (30.53%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "14,10,000 (18.32%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "9,40,000 (12.21%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,06,000 (9.17%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "16,46,000 (21.38%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "76,98,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 25, 2025"
+    ],
+    [
+      "Shares Offered",
+      "14,10,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "9.87"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 31, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 30, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2,000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2,000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "85.58%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "94.77",
+      "32.56",
+      "8.34"
+    ],
+    [
+      "Total Income",
+      "37.06",
+      "23.38",
+      "7.67"
+    ],
+    [
+      "Profit After Tax",
+      "10.40",
+      "10.09",
+      "1.50"
+    ],
+    [
+      "EBITDA",
+      "28.59",
+      "16.47",
+      "2.28"
+    ],
+    [
+      "Net Worth",
+      "39.45",
+      "11.60",
+      "1.51"
+    ],
+    [
+      "Reserves and Surplus",
+      "26.84",
+      "11.59",
+      "1.50"
+    ],
+    [
+      "Total Borrowing",
+      "41.61",
+      "12.92",
+      "1.66"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "26.35%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "18.49%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.05"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "26.35%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "28.05%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "77.15%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.24"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.25",
+      "Post IPO": "5.53"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "8.49",
+      "Post IPO": "12.66"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Investment in Advanced Camera Solutions",
+      "Expected Amount(₹ in crores)": "25.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/Pre-payment of Certain Debt Facilities",
+      "Expected Amount(₹ in crores)": "9.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "6.07"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "MMEL"
+    ],
+    [
+      "ISIN",
+      "INE0XM301010"
+    ],
+    [
+      "Final Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹70.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹71.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹71.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹74.55"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹74.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "55.23",
+      "Shares Offered": "9,40,000",
+      "Shares bid for": "5,19,12,000",
+      "Total Application": "34"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "126.07",
+      "Shares Offered": "7,06,000",
+      "Shares bid for": "8,90,04,000",
+      "Total Application": "3,978"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "61.18",
+      "Shares Offered": "16,46,000",
+      "Shares bid for": "10,07,04,000",
+      "Total Application": "50,352"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "73.40",
+      "Shares Offered": "32,92,000",
+      "Shares bid for": "24,16,20,000",
+      "Total Application": "54,364"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Moving Media Entertainment IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/krastogi_13012025115732_DRHP_MM.pdf",
+      "text": "Moving Media Entertainment IPODRHP"
+    },
+    {
+      "title": "Moving Media Entertainment IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/moving-media-entertainment-limited_94867.html",
+      "text": "Moving Media Entertainment IPORHP"
+    },
+    {
+      "title": "Moving Media Entertainment IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/MovingMediaEntertainmentLimited_PROSP.pdf",
+      "text": "Moving Media Entertainment IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Kuuldeep Beshawar Nath Bhargava, Mr. Ayush Bhargava, and Ms. Anjali Bhargava.",
+  "company_contact_details": {
+    "company_name": "Moving Media Entertainment Ltd.",
+    "address": "B 39/155, Siddha CHS, Opp. Ozone, Swimming Pool, Siddharth Nagar,, Goregaon West, Mumbai, ,, Maharashtra, , 400104, Phone, :, Email, :, Website, :",
+    "phone": "+91 9820011605",
+    "email": "info@movingmedia.me",
+    "website": "https://www.movingmedia.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in May 2022, Moving Media Entertainment Limited rents camera and lens equipment to the media and entertainment industry. They offer a wide selection of high-quality gear on a returnable basis, enabling filmmakers and production houses to access professional equipment without outright purchases. They serve as a one-stop shop for film and video production camera rental needs. The company serves the media and entertainment sector nationwide. The company's inventory consists of cameras, lenses, lighting, sound equipment, and peripherals like filters, grips, gimbals, and monitors. We strive to stock the latest models from top brands, providing clients with access to advanced technology for their projects. The company's customers include Star India Pvt. Ltd., Celebframe Entertainment Pvt. Ltd., Sunshine Pictures Ltd., Colosceum Media Pvt. Ltd., and SOL Production Pvt. Ltd. The company serves production houses, advertising agencies, filmmakers, television networks, digital creators, and event management firms. These clients depend on its high-quality equipment, reliable service, and expert support. As of January 2025, the company has a total of 16 employees on payroll. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Gretex Corporate Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/123/",
+      "title": "About Gretex Corporate Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "1.43%"
+}

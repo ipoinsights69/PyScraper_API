@@ -1,0 +1,405 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 30, 2025 to June 3, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹50 per share"
+    ],
+    [
+      "Lot Size",
+      "3,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "67,50,000shares(aggregating up to ₹33.75Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,42,000shares(aggregating up to ₹1.71Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "32,10,000shares(aggregating up to ₹16.05Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "31,98,000shares of ₹10(aggregating up to ₹15.99Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "64,08,000shares(aggregating up to ₹32.04Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "2,12,20,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,47,72,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,42,000 (5.07%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "32,04,000 (47.47%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "32,04,000 (47.47%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "67,50,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jun 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jun 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jun 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jun 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 3, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "3,000",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "3,000",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹3,00,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.75%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "152.89",
+      "144.84",
+      "133.04",
+      "130.74"
+    ],
+    [
+      "Total Income",
+      "57.18",
+      "76.40",
+      "72.82",
+      "68.07"
+    ],
+    [
+      "Profit After Tax",
+      "4.20",
+      "4.29",
+      "0.92",
+      "-0.34"
+    ],
+    [
+      "EBITDA",
+      "11.96",
+      "14.99",
+      "9.91",
+      "7.97"
+    ],
+    [
+      "Net Worth",
+      "",
+      "30.91",
+      "26.60",
+      "25.67"
+    ],
+    [
+      "Reserves and Surplus",
+      "",
+      "9.70",
+      "5.41",
+      "4.49"
+    ],
+    [
+      "Total Borrowing",
+      "",
+      "106.55",
+      "98.56",
+      "99.33"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "14.91%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "8.64%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "3.45"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "13.88%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.67%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "19.79%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.43"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.02",
+      "Post IPO": "2.26"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "24.72",
+      "Post IPO": "22.11"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital Expenditure",
+      "Expected Amount(₹ in crores)": "4.43"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "7.15"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "4.44"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Fresh Offer related expenses",
+      "Expected Amount(₹ in crores)": "1.74"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544412"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0TE101010"
+    ],
+    [
+      "Final Issue Price",
+      "₹50 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹50.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹48.50"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹46.08"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹48.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹46.08"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "0.85",
+      "Shares Offered": "32,04,000",
+      "Shares bid for": "27,36,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.75",
+      "Shares Offered": "32,04,000",
+      "Shares bid for": "88,14,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.80",
+      "Shares Offered": "64,08,001",
+      "Shares bid for": "1,15,50,000",
+      "Total Application": "4,661"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "3B Films IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/391368/3B%20FilmsDP_20241112235052.pdf",
+      "text": "3B Films IPODRHP"
+    },
+    {
+      "title": "3B Films IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/3b-films-limited_94271.html",
+      "text": "3B Films IPORHP"
+    },
+    {
+      "title": "3B Films IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/391368/SME_IPO%20Open/Final%20Prospectus_23.05.2025_289_20250527184130.pdf",
+      "text": "3B Films IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Ashokbhai Dhanjibhai Babariya, Mukesh Dhanjibhai Babariya, Gulabben Nitin Babariya, and Dishank Nitin Babariya are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "3B Films Ltd.",
+    "address": "SF 220, Pancham Icon,, Besides D-Mart,, Vasna Road, Vadodara, ,, Gujarat, , 390007, Phone, :, Email, :, Website, :",
+    "phone": "+91-6359 632600",
+    "email": "cs@3bfilms.com",
+    "website": "http://www.3bfilms.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 2014, 3B Films Limited is a Vadodara, Gujarat based company engaged in the manufacturing and supplying of Cast Polypropylene (CPP) and Cast Polyethylene (CPE) films for packaging and thermoforming applications. The company's products include transparent, metalized, white opaque, retort, anti-fog, easy-peel, and EVOH films. With advanced facilities and R&D, it leads in specialty films, offering innovative packaging solutions worldwide. As part of the 3B Group, they emphasize continuous research and development to innovate specialty products. They serve various industries, including food packaging, and have expanded exports to countries like Dubai, Nepal, Sri Lanka, and several African nations. Following early success, the company installed new imported machinery, doubling production capacity to 750 MT monthly (9,000 MT annually). Adding an MDO unit expanded its product range further. Product Portfolio: 1. Cast Polypropylene (CPP) Films:The company produces Cast Polypropylene (CPP) films by blending PP polymers, offering high clarity, strong seals, durability, and moisture resistance. These versatile films are used in specialty packaging like candy wraps and food sealing. 2. Cast Polyethylene (CPE) Films:The company’s Plain CPE Film is a co-extruded polyethylene film with excellent clarity, toughness, and cold resistance. It is ideal for pouching, food packaging, overwrapping, rice bags, and electronic device protection. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Nirbhay Capital Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/407/",
+      "title": "About Nirbhay Capital Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-3.0%"
+}

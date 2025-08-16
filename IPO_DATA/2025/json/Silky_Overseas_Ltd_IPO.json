@@ -1,0 +1,438 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 30, 2025 to July 2, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹161 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "19,05,600shares(aggregating up to ₹30.68Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,13,600shares(aggregating up to ₹5.05Cr)Gretex Share Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "15,92,000shares(aggregating up to ₹25.63Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "44,62,023shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "63,67,623shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,13,600 (16.46%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,95,200 (41.73%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "4,76,800 (25.02%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "3,18,400 (16.71%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "2,39,200 (12.55%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "5,57,600 (29.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "19,05,600 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 27, 2025"
+    ],
+    [
+      "Shares Offered",
+      "4,76,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.68"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 6, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 2, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,28,800"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,28,800"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,57,600"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "86.38%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "60.53%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Jan 2025",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "68.70",
+      "50.69",
+      "40.70",
+      "37.07"
+    ],
+    [
+      "Total Income",
+      "105.35",
+      "70.26",
+      "68.35",
+      "50.17"
+    ],
+    [
+      "Profit After Tax",
+      "9.17",
+      "5.53",
+      "0.98",
+      "-0.42"
+    ],
+    [
+      "EBITDA",
+      "15.08",
+      "11.01",
+      "5.35",
+      "2.97"
+    ],
+    [
+      "Net Worth",
+      "24.31",
+      "15.14",
+      "4.61",
+      "3.59"
+    ],
+    [
+      "Reserves and Surplus",
+      "19.85",
+      "10.68",
+      "0.75",
+      "-0.26"
+    ],
+    [
+      "Total Borrowing",
+      "20.75",
+      "25.72",
+      "28.80",
+      "31.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "36.56%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "39.54%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.70"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "36.56%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "7.94%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.80%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.28"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "12.40",
+      "Post IPO": "17.28"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.98",
+      "Post IPO": "9.32"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Setting up of Additional Storage Facility",
+      "Expected Amount(₹ in crores)": "4.30"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/Pre-payment of Certain Debt Facilities",
+      "Expected Amount(₹ in crores)": "3.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "12.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "6.80"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SILKY"
+    ],
+    [
+      "ISIN",
+      "INE0SN801015"
+    ],
+    [
+      "Final Issue Price",
+      "₹161 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹161.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹171.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹162.45"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹171.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹162.45"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "62.99",
+      "Shares Offered": "3,18,400",
+      "Shares bid for": "2,00,57,600",
+      "Total Application": "47"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "430.21",
+      "Shares Offered": "2,39,200",
+      "Shares bid for": "10,29,05,600",
+      "Total Application": "8,197"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "119.34",
+      "Shares Offered": "5,57,600",
+      "Shares bid for": "6,65,43,200",
+      "Total Application": "83,179"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "169.93",
+      "Shares Offered": "11,15,200",
+      "Shares bid for": "18,95,06,400",
+      "Total Application": "91,423"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Silky Overseas IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SilkyOverseasLimited_DRHP.zip",
+      "text": "Silky Overseas IPODRHP"
+    },
+    {
+      "title": "Silky Overseas IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SilkyOverseasLimited_RHP.pdf",
+      "text": "Silky Overseas IPORHP"
+    },
+    {
+      "title": "Silky Overseas IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SilkyOverseasLimited_PROSP.pdf",
+      "text": "Silky Overseas IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company's promoters are Mr. Sawar Mal Goyal, Mr. Ananya Goyal and M/s. S. M. Goyal & Sons (HUF).",
+  "company_contact_details": {
+    "company_name": "Silky Overseas Ltd.",
+    "address": "F-1, Plot No. A-48, 1st Floor, BLK A, Wazirpur, IND Area Landmark, NR. Opposite Fire Station, Wazir Pur III,, North West Delhi, ,, New Delhi, , 110052, Phone, :, Email, :, Website, :",
+    "phone": "7404088823",
+    "email": "info@silkyoverseas.com",
+    "website": "http://silkyoverseas.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Silky Overseas Limited, incorporated in May 2016, is a home textile manufacturer based in Gohana, Haryana. The company specializes in bedding essentials such asmink blankets, bed sheets,andcomforters, marketed under the brandRian Décor. Its operations span the entire production lifecycle – knitting, dyeing, processing, printing and packaging offering an end-to-end integrated manufacturing setup. Besides its domestic presence, Silky Overseas also exports to regions like theMiddle East. As of May 2025, the company employs 135 employees and is led by experienced promoters with strong industry knowledge. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Gretex Corporate Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/123/",
+      "title": "About Gretex Corporate Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "6.21%"
+}

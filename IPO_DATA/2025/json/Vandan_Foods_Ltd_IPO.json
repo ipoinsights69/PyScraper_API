@@ -1,0 +1,384 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 30, 2025 to July 2, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹115 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "26,40,000shares(aggregating up to ₹30.36Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,32,000shares(aggregating up to ₹1.52Cr)Aftertrade Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "25,08,000shares(aggregating up to ₹28.84Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "57,44,800shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "83,84,800shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,32,000 (5.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "12,54,000 (47.50%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,54,000 (47.50%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "26,40,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 2, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,38,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,38,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,76,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.94%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "66.42%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "31.69",
+      "12.12",
+      "4.74",
+      "4.20"
+    ],
+    [
+      "Total Income",
+      "72.66",
+      "48.73",
+      "11.59",
+      "1.61"
+    ],
+    [
+      "Profit After Tax",
+      "4.54",
+      "2.64",
+      "0.64",
+      "-0.11"
+    ],
+    [
+      "EBITDA",
+      "6.92",
+      "3.65",
+      "0.99",
+      "-0.08"
+    ],
+    [
+      "Net Worth",
+      "14.01",
+      "9.47",
+      "2.18",
+      "-0.05"
+    ],
+    [
+      "Reserves and Surplus",
+      "8.26",
+      "6.60",
+      "2.04",
+      "-0.06"
+    ],
+    [
+      "Total Borrowing",
+      "13.89",
+      "",
+      "0.39",
+      "3.45"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "45.41%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "37.33%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "27.92%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "7.48%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.92"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.60",
+      "Post IPO": "7.21"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "24.98",
+      "Post IPO": "15.94"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To Meet Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "8.57"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Prepayment or repayment of all or a portion of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "3.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding the capital expenditure requirement for expansion of the Dhinoj Facility (CAPEX)",
+      "Expected Amount(₹ in crores)": "8.29"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "7.51"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544436"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0RDJ01019"
+    ],
+    [
+      "Final Issue Price",
+      "₹115 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹115.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹125.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹118.75"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹125.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹118.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "0.41",
+      "Shares Offered": "12,54,000",
+      "Shares bid for": "5,11,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "3.09",
+      "Shares Offered": "12,54,000",
+      "Shares bid for": "38,76,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.75",
+      "Shares Offered": "25,08,001",
+      "Shares bid for": "43,87,200",
+      "Total Application": "3,434"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Vandan Foods IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/323457/Vandan_Draft%20Prospectus_18.12.2024_20241218234224.pdf",
+      "text": "Vandan Foods IPODRHP"
+    },
+    {
+      "title": "Vandan Foods IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/323457/SME_IPO%20Open/Prospectus%20Vandan%20Foods%20Ltd.23.06.2025_20250625160453.pdf",
+      "text": "Vandan Foods IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Kalpeshkumar Bhagavandas Thakkar, Mr. Rakeshkumar Rameshbhai Patel, Mr. Jitendra Rameshbhai Patel, Mrs. Jyotsana Jitendrabhai Patel, and Kalpesh Kumar Thakkar HUF are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Vandan Foods Ltd.",
+    "address": "503/B, Wall Street-1, Opp, Orient Club, Nr. Rly. Crossing,, Ellisbridge, Ahmedabad, ,, Gujarat, , 380006, Phone, :, Email, :, Website, :",
+    "phone": "91-8980121363",
+    "email": "cs@vandanfoods.in",
+    "website": "http://www.vandanfoods.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2015, Vandan Foods Limited is engaged in the manufacturing of Refined F.S.G. Castor Oil and Castor Oiled Cake. The company operates as both B2B and B2C models; the company emphasizes quality control, inventory management, and business development to ensure customer satisfaction. The company supplies its products across Gujarat, Haryana, Andhra Pradesh, Delhi, Bihar, Rajasthan, and Telangana. Its manufacturing facilities are located in Dhinoj Patan, Gujarat, at two specific addresses. Products: As of December 31, 2024, the company has 16 permanent employees. Competitve Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Nirbhay Capital Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/407/",
+      "title": "About Nirbhay Capital Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "8.7%"
+}

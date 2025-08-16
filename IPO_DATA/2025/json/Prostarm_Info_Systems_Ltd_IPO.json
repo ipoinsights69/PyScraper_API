@@ -1,0 +1,471 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 27, 2025 to May 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹105 per share"
+    ],
+    [
+      "Lot Size",
+      "142 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "1,60,00,000shares(aggregating up to ₹168.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,28,74,592shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,88,74,592shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "80,00,000 (71.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "48,00,000 (42.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "32,00,000 (28.57%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "24,00,000 (21.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "16,00,000 (14.29%)",
+      "Maximum Allottees": "804"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "8,00,000 (7.14%)",
+      "Maximum Allottees": "402"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "56,00,000 (50.00%)",
+      "Maximum Allottees": "39,436"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,12,00,000 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 26, 2025"
+    ],
+    [
+      "Shares Offered",
+      "48,00,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "50.40"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "June 28, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 28, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 29, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "142",
+      "Amount": "₹14,910"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1,846",
+      "Amount": "₹1,93,830"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "1,988",
+      "Amount": "₹2,08,740"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "9,514",
+      "Amount": "₹9,98,970"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "9,656",
+      "Amount": "₹10,13,880"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.82%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "230.04",
+      "203.05",
+      "155.39",
+      "98.03"
+    ],
+    [
+      "Total Income",
+      "270.27",
+      "259.23",
+      "232.35",
+      "172.05"
+    ],
+    [
+      "Profit After Tax",
+      "22.11",
+      "22.80",
+      "19.35",
+      "10.87"
+    ],
+    [
+      "EBITDA",
+      "35.89",
+      "36.62",
+      "29.15",
+      "16.57"
+    ],
+    [
+      "Net Worth",
+      "107.24",
+      "84.30",
+      "61.00",
+      "40.95"
+    ],
+    [
+      "Reserves and Surplus",
+      "64.37",
+      "41.42",
+      "18.13",
+      "31.87"
+    ],
+    [
+      "Total Borrowing",
+      "60.37",
+      "43.47",
+      "24.85",
+      "3.21"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "31.41%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "32.41%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.51"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "32.09%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.85%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.20%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.34"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.32",
+      "Post IPO": "5.01"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "19.75",
+      "Post IPO": "20.97"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the Company.",
+      "Expected Amount(₹ in crores)": "72.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Prepayment or repayment of all or a portion of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "17.96"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Achieving inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544410"
+    ],
+    [
+      "NSE Symbol",
+      "PROSTARM"
+    ],
+    [
+      "ISIN",
+      "INE0BX301013"
+    ],
+    [
+      "Final Issue Price",
+      "₹105 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹105.00",
+      "NSE": "₹105.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹125.00",
+      "NSE": "₹120.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹120.00",
+      "NSE": "₹120.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹130.00",
+      "NSE": "₹126.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹126.25",
+      "NSE": "₹126.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "3",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "102.67",
+      "Shares Offered": "32,00,000",
+      "Shares bid for": "32,85,44,690"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "222.13",
+      "Shares Offered": "24,00,000",
+      "Shares bid for": "53,31,06,624"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "249.80",
+      "Shares Offered": "16,00,000",
+      "Shares bid for": "39,96,81,294"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "166.78",
+      "Shares Offered": "8,00,000",
+      "Shares bid for": "13,34,25,330"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "39.48",
+      "Shares Offered": "56,00,000",
+      "Shares bid for": "22,11,12,744"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "96.68",
+      "Shares Offered": "1,12,00,000",
+      "Shares bid for": "1,08,27,64,058"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Prostarm Info Systems IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/prostarm-info-systems-limited_87294.html",
+      "text": "Prostarm Info Systems IPODRHP"
+    },
+    {
+      "title": "Prostarm Info Systems IPO Addendum DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/prostarm-info-systems-limited-addendum-to-drhp_91594.html",
+      "text": "Prostarm Info Systems IPOAddendum DRHP"
+    },
+    {
+      "title": "Prostarm Info Systems IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/prostarm-info-systems-limited-rhp_94084.html",
+      "text": "Prostarm Info Systems IPORHP"
+    },
+    {
+      "title": "Prostarm Info Systems IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE0BX301013_02JUN2025.pdf",
+      "text": "Prostarm Info Systems IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the Company are Ram Agarwal, Sonu Ram Agarwal and Vikas Shyamsunder Agarwal.",
+  "company_contact_details": {
+    "company_name": "Prostarm Info Systems Ltd.",
+    "address": "Plot No. EL 79, Electronic Zone, TTC, MIDC,, Mahape Navi Mumbai, Thane, Mumbai, ,, Maharashtra, , 400710, Phone, :, Email, :, Website, :",
+    "phone": "022 4528 0500",
+    "email": "cs@prostarm.com",
+    "website": "https://prostarm.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "pisl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in January 2008, Prostarm Info Systems Limited is an Indian company specialising in designing, manufacturing, and selling Energy Storage and Power Conditioning Equipment, known as \"Power Solution Products.\" The company manufactures various Power Solution Products, including UPS systems, inverter systems, solar hybrid inverter systems, lithium-ion battery packs, and voltage stabilisers. The company offers customised and standard products, produced in-house and through contract manufacturers. Additionally, they sell third-party batteries and provide reverse logistics, end-of-life disposal services for UPS systems and batteries, and other related products. The company also execute rooftop solar power plant projects in India on an EPC basis. The services of the company include installation, rental options, and after-sales support, such as warranty, post-warranty care, and Annual Maintenance Contracts (AMC), enhancing the value of our products for diverse customers. The company serves diverse industries, including healthcare, aviation, research, BFSI, railways, defence, security, education, renewable energy, IT, and oil & gas. The company's clientele includes the Airports Authority of India; Central Public Works Department, Patna Bihar; Public Works Department, New Delhi; West Bengal Public Health Engineering Department; West Bengal Electronic Industry Development Corporation Limited; Telangana State Technology Services Limited; Railtel Corporation of India Limited; and NTPC Vidyut Vyapar and Nigam Limited As of May 17, 2025, the company's operations are supported by 21 branch offices and 2 storage facilities across 18 states and 1 union territory in India. As of March 31, 2025, the company employed a total of 423 permanent staff members and 19 individuals on a contractual basis. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Choice Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/116/",
+      "title": "About Choice Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "14.29%"
+}

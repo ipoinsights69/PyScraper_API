@@ -1,0 +1,392 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 12, 2025 to August 14, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹85 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "58,17,600shares(aggregating up to ₹49.45Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,91,200shares(aggregating up to ₹2.48Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "44,35,200shares(aggregating up to ₹37.70Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "10,91,200shares of ₹10(aggregating up to ₹9.28Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "55,26,400shares(aggregating up to ₹46.97Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,73,77,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,21,03,900shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,91,200 (4.77%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "56,000 (0.92%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "27,07,200 (44.32%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "18,04,800 (29.54%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "9,02,400 (14.77%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "27,63,200 (45.23%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "61,08,800 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 20, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 14, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,72,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,72,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "4,800",
+      "Amount": "₹4,08,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "11,200",
+      "Amount": "₹9,52,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "12,800",
+      "Amount": "₹10,88,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.68%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "137.54",
+      "93.01",
+      "98.21"
+    ],
+    [
+      "Total Income",
+      "128.69",
+      "105.11",
+      "66.07"
+    ],
+    [
+      "Profit After Tax",
+      "14.87",
+      "11.58",
+      "4.04"
+    ],
+    [
+      "EBITDA",
+      "21.90",
+      "17.00",
+      "9.04"
+    ],
+    [
+      "Net Worth",
+      "70.89",
+      "56.02",
+      "44.44"
+    ],
+    [
+      "Reserves and Surplus",
+      "53.51",
+      "38.65",
+      "43.20"
+    ],
+    [
+      "Total Borrowing",
+      "27.81",
+      "16.13",
+      "43.64"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "23.43%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "30.56 %"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.22"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "23.43%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.91%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "17.55%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.08"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.55",
+      "Post IPO": "6.73"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.94",
+      "Post IPO": "12.64"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "30.40"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB (Ex Anchor)",
+      "Subscription (times)": "43.57",
+      "Shares Offered": "56,000",
+      "Shares bid for": "24,40,000",
+      "Total Application": "5"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "27.02",
+      "Shares Offered": "27,07,200",
+      "Shares bid for": "7,31,55,200",
+      "Total Application": "7,866"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "30.46",
+      "Shares Offered": "18,04,800",
+      "Shares bid for": "5,49,68,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "20.15",
+      "Shares Offered": "9,02,400",
+      "Shares bid for": "1,81,87,200",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "25.59",
+      "Shares Offered": "27,63,200",
+      "Shares bid for": "7,07,20,000",
+      "Total Application": "22,100"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "25.15",
+      "Shares Offered": "58,17,600",
+      "Shares bid for": "14,63,15,200",
+      "Total Application": "29,971"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Mahendra Realtors IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_20022025193950_DRHPFINALMRIL.pdf",
+      "text": "Mahendra Realtors IPODRHP"
+    },
+    {
+      "title": "Mahendra Realtors IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/MahendraRealtors&InfrastructureLimited_RHP.zip",
+      "text": "Mahendra Realtors IPORHP"
+    }
+  ],
+  "promoters": "The company's promoters are Mr. Hemanshu Shah, Mr. Bhavesh Mahendrakumar Shah, Ms. Chandrika Mahendra Shah, Ms. Hetal Bhavesh Shah and Ms. Varsha Hemanshu Shah.",
+  "company_contact_details": {
+    "company_name": "Mahendra Realtors & Infrastructure Ltd.",
+    "address": "603, Quantum Tower, Ram Baug, Opp Dal Mill, Off S.V. Road,, Malad (West), Mumbai, ,, Maharashtra, , 400064, Phone, :, Email, :, Website, :",
+    "phone": "+91 9082850343",
+    "email": "info@mripl.net",
+    "website": "http://www.mripl.net/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "mahendrarealtors.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in June 2007, Mahendra Realtors and Infrastructure Limited provides various services, including Structural Repairs, Rehabilitation, Retrofitting, Waterproofing, Corporate Interiors, BOT Projects, Maintenance, Construction, and Infrastructure Restoration. The company has undertaken several structural repair projects for government departments and public organizations, including CIDCO Vashi and Belapur Railway Stations, using innovative techniques like polymer-modified mortar, micro 138 concrete, and waterproofing. Structural repairs at Ghatkopar secured a Stability Certificate from IIT Bombay, involving steel jacketing, external repairs, and retrofitting. The company has also completed corporate interior projects at IIT Bombay, Airport Authority of India, VVIP Circuit House in Pune, and SVP Hospital in Ahmedabad. The company has completed 200+ projects for 50+ clients, averaging timely completion. The company's services include the following- As of December 31, 2024, the company has ongoing projects in Andhra Pradesh, Delhi, Goa, Gujarat, Maharashtra and Tamil Nadu. As of September 30 2024, the company has 74 employees in various departments. Competitive Strength",
+    "competitive_strengths": [
+      "Structural Repairs and Restoration.",
+      "Waterproofing roofs, walls, and structures to prevent water penetration.",
+      "Corporate Interior executes Civil, Carpentry, HVAC, Firefighting, Plumbing, Painting, Data Networking, Audiovisual, and Furniture work, enhancing commercial spaces with careful planning.",
+      "Build and Operate Transfer Contractors.",
+      "Maintenance of buildings, bridges, Facilities, etc.",
+      "Repairs and retrofitting of infrastructure like bridges and culverts.",
+      "Construction contracts from government authorities to undertake building projects."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Fast Track Finsec Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/161/",
+      "title": "About Fast Track Finsec Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

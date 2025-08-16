@@ -1,0 +1,438 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 26, 2025 to June 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹87 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "46,32,000shares(aggregating up to ₹40.30Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,40,000shares(aggregating up to ₹2.09Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "43,92,000shares(aggregating up to ₹38.21Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,28,71,686shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,75,03,686shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,40,000 (5.18%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "21,95,200 (47.39%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "13,16,800 (28.43%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "8,78,400 (18.96%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,59,200 (14.23%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "15,37,600 (33.20%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "46,32,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 25, 2025"
+    ],
+    [
+      "Shares Offered",
+      "13,16,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "11.46"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 31, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 30, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,39,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,39,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,78,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "68.40%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "50.30%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "66.15",
+      "46.41",
+      "37.50",
+      "32.95"
+    ],
+    [
+      "Total Income",
+      "130.05",
+      "110.94",
+      "96.26",
+      "86.25"
+    ],
+    [
+      "Profit After Tax",
+      "12.24",
+      "9.44",
+      "6.35",
+      "4.28"
+    ],
+    [
+      "EBITDA",
+      "17.06",
+      "14.37",
+      "10.10",
+      "7.36"
+    ],
+    [
+      "Net Worth",
+      "36.91",
+      "24.72",
+      "15.37",
+      "8.23"
+    ],
+    [
+      "Reserves and Surplus",
+      "24.56",
+      "12.33",
+      "15.75",
+      "9.40"
+    ],
+    [
+      "Total Borrowing",
+      "2.05",
+      "3.82",
+      "0.62",
+      "1.55"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "39.71%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "45.55%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.06"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "33.15%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.41%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "13.19%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.03"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.51",
+      "Post IPO": "6.99"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.15",
+      "Post IPO": "12.44"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment of a portion of certain borrowing availed by the Company",
+      "Expected Amount(₹ in crores)": "2.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding capital expenditure towards setting-up of 3 new Showroom cum experience centres (“Showroom”)",
+      "Expected Amount(₹ in crores)": "7.18"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "To meet Working Capital requirements",
+      "Expected Amount(₹ in crores)": ""
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "PROFX"
+    ],
+    [
+      "ISIN",
+      "INE0VJT01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹87 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹87.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹95.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹95.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹99.75"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹99.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "22.03",
+      "Shares Offered": "8,78,400",
+      "Shares bid for": "1,93,50,400",
+      "Total Application": "15"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "56.36",
+      "Shares Offered": "6,59,200",
+      "Shares bid for": "3,71,50,400",
+      "Total Application": "948"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "14.09",
+      "Shares Offered": "15,37,600",
+      "Shares bid for": "2,16,67,200",
+      "Total Application": "13,542"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "25.42",
+      "Shares Offered": "30,75,200",
+      "Shares bid for": "7,81,68,000",
+      "Total Application": "14,505"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "PRO FX Tech IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_21092024133642_PROFX_DRHP_20092024_Combined.pdf",
+      "text": "PRO FX Tech IPODRHP"
+    },
+    {
+      "title": "PRO FX Tech IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/ProFXTechLimited_RHP.pdf",
+      "text": "PRO FX Tech IPORHP"
+    },
+    {
+      "title": "PRO FX Tech IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/ProFXTechLimited_PROSP.pdf",
+      "text": "PRO FX Tech IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Manmohan Ganesh and Shreya Nambiar.",
+  "company_contact_details": {
+    "company_name": "PRO FX Tech Ltd.",
+    "address": "PROFX Global Theatre, Ground Floor, 84, Barton Centre,, Mahatma Gandhi Road,, Bangalore Urban, ,, Karnataka, , 560001, Phone, :, Email, :, Website, :",
+    "phone": "+91 8041122539",
+    "email": "info@profx.com",
+    "website": "https://profx.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Established in 2006, PRO FX Tech Limited distributes AV products like amplifiers, processors, turntables, audio streamers, speakers, subwoofers, sound bars, and cables. The company designs custom AV solutions for home theatres, automation, multi-room audio, and corporate clients. The company sells products to brands like Denon, Polk, and JBL, providing distribution rights to ensure access to the latest AV innovations and high-quality international products. The company runs seven showrooms and two experience Centres in six Indian cities: Ernakulum, Mysore, Mumbai, Bangalore, Coimbatore, and Chennai, showcasing its product range. As of August 31, 2024, the company employs a total of 104 individuals, which includes 49 personnel in the sales and marketing department and 43 individuals in the technical support division. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "9.2%"
+}

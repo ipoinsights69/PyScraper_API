@@ -1,0 +1,408 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 12, 2025 to August 14, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹5per share"
+    ],
+    [
+      "Issue Price",
+      "₹102 per share"
+    ],
+    [
+      "Lot Size",
+      "144 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "3,00,00,235shares(aggregating up to ₹306.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "2,05,88,235shares(aggregating up to ₹210.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "94,12,000shares of ₹5(aggregating up to ₹96.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "8,21,35,940shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "10,27,24,175shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,50,00,118 (50.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "89,99,856 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "60,00,262 (20.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "45,00,035 (15.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "30,00,024 (10.00%)",
+      "Maximum Allottees": "1,488"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "15,00,012 (5.00%)",
+      "Maximum Allottees": "744"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,05,00,082 (35.00%)",
+      "Maximum Allottees": "72,917"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "3,00,00,235 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 11, 2025"
+    ],
+    [
+      "Shares Offered",
+      "89,99,856"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "91.80"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 17, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 16, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 20, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 14, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "144",
+      "Amount": "₹14,688"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1,872",
+      "Amount": "₹1,90,944"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "2,016",
+      "Amount": "₹2,05,632"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "68",
+      "Shares": "9,792",
+      "Amount": "₹9,98,784"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "69",
+      "Shares": "9,936",
+      "Amount": "₹10,13,472"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.56%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.45%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "860.27",
+      "585.97",
+      "371.52"
+    ],
+    [
+      "Total Income",
+      "917.58",
+      "601.08",
+      "488.67"
+    ],
+    [
+      "Profit After Tax",
+      "47.67",
+      "22.14",
+      "16.76"
+    ],
+    [
+      "EBITDA",
+      "112.79",
+      "56.37",
+      "40.67"
+    ],
+    [
+      "Net Worth",
+      "235.41",
+      "126.61",
+      "104.41"
+    ],
+    [
+      "Reserves and Surplus",
+      "202.44",
+      "125.12",
+      "102.92"
+    ],
+    [
+      "Total Borrowing",
+      "507.05",
+      "357.21",
+      "188.93"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "20.25%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "14.17%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.08"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "20.25%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.19%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.32%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.18"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.80",
+      "Post IPO": "4.64"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "17.58",
+      "Post IPO": "21.98"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment and/ or pre-payment, in full or in part, of the certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "159.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "13",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB (Ex Anchor)",
+      "Subscription (times)": "190.96",
+      "Shares Offered": "60,00,262",
+      "Shares bid for": "1,14,57,89,712"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "356.72",
+      "Shares Offered": "45,00,035",
+      "Shares bid for": "1,60,52,43,888"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "387.71",
+      "Shares Offered": "30,00,024",
+      "Shares bid for": "1,16,31,40,416"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "294.73",
+      "Shares Offered": "15,00,012",
+      "Shares bid for": "44,21,03,472"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "57.75",
+      "Shares Offered": "1,05,00,082",
+      "Shares bid for": "60,63,29,712"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "159.87",
+      "Shares Offered": "2,10,00,379",
+      "Shares bid for": "3,35,73,63,312"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Regaal Resources IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/regaal-resources-limited_90544.html",
+      "text": "Regaal Resources IPODRHP"
+    },
+    {
+      "title": "Regaal Resources IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/regaal-resources-limited-rhp_95894.html",
+      "text": "Regaal Resources IPORHP"
+    }
+  ],
+  "promoters": "The promoters of the company are Anil Kishorepuria, Shruti Kishorepuria, Karan Kishorepuria and BFL Private Limited.",
+  "company_contact_details": {
+    "company_name": "Regaal Resources Ltd.",
+    "address": "6th Floor, D2/2, Block-EP & GP,, Sector-V, Kolkata, ,, West Bengal, , 700091, Phone, :, Email, :, Website, :",
+    "phone": "033 3522 2405",
+    "email": "cs@regaal.in",
+    "website": "https://regaalresources.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "regaalresources.ipo@in.mpms.mufg.com",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2012, Regal Resources Limited manufactures maize specialty products in India, with a crushing capacity of 750 tonnes per day. The company manufactures the following products:- The manufacturing unit is located in Kishanganj, Bihar, spanning 54.03 acres with zero liquid discharge. The company exports its products to Nepal and Bangladesh. The company caters to domestic and international customers across diverse industries including food products, paper, animal feed, and adhesives. The company's model caters to three customer segments: The company's clients include Emami Paper Mills Limited, Manioca Food Products Private Limited, Century Pulp & Paper, Kush Proteins Private Limited, Shri Guru Oil Industries, Mayank Cattle Food Limited, Aarnav Sales Corporation, AMV Sales Corporation, Eco Tech Papers, Genus Paper Board Private Limited, Krishna Tissues Private Limited, Maruti Papers Private Limited, and M/s Vasu and Sons. As of May 31, 2025, the company employed 491 people in various departments. Competitive Strength",
+    "competitive_strengths": [
+      "End product manufacturers,",
+      "Intermediate product manufacturers and",
+      "Distributors/wholesale traders."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/107/",
+      "title": "About Pantomath Capital Advisors Pvt.Ltd."
+    },
+    {
+      "name": "Sumedha Fiscal Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/419/",
+      "title": "About Sumedha Fiscal Services Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

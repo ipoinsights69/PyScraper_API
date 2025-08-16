@@ -1,0 +1,455 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 13, 2025 to January 15, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 20, 2025"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price",
+      "₹428 per share"
+    ],
+    [
+      "Lot Size",
+      "33 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,63,09,766shares(aggregating up to ₹698.06Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "32,24,299shares(aggregating up to ₹138.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "1,30,85,467shares of ₹2(aggregating up to ₹560.06Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "5,17,37,850shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,49,62,149shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,22,32,326 (136.36%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "73,39,395 (81.82%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "48,92,931 (54.55%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "24,46,464 (27.27%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "16,30,976 (18.18%)",
+      "Maximum Allottees": "3,294"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "8,15,488 (9.09%)",
+      "Maximum Allottees": "1,647"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "16,30,976 (18.18%)",
+      "Maximum Allottees": "49,423"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "89,70,371 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 10, 2025"
+    ],
+    [
+      "Shares Offered",
+      "73,39,395"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "314.13"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "February 14, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 15, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jan 13, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jan 15, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jan 16, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jan 17, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jan 17, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jan 20, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 15, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "33",
+      "Amount": "₹14,124"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "14",
+      "Shares": "462",
+      "Amount": "₹1,97,736"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "15",
+      "Shares": "495",
+      "Amount": "₹2,11,860"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "70",
+      "Shares": "2,310",
+      "Amount": "₹9,88,680"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "71",
+      "Shares": "2,343",
+      "Amount": "₹10,02,804"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "46.56%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "41.7%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "158.22",
+      "134.52",
+      "96.54",
+      "102.75"
+    ],
+    [
+      "Total Income",
+      "117.9",
+      "195.26",
+      "163.84",
+      "138.07"
+    ],
+    [
+      "Profit After Tax",
+      "22.74",
+      "25.23",
+      "-4.16",
+      "-18.68"
+    ],
+    [
+      "Net Worth",
+      "67.09",
+      "44.57",
+      "19.48",
+      "22.94"
+    ],
+    [
+      "Total Borrowing",
+      "40.91",
+      "42.03",
+      "31.44",
+      "29.63"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "78.78%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "19.97%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.94"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "78.78%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "13.03%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "49.59"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.88",
+      "Post IPO": "8.27"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "87.77",
+      "Post IPO": "51.73"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 20, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544339"
+    ],
+    [
+      "NSE Symbol",
+      "LAXMIDENTL"
+    ],
+    [
+      "ISIN",
+      "INE0WO601020"
+    ],
+    [
+      "Final Issue Price",
+      "₹428 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹428.00",
+      "NSE": "₹428.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹528.00",
+      "NSE": "₹542.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹524.80",
+      "NSE": "₹525.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹583.70",
+      "NSE": "₹584.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹550.65",
+      "NSE": "₹550.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "3",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "110.38",
+      "Shares Offered": "48,92,931",
+      "Shares bid for": "54,00,81,366"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "147.69",
+      "Shares Offered": "24,46,464",
+      "Shares bid for": "36,13,21,158"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "167.68",
+      "Shares Offered": "16,30,976",
+      "Shares bid for": "27,34,89,216"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "107.7",
+      "Shares Offered": "8,15,488",
+      "Shares bid for": "8,78,31,942"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "75.1",
+      "Shares Offered": "16,30,976",
+      "Shares bid for": "12,24,80,688"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "114.14",
+      "Shares Offered": "89,70,371",
+      "Shares bid for": "1,02,38,83,212"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Laxmi Dental IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/sep-2024/laxmi-dental-limited_86796.html",
+      "text": "Laxmi Dental IPODRHP"
+    },
+    {
+      "title": "Laxmi Dental IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/laxmi-dental-limited-prospectus_90968.html",
+      "text": "Laxmi Dental IPORHP"
+    },
+    {
+      "title": "Laxmi Dental IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/laxmi-dental-limited-prospectus_90968.html",
+      "text": "Laxmi Dental IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Rajesh Vrajlal Khakhar, Sameer Kamlesh Merchant and Dharmesh Bhupendra Dattani are the promoters of the company.n",
+  "company_contact_details": {
+    "company_name": "Laxmi Dental Ltd.",
+    "address": "Office No. 103, Akruti Arcade,, J. P. Road, Opposite A.H. Wadia High School, Andheri (West), Mumbai, 400058, Andheri, ,, Maharashtra, Phone, :, Email, :, Website, :",
+    "phone": "+91 226143799",
+    "email": "co.sec@laxmidentallimited.com",
+    "website": "https://www.laxmidentallimited.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "laxmidental.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in July 2004, Laxmi Dental Limited is an integrated dental products company. The company offers custom crowns and bridges, branded dental items like clear aligners and thermoforming sheets, aligner-related products as part of its aligner solutions, and pediatric dental products. Their product portfolio includes custom crowns and bridges, clear aligners, thermoforming sheets, pediatric dental products, and more. The company offers thermoforming sheets, biocompatible 3D printing resins, and machines for manufacturing clear aligners under the brand nameTaglus. The company operate a fully integrated model, meaning they handle the entire process from design and manufacturing to distribution of dental products. As of September 30, 2024, the company has six manufacturing facilities: three in Mira Road, Mumbai, two in Boisar, and one in Kochi, along with five supporting facilities in Mumbai, Delhi, Bengaluru, and Ahmedabad. As of September 30, 2024, the company’s dental network includes over 22,000 clinics and dentists across more than 320 cities nationwide. The company has significant presence in both domestic and international markets, exporting to over 90 countries. As of September 30, 2024, the company had 2,372 employees in various departments. Competitive strengths",
+    "competitive_strengths": [
+      "The only integrated dental products company in India, well-positioned to capture industry tailwinds;",
+      "Second largest player in domestic laboratory business and largest export laboratory with increasing adoption of digital dentistry;",
+      "Vertically integrated diverse branded product portfolio;",
+      "Large Dental Network provide a competitive advantage in the market;",
+      "Robust technologically advanced capabilities with stringent regulatory compliance ensuring high quality standards."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Nuvama Wealth Management Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/408/",
+      "title": "About Nuvama Wealth Management Ltd."
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    },
+    {
+      "name": "SBI Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/21/",
+      "title": "About SBI Capital Markets Ltd."
+    }
+  ],
+  "listing_gain_percent": "26.64%"
+}

@@ -1,0 +1,432 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 18, 2025 to June 20, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 25, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "61,00,800shares(aggregating up to ₹58.57Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,06,000shares(aggregating up to ₹2.94Cr)R.K.Stock Holding Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "46,94,400shares(aggregating up to ₹45.07Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "11,00,400shares of ₹10(aggregating up to ₹10.56Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "57,94,800shares(aggregating up to ₹55.63Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,81,50,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,31,50,400shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,06,000 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "28,95,600 (47.46%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "17,36,400 (28.46%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,59,200 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,70,000 (14.26%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "20,29,200 (33.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "61,00,800 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 17, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,36,400"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "16.67"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 23, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 21, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 23, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 20, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,30,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.85%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.53%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "70.30",
+      "41.10",
+      "28.30"
+    ],
+    [
+      "Total Income",
+      "104.99",
+      "100.10",
+      "76.07"
+    ],
+    [
+      "Profit After Tax",
+      "13.37",
+      "11.22",
+      "7.20"
+    ],
+    [
+      "Net Worth",
+      "36.15",
+      "22.87",
+      "11.65"
+    ],
+    [
+      "Reserves and Surplus",
+      "18.00",
+      "22.85",
+      "11.63"
+    ],
+    [
+      "Total Borrowing",
+      "0.22",
+      "0.32",
+      "0.80"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "36.98%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "49.17%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.01"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "36.98%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "12.75%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "19.62%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.82"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.36",
+      "Post IPO": "5.77"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.04",
+      "Post IPO": "16.63"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirements for setting up of manufacturing facility for Nutraceutical Division",
+      "Expected Amount(₹ in crores)": "22.60"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding capital expenditure requirements for setting up of manufacturing facility for Veterinary Food Division",
+      "Expected Amount(₹ in crores)": "11.59"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Purchase of Machineries for Homecare and Cosmetic Division",
+      "Expected Amount(₹ in crores)": "2.76"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 25, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "INFLUX"
+    ],
+    [
+      "ISIN",
+      "INE0MYZ01012"
+    ],
+    [
+      "Final Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹96.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹132.50"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹125.90"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹135.85"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹126.20"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "137.87",
+      "Shares Offered": "11,59,200",
+      "Shares bid for": "15,98,18,400",
+      "Total Application": "99"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "481.10",
+      "Shares Offered": "8,70,000",
+      "Shares bid for": "41,85,55,200",
+      "Total Application": "21,199"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "117.68",
+      "Shares Offered": "20,29,200",
+      "Shares bid for": "23,87,97,600",
+      "Total Application": "1,98,998"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "201.35",
+      "Shares Offered": "40,58,400",
+      "Shares bid for": "81,71,71,200",
+      "Total Application": "2,20,296"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Influx Healthtech IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_5364_14052025213311.zip",
+      "text": "Influx Healthtech IPODRHP"
+    },
+    {
+      "title": "Influx Healthtech IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/influx-healthtech-limited_94559.html",
+      "text": "Influx Healthtech IPORHP"
+    },
+    {
+      "title": "Influx Healthtech IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/InfluxHealthtechLimited_PROSP.pdf",
+      "text": "Influx Healthtech IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Munir Abdul Ganee Chandniwala, Mrs. Shirin Munir Ahmed Chandniwala and Mr. Abdul Ganee Abdul Rasul Chandniwala.",
+  "company_contact_details": {
+    "company_name": "Influx Healthtech Ltd.",
+    "address": "109, Ghanshyam Enclave Premises Co-op, Soc Plot No. 856, Laljipada, Kandivali West,, Mumbai, ,, Maharashtra, , 400067, Phone, :, Email, :, Website, :",
+    "phone": "+91 7045997809",
+    "email": "cs@influxhealthtech.com",
+    "website": "https://influxhealthtech.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "investor.ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in September 2020, Influx Healthtech Limited is a healthcare-focused company specialising in contract manufacturing. The company is a reliable CDMO, providing specialized services to clients in multiple industries. The company has three manufacturing facilities in Thane, Maharashtra, each covering an area of 9,676 square feet, 13,000 square feet, and 14,000 square feet, respectively. Product Portfolio: The Company aids Nutraceutical and Cosmetic firms with product development and manufacturing. It offers end-to-end services, including development, production, and regulatory support, enabling clients to focus on formulation and commercialization. As of June 11, 2025, the company has 163 permanent employees on a payroll basis. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Rarever Financial Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/447/",
+      "title": "About Rarever Financial Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "38.02%"
+}

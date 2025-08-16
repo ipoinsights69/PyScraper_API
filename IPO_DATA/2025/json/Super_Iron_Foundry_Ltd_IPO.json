@@ -1,0 +1,381 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 11, 2025 to March 13, 2025"
+    ],
+    [
+      "Listing Date",
+      "March 19, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹108 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "63,01,200shares(aggregating up to ₹68.05Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,15,600shares(aggregating up to ₹3.41Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "59,85,600shares(aggregating up to ₹64.64Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,70,92,473shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,33,93,673shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,15,600 (5.01%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "29,92,800 (47.50%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "29,92,800 (47.50%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "63,01,200 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Mar 11, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Mar 13, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Mar 17, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Mar 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Mar 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Mar 19, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMarch 13, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,29,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,29,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,59,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.53%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.53%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "226.62",
+      "232.32",
+      "209.2",
+      "197.75"
+    ],
+    [
+      "Total Income",
+      "94.91",
+      "156.87",
+      "126.23",
+      "132.31"
+    ],
+    [
+      "Profit After Tax",
+      "9.53",
+      "3.94",
+      "1.28",
+      "0.88"
+    ],
+    [
+      "Net Worth",
+      "70.59",
+      "56.56",
+      "52.62",
+      "51.33"
+    ],
+    [
+      "Reserves and Surplus",
+      "53.5",
+      "40.06",
+      "36.12",
+      "34.83"
+    ],
+    [
+      "Total Borrowing",
+      "110.96",
+      "118.63",
+      "120.44",
+      "125.72"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "7.53%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "7.22%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "6.26"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "6.97%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "394.07%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.15"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.31",
+      "Post IPO": "5.43"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "46.84",
+      "Post IPO": "19.89"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of working capital requirements of the company",
+      "Expected Amount(₹ in crores)": "29.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/pre-payment, in full or in part, of certain borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "16.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "15.24"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "March 19, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544381"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE16IQ01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹108 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹108.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹107.95"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹102.60"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹107.95"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹102.60"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.34",
+      "Shares Offered": "29,92,800",
+      "Shares bid for": "40,08,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.79",
+      "Shares Offered": "29,92,800",
+      "Shares bid for": "53,55,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.56",
+      "Shares Offered": "59,85,601",
+      "Shares bid for": "93,63,600",
+      "Total Application": "6,315"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Super Iron Foundry IPO DRHP",
+      "href": "https://www.bsesme.com/download/332499/DP%20with%20Adendum_20250206135532.pdf",
+      "text": "Super Iron Foundry IPODRHP"
+    },
+    {
+      "title": "Super Iron Foundry IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/Prospectus%20and%20GID_070320251158.zip",
+      "text": "Super Iron Foundry IPORHP"
+    },
+    {
+      "title": "Super Iron Foundry IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/332499/SME_IPO%20Open/Prospectus%20Super%20Iron_Filing%20version_20250305132944.pdf",
+      "text": "Super Iron Foundry IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Abhishek Saklecha, Akhilesh Saklecha, Neha Saklecha and Priyanka Saklecha.",
+  "company_contact_details": {
+    "company_name": "Super Iron Foundry Ltd.",
+    "address": "Aspiration Vintage, 12, Pretoria Street,1 st Floor, Suite 1B,, Kolkata – 700071, Kolkata, ,, West Bengal, Phone, :, Email, :, Website, :",
+    "phone": "+ 91 334060305",
+    "email": "cs@superironfoundry.com",
+    "website": "https://www.superironfoundry.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "superiron.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in July 1988, Super Iron Foundry Limited manufactures municipal castings, ductile iron pipe fittings, automotive castings, agricultural castings (rollers and crosskills), railway castings, and cast-iron counterweights. The company's products are utilized in significant construction projects to supply access covers for stormwater, sewerage, telecommunications, and other utility networks. The company's products includes:- The company manufactures and exports covers globally, meeting international standards like EN124. The company's product applications include automotive and agricultural equipment, focusing on weight balancing and stability. The modern robotic production facility ensures quality and sustainability, making us the preferred choice for customers seeking a one-stop shop for all casting needs. The company's products are exported in European and Middle Eastern markets. The Company has provided design solutions and castings for prestigious Middle East projects such as the New Hamad Port Project, New Turkish Air Base, Airport expansion in Oman, Dubai South, Lusail FIFA Stadium, and Al Barwah in Doha. Business in the Middle East sees no seasonality, except during Ramadan when construction slows. The company's manufacturing facility and warehouse is situated in Durgapur, West Bengal, cover about 20 acres. The manufacturing facility is ISO 9001:2015 and ISO 14001:2018 certified for quality, health, safety, and environmental management, producing ductile and grey iron castings for municipal, sanitary, automotive, agricultural, waterworks, railway, and electrical transmission and distribution. Competitive Strength:-",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Horizon Management Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/406/",
+      "title": "About Horizon Management Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-0.05%"
+}

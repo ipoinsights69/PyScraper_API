@@ -1,0 +1,432 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 28, 2025 to May 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 4, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹122 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "60,00,000shares(aggregating up to ₹73.20Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,00,000shares(aggregating up to ₹3.66Cr)Spread X Securities Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "57,00,000shares(aggregating up to ₹69.54Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,66,53,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,26,53,500shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,00,000 (5.00%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "28,49,000 (47.48%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "17,09,000 (28.48%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,40,000 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,55,000 (14.25%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,96,000 (33.27%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "60,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 27, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,09,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "20.85"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 1, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 30, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jun 4, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 30, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,44,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,44,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,000",
+      "Amount": "₹3,66,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "8,000",
+      "Amount": "₹9,76,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "9,000",
+      "Amount": "₹10,98,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.3%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.3%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "117.00",
+      "120.95",
+      "107.88",
+      "97.51"
+    ],
+    [
+      "Total Income",
+      "620.16",
+      "675.97",
+      "709.31",
+      "82.16"
+    ],
+    [
+      "Profit After Tax",
+      "19.47",
+      "20.82",
+      "10.39",
+      "0.68"
+    ],
+    [
+      "Net Worth",
+      "61.23",
+      "31.90",
+      "11.08",
+      "0.69"
+    ],
+    [
+      "Reserves and Surplus",
+      "44.57",
+      "31.89",
+      "11.07",
+      "0.68"
+    ],
+    [
+      "Total Borrowing",
+      "0.16",
+      "0.00",
+      "5.12",
+      "0.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "65.00%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "65.00%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "65.25%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "3.12%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "3.04%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.37"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "13.87",
+      "Post IPO": ""
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "8.79",
+      "Post IPO": ""
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirement towards installation of additional plant and machinery and related infrastructure",
+      "Expected Amount(₹ in crores)": "5.15"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding the capital expenditure for purchase of office space",
+      "Expected Amount(₹ in crores)": "14.75"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "42.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Expenses",
+      "Expected Amount(₹ in crores)": "9.40"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 4, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "NEPTUNE"
+    ],
+    [
+      "ISIN",
+      "INE156901014"
+    ],
+    [
+      "Final Issue Price",
+      "₹122 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹122.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹132.75"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹132.50"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹139.35"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹139.35"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "7.12",
+      "Shares Offered": "11,40,000",
+      "Shares bid for": "81,16,000",
+      "Total Application": "11"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "2.91",
+      "Shares Offered": "28,50,000",
+      "Shares bid for": "82,95,000",
+      "Total Application": "2,553"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "4.11",
+      "Shares Offered": "39,90,000",
+      "Shares bid for": "1,64,11,000",
+      "Total Application": "2,564"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Neptune Petrochemicals IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/sshetye_28032025185056_DRHP_Neptune_Petrochemicals_Limited_18032025_.pdf",
+      "text": "Neptune Petrochemicals IPODRHP"
+    },
+    {
+      "title": "Neptune Petrochemicals IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/neptune-petrochemicals-limited_94875.html",
+      "text": "Neptune Petrochemicals IPORHP"
+    },
+    {
+      "title": "Neptune Petrochemicals IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/neptune-petrochemicals-limited_94873.html",
+      "text": "Neptune Petrochemicals IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Pareshkumar Subodhchandra Shah, Mrs. Riddhi Pareshkumar Shah and Mr. Sanjaykumar Subodhchandra Shah.",
+  "company_contact_details": {
+    "company_name": "Neptune Petrochemicals Ltd.",
+    "address": "Block-B, Office No. 606, Mondeal Heights Nr., Panchratna Party Plot, S. G. Highway,, Ahmedabad, ,, Gujarat, , 380015, Phone, :, Email, :, Website, :",
+    "phone": "+91-79 49000599",
+    "email": "info@neptunepetrochemicals.com",
+    "website": "https://neptunepetrochemicals.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "neptunepetrochemicals.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in October 2021, Neptune Petrochemicals Limited manufactures and trades a range of bitumen products and emulsions. The company's product portfolio encompasses various grades of bitumen, including polymer-modified bitumen and crumb-rubber-modified bitumen. The company serves diverse industries, particularly construction and industrial applications. The company has three manufacturing units, Unit I is situated in Ahmedabad, Gujarat, Unit II in Panipat, Haryana,and Unit III in Kamrup, Assam. The company also trades bitumen and fuel oils, sourcing from reputable suppliers to ensure quality and meet customer needs. The company holds 2015 certifications in Quality Management (ISO), Environmental Management (ISO), and Occupational Health & Safety (OHSAS 2018). Neptune meets global standards and follows essential procedures to produce high-quality, innovative product operations. The company exports its products to Nepal and Bhutan, and it sells in India. As of December 31, 2024 the Company had 59 employees on its payroll. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "8.81%"
+}

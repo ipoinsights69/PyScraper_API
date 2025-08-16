@@ -1,0 +1,405 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 21, 2025 to February 25, 2025"
+    ],
+    [
+      "Listing Date",
+      "March 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹175 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "34,24,800shares(aggregating up to ₹59.93Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,76,000shares(aggregating up to ₹3.08Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "32,48,800shares(aggregating up to ₹56.85Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "94,96,333shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,29,21,133shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,76,000 (5.14%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "16,21,600 (47.35%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "9,68,000 (28.26%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "6,53,600 (19.08%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,88,800 (14.27%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "11,38,400 (33.24%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "34,24,800 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 20, 2025"
+    ],
+    [
+      "Shares Offered",
+      "9,68,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "16.94"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "March 28, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Feb 21, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Feb 25, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Feb 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Feb 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Feb 28, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Mar 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 25, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.02%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.57%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "82.09",
+      "68.99",
+      "61.63",
+      "42.3"
+    ],
+    [
+      "Total Income",
+      "101.44",
+      "187.9",
+      "229.17",
+      "141.91"
+    ],
+    [
+      "Profit After Tax",
+      "8.33",
+      "4.87",
+      "2.94",
+      "2.74"
+    ],
+    [
+      "Net Worth",
+      "31.12",
+      "23.2",
+      "14.34",
+      "10.45"
+    ],
+    [
+      "Reserves and Surplus",
+      "21.63",
+      "13.7",
+      "6.95",
+      "3.7"
+    ],
+    [
+      "Total Borrowing",
+      "39.66",
+      "36.94",
+      "43.29",
+      "23.93"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "25.93%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "16.20%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.59"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "20.89%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "2.61%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.05"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.12",
+      "Post IPO": "12.89"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "34.15",
+      "Post IPO": "13.57"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "March 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544369"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE13VU01016"
+    ],
+    [
+      "Final Issue Price",
+      "₹175 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹175.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹146.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹146.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹153.30"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹153.30"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "11.52",
+      "Shares Offered": "6,53,600",
+      "Shares bid for": "75,30,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "4.65",
+      "Shares Offered": "4,88,800",
+      "Shares bid for": "22,74,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.26",
+      "Shares Offered": "11,38,400",
+      "Shares bid for": "25,68,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "5.43",
+      "Shares Offered": "22,80,800",
+      "Shares bid for": "1,23,73,600",
+      "Total Application": "4,645"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Beezaasan Explotech IPO DRHP",
+      "href": "https://www.bsesme.com/download/323425/DRHPBeezaasanExplotechLimited_20241130223137.pdf",
+      "text": "Beezaasan Explotech IPODRHP"
+    },
+    {
+      "title": "Beezaasan Explotech IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_Beezaasan%20Explotech%20Limited_170220251453.zip",
+      "text": "Beezaasan Explotech IPORHP"
+    },
+    {
+      "title": "Beezaasan Explotech IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/323425/SME_IPO%20BasisOfAllotment/Prospectus_20250227125516.pdf",
+      "text": "Beezaasan Explotech IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company's promoters are Mr Navneetkumar Radheshyam Somani, Mr Sunilkumar Radheshyam Somani, and Mr Rajan Sunilkumar Somani, M/s. Navneet R Somani HUF and M/s. Sunil R Somani HUF.",
+  "company_contact_details": {
+    "company_name": "Beezaasan Explotech Ltd.",
+    "address": "5th Floor, 511, Pramukh Tangent Complex, Pramukh Tangent Complex, Sargasan Cross Road, S.G. Highway, Gandhinagar, ,, Gujarat, , 382421, Phone, :, Email, :, Website, :",
+    "phone": "+91 6359607701",
+    "email": "investors@beezaasan.in",
+    "website": "http://www.beezaasan.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "bel.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in August 2013, Beezaasan Explotech Limited manufactures and supplies a comprehensive range of explosives and explosive accessories. It primarily produces cartridge explosives, including slurry, emulsion, and detonating explosives. The company is primarily involved in the manufacturing of explosives and explosives accessories used in the cement, mining, and defence industries. The company focuses on producing high-quality cartridge explosives, which include slurry explosives, emulsion explosives, and detonating explosives. The company's manufacturing facility is situated in Gujrat. The company's explosive manufacturing units hold multiple quality certifications, including ISO 9001:2015 for Quality Management Systems, ISO 14001:2015 for Environmental Management, and ISO 45001:2018 for Occupational Health and Safety Management. The company's product portfolio consists of chemical explosives. As of 31 March 2024, the company has a PAN India presence, with the client base spanning 11 states and 2 Union territories for its domestic market. As of September 30, 2024, the company employed 188 people at its Manufacturing Plant, corporate office, and Registered Office. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-16.57%"
+}

@@ -1,0 +1,459 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 7, 2025 to August 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹177 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "51,00,000shares(aggregating up to ₹90.27Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,56,000shares(aggregating up to ₹4.53Cr)Spread X Securities Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "48,44,000shares(aggregating up to ₹85.74Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,40,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,91,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,56,000 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "24,20,800 (47.47%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "14,52,000 (28.47%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "9,68,800 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,27,200 (14.26%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "4,84,800 (9.51%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,42,400 (4.75%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "16,96,000 (33.25%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "51,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "14,52,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "25.70"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 11, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 10, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 11, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,83,200"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,83,200"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹4,24,800"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "5,600",
+      "Amount": "₹9,91,200"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "6,400",
+      "Amount": "₹11,32,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.36%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.90%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "61.12",
+      "36.40",
+      "27.96"
+    ],
+    [
+      "Total Income",
+      "96.78",
+      "60.83",
+      "25.61"
+    ],
+    [
+      "Profit After Tax",
+      "19.01",
+      "4.09",
+      "1.65"
+    ],
+    [
+      "EBITDA",
+      "26.28",
+      "6.19",
+      "2.63"
+    ],
+    [
+      "Net Worth",
+      "24.44",
+      "5.43",
+      "1.34"
+    ],
+    [
+      "Reserves and Surplus",
+      "10.44",
+      "4.93",
+      "0.84"
+    ],
+    [
+      "Total Borrowing",
+      "0.72",
+      "0.27",
+      "0.32"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "127.28%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "98.25%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.03"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "77.78%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "19.88%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "27.48%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "45.62"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "13.58",
+      "Post IPO": "9.95"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.04",
+      "Post IPO": "17.78"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirement for purchase of corporate office",
+      "Expected Amount(₹ in crores)": "14.79"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding capital expenditure requirement of purchase of LED Screens and Projectors",
+      "Expected Amount(₹ in crores)": "24.44"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "37.63"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Funding General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "CONNPLEX"
+    ],
+    [
+      "ISIN",
+      "INE0EAS01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹177 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹177.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹195.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹185.25"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹198.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹186.90"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "44.21",
+      "Shares Offered": "9,68,800",
+      "Shares bid for": "4,28,32,000",
+      "Total Application": "38"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "49.75",
+      "Shares Offered": "7,27,200",
+      "Shares bid for": "3,61,76,000",
+      "Total Application": "7,367"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "58.98",
+      "Shares Offered": "4,84,800",
+      "Shares bid for": "2,85,94,400",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "31.28",
+      "Shares Offered": "2,42,400",
+      "Shares bid for": "75,81,600",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "24.75",
+      "Shares Offered": "16,96,000",
+      "Shares bid for": "4,19,76,000",
+      "Total Application": "26,235"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "35.67",
+      "Shares Offered": "33,92,000",
+      "Shares bid for": "12,09,84,000",
+      "Total Application": "33,640"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Connplex Cinemas IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_16012025194637_DRHP_Connplex_Cinemas_Limited_dated_January_16_2025.pdf",
+      "text": "Connplex Cinemas IPODRHP"
+    },
+    {
+      "title": "Connplex Cinemas IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/ConnplexCinemasLimited_RHP.pdf",
+      "text": "Connplex Cinemas IPORHP"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Anish Tulshibhai Patel and Mr. Rahul Kamleshbhai Dhyani.",
+  "company_contact_details": {
+    "company_name": "Connplex Cinemas Ltd.",
+    "address": "Block C-1001, Krish Cubical, Opp. Avalon Hotel, Nr. Govardhan Party Plot,, Thaltej, Ahmedabad, Daskroi, Ahmedabad, ,, Gujarat, , 380059, Phone, :, Email, :, Website, :",
+    "phone": "+91 07935289865",
+    "email": "info@theconnplex.com",
+    "website": "https://ticketing.theconnplex.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "connplex.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2015, Connplex Cinemas Limited is an entertainment company operating \"Smart Cinemas\" throughout the nation, providing a premium movie experience with advanced technology, comfortable seating, and a focus on Indian preferences. The company develops theaters and enters franchise agreements for film exhibition and distribution, sharing revenue from screenings, food and beverages sales, and advertisements at various franchised cinemas, all under the brand name “CONNPLEX” and other registered brands. Their venue offers on-screen and off-screen advertising, allowing brands to engage directly with audiences. Business Model: Express, Signature, and Luxuriance—each designed to cater to diverse audience preferences by blending cutting-edge technology with immersive experiences. As on June 30, 2025, the Company had 96 employees on payroll including KMP. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "10.17%"
+}

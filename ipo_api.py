@@ -112,7 +112,6 @@ def get_ipo_status(ipo_details):
         app.logger.debug(f"Unhandled date comparison for IPO: Open={ipo_open_date}, Close={ipo_close_date}, Current={current_date_only}")
         return "Unknown"
 
-
 def load_year_data(year):
     """
     Loads or reloads all IPO meta data for a given year into the cache.
@@ -698,6 +697,108 @@ def get_ipos_by_listing_type(listing_type):
 
     return jsonify(filtered_ipos)
 
+# --- API TOKEN FOR AUTHENTICATION ---
+API_TOKEN = "ipo_scraper_secret_token"
+
+@app.route('/api/ipo/delete/<string:ipo_slug>', methods=['DELETE'])
+def delete_ipo(ipo_slug):
+    """
+    Deletes an IPO by its slug. Requires authentication token.
+    The token must be provided in the Authorization header.
+    """
+    # Check for authentication token
+    auth_header = request.headers.get('Authorization')
+    if not auth_header or auth_header != API_TOKEN:
+        app.logger.error(f"Unauthorized attempt to delete IPO with slug '{ipo_slug}'")
+        abort(401, description="Unauthorized. Valid authentication token required.")
+    
+    found_ipo_meta = None
+    target_year = None
+
+    # First, find the IPO across all years using the slug
+    years_to_process = []
+    if os.path.exists(IPO_DATA_BASE_DIR):
+        for year_str in os.listdir(IPO_DATA_BASE_DIR):
+            try:
+                year_int = int(year_str)
+                years_to_process.append(year_int)
+            except ValueError:
+                pass # Ignore non-numeric directory names
+
+    for year in sorted(years_to_process, reverse=True):
+        if load_year_data(year): # Ensure meta data is loaded
+            for ipo_meta in ipo_cache[year]['meta_data']:
+                if 'slug' in ipo_meta and ipo_meta['slug'] == ipo_slug:
+                    found_ipo_meta = ipo_meta
+                    target_year = year
+                    break
+            if found_ipo_meta:
+                break
+
+    if not found_ipo_meta:
+        app.logger.error(f"IPO with slug '{ipo_slug}' not found across any loaded years.")
+        abort(404, description=f"IPO with slug '{ipo_slug}' not found.")
+    
+    # Get paths to files that need to be deleted
+    html_path = os.path.join(IPO_DATA_BASE_DIR, found_ipo_meta['html_path'])
+    json_path = os.path.join(IPO_DATA_BASE_DIR, found_ipo_meta['json_path'])
+    meta_file = os.path.join(IPO_DATA_BASE_DIR, str(target_year), 'current_meta.json')
+    
+    # Delete the files
+    files_deleted = []
+    try:
+        # Delete HTML file
+        if os.path.exists(html_path):
+            os.remove(html_path)
+            files_deleted.append(html_path)
+            app.logger.info(f"Deleted HTML file: {html_path}")
+        
+        # Delete JSON file
+        if os.path.exists(json_path):
+            os.remove(json_path)
+            files_deleted.append(json_path)
+            app.logger.info(f"Deleted JSON file: {json_path}")
+        
+        # Remove from cache
+        if target_year in ipo_cache:
+            # Remove from meta_data
+            ipo_cache[target_year]['meta_data'] = [meta for meta in ipo_cache[target_year]['meta_data'] 
+                                                if meta.get('slug') != ipo_slug]
+            
+            # Remove from ipo_data if it exists
+            if found_ipo_meta['json_path'] in ipo_cache[target_year]['ipo_data']:
+                del ipo_cache[target_year]['ipo_data'][found_ipo_meta['json_path']]
+            
+            app.logger.info(f"Removed IPO with slug '{ipo_slug}' from cache")
+        
+        # Update meta file
+        if os.path.exists(meta_file):
+            try:
+                with open(meta_file, 'r', encoding='utf-8') as f:
+                    meta_data = json.load(f)
+                
+                # Remove the IPO from meta_data
+                meta_data = [meta for meta in meta_data if meta.get('slug') != ipo_slug]
+                
+                # Write updated meta_data back to file
+                with open(meta_file, 'w', encoding='utf-8') as f:
+                    json.dump(meta_data, f, indent=2, ensure_ascii=False)
+                
+                app.logger.info(f"Updated meta file: {meta_file}")
+            except Exception as e:
+                app.logger.error(f"Error updating meta file: {e}")
+                # Continue with deletion even if meta file update fails
+        
+        return jsonify({
+            "success": True,
+            "message": f"IPO with slug '{ipo_slug}' has been deleted",
+            "files_deleted": files_deleted
+        })
+    
+    except Exception as e:
+        app.logger.error(f"Error deleting IPO with slug '{ipo_slug}': {e}")
+        abort(500, description=f"Failed to delete IPO with slug '{ipo_slug}': {str(e)}")
+
 # --- CACHING MECHANISMS ---
 
 def clear_and_preload_cache():
@@ -754,6 +855,17 @@ def force_cache_clear_api():
     clear_and_preload_cache()
     return jsonify({"message": "Cache cleared and meta-data pre-loaded successfully. Individual details will load on demand."}), 200
 
+# --- API SECURITY ---
+
+# Simple token for API authentication
+API_TOKEN = "ipo_scraper_secret_token"
+
+def verify_token(token):
+    """
+    Verifies if the provided token matches the API token.
+    """
+    return token == API_TOKEN
+
 # --- MAIN APPLICATION START ---
 
 if __name__ == '__main__':
@@ -764,4 +876,4 @@ if __name__ == '__main__':
     # Start the background cache refresher
     start_cache_refresher()
 
-    app.run(debug=True, host="0.0.0.0", port=1233, use_reloader=False) # use_reloader=False when using threading
+    app.run(debug=True, host="0.0.0.0", port=1234, use_reloader=False) # use_reloader=False when using threading

@@ -1,0 +1,364 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 13, 2025 to February 17, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 21, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹71 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "10,40,000shares(aggregating up to ₹7.38Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "54,400shares(aggregating up to ₹0.3862Cr)Swastika Investmart Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "9,85,600shares(aggregating up to ₹7.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "28,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "38,40,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "54,400 (5.23%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,78,400 (46.00%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "5,07,200 (48.77%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "10,40,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Feb 13, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Feb 17, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Feb 19, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Feb 20, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Feb 21, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 17, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,13,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,13,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,27,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.92%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "11.87",
+      "10.49",
+      "7.2",
+      "8.23"
+    ],
+    [
+      "Total Income",
+      "11.98",
+      "18.87",
+      "17.14",
+      "11.94"
+    ],
+    [
+      "Profit After Tax",
+      "0.42",
+      "0.86",
+      "-0.01",
+      "0.04"
+    ],
+    [
+      "Net Worth",
+      "3.74",
+      "3.02",
+      "2.16",
+      "2.17"
+    ],
+    [
+      "Reserves and Surplus",
+      "0.94",
+      "2.39",
+      "1.54",
+      "1.54"
+    ],
+    [
+      "Total Borrowing",
+      "6.69",
+      "6.48",
+      "3.9",
+      "4.39"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "28.35%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "16%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.15"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "28.35%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.71%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.88"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.06",
+      "Post IPO": "1.45"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "41.04",
+      "Post IPO": "48.95"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 21, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544366"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0FFF01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹71 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹71.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹71.10"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹67.54"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹71.10"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹68.29"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "42.88",
+      "Shares Offered": "4,92,800",
+      "Shares bid for": "2,11,32,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "46.25",
+      "Shares Offered": "4,92,800",
+      "Shares bid for": "2,27,93,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "44.57",
+      "Shares Offered": "9,85,601",
+      "Shares bid for": "4,39,26,400",
+      "Total Application": "25,077"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "L.K.Mehta Polymers IPO DRHP",
+      "href": "https://www.bsesme.com/download/385448/DP_LK%20Mehta_15082024_20240820181101.pdf",
+      "text": "L.K.Mehta Polymers IPODRHP"
+    },
+    {
+      "title": "L.K.Mehta Polymers IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/l-k-mehta-polymers-limited_91771.html",
+      "text": "L.K.Mehta Polymers IPORHP"
+    },
+    {
+      "title": "L.K.Mehta Polymers IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/385448/SME_IPO%20Open/1.%20Prospectus_06022025_20250210122052.pdf",
+      "text": "L.K.Mehta Polymers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Kamlesh Mehta and Rina Mehta are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "L.K.Mehta Polymers Ltd.",
+    "address": "1103/2,, Mhow-Neemuch Road,, Ratlam, 457001, Ratlam, ,, Madhya Pradesh, Phone, :, Email, :, Website, :",
+    "phone": "+91-9669903095",
+    "email": "info@lkmehtapolymersltd.com",
+    "website": "https://lkmehtapolymersltd.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1995, L.K. Mehta Polymers Limited is engaged in trading and manufacturing of Plastic products. The company is also involved in trading and reprocessing basic raw materials like polypropylene and polyethylene granules for various customers. The company sells products under the brand name \"Super Pack,\" reflecting its commitment to superior quality and building lasting customer relationships. The company has strict systems to ensure timely delivery and minimal errors, with procedures to check orders at each stage, focusing on consistent service and customer loyalty. Product Portfolio: As on 25th January, 2025, the company has 21 full time employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Swastika Investmart Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/122/",
+      "title": "About Swastika Investmart Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.14%"
+}

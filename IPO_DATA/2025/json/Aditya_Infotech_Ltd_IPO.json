@@ -1,0 +1,513 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 29, 2025 to July 31, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 5, 2025"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹675 per share"
+    ],
+    [
+      "Lot Size",
+      "22 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,92,67,928shares(aggregating up to ₹1,300.59Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "74,16,079shares(aggregating up to ₹500.59Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "1,18,51,849shares of ₹1(aggregating up to ₹800.00Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹60.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "10,98,05,805shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "11,72,21,884shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,43,77,777 (74.62%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "86,26,666 (44.77%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "57,51,111 (29.85%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "28,75,555 (14.92%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "19,17,037 (9.95%)",
+      "Maximum Allottees": "6,224"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "9,58,518 (4.97%)",
+      "Maximum Allottees": "3,112"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,17,036 (9.95%)",
+      "Maximum Allottees": "87,138"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "97,560 (0.51%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,92,67,928 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 2 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 28, 2025"
+    ],
+    [
+      "Shares Offered",
+      "86,26,666"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "582.30"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 30, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 31, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "22",
+      "Amount": "₹14,850"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "286",
+      "Amount": "₹1,93,050"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "308",
+      "Amount": "₹2,07,900"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "1,474",
+      "Amount": "₹9,94,950"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "1,496",
+      "Amount": "₹10,09,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "92.58%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "76.7%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "3,174.54",
+      "1,644.18",
+      "1,708.76"
+    ],
+    [
+      "Total Income",
+      "3,122.93",
+      "2,795.96",
+      "2,295.56"
+    ],
+    [
+      "Profit After Tax",
+      "351.37",
+      "115.17",
+      "108.31"
+    ],
+    [
+      "EBITDA",
+      "258.39",
+      "236.48",
+      "181.05"
+    ],
+    [
+      "Net Worth",
+      "1,017.66",
+      "424.20",
+      "311.59"
+    ],
+    [
+      "Reserves and Surplus",
+      "994.49",
+      "421.33",
+      "308.65"
+    ],
+    [
+      "Total Borrowing",
+      "412.84",
+      "405.45",
+      "409.60"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "34.53%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "33.27%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.41"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "34.53%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.25%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "8.27%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.06"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "32.00",
+      "Post IPO": "29.98"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "21.09",
+      "Post IPO": "22.52"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Prepayment and/or repayment of all or a portion of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "375.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purpose",
+      "Expected Amount(₹ in crores)": "94.71"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 5, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544466"
+    ],
+    [
+      "NSE Symbol",
+      "CPPLUS"
+    ],
+    [
+      "ISIN",
+      "INE819V01029"
+    ],
+    [
+      "Final Issue Price",
+      "₹675 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹675.00",
+      "NSE": "₹675.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹1,018.00",
+      "NSE": "₹1,015.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹1,014.65",
+      "NSE": "₹1,015.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹1,104.20",
+      "NSE": "₹1,104.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹1,084.10",
+      "NSE": "₹1,082.65"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "16",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "5",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "140.50",
+      "Shares Offered": "57,51,112",
+      "Shares bid for": "80,80,16,792"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "75.93",
+      "Shares Offered": "28,75,556",
+      "Shares bid for": "21,83,41,948"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "78.86",
+      "Shares Offered": "19,17,037",
+      "Shares bid for": "15,11,78,830"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "70.07",
+      "Shares Offered": "9,58,519",
+      "Shares bid for": "6,71,63,118"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "53.81",
+      "Shares Offered": "19,17,037",
+      "Shares bid for": "10,31,63,676"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "9.01",
+      "Shares Offered": "97,561",
+      "Shares bid for": "8,79,362"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "106.23",
+      "Shares Offered": "1,06,41,266",
+      "Shares bid for": "1,13,04,01,778"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Aditya Infotech IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/aditya-infotech-limited_87280.html",
+      "text": "Aditya Infotech IPODRHP"
+    },
+    {
+      "title": "Aditya Infotech IPO Addendum DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/dec-2024/aditya-infotech-limited-addendum-to-the-drhp_90029.html",
+      "text": "Aditya Infotech IPOAddendum DRHP"
+    },
+    {
+      "title": "Aditya Infotech IPO RHP",
+      "href": "https://www.bseindia.com/corporates/download/325928/IPO%20Open/RHP_20250724190452.pdf",
+      "text": "Aditya Infotech IPORHP"
+    },
+    {
+      "title": "Aditya Infotech IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE819V01029_01AUG2025.pdf",
+      "text": "Aditya Infotech IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Hari Shanker Khemka, Aditya Khemka, Ananmay Khemka and Hari Khemka Business Family Trust are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Aditya Infotech Ltd.",
+    "address": "F-28,, Okhla Industrial Area,, Phase -1,, New Delhi, ,, New Delhi, , 110020, Phone, :, Email, :, Website, :",
+    "phone": "+91 120 4555 666",
+    "email": "companysecretary@adityagroup.com",
+    "website": "https://www.adityagroup.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "adityainfotech.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Aditya Infotech Limited (AIL) manufactures and provides video security and surveillance products, solutions and services under the brand name'CP Plus'. The company offers a diverse range of products including smart home IoT cameras, HD analog systems, advanced network cameras, body-worn and thermal cameras, as well as long-range IR cameras, and AI-powered solutions (automatic number plate recognition, people counting, and heat mapping). For residential users, AIL offers video surveillance products, including smart Wi-Fi cameras, 4G-enabled cameras, dash cams, and more. In Fiscal 2025, the company offered 2986 Stock keeping Units (SKUs) across India and sold products across 550+ cities and towns. AIL's operations are supported by a network of 41 branch offices and 13 return merchandise authorization (RMA) centers nationwide. The company's surveillance products are distributed through a network of over 1,000 distributors in tier I, tier II, and tier III cities, along with more than 2,100 system integrators. The company operates 10 strategically located warehouses spread across the country, located in Delhi, Gurugram, Haryana and Noida, Uttar Pradesh in North India; Bhiwandi, Maharashtra, Ahmedabad, Gujarat and Indore, Madhya Pradesh in West India; Kolkata, West Bengal and Guwahati, Assam in East India; as well as Chennai, Tamil Nadu and Bengaluru, Karnataka in South India.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "50.37%"
+}

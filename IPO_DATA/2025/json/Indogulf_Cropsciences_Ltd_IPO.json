@@ -1,0 +1,511 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 26, 2025 to June 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹111 per share"
+    ],
+    [
+      "Lot Size",
+      "135 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,80,77,476shares(aggregating up to ₹200.66Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,44,73,873shares(aggregating up to ₹160.66Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "36,03,603shares of ₹10(aggregating up to ₹40.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,87,87,456shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "6,32,61,329shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "87,38,737 (68.09%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "52,43,242 (40.85%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "34,95,495 (27.24%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "26,21,622 (20.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "8,73,874 (6.81%)",
+      "Maximum Allottees": "462"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "17,47,748 (13.62%)",
+      "Maximum Allottees": "924"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "61,17,117 (47.66%)",
+      "Maximum Allottees": "45,311"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "6,00,000 (4.67%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,28,34,234 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit:  (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 25, 2025"
+    ],
+    [
+      "Shares Offered",
+      "52,43,242"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "58.20"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 31, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 30, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "135",
+      "Amount": "₹14,985"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1,755",
+      "Amount": "₹1,94,805"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "1,890",
+      "Amount": "₹2,09,790"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "8,910",
+      "Amount": "₹9,89,010"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "9,045",
+      "Amount": "₹10,03,995"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.86%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "68.00%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "597.81",
+      "542.25",
+      "517.51",
+      "413.59"
+    ],
+    [
+      "Total Income",
+      "466.31",
+      "555.79",
+      "552.19",
+      "490.23"
+    ],
+    [
+      "Profit After Tax",
+      "21.68",
+      "28.23",
+      "22.42",
+      "26.36"
+    ],
+    [
+      "EBITDA",
+      "44.78",
+      "55.74",
+      "49.04",
+      "47.24"
+    ],
+    [
+      "Net Worth",
+      "265.43",
+      "231.65",
+      "203.25",
+      "180.51"
+    ],
+    [
+      "Reserves and Surplus",
+      "216.64",
+      "208.01",
+      "179.60",
+      "156.87"
+    ],
+    [
+      "Total Borrowing",
+      "206.30",
+      "154.56",
+      "189.22",
+      "101.38"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "12.2%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "11.93%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.67"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "12.19%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.11%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "10.09%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.13"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.79",
+      "Post IPO": "4.57"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "19.18",
+      "Post IPO": "24.27"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "65.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/ prepayment, in full or in part, of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "34.12"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Capital expenditure of the Company for setting up an in-house dry flowable (DF) plant at Barwasni, District Sonipat, Haryana",
+      "Expected Amount(₹ in crores)": "14.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "27.85"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544432"
+    ],
+    [
+      "NSE Symbol",
+      "IGCL"
+    ],
+    [
+      "ISIN",
+      "INE05J901018"
+    ],
+    [
+      "Final Issue Price",
+      "₹111 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "BE"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹111.00",
+      "NSE": "₹111.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹111.00",
+      "NSE": "₹111.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹105.45",
+      "NSE": "₹106.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹112.60",
+      "NSE": "₹113.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹110.80",
+      "NSE": "₹110.35"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "11",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "31.73",
+      "Shares Offered": "37,65,767",
+      "Shares bid for": "11,94,79,455"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "49.06",
+      "Shares Offered": "27,02,703",
+      "Shares bid for": "13,25,86,065"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "52.13",
+      "Shares Offered": "18,01,802",
+      "Shares bid for": "9,39,28,140"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "42.91",
+      "Shares Offered": "9,00,901",
+      "Shares bid for": "3,86,57,925"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "14.97",
+      "Shares Offered": "63,06,306",
+      "Shares bid for": "9,43,93,080"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "27.17",
+      "Shares Offered": "1,27,74,776",
+      "Shares bid for": "34,71,50,475"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Indogulf Cropsciences IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/indogulf-cropsciences-limited_87276.html",
+      "text": "Indogulf Cropsciences IPODRHP"
+    },
+    {
+      "title": "Indogulf Cropsciences IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/indogulf-cropsciences-limited-rhp_95185.html",
+      "text": "Indogulf Cropsciences IPORHP"
+    },
+    {
+      "title": "Indogulf Cropsciences IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE05J901018_02JUL2025.pdf",
+      "text": "Indogulf Cropsciences IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Om Prakash Aggarwal, Sanjay Aggarwal, Anshu Aggarwal and Arnav Aggarwal are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Indogulf Cropsciences Ltd.",
+    "address": "501, Gopal Heights, Plot No - D-9,, Netaji Subhash Place, Delhi, ,, New Delhi, , 110034, Phone, :, Email, :, Website, :",
+    "phone": "+91 11 4004 0417",
+    "email": "cs@groupindogulf.com",
+    "website": "http://www.groupindogulf.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1993, Indogulf Cropsciences Limited is engaged in manufacturing crop protection products, plant nutrients, and biologicals in India. The company manufactured Spiromesifen technical with 96.5% purity in 2019 and is one of the first indigenous manufacturers of Pyrazosulfuron Ethyl technical with 97% purity in India. The company operates four manufacturing facilities in Samba (Jammu & Kashmir) and Nathupur (Haryana), covering approximately twenty acres, including two sites in Nathupur and one in Barwasni, Haryana. The company has a sales network across 22 states and 3 Union Territories in India, with 169 business partners, 5,772 distributors, and 129 partners in 34 countries worldwide. The company’s flexible, multi-purpose facilities allow diverse product manufacturing, adapting to customer needs. Its competitive advantage is strengthened by high regulatory barriers in the agrochemical industry, including costs and complex approvals. Product Portfolio: As of August 31, 2024, the company had 640 permanent employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Systematix Corporate Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/61/",
+      "title": "About Systematix Corporate Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

@@ -1,0 +1,457 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "April 23, 2025 to April 25, 2025"
+    ],
+    [
+      "Listing Date",
+      "April 30, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "13,95,000shares(aggregating up to ₹19.53Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "70,000shares(aggregating up to ₹0.9800Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Reserved for Employees",
+      "36,000shares(aggregating up to ₹0.5040Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "12,89,000shares(aggregating up to ₹18.05Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "39,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "52,95,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "70,000 (6.93%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "6,43,000 (63.66%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "3,85,000 (38.12%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "2,58,000 (25.54%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "1,94,000 (19.21%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "4,52,000 (44.75%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "36,000 (3.56%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "10,10,000 (100.00%)"
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only NII",
+      "Maximum Bidding Limits": "Above Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit:  (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: Above Rs. 2 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "April 22, 2025"
+    ],
+    [
+      "Shares Offered",
+      "3,85,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "5.39"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "May 28, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "July 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Apr 23, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Apr 25, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Apr 28, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Apr 29, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Apr 29, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Apr 30, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onApril 25, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.65%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Nov 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "17.67",
+      "10.35",
+      "8.68",
+      "2.32"
+    ],
+    [
+      "Total Income",
+      "12.48",
+      "19.54",
+      "11.85",
+      "1.4"
+    ],
+    [
+      "Profit After Tax",
+      "0.95",
+      "2.57",
+      "0.79",
+      "0.05"
+    ],
+    [
+      "Net Worth",
+      "6.17",
+      "3.68",
+      "1.11",
+      "0.2"
+    ],
+    [
+      "Reserves and Surplus",
+      "2.27",
+      "3.43",
+      "0.86",
+      "0.05"
+    ],
+    [
+      "Total Borrowing",
+      "7.59",
+      "3.69",
+      "2.57",
+      "1.42"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "107.11%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "46.49%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.00"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "69.75%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "13.23%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "10.46"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.59",
+      "Post IPO": "2.68"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "21.26",
+      "Post IPO": "52.19"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment in full or in part, of certain of the outstanding borrowings;",
+      "Expected Amount(₹ in crores)": "3.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding to meet working capital requirements",
+      "Expected Amount(₹ in crores)": "10.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "April 30, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "TANKUP"
+    ],
+    [
+      "ISIN",
+      "INE0Z7N01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹140.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹175.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹175.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹183.75"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹183.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "43.65",
+      "Shares Offered": "2,58,000",
+      "Shares bid for": "1,12,61,000",
+      "Total Application": "24"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "437.62",
+      "Shares Offered": "1,94,000",
+      "Shares bid for": "8,48,99,000",
+      "Total Application": "1,931"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "46.51",
+      "Shares Offered": "4,52,000",
+      "Shares bid for": "2,10,21,000",
+      "Total Application": "21,021"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "124.67",
+      "Shares Offered": "9,40,000",
+      "Shares bid for": "11,71,94,000",
+      "Total Application": "22,984"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Tankup Engineers IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/TankupEngineersLimited_DP.zip",
+      "text": "Tankup Engineers IPODRHP"
+    },
+    {
+      "title": "Tankup Engineers IPO Addendum DRHP",
+      "href": "https://www.tankup.co.in/wp-content/uploads/2025/01/Addendum-DRHP_Tankup-with-Cover-Page1.pdf",
+      "text": "Tankup Engineers IPOAddendum DRHP"
+    },
+    {
+      "title": "Tankup Engineers IPO RHP",
+      "href": "https://archives.nseindia.com/content/ipo/RHP_TANKUP.zip",
+      "text": "Tankup Engineers IPORHP"
+    },
+    {
+      "title": "Tankup Engineers IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/TankupEngineersLimited_PROSP.pdf",
+      "text": "Tankup Engineers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Gaurav Lath, Pankhuri Lath, Govind Prasad Lath and Tank-Up Petro Ventures LLP are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Tankup Engineers Ltd.",
+    "address": "1262,, SA Goila,, Chinhat,, Lucknow, ,, Uttar Pradesh, , 226019, Phone, :, Email, :, Website, :",
+    "phone": "+91-7800008707",
+    "email": "cs@tankup.co.in",
+    "website": "https://www.tankup.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2020, Tankup Engineers Limited is engaged in the manufacturing of vehicle superstructure for complex mobility and storage solutions. The company offers products including self-bunded fuel tanks, mobile diesel bowsers, aircraft refuelers, fire tenders, and ground support equipment. The company specializes in manufacturing custom-built tanks for transporting or storing liquids, gases, or solids, tailored to client specifications in size, material, capacity, and functional features. The company serves sectors such as agriculture, mining, construction, logistics, aviation, defense, and infrastructure. Products: As on March 31, 2024, the company has employed approximately 45 employees at various levels of the Organization. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "25.0%"
+}

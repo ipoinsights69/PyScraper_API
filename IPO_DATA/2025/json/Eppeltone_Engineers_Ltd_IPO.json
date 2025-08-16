@@ -1,0 +1,430 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 17, 2025 to June 19, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 24, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹128 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "34,34,000shares(aggregating up to ₹43.96Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,72,000shares(aggregating up to ₹2.20Cr)Prabhat Financial Services Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "32,62,000shares(aggregating up to ₹41.75Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "95,25,312shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,29,59,312shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,72,000 (7.00%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "16,30,000 (66.37%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "9,78,000 (39.82%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "6,52,000 (26.55%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,90,000 (19.95%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "11,42,000 (46.50%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "24,56,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 16, 2025"
+    ],
+    [
+      "Shares Offered",
+      "9,78,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "12.52"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 20, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 18, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 17, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 23, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 23, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 19, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,28,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,28,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,56,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "83.69%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "61.51%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "123.80",
+      "69.83",
+      "43.73"
+    ],
+    [
+      "Total Income",
+      "125.74",
+      "80.04",
+      "72.99"
+    ],
+    [
+      "Profit After Tax",
+      "11.23",
+      "8.16",
+      "1.09"
+    ],
+    [
+      "EBITDA",
+      "17.78",
+      "13.07",
+      "2.91"
+    ],
+    [
+      "Net Worth",
+      "40.00",
+      "20.40",
+      "11.49"
+    ],
+    [
+      "Reserves and Surplus",
+      "30.48",
+      "16.16",
+      "7.50"
+    ],
+    [
+      "Total Borrowing",
+      "30.54",
+      "16.31",
+      "12.68"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "41%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "43%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.79"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "40.79%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.75%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.30%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.62"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.79",
+      "Post IPO": "8.67"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.86",
+      "Post IPO": "14.77"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working Capital Requirements of the Company",
+      "Expected Amount(₹ in crores)": "30.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding Capital Expenditure towards installation of additional machinery at the factory",
+      "Expected Amount(₹ in crores)": "5.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 24, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "EEPL"
+    ],
+    [
+      "ISIN",
+      "INE11HF01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹128 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹128.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹243.20"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹243.20"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹255.35"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹255.35"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "132.23",
+      "Shares Offered": "6,52,000",
+      "Shares bid for": "8,62,17,000",
+      "Total Application": "98"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "627.28",
+      "Shares Offered": "4,90,000",
+      "Shares bid for": "30,73,67,000",
+      "Total Application": "23,346"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "248.04",
+      "Shares Offered": "11,42,000",
+      "Shares bid for": "28,32,67,000",
+      "Total Application": "2,83,267"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "296.34",
+      "Shares Offered": "22,84,000",
+      "Shares bid for": "67,68,51,000",
+      "Total Application": "3,06,711"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Eppeltone Engineers IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/trampariya_06012025172609_DRHP_Eppeltone_31_12_2024_Final.pdf",
+      "text": "Eppeltone Engineers IPODRHP"
+    },
+    {
+      "title": "Eppeltone Engineers IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/EppeltoneEngineersLimited_RHP.pdf",
+      "text": "Eppeltone Engineers IPORHP"
+    },
+    {
+      "title": "Eppeltone Engineers IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/EppeltoneEngineersLimited_PROSP.pdf",
+      "text": "Eppeltone Engineers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Rohit Chowdhary, Deven Chowdhary and Reshu Chowdhary.",
+  "company_contact_details": {
+    "company_name": "Eppeltone Engineers Ltd.",
+    "address": "A-57, Defence Colony, New Delhi, New Delhi, ,, New Delhi, , 110024, Phone, :, Email, :, Website, :",
+    "phone": "+91-9811050241",
+    "email": "cs@eppeltone.in",
+    "website": "https://eppeltone.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Founded in 1977, Eppeltone Engineers Limited specializes in manufacturing electronic energy meters, including smart meters, alongside various power conditioning devices like UPS systems and high-grade chargers known for its diverse portfolio of products, including AVR, MCBs, and transducers, initially specializing in Switch Mode Power Supplies (SMPS) for computers and other electronic devices, they have significantly expanded their product range to cater to both industrial and consumer needs, with a focus on energy management solutions. The company is a certified organization engaged in designing and supplying static watt hour meters, smart meters, water meters, BPL kits, UPS systems, LED luminaries, battery management systems, chargers, packs, software development, 4.5KW regulated emergency chargers, short neutral section assemblies, lightweight insulator assemblies, modular cantilever systems, and auto tensioning devices. The Company operates in the B2B segment, primarily providing products and services to Government Entities, which make up most of our transactions. The company also supply products to private sector companies, serving Non-Government and Government entities across various industries. Eppeltone's diverse product range caters to various sectors, including electricity utilities, industries, commercial establishments, and domestic consumers. The company’s primary manufacturing facility is a 36,000 sq. ft. plant in Greater Noida, Uttar Pradesh which serves as the central hub for production and innovation. Eppeltone Engineers has supporting units in Noida and Okhla, New Delhi. These units complement the primary facility by handling specialized production processes, quality control, and research and development (R&D) activities. As on March 31, 2024, the company had 59 permanent employees. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Expert Global Consultants Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/196/",
+      "title": "About Expert Global Consultants Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

@@ -1,0 +1,397 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 7, 2025 to July 9, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹100 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "50,00,400shares(aggregating up to ₹50.00Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,50,800shares(aggregating up to ₹2.51Cr)Arihant Capital Markets Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "37,50,000shares(aggregating up to ₹37.50Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "9,99,600shares of ₹10(aggregating up to ₹10.00Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "47,49,600shares(aggregating up to ₹47.50Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,50,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,90,00,800shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,50,800 (5.02%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "23,74,800 (47.49%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "23,74,800 (47.49%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "50,00,400 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 9, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,40,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,40,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,60,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "91.67%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.10%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "97.24",
+      "79.28",
+      "76.01"
+    ],
+    [
+      "Total Income",
+      "203.20",
+      "198.73",
+      "186.06"
+    ],
+    [
+      "Profit After Tax",
+      "12.77",
+      "11.29",
+      "5.16"
+    ],
+    [
+      "EBITDA",
+      "16.92",
+      "13.54",
+      "1.86"
+    ],
+    [
+      "Net Worth",
+      "38.54",
+      "25.77",
+      "14.48"
+    ],
+    [
+      "Reserves and Surplus",
+      "23.54",
+      "24.77",
+      "13.48"
+    ],
+    [
+      "Total Borrowing",
+      "16.59",
+      "6.68",
+      "4.13"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "39.72%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "32.58%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.43"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "33.14%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.28%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "8.39%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.89"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.51",
+      "Post IPO": "6.72"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.75",
+      "Post IPO": "14.88"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Purchase of movable assets of the production line of battery manufacturing unit",
+      "Expected Amount(₹ in crores)": "4.19"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "To meet the working capital requirements",
+      "Expected Amount(₹ in crores)": "22.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment in full or in part, of the outstanding borrowings",
+      "Expected Amount(₹ in crores)": "0.95"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Funding capital expenditure requirements",
+      "Expected Amount(₹ in crores)": "4.46"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "4.70"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SMARTEN"
+    ],
+    [
+      "ISIN",
+      "INE14GK01016"
+    ],
+    [
+      "Final Issue Price",
+      "₹100 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹100.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹144.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹143.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹151.20"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹151.20"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "6.31",
+      "Shares Offered": "23,74,800",
+      "Shares bid for": "1,49,73,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "4.66",
+      "Shares Offered": "23,74,800",
+      "Shares bid for": "1,10,78,400",
+      "Total Application": "4,616"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "5.51",
+      "Shares Offered": "47,49,601",
+      "Shares bid for": "2,61,74,400",
+      "Total Application": "5,771"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Smarten Power Systems IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_30122024204847_Smarten_Power-Draft_Prospectus.pdf",
+      "text": "Smarten Power Systems IPODRHP"
+    },
+    {
+      "title": "Smarten Power Systems IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/smarten-power-systems-limited_94965.html",
+      "text": "Smarten Power Systems IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company's promoters are Arun Bhardwaj, Rajnish Sharma, Ravi Dutt and Tirath Singh Khaira.",
+  "company_contact_details": {
+    "company_name": "Smarten Power Systems Ltd.",
+    "address": "374,, 1st Floor Pace City-2, Sector - 37,, Gurgaon, ,, Haryana, , 122001, Phone, :, Email, :, Website, :",
+    "phone": "0124-2210651",
+    "email": "cs@smartenpowersystems.com",
+    "website": "http://www.smartenpowersystems.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 2014, Smarten Power Systems Limited designs and assembles power backup and solar products, including Home UPS systems, solar inverters, power conditioning units, and charge controllers, and trades solar panels and batteries. The Company operates in 23 states and two union territories in India and has a global presence in 17 countries, including the Middle East, Africa, and South Asia. The company assembles and trades products under theSMARTENbrand and its registered patent. The company has a portfolio of 372 SKUs across six categories: home UPS systems, solar inverters, PCUs, charge controllers, solar panels, and batteries. The Company operates with a network of 382 distributors and 52 service centers for after-sales support. Products: As of May 31, 2025, the company has 252 department employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Arihant Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/86/",
+      "title": "About Arihant Capital Markets Ltd."
+    }
+  ],
+  "listing_gain_percent": "44.0%"
+}

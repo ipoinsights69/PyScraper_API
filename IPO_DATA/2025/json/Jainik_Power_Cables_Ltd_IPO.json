@@ -1,0 +1,399 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 10, 2025 to June 12, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 17, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹110 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "46,63,200shares(aggregating up to ₹51.30Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,34,000shares(aggregating up to ₹2.57Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "44,29,200shares(aggregating up to ₹48.72Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "96,84,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,43,47,700shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,34,000 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "4,45,200 (9.55%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "19,92,000 (42.72%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,92,000 (42.72%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "46,63,200 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 10, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 12, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 13, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 16, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 16, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 17, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 12, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,32,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,32,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,64,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.79%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.35%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "71.19",
+      "35.50",
+      "36.66"
+    ],
+    [
+      "Total Income",
+      "352.38",
+      "339.23",
+      "67.49"
+    ],
+    [
+      "Profit After Tax",
+      "9.24",
+      "5.02",
+      "0.15"
+    ],
+    [
+      "Net Worth",
+      "24.59",
+      "7.86",
+      "2.84"
+    ],
+    [
+      "Reserves and Surplus",
+      "14.91",
+      "7.29",
+      "2.27"
+    ],
+    [
+      "Total Borrowing",
+      "19.36",
+      "17.13",
+      "16.83"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "56.92%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "55.92%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.79"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "56.92%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "2.63%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "3.98%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "0.80"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.54",
+      "Post IPO": "6.44"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.53",
+      "Post IPO": "17.09"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "23.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Fund and set up a plant",
+      "Expected Amount(₹ in crores)": "10.99"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment of portion of loan availed by the company",
+      "Expected Amount(₹ in crores)": "5.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 17, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "JAINIK"
+    ],
+    [
+      "ISIN",
+      "INE0XIL01012"
+    ],
+    [
+      "Final Issue Price",
+      "₹110 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹110.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹82.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹82.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹86.10"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹82.85"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.01",
+      "Shares Offered": "4,45,200",
+      "Shares bid for": "4,47,600",
+      "Total Application": "1"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.13",
+      "Shares Offered": "19,92,000",
+      "Shares bid for": "22,60,800",
+      "Total Application": "230"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.08",
+      "Shares Offered": "19,92,000",
+      "Shares bid for": "41,34,000",
+      "Total Application": "3,445"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.54",
+      "Shares Offered": "44,29,200",
+      "Shares bid for": "68,42,400",
+      "Total Application": "3,676"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Jainik Power IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/hbagdiya_10122024111820_DRHP_JPCL.pdf",
+      "text": "Jainik Power IPODRHP"
+    },
+    {
+      "title": "Jainik Power IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/jainik-power-cables-limited_94871.html",
+      "text": "Jainik Power IPORHP"
+    },
+    {
+      "title": "Jainik Power IPO Final Prospectus",
+      "href": "https://jainiklimited.com/wp-content/uploads/2025/06/ProspectusJainik.pdf",
+      "text": "Jainik Power IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Shashank Jain, Mr. Prateek Jain and Mrs. Anju Jain and Mr. Subhash Chand Jain.",
+  "company_contact_details": {
+    "company_name": "Jainik Power Cables Ltd.",
+    "address": "39/101A, 1st Floor, Community Centre, Wazirpur Industrial Area,, Wazir PurIII, North West Delhi,, West Delhi, ,, New Delhi, Phone, :, Email, :, Website, :",
+    "phone": "+91-9999268508",
+    "email": "info@jainikpower.com",
+    "website": "https://www.jainikpower.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in May 2011, Jainik Power and Cables Limited has been manufacturing aluminum wire rods since 2023 and has over a decade of experience in the metal industry, previously trading in aluminum rods. The company manufactures and supplies aluminum wire rods, adhering to Environmental, Health, and Safety (EHS) standards, as certified by ISO certifications. Its Quality Assurance Department conducts purity tests using spectrometers to detect hidden impurities. The company's manufacturing facility in Sonipat, Haryana, is certified with ISO ISO 9001:2015 and ISO 45001:2018 from Innovative Systemcert Pvt. Ltd. (Accredited by EGAC, International Accreditation Forum) and ISO 14001:2015 from United Accreditation Foundation, ensuring quality, environmental, and safety practices. The company sells its products in the states of Delhi, Haryana, Rajasthan, Uttar Pradesh, and Uttarakhand. As of May 05, 2025, the company has 71 employees.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Fast Track Finsec Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/161/",
+      "title": "About Fast Track Finsec Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-25.45%"
+}

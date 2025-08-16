@@ -1,0 +1,231 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 21, 2025 to July 25, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 4, 2025"
+    ],
+    [
+      "Face Value",
+      "₹[.]per share"
+    ],
+    [
+      "Issue Price",
+      "₹1060000 per share"
+    ],
+    [
+      "Lot Size",
+      "1 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "[.]shares(aggregating up to ₹473.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingSM REIT"
+    ],
+    [
+      "Listing At",
+      "BSE"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 75% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII Shares Offered",
+      "Shares Offered": "Not less than 25% of the Net Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 21, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 25, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "All Investors",
+      "Lots": "1",
+      "Shares": "1",
+      "Amount": "₹10,60,000"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Acquisition of the entire issued and paid-up equity share capital of the Titania SPV as per the Share Purchase Agreement",
+      "Expected Amount(₹ in crores)": "217.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Providing loan to the Titania SPV for extinguishment and redemption of the debenture liability of the Titania SPV, by redeeming the OCDs* (including any accrued interest);",
+      "Expected Amount(₹ in crores)": "232.94"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General purposes",
+      "Expected Amount(₹ in crores)": "3.38"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 4, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544462"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE19RO25021"
+    ],
+    [
+      "Final Issue Price",
+      "₹1060000 per share"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹10,60,000.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹10,59,900.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹10,50,000.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹10,61,100.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹10,61,100.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "0.01",
+      "Shares Offered": "3,369",
+      "Shares bid for": "19"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "6.42",
+      "Shares Offered": "1,124",
+      "Shares bid for": "7,215"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.61",
+      "Shares Offered": "4,493",
+      "Shares bid for": "7,234"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "PropShare Titania IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/sm-reit-issues/may-2025/draft-kis-property-share-investment-trust-propshare-titania_93810.html",
+      "text": "PropShare Titania IPODRHP"
+    },
+    {
+      "title": "PropShare Titania IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/PropShare%20Titania_Key_Information_of_the_Scheme_170720251125.pdf",
+      "text": "PropShare Titania IPORHP"
+    },
+    {
+      "title": "PropShare Titania IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/sm-reit-issues/jul-2025/fkis-property-share-investment-trust-propshare-titania_95734.html",
+      "text": "PropShare Titania IPOFinal Prospectus"
+    }
+  ],
+  "company_contact_details": {
+    "company_name": "Property Share Investment Trust REIT",
+    "address": "16th Floor,, SKAV Seethalakshmi,, 21/22, Kasturba Road, Bangalore Urban, ,, Karnataka, , 560001, Phone, :, Email, :, Website, :",
+    "phone": "80 3100 3902",
+    "email": "compliance.officer@propertyshare.in",
+    "website": "http://www.psreit.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "propshare.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in June 2024, Property Share Investment Trust is a SEBI-registered small and medium real estate investment trust. The Trust's second scheme is PropShare Titania. The Trustee of Property Share Investment Trust is Axis Trustee Services Limited. The Trustee provides the following services as",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Kotak Mahindra Capital Co.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/12/",
+      "title": "About Kotak Mahindra Capital Co.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-0.01%"
+}

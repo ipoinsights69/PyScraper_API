@@ -1,0 +1,518 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 30, 2025 to August 1, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹385 per share"
+    ],
+    [
+      "Lot Size",
+      "38 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,68,88,474shares(aggregating up to ₹650.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "71,48,215shares(aggregating up to ₹275.12Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "97,40,259shares of ₹10(aggregating up to ₹374.88Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹36.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "5,00,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,71,48,215shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,26,23,377 (74.75%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "75,74,026 (44.85%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "50,49,351 (29.90%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "25,24,675 (14.95%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "16,83,117 (9.97%)",
+      "Maximum Allottees": "3,163"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "8,41,558 (4.98%)",
+      "Maximum Allottees": "1,581"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "16,83,116 (9.97%)",
+      "Maximum Allottees": "44,292"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "57,306 (0.34%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,68,88,474 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 29, 2025"
+    ],
+    [
+      "Shares Offered",
+      "75,74,026"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "291.60"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 2, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 1, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 1, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "38",
+      "Amount": "₹14,630"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "494",
+      "Amount": "₹1,90,190"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "532",
+      "Amount": "₹2,04,820"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "68",
+      "Shares": "2,584",
+      "Amount": "₹9,94,840"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "69",
+      "Shares": "2,622",
+      "Amount": "₹10,09,470"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.45%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "849.21",
+      "633.11",
+      "558.79"
+    ],
+    [
+      "Total Income",
+      "996.89",
+      "808.26",
+      "889.00"
+    ],
+    [
+      "Profit After Tax",
+      "77.05",
+      "45.63",
+      "32.89"
+    ],
+    [
+      "EBITDA",
+      "126.38",
+      "79.62",
+      "66.43"
+    ],
+    [
+      "Net Worth",
+      "306.53",
+      "233.03",
+      "180.51"
+    ],
+    [
+      "Reserves and Surplus",
+      "256.53",
+      "183.03",
+      "160.51"
+    ],
+    [
+      "Total Borrowing",
+      "186.13",
+      "204.84",
+      "148.75"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "25.13%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "24.80%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.33"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "25.14%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "7.73%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.78%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.28"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "15.41",
+      "Post IPO": "13.48"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "24.98",
+      "Post IPO": "28.55"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding the capital expenditure requirements for the purchase of equipment and machinery, building works, solar rooftop grid and transport vehicles at the Manufacturing Facilities",
+      "Expected Amount(₹ in crores)": "130.58"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Investment in IT software upgradation by the Company",
+      "Expected Amount(₹ in crores)": "5.20"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Re-payment or pre-payment of term loans, in full or in part, of certain borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "58.75"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544470"
+    ],
+    [
+      "NSE Symbol",
+      "MBEL"
+    ],
+    [
+      "ISIN",
+      "INE08N601015"
+    ],
+    [
+      "Final Issue Price",
+      "₹385 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹385.00",
+      "NSE": "₹385.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹386.00",
+      "NSE": "₹385.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹373.25",
+      "NSE": "₹373.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹418.85",
+      "NSE": "₹418.80"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹409.15",
+      "NSE": "₹408.65"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "10",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "38.63",
+      "Shares Offered": "50,49,351",
+      "Shares bid for": "19,50,38,078"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "40.22",
+      "Shares Offered": "25,24,675",
+      "Shares bid for": "10,15,45,918"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "39.68",
+      "Shares Offered": "16,83,117",
+      "Shares bid for": "6,67,80,174"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "41.31",
+      "Shares Offered": "8,41,558",
+      "Shares bid for": "3,47,65,744"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "34.36",
+      "Shares Offered": "16,83,117",
+      "Shares bid for": "5,78,26,994"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "8.59",
+      "Shares Offered": "57,307",
+      "Shares bid for": "4,92,138"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "38.11",
+      "Shares Offered": "93,13,449",
+      "Shares bid for": "35,49,03,128"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "M&B Engineering IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/mandb-engineering-limited-drhp_92107.html",
+      "text": "M&B Engineering IPODRHP"
+    },
+    {
+      "title": "M&B Engineering IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/mandb-engineering-limited-rhp_95585.html",
+      "text": "M&B Engineering IPORHP"
+    },
+    {
+      "title": "M&B Engineering IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE08N601015_04AUG2025.pdf",
+      "text": "M&B Engineering IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Girishbhai Manibhai Patel, Chirag Hasmukhbhai Patel, Malav Girishbhai Patel, Birva Chirag Patel, Vipinbhai Kantilal Patel, Aditya Vipinbhai Patel, Leenaben Vipinbhai Patel, Chirag H Patel Family Trust, Vipin K Patel Family trust, MGM5 Family Trust, MGM11 Family Trust and Aditya V Patel Family Trust are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "M&B Engineering Ltd.",
+    "address": "MB House, 51, Chandrodaya Society,, Opp. Golden Triangle, Stadium, Post Navjivan,, Ahmedabad, ,, Gujarat, , 380014, Phone, :, Email, :, Website, :",
+    "phone": "+91 79- 264637",
+    "email": "compliance@mbel.in",
+    "website": "http://www.mbel.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "mbengg.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1981, M&B Engineering Limited is engaged in the business of Pre-Engineered Buildings and Self-Supported Roofing solutions. They manufactures and installed self-supported steel roofing solutions in India. The Company offers design-led manufacturing solutions, providing design, engineering, manufacturing, and testing to ensure reliable, safe, and high-performance structures, specializing in pre-engineered buildings, structural steel, and steel roofing. The Company has provided solutions to customers across various sectors, including general engineering, manufacturing, food and beverages, warehousing, logistics, power, textiles, and railways. The Company operates two manufacturing facilities in Sanand, Gujarat, and Cheyyar, Tamil Nadu, with a combined PEB capacity of 103,800 MTPA. Sanand started in 2008, Cheyyar in 2024. The Company exports PEBs and structural steel components to 22 countries, including the USA, Brazil, South Africa, Qatar, Sri Lanka, Morocco, Nigeria, Kenya, and Seychelles since Fiscal 2010. The company has executed 9,500+ projects until Fiscal 2025 under Phenix and Proflex divisions. Competitive Strenghths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Equirus Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/133/",
+      "title": "About Equirus Capital Pvt.Ltd."
+    },
+    {
+      "name": "Dam Capital Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/30/",
+      "title": "About Dam Capital Advisors Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

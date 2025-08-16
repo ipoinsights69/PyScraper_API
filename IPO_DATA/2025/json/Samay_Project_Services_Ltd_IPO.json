@@ -1,0 +1,414 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 16, 2025 to June 18, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 23, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹34 per share"
+    ],
+    [
+      "Lot Size",
+      "4,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "43,20,000shares(aggregating up to ₹14.69Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,28,000shares(aggregating up to ₹0.7752Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "40,92,000shares(aggregating up to ₹13.91Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,10,29,320shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,51,21,320shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,28,000 (7.31%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "20,00,000 (64.10%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "12,00,000 (38.46%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "8,00,000 (25.64%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,36,000 (20.38%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "14,56,000 (46.67%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "31,20,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 13, 2025"
+    ],
+    [
+      "Shares Offered",
+      "12,00,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "4.08"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 19, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 17, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 16, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jun 23, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 18, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "4,000",
+      "Amount": "₹1,36,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "4,000",
+      "Amount": "₹1,36,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "8,000",
+      "Amount": "₹2,72,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.29%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.19%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "31.77",
+      "24.83",
+      "21.28"
+    ],
+    [
+      "Total Income",
+      "37.72",
+      "40.95",
+      "20.82"
+    ],
+    [
+      "Profit After Tax",
+      "4.19",
+      "4.62",
+      "3.44"
+    ],
+    [
+      "Net Worth",
+      "20.23",
+      "16.03",
+      "11.42"
+    ],
+    [
+      "Reserves and Surplus",
+      "9.20",
+      "5.00",
+      "11.11"
+    ],
+    [
+      "Total Borrowing",
+      "2.09",
+      "-0.64",
+      "1.18"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "23.13%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "24.56%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.10"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "20.73"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.29%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.50%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.85"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.80",
+      "Post IPO": "2.73"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "8.94",
+      "Post IPO": "12.45"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the company",
+      "Expected Amount(₹ in crores)": "12.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 23, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SAMAY"
+    ],
+    [
+      "ISIN",
+      "INE124101010"
+    ],
+    [
+      "Final Issue Price",
+      "₹34 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹34.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹36.05"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹35.90"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹37.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹36.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "22.64",
+      "Shares Offered": "8,00,000",
+      "Shares bid for": "1,81,12,000",
+      "Total Application": "11"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "69.19",
+      "Shares Offered": "6,36,000",
+      "Shares bid for": "4,40,04,000",
+      "Total Application": "526"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "15.09",
+      "Shares Offered": "14,56,000",
+      "Shares bid for": "2,19,76,000",
+      "Total Application": "5,494"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "29.08",
+      "Shares Offered": "28,92,000",
+      "Shares bid for": "8,40,92,000",
+      "Total Application": "6,031"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Samay Project IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/akshaya_10122024152018_1DRHPSamay.pdf",
+      "text": "Samay Project IPODRHP"
+    },
+    {
+      "title": "Samay Project IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SamayProjectServicesLimited_RHP.pdf",
+      "text": "Samay Project IPORHP"
+    },
+    {
+      "title": "Samay Project IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SamayProjectServicesLimited_PROSP.pdf",
+      "text": "Samay Project IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Anand R and Ms. Santhi Karthikeyan.",
+  "company_contact_details": {
+    "company_name": "Samay Project Services Ltd.",
+    "address": "Plot No.1218,, 17th Street, West End Colony, Mogappair, Thiruvallur,, Chennai, ,, Tamil Nadu, , 600050, Phone, :, Email, :, Website, :",
+    "phone": "+91 9344139102",
+    "email": "investor@samayprojects.in",
+    "website": "http://www.samayprojects.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in November 2001, Samay Project Services Limited offers Engineering, Procurement, and Construction (EPC) services, specializing in design, engineering, and the commissioning of balance of plant (BOP) systems across various industries. The company engages in EPC projects including (i) piping systems, (ii) tanks, vessels, and fabricated structures, and (iii) fire protection and detection systems. Services Offered: Fire Detection & Protection Systems: Design, supply, installation, testing, and commissioning (SITC) of fire detection and protection systems, including fire hydrant and spray systems. Piping and Appurtenances: Comprehensive services encompassing design, engineering, supply, fabrication, erection, and commissioning of low-pressure piping systems. Bloomberg Storage Tanks: Expertise in designing and constructing tanks and tank farms. Cross Country Water and Hydrocarbon Pipelines: Execution of cross-country pipelines for water and hydrocarbons domestically and internationally. System Automation: Integrating electromechanical systems and instrumentation for turnkey project implementation. EPC of BioCNG Plants:Turnkey engineering and execution of BioCNG projects, from feedstock identification to commissioning. The company is an ISO 9001:2015 certified organization for quality management in Engineering, Supply, Fabrication, Erection, Testing, and Commissioning of Piping, Tanks, and Fire Protection Systems. As of October 31, 2024, the company employed 54 staff and had 179 contract labourers (skilled, semi-skilled, and unskilled) for its EPC Projects. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "6.03%"
+}

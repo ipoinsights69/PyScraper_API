@@ -1,0 +1,430 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 4, 2025 to August 6, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹116 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "38,88,000shares(aggregating up to ₹45.10Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,94,400shares(aggregating up to ₹2.26Cr)Prabhat Financial Services Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "36,93,600shares(aggregating up to ₹42.85Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,02,50,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,41,38,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,94,400 (5.00%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,84,800 (4.75%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "17,54,400 (45.12%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "11,68,800 (30.06%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "5,85,600 (15.06%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "17,54,400 (45.12%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "38,88,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 6, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,78,400"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,78,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹4,17,600"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "8,400",
+      "Amount": "₹9,74,400"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹11,13,600"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.36%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.58%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "83.08",
+      "71.21",
+      "62.54"
+    ],
+    [
+      "Total Income",
+      "113.69",
+      "73.93",
+      "84.15"
+    ],
+    [
+      "Profit After Tax",
+      "10.27",
+      "3.99",
+      "2.14"
+    ],
+    [
+      "EBITDA",
+      "17.84",
+      "7.28",
+      "3.41"
+    ],
+    [
+      "Net Worth",
+      "29.47",
+      "16.68",
+      "12.70"
+    ],
+    [
+      "Reserves and Surplus",
+      "19.22",
+      "11.69",
+      "7.71"
+    ],
+    [
+      "Total Borrowing",
+      "39.66",
+      "45.20",
+      "39.75"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "44.53%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "25.15%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.35"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "34.87%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.04%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.69%"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "10.02",
+      "Post IPO": "7.27"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.57",
+      "Post IPO": "15.96"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "20.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "To fund the expansion plan of the Company i.e. Capital expenditure towards purchase of Plant and Machinery and Civil Work",
+      "Expected Amount(₹ in crores)": "15.86"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Prepayment of term loans to banks",
+      "Expected Amount(₹ in crores)": "1.60"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "5.14"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "AARADHYA"
+    ],
+    [
+      "ISIN",
+      "INE124401014"
+    ],
+    [
+      "Final Issue Price",
+      "₹116 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹116.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹111.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹110.45"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹116.55"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹116.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "2.51",
+      "Shares Offered": "1,84,800",
+      "Shares bid for": "4,63,200",
+      "Total Application": "3"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.25",
+      "Shares Offered": "17,54,400",
+      "Shares bid for": "21,94,800",
+      "Total Application": "101"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.65",
+      "Shares Offered": "11,68,800",
+      "Shares bid for": "19,28,400",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "0.45",
+      "Shares Offered": "5,85,600",
+      "Shares bid for": "2,66,400",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "1.46",
+      "Shares Offered": "17,54,400",
+      "Shares bid for": "25,68,000",
+      "Total Application": "1,070"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.41",
+      "Shares Offered": "36,93,600",
+      "Shares bid for": "52,26,000",
+      "Total Application": "1,174"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Aaradhya Disposal IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_02122024183126_DRHP.pdf",
+      "text": "Aaradhya Disposal IPODRHP"
+    },
+    {
+      "title": "Aaradhya Disposal IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/aaradhya-disposal-industries-limited_95811.html",
+      "text": "Aaradhya Disposal IPORHP"
+    },
+    {
+      "title": "Aaradhya Disposal IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AaradhyaDisposalIndustriesLimited_PROSP.pdf",
+      "text": "Aaradhya Disposal IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Sunil Maheshwari, Mr. Anil Maheshwari and Mrs. Shashi Maheshwari.",
+  "company_contact_details": {
+    "company_name": "Aaradhya Disposal Industries Ltd.",
+    "address": "Plot E-1,, Industrial Area No-1, A.B. Road, Dewas, ,, Madhya Pradesh, , 455001, Phone, :, Email, :, Website, :",
+    "phone": "+91-7880132743",
+    "email": "cs@aaradhyadisposalindustriesltd.in",
+    "website": "https://www.aaradhyadisposalindustriesltd.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Established in January 2014, Aaradhya Disposal Industries Limited is engaged in the manufacturing and exporting of paper products, which encompass paper cup blanks, ripple paper, and coated paper rolls. The company offers an extensive range of paper-based solutions that are engineered for performance, sustainability, and versatility, which mainly includes: The company provides customized solutions to meet unique customer needs. Whether for retail packaging, foodservice, or commercial printing, our products are trusted for quality, performance, and sustainability. As of the date of this Red Herring Prospectus (July 25, 2025), the company have one operational manufacturing facility located in Dewas at Madhya Pradesh, which has two Plants/Units (E-1 and E-2) with a total installed capacity of 15,000 Metric Tonnes Per Annum over an area of 52,151 square feet as of March 31, 2025. The company serves Indian and global markets, exporting to Asia and the Middle East. Its distribution network and central India location ensure efficient logistics and delivery. As of June 30, 2025, the company had 33 permanent employees.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Khambatta Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/154/",
+      "title": "About Khambatta Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "-4.31%"
+}

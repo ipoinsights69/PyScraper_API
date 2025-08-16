@@ -1,0 +1,406 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 25, 2025 to June 27, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹68 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "36,96,000shares(aggregating up to ₹25.13Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,86,000shares(aggregating up to ₹1.26Cr)Asnani Stock Broker Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "35,10,000shares(aggregating up to ₹23.87Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "95,03,349shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,31,99,349shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,86,000 (5.03%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,36,000 (19.91%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,34,000 (22.56%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,40,000 (52.49%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "36,96,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 27, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2,000",
+      "Amount": "₹1,36,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2,000",
+      "Amount": "₹1,36,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,72,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "98.98%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.28%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "28.65",
+      "19.44",
+      "16.41"
+    ],
+    [
+      "Total Income",
+      "42.47",
+      "37.48",
+      "33.22"
+    ],
+    [
+      "Profit After Tax",
+      "5.53",
+      "2.61",
+      "1.08"
+    ],
+    [
+      "EBITDA",
+      "8.00",
+      "4.10",
+      "1.65"
+    ],
+    [
+      "Net Worth",
+      "16.46",
+      "9.53",
+      "6.92"
+    ],
+    [
+      "Reserves and Surplus",
+      "6.96",
+      "9.38",
+      "6.76"
+    ],
+    [
+      "Total Borrowing",
+      "5.00",
+      "4.64",
+      "3.96"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "10.63%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "37.06%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.30"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "33.58%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "13.24%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "17.44%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.91"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.82",
+      "Post IPO": "4.19"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.69",
+      "Post IPO": "16.23"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To meet working capital Expenses",
+      "Expected Amount(₹ in crores)": "14.01"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "To meet Capital Expenditure",
+      "Expected Amount(₹ in crores)": "6.14"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "2.34"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "To meet the offer related expenses",
+      "Expected Amount(₹ in crores)": "2.64"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "RTL"
+    ],
+    [
+      "ISIN",
+      "INE14W901010"
+    ],
+    [
+      "Final Issue Price",
+      "₹68 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹68.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹72.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹68.40"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹75.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹68.40"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.00",
+      "Shares Offered": "7,36,000",
+      "Shares bid for": "7,36,000",
+      "Total Application": "1"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.66",
+      "Shares Offered": "8,34,000",
+      "Shares bid for": "13,84,000",
+      "Total Application": "117"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.82",
+      "Shares Offered": "19,40,000",
+      "Shares bid for": "35,22,000",
+      "Total Application": "1,761"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.61",
+      "Shares Offered": "35,10,000",
+      "Shares bid for": "56,42,000",
+      "Total Application": "1,879"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Rama Telecom IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_17012025213940_DRHP_RAMA.pdf",
+      "text": "Rama Telecom IPODRHP"
+    },
+    {
+      "title": "Rama Telecom IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_RTL.zip",
+      "text": "Rama Telecom IPORHP"
+    },
+    {
+      "title": "Rama Telecom IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/RamaTelecomLimited_PROSP.pdf",
+      "text": "Rama Telecom IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company, are Mr. Rama Kant Lakhotia, Mrs. Neena Lakhotia, Ms. Nikita Lakhotia & Ms. Simran Lakhotia.",
+  "company_contact_details": {
+    "company_name": "Rama Telecom Ltd.",
+    "address": "Kamalalaya Centre 156A, Lenin Sarani, Room No-302,, 3rd Floor, Kolkata, ,, West Bengal, , 700013, Phone, :, Email, :, Website, :",
+    "phone": "+91 62909 52944",
+    "email": "cs@ramatelecom.net",
+    "website": "https://ramatelecom.net/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "investor@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Established in July 2004, Rama Telecom Ltd provides customized E2E networking solutions in the Telecom & Datacom forefront The company specialises in optical fibre laying and infrastructure development for clients such as Indian Railways, Airtel, IOCL, and the Airport Authority of India, focusing on seamless networking with sustainable methods and delivering professional quality in telecom and datacom projects. With expertise in optical fibre technologies, the company provides services such as Horizontal Directional Drilling (HDD), Optical Fibre Cable (OFC) laying and blowing, and related telecom infrastructure projects. Rama Telecom also partners with various Original Equipment Manufacturers (OEMs) and distributors, including Nokia, D-Link, Tejas Networks, Exide, Aaram Plastics, Mescab, Mrotek, Puncom, Statcon, Team Engineers, and Webfil, to strengthen its service offerings. The company is involved in infrastructure development, including the installation and maintenance of fibre optic networks, wireless communication solutions, and broadband connectivity services. As of September 30, 2024, the company has 40 employees, including Directors and Key Managerial Personnel overseeing operations, compliance, and Senior Managerial Personnel managing administration, marketing, and accounting functions according to their goals. Competitive Strength:",
+    "competitive_strengths": [
+      "Optical Fibre Cable (OFC) Laying & Maintenance– Rama Telecom specialises in laying and maintaining fibre optic networks using advanced technologies such as Horizontal Directional Drilling (HDD) and micro-trenching.",
+      "Network Planning & Design– The company offers customised solutions for telecom networks, ensuring efficiency and scalability for clients.",
+      "Installation & Commissioning– Rama Telecom provides end-to-end services for telecom equipment installation, including mobile towers, switching systems, and transmission networks.",
+      "Turnkey Project Management– The company manages large-scale projects from inception to completion, ensuring timely and cost-effective execution.",
+      "Data Communication Solutions- Rama Telecom plays a crucial role in expanding broadband connectivity and high-speed internet services across India."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Affinity Global Capital Market Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/405/",
+      "title": "About Affinity Global Capital Market Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "5.88%"
+}

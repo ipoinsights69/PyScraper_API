@@ -1,0 +1,380 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 30, 2025 to July 2, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹100 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "21,00,000shares(aggregating up to ₹21.00Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,05,600shares(aggregating up to ₹1.06Cr)Black Fox Financial Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "19,94,400shares(aggregating up to ₹19.94Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "50,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,05,600 (4.79%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "9,97,200 (45.21%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,97,200 (45.21%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "22,05,601 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 2, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,20,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,20,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,40,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.42%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "22.24",
+      "17.02",
+      "12.99"
+    ],
+    [
+      "Total Income",
+      "42.46",
+      "40.40",
+      "37.44"
+    ],
+    [
+      "Profit After Tax",
+      "4.71",
+      "4.08",
+      "0.66"
+    ],
+    [
+      "EBITDA",
+      "0.87",
+      "5.34",
+      "6.30"
+    ],
+    [
+      "Net Worth",
+      "10.76",
+      "6.05",
+      "1.97"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.76",
+      "5.05",
+      "0.97"
+    ],
+    [
+      "Total Borrowing",
+      "0.03",
+      "1.48",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "43.75%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "60.56%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "43.75%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.08%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.91%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.65"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.41",
+      "Post IPO": "6.63"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.63",
+      "Post IPO": "15.09"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding Capital Expenditure for expansion of the Retail Network by launching 15 new Exclusive Brand Outlets (EBOs)",
+      "Expected Amount(₹ in crores)": "5.27"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding Capital Expenditure for purchase of Multi-Purpose Racks",
+      "Expected Amount(₹ in crores)": "0.40"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "9.35"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Expenses",
+      "Expected Amount(₹ in crores)": "3.73"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544437"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0TBQ01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹100 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹100.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹80.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹76.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹80.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹76.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.60",
+      "Shares Offered": "9,97,200",
+      "Shares bid for": "15,93,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "3.61",
+      "Shares Offered": "9,97,200",
+      "Shares bid for": "36,02,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.61",
+      "Shares Offered": "19,94,401",
+      "Shares bid for": "51,96,000",
+      "Total Application": "3,251"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Marc Loire Fashions IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/326872/DP_Marc%20Loire_BSE_07122024_Final_20241209230044.pdf",
+      "text": "Marc Loire Fashions IPODRHP"
+    },
+    {
+      "title": "Marc Loire Fashions IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/marc-loire-fashions-limited_94731.html",
+      "text": "Marc Loire Fashions IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Arvind Kamboj, Mrs. Shaina Malhotra and Mr. Atul Malhotra.",
+  "company_contact_details": {
+    "company_name": "Marc Loire Fashions Ltd.",
+    "address": "Plot No. 426/1,, First Floor, Rani Khera Road,, Village Mundaka,, Delhi, ,, New Delhi, , 110041, Phone, :, Email, :, Website, :",
+    "phone": "+91 62009 62002",
+    "email": "csvasant@marcloire.in",
+    "website": "https://marcloire.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 2014, Marc Loire Fashions Limited is engaged in high-end fashion brand specializing in stylish and comfortable women's footwear. The company offers a diverse range of designs to cater to various preferences. Their collection includes products like open-toe block heel metallic fashion sandals and lightweight athleisure knitted activewear slip-on sneakers. The company is committed to delivering premium quality footwear that combines both style and comfort. Marc Loire Fashions Limited operates with a dual model: Direct-to-Consumer (D2C) via online platforms and Business-to-Business (B2B) through offline retail, supported by a network of 40+ trusted vendors.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Finshore Management Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/147/",
+      "title": "About Finshore Management Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

@@ -1,0 +1,443 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 2, 2025 to July 4, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 9, 2025"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price",
+      "₹245 per share"
+    ],
+    [
+      "Lot Size",
+      "61 Shares"
+    ],
+    [
+      "Sale Type",
+      "Offer For Sale"
+    ],
+    [
+      "Total Issue Size",
+      "3,51,02,040shares(aggregating up to ₹860.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "17,49,82,500shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "17,49,82,500shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,75,51,019 (50.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "1,05,30,612 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "70,20,407 (20.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "52,65,306 (15.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "35,10,204 (10.00%)",
+      "Maximum Allottees": "4,110"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "17,55,102 (5.00%)",
+      "Maximum Allottees": "2,055"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,22,85,714 (35.00%)",
+      "Maximum Allottees": "2,01,405"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "3,51,02,039 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 1, 2025"
+    ],
+    [
+      "Shares Offered",
+      "1,05,30,612"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "258.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 5, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 4, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 8, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 4, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "61",
+      "Amount": "₹14,945"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "793",
+      "Amount": "₹1,94,285"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "854",
+      "Amount": "₹2,09,230"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "4,026",
+      "Amount": "₹9,86,370"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "4,087",
+      "Amount": "₹10,01,315"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "79.94%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "879.62",
+      "592.91",
+      "304.99"
+    ],
+    [
+      "Total Income",
+      "884.78",
+      "763.44",
+      "517.85"
+    ],
+    [
+      "Profit After Tax",
+      "152.93",
+      "118.90",
+      "112.14"
+    ],
+    [
+      "EBITDA",
+      "212.82",
+      "72.64",
+      "107.29"
+    ],
+    [
+      "Net Worth",
+      "505.71",
+      "341.81",
+      "221.37"
+    ],
+    [
+      "Total Borrowing",
+      "0.08",
+      "0.08",
+      "0.08"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "30.24%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "40.03%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "30.24%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "17.28%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "25.05%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "8.48"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.74",
+      "Post IPO": "8.74"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "28.03",
+      "Post IPO": "28.03"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To achieve the benefits of listing the Equity Shares on the Stock Exchanges",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 9, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544439"
+    ],
+    [
+      "NSE Symbol",
+      "CRIZAC"
+    ],
+    [
+      "ISIN",
+      "INE0S4R01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹245 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹245.00",
+      "NSE": "₹245.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹280.00",
+      "NSE": "₹281.05"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹275.00",
+      "NSE": "₹275.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹307.95",
+      "NSE": "₹309.15"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹307.45",
+      "NSE": "₹307.63"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "8",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "141.27",
+      "Shares Offered": "70,20,407",
+      "Shares bid for": "99,17,49,956"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "80.07",
+      "Shares Offered": "52,65,306",
+      "Shares bid for": "42,15,96,010"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "92.95",
+      "Shares Offered": "35,10,204",
+      "Shares bid for": "32,62,66,491"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "54.32",
+      "Shares Offered": "17,55,102",
+      "Shares bid for": "9,53,29,519"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "10.74",
+      "Shares Offered": "1,22,85,714",
+      "Shares bid for": "13,19,57,274"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "62.89",
+      "Shares Offered": "2,45,71,427",
+      "Shares bid for": "1,54,53,03,240"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Crizac IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/nov-2024/crizac-limited-drhp_88688.html",
+      "text": "Crizac IPODRHP"
+    },
+    {
+      "title": "Crizac IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/crizac-limited-rhp_95138.html",
+      "text": "Crizac IPORHP"
+    },
+    {
+      "title": "Crizac IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/crizac-limited-prospectus_95136.html",
+      "text": "Crizac IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Dr. Vikash Agarwal, Pinky Agarwal and Manish Agarwal are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Crizac Ltd.",
+    "address": "Wing A, 3 rd Floor, Constantia Building,, 11, Dr. U.N. Brahmachari Street,, Shakespeare Sarani,, Kolkata, ,, West Bengal, , 700017, Phone, :, Email, :, Website, :",
+    "phone": "+91 33 3544 1515",
+    "email": "compliance@crizac.com",
+    "website": "http://www.crizac.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "crizac.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2011, Crizac Limited is a B2B education platform for agents and global institutions of higher education offering international student recruitment solutions to global institutions of higher education in the United Kingdom, Canada, the Republic of Ireland, Australia and New Zealand (ANZ). For the 6 months ended September 30, 2024 and Fiscals March 31, 2024, March 31, 2023 and March 31, 2022, the company sourced applications for enrollment into global institutions of higher education from over 75 countries through our agents globally who are registered on our proprietary technology platform. The company processed over 5.95 lakh student applications while working with over 135 global institutions of higher education. As of September, 2024, the company have around 7,900 agents globally who are registered on the proprietary technology platform and during Fiscal 2024, we had 2,532 active agents (i.e., agents from whom the Company has received applications during Fiscal 2024) (Active Agents) comprising 1,524 Active Agents in India and around 40% Active Agents i.e., 1,008 Active Agents in over 25 countries overseas including United Kingdom, Nigeria, Pakistan, Bangladesh, Nepal, Sri Lanka, Cameroon, Ghana, Kenya, Vietnam, Canada and Egypt. The company has consultants in multiple countries, including Cameroon, China, Ghana, and Kenya. As of September 30, 2024, the company had a team of 329 employees and 10 consultants with extensive experience in the international educational landscape.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Equirus Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/133/",
+      "title": "About Equirus Capital Pvt.Ltd."
+    },
+    {
+      "name": "Anand Rathi Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/34/",
+      "title": "About Anand Rathi Advisors Ltd."
+    }
+  ],
+  "listing_gain_percent": "14.71%"
+}

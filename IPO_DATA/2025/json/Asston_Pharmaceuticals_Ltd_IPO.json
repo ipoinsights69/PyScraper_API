@@ -1,0 +1,472 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 9, 2025 to July 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 16, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹123 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "22,41,000shares(aggregating up to ₹27.56Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,13,000shares(aggregating up to ₹1.39Cr)JSK Securities & Services Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "21,28,000shares(aggregating up to ₹26.17Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "62,71,360shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "85,12,360shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,13,000 (5.04%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "10,60,000 (47.30%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "6,35,000 (28.34%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "4,25,000 (18.96%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "3,22,000 (14.37%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,15,000 (9.59%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,07,000 (4.77%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "7,46,000 (33.29%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "22,41,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 8, 2025"
+    ],
+    [
+      "Shares Offered",
+      "6,35,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.81"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 13, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 12, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jul 14, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 15, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 15, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 16, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 11, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,46,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,46,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,000",
+      "Amount": "₹3,69,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "8,000",
+      "Amount": "₹9,84,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "9,000",
+      "Amount": "₹11,07,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "68.76%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "50.66%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 May 2025",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "31.83",
+      "28.12",
+      "20.26",
+      "13.69"
+    ],
+    [
+      "Total Income",
+      "6.21",
+      "25.61",
+      "15.84",
+      "7.19"
+    ],
+    [
+      "Profit After Tax",
+      "1.32",
+      "4.33",
+      "1.36",
+      "1.06"
+    ],
+    [
+      "EBITDA",
+      "1.93",
+      "6.16",
+      "2.55",
+      "1.52"
+    ],
+    [
+      "Net Worth",
+      "12.04",
+      "10.72",
+      "6.39",
+      "1.99"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.77",
+      "4.45",
+      "5.61",
+      "1.29"
+    ],
+    [
+      "Total Borrowing",
+      "7.83",
+      "7.26",
+      "6.82",
+      "5.25"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "50.56%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "51.25%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.68"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "40.36%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "17.27%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "24.60%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "12.07"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.90",
+      "Post IPO": "9.32"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "17.83",
+      "Post IPO": "13.2"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirements towards acquiring machinery in the manufacturing unit",
+      "Expected Amount(₹ in crores)": "6.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding the incremental working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "13.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment and/or prepayment, in part or full, of certain of the outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "1.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "3.95"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 16, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544445"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0SJX01015"
+    ],
+    [
+      "Final Issue Price",
+      "₹123 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹123.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹119.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹113.05"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹124.95"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹124.95"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "85.76",
+      "Shares Offered": "4,25,000",
+      "Shares bid for": "3,64,49,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "353.14",
+      "Shares Offered": "3,22,000",
+      "Shares bid for": "11,37,10,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "424.47",
+      "Shares Offered": "2,15,000",
+      "Shares bid for": "9,12,62,000",
+      "Total Application": "79,695"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "210.85",
+      "Shares Offered": "1,07,000",
+      "Shares bid for": "2,25,61,000",
+      "Total Application": "79,695"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "172.06",
+      "Shares Offered": "7,46,000",
+      "Shares bid for": "12,83,58,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "186.55",
+      "Shares Offered": "14,93,000",
+      "Shares bid for": "27,85,17,000",
+      "Total Application": "79,695"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Asston Pharmaceuticals IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/355593/DRHP_ASSTON%20PHARMACEUTICALS%20LIMITED_20250117194950.pdf",
+      "text": "Asston Pharmaceuticals IPODRHP"
+    },
+    {
+      "title": "Asston Pharmaceuticals IPO RHP",
+      "href": "https://www.bsesme.com/download/355593/SME_IPO%20Open/1.%20Asston_RHP%2003072025_20250703204806.pdf",
+      "text": "Asston Pharmaceuticals IPORHP"
+    },
+    {
+      "title": "Asston Pharmaceuticals IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/355593/SME_IPO%20BasisOfAllotment/PROSPECTUS_20250714170852.pdf",
+      "text": "Asston Pharmaceuticals IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Dr. Ashish Narayan Sakalkar, Saili Jayaram More and Sachin Chandrakant Badakh are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Asston Pharmaceuticals Ltd.",
+    "address": "4th Floor, Office No. A-431 Balaji Bhavan,, Plot No 42A Sector-11 CBD Belapur,, Navi Mumbai, Thane, Navi Mumbai, ,, Maharashtra, , 400614, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 49731411",
+    "email": "info@asstonpharmaceuticals.com",
+    "website": "http://www.asstonpharmaceuticals.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 2019, Asston Pharmaceuticals Limited is engaged in the business of pharmaceuticals, specializing in exporting healthcare products globally. The company offers a diverse range of products, including tablets, capsules, sachets, and syrups. Its product portfolio encompasses various therapeutic categories, such as analgesics, antibiotics, antifungals, vitamins, and more. The company manufactures pharmaceutical products for direct sales and also on a contract manufacturing or loan license basis, primarily working on a principle-to-principle approach with various marketers. The company is FDA certified by both Central and State FDA, accredited by NQA (Nuclear Quality Assurance), and complies with Quality Management System (QMS) standards, ensuring high-quality manufacturing. Products: As of 3 July 2025, the company has 46 Permanent employees and 6 contractual employees in various departments. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Sobhagya Capital Options Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/126/",
+      "title": "About Sobhagya Capital Options Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-3.25%"
+}

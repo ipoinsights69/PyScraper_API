@@ -1,0 +1,480 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 24, 2025 to June 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price",
+      "₹400 per share"
+    ],
+    [
+      "Lot Size",
+      "37 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "2,13,13,130shares(aggregating up to ₹852.53Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,00,00,000shares(aggregating up to ₹400.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "1,13,13,130shares of ₹2(aggregating up to ₹452.53Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "13,09,35,600shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "14,09,35,600shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,06,56,564 (71.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "63,93,938 (42.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "42,62,626 (28.57%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "31,96,970 (21.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "21,31,313 (14.29%)",
+      "Maximum Allottees": "4,114"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "10,65,657 (7.14%)",
+      "Maximum Allottees": "2,057"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "74,59,596 (50.00%)",
+      "Maximum Allottees": "2,01,610"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,49,19,192 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 23, 2025"
+    ],
+    [
+      "Shares Offered",
+      "63,93,938"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "255.76"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 24, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "37",
+      "Amount": "₹14,800"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "481",
+      "Amount": "₹1,92,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "518",
+      "Amount": "₹2,07,200"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "2,479",
+      "Amount": "₹9,91,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "2,516",
+      "Amount": "₹10,06,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.47%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "81.59%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "845.97",
+      "672.54",
+      "551.27"
+    ],
+    [
+      "Total Income",
+      "348.43",
+      "290.20",
+      "223.71"
+    ],
+    [
+      "Profit After Tax",
+      "83.29",
+      "45.29",
+      "28.14"
+    ],
+    [
+      "EBITDA",
+      "109.74",
+      "61.53",
+      "33.59"
+    ],
+    [
+      "Net Worth",
+      "333.62",
+      "250.15",
+      "203.32"
+    ],
+    [
+      "Reserves and Surplus",
+      "467.17",
+      "403.35",
+      "356.51"
+    ],
+    [
+      "Total Borrowing",
+      "245.30",
+      "176.90",
+      "101.10"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "16.88%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "13.71%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.32"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "24.97%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "23.90%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "35.12%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "20.93"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.36",
+      "Post IPO": "5.91"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "62.88",
+      "Post IPO": "67.69"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/prepayment, in full or in part, of certain outstanding borrowings availed by the Company.",
+      "Expected Amount(₹ in crores)": "210.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Setting up of an air separation unit at the Uluberia-II plant with a capacity of 220 TPD.",
+      "Expected Amount(₹ in crores)": "104.50"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544421"
+    ],
+    [
+      "NSE Symbol",
+      "ELLEN"
+    ],
+    [
+      "ISIN",
+      "INE236E01022"
+    ],
+    [
+      "Final Issue Price",
+      "₹400 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹400.00",
+      "NSE": "₹400.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹492.00",
+      "NSE": "₹486.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹485.65",
+      "NSE": "₹486.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹541.20",
+      "NSE": "₹534.60"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹541.20",
+      "NSE": "₹534.60"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "10",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "64.23",
+      "Shares Offered": "41,89,260",
+      "Shares bid for": "26,90,79,281"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "15.21",
+      "Shares Offered": "32,75,917",
+      "Shares bid for": "4,98,12,434"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "17.00",
+      "Shares Offered": "21,83,945",
+      "Shares bid for": "3,71,18,400"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "11.62",
+      "Shares Offered": "10,91,972",
+      "Shares bid for": "1,26,94,034"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.14",
+      "Shares Offered": "76,43,806",
+      "Shares bid for": "1,63,92,110"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "22.19",
+      "Shares Offered": "1,51,08,983",
+      "Shares bid for": "33,52,83,825"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Ellenbarrie Industrial Gases IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/sep-2024/ellenbarrie-industrial-gases-limited_86902.html",
+      "text": "Ellenbarrie Industrial Gases IPODRHP"
+    },
+    {
+      "title": "Ellenbarrie Industrial Gases IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_ELLEN.zip",
+      "text": "Ellenbarrie Industrial Gases IPORHP"
+    },
+    {
+      "title": "Ellenbarrie Industrial Gases IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE236E01022_27JUN2025.pdf",
+      "text": "Ellenbarrie Industrial Gases IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Padam Kumar Agarwala and Varun Agarwal are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Ellenbarrie Industrial Gases Ltd.",
+    "address": "3A,, Ripon, Street, Kolkata, ,, West Bengal, , 700016, Phone, :, Email, :, Website, :",
+    "phone": "033-48226521",
+    "email": "complianceofficer@ellenbarrie.com",
+    "website": "http://www.ellenbarrie.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "eigl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 1973, Ellenbarrie Industrial Gases Limited (EIGL) is an Indian company specialising in the production and supply of industrial, medical, and speciality gases. The company provides essential gases such as oxygen, carbon dioxide, acetylene, nitrogen, helium, hydrogen, argon, and nitrous oxide.EIGLalso offers dry ice, synthetic air, fire-fighting gases, medical oxygen, liquefied petroleum gas (LPG), welding mixtures, and specialty gases, serving a wide range of industries. Services:EIGL offers project engineering services, leveraging technical expertise to design, install, and commission tonnage air separation units (ASUs) on a turnkey basis. The company also provides medical gas pipeline solutions, assisting healthcare facilities with installing, operating, and maintaining their systems. Additionally, EIGL supplies medical equipment such as anesthesia workstations, ventilators, spirometers, sterilizers, bedside monitors, and lung diffusion testing machines. EIGL serves various customers, classified into three categories: Industries Served EIGL caters to several industries, including: Operations & Workforce Employees: As of March 31, 2025, EIGL employed 281 permanent and 85 contractual employees.",
+    "competitive_strengths": [
+      "Bulk Customers – Supplied with liquefied gases through cryogenic tankers.",
+      "Package Customers – Receive compressed gases in cylinders.",
+      "Onsite Customers – Provided with onsite gas supply and operations & maintenance services."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    }
+  ],
+  "listing_gain_percent": "21.5%"
+}

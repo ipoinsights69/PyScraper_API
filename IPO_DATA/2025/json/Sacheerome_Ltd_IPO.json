@@ -1,0 +1,414 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 9, 2025 to June 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 16, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹102 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "60,40,800shares(aggregating up to ₹61.62Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,02,400shares(aggregating up to ₹3.08Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "57,38,400shares(aggregating up to ₹58.53Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,63,32,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,23,72,800shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,02,400 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "28,66,800 (47.46%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "17,19,600 (28.47%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,47,200 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,61,600 (14.26%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "20,10,000 (33.27%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "60,40,800 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,19,600"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "17.54"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 11, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 9, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 9, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jun 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jun 12, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jun 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jun 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jun 16, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 11, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,22,400"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,22,400"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,44,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.54%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "84.67",
+      "63.52",
+      "49.22"
+    ],
+    [
+      "Total Income",
+      "108.13",
+      "86.40",
+      "70.93"
+    ],
+    [
+      "Profit After Tax",
+      "15.98",
+      "10.67",
+      "5.99"
+    ],
+    [
+      "Net Worth",
+      "61.99",
+      "46.00",
+      "35.33"
+    ],
+    [
+      "Reserves and Surplus",
+      "45.65",
+      "29.67",
+      "31.25"
+    ],
+    [
+      "Total Borrowing",
+      "3.47",
+      "1.43",
+      "0.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "23.10%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "33%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.06"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "25.78%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "14.86%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "21.62%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.62"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.79",
+      "Post IPO": "7.14"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.42",
+      "Post IPO": "14.28"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Setting Up a new manufacturing facility at 1459b, Sector-32, Yeida, Gautam Buddha Nagar, UP203209",
+      "Expected Amount(₹ in crores)": "56.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 16, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SACHEEROME"
+    ],
+    [
+      "ISIN",
+      "INE1ARD01016"
+    ],
+    [
+      "Final Issue Price",
+      "₹102 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹102.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹153.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹145.35"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹160.65"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹160.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "173.15",
+      "Shares Offered": "11,47,200",
+      "Shares bid for": "19,86,38,400",
+      "Total Application": "138"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "808.56",
+      "Shares Offered": "8,61,600",
+      "Shares bid for": "69,66,55,200",
+      "Total Application": "34,060"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "180.28",
+      "Shares Offered": "20,10,000",
+      "Shares bid for": "36,23,53,200",
+      "Total Application": "3,01,961"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "312.94",
+      "Shares Offered": "40,18,800",
+      "Shares bid for": "1,25,76,46,800",
+      "Total Application": "3,36,159"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Sacheerome IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_17122024224438_DRHP.pdf",
+      "text": "Sacheerome IPODRHP"
+    },
+    {
+      "title": "Sacheerome IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_SACHEEROME.zip",
+      "text": "Sacheerome IPORHP"
+    },
+    {
+      "title": "Sacheerome IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SacheeromeLimited_PROSP.pdf",
+      "text": "Sacheerome IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Manoj Arora, Mrs. Alka Arora and Mr. Dhruv Arora.",
+  "company_contact_details": {
+    "company_name": "Sacheerome Ltd.",
+    "address": "Y-4, Okhla Industrial Area, Phase-II,, South Delhi, ,, New Delhi, , 110020, Phone, :, Email, :, Website, :",
+    "phone": "+011-47311111",
+    "email": "compliance@sacheerome.com",
+    "website": "https://www.sacheerome.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "sacheerome.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in June 1992, Sacheerome Limited is a creative entity specializing in the designing and manufacturing fragrances and flavors. The company offers diverse products, including cosmetic fragrances, industrial fragrances, perfumes, food additives, and flavoring essences. The company operates in B2B FMCG, serving leading firms in India and worldwide. The company's fragrances are used in Personal Care, Body Care, Hair Care, Fabric Care, Home Care, Baby Care, Fine Fragrance, Air Care, Pet Care, Men’s Grooming, and Hygiene & Wellness industries. The company's flavours are used in Beverage, Bakery, Confectionery, Dairy Products, Health & Nutrition, Oral care, Shisha, Meat Products, Dry Flavours, Seasonings and others. The company exports its products to Middle East (UAE) and African Markets. As of 30th September 2024, the company has 153 employees in various departments. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "50.0%"
+}

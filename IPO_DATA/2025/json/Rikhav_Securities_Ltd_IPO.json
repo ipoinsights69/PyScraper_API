@@ -1,0 +1,413 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 15, 2025 to January 17, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 22, 2025"
+    ],
+    [
+      "Face Value",
+      "₹5per share"
+    ],
+    [
+      "Issue Price",
+      "₹86 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,03,28,000shares(aggregating up to ₹88.82Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "5,24,800shares(aggregating up to ₹4.51Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "78,03,200shares(aggregating up to ₹67.11Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "20,00,000shares of ₹5(aggregating up to ₹17.20Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "98,03,200shares(aggregating up to ₹84.31Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "2,99,64,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "3,82,92,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "5,24,800 (5.08%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "48,75,200 (47.20%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "29,20,000 (28.27%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "19,55,200 (18.93%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "14,80,000 (14.33%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "34,48,000 (33.38%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,03,28,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 14, 2025"
+    ],
+    [
+      "Shares Offered",
+      "29,20,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "25.11"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "February 19, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 20, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jan 15, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jan 17, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jan 20, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jan 21, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jan 21, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 17, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,37,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,37,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,75,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "90.55%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "65.63%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "33,791.49",
+      "30,206.82",
+      "18,772.01",
+      "18,070.69"
+    ],
+    [
+      "Total Income",
+      "9,615.83",
+      "11,134.26",
+      "5,452.43",
+      "4,298.31"
+    ],
+    [
+      "Profit After Tax",
+      "5,037.32",
+      "4,264.63",
+      "1,910.27",
+      "1,762.47"
+    ],
+    [
+      "Net Worth",
+      "18,845.06",
+      "13,807.74",
+      "9,496.21",
+      "7,585.94"
+    ],
+    [
+      "Reserves and Surplus",
+      "17,346.86",
+      "12,309.54",
+      "7,998.01",
+      "7,086.54"
+    ],
+    [
+      "Total Borrowing",
+      "2,598.06",
+      "4,806.11",
+      "994.27",
+      "1,506.12"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "36.60%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "29.48%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.35"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "30.89%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "40.94%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.87"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "14.23",
+      "Post IPO": "26.31"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "6.04",
+      "Post IPO": "3.27"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 22, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544340"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0CFH01028"
+    ],
+    [
+      "Final Issue Price",
+      "₹86 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹86.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹163.40"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹163.40"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹171.57"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹171.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "170.92",
+      "Shares Offered": "19,55,200",
+      "Shares bid for": "33,41,84,000",
+      "Total Application": "141"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "616.42",
+      "Shares Offered": "14,80,000",
+      "Shares bid for": "91,23,02,400",
+      "Total Application": "41,882"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "251.36",
+      "Shares Offered": "34,48,000",
+      "Shares bid for": "86,66,84,800",
+      "Total Application": "5,41,729"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "307",
+      "Shares Offered": "68,83,200",
+      "Shares bid for": "2,11,31,71,200",
+      "Total Application": "8,69,941"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Rikhav Securities IPO DRHP",
+      "href": "https://www.bsesme.com/download/353459/DRHP_Rikhav_20240930235958.pdf",
+      "text": "Rikhav Securities IPODRHP"
+    },
+    {
+      "title": "Rikhav Securities IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_140120251113.zip",
+      "text": "Rikhav Securities IPORHP"
+    },
+    {
+      "title": "Rikhav Securities IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/353459/SME_IPO%20BasisOfAllotment/Prospectus_Rikhav_20250120163804.pdf",
+      "text": "Rikhav Securities IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the company are Mr Hitesh Himatlal Lakhani, Mr Rajendra N Shah, Ms Bharti Hitesh Lakhani, Ms Vaishali R Shah, Mr Deep Hitesh Lakhani, Mr Monil Rajendra Shah and M/s. Hitesh Himatlal Lakhani HUF.",
+  "company_contact_details": {
+    "company_name": "Rikhav Securities Ltd.",
+    "address": "Office No. 922 - A, 9th Floor, P. J. Towers, Dalal Street,, Fort, Mumbai - 400001, Fort, ,, Maharashtra, Phone, :, Email, :, Website, :",
+    "phone": "022 - 69078300",
+    "email": "investor@rikhav.in",
+    "website": "https://www.rikhav.net/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "rikhav.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1995, Rikhav Securities Limited is a financial services company in India that offers brokerage, investing, and banking services. The company is registered with SEBI as a stockbroker and holds memberships with BSE Limited (BSE), the National Stock Exchange of India (NSE), and the Multi Commodity Exchange (MCX). The company's services include equity broking, cash delivery, intra-day trading, futures, and options. The company trades in various derivative and commodity segments. As a Self-Clearing Member of the Indian Clearing Corporation and NSE Clearing, the company ensure smooth trade settlements. Rikhav Securities helps clients participate in IPOs and provides depository services for demat accounts. As mutual fund advisors, the company guides clients through their investment options. The company also undertakes market-making activities. Competitive Strength As of September 30, 2024, the company has about 394 employees managing daily operations and administrative, legal, and accounting functions.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

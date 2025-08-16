@@ -1,0 +1,466 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 24, 2025 to June 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹71 per share"
+    ],
+    [
+      "Lot Size",
+      "211 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "1,67,60,560shares(aggregating up to ₹119.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,29,58,439shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,97,18,999shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "83,80,280 (71.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "50,28,168 (42.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "33,52,112 (28.57%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "25,14,084 (21.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "16,76,056 (14.29%)",
+      "Maximum Allottees": "567"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "8,38,028 (7.14%)",
+      "Maximum Allottees": "283"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "58,66,196 (50.00%)",
+      "Maximum Allottees": "27,801"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,17,32,392 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 23, 2025"
+    ],
+    [
+      "Shares Offered",
+      "50,28,168"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "35.70"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 24, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "211",
+      "Amount": "₹14,981"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "2,743",
+      "Amount": "₹1,94,753"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "2,954",
+      "Amount": "₹2,09,734"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "13,926",
+      "Amount": "₹9,88,746"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "14,137",
+      "Amount": "₹10,03,727"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "88.14%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "63.43%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "374.60",
+      "317.83",
+      "275.04",
+      "229.79"
+    ],
+    [
+      "Total Income",
+      "256.74",
+      "334.81",
+      "235.17",
+      "286.78"
+    ],
+    [
+      "Profit After Tax",
+      "17.79",
+      "15.38",
+      "4.85",
+      "5.20"
+    ],
+    [
+      "EBITDA",
+      "39.30",
+      "44.65",
+      "20.80",
+      "22.91"
+    ],
+    [
+      "Net Worth",
+      "99.83",
+      "77.67",
+      "62.44",
+      "57.45"
+    ],
+    [
+      "Reserves and Surplus",
+      "56.87",
+      "75.19",
+      "59.97",
+      "54.98"
+    ],
+    [
+      "Total Borrowing",
+      "137.97",
+      "124.48",
+      "97.00",
+      "70.76"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "21.95%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "23.07%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.60"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "19.80%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.59%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "13.44%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.92"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.58",
+      "Post IPO": "3.97"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "19.83",
+      "Post IPO": "17.88"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the Company.",
+      "Expected Amount(₹ in crores)": "75.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Capital expenditure towards purchase of construction equipments/ machineries.",
+      "Expected Amount(₹ in crores)": "14.26"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544424"
+    ],
+    [
+      "NSE Symbol",
+      "GLOBECIVIL"
+    ],
+    [
+      "ISIN",
+      "INE0V3U01015"
+    ],
+    [
+      "Final Issue Price",
+      "₹71 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "BE"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹71.00",
+      "NSE": "₹71.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹91.10",
+      "NSE": "₹90.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹86.65",
+      "NSE": "₹87.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹95.00",
+      "NSE": "₹94.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹94.72",
+      "NSE": "₹94.46"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "3",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "82.13",
+      "Shares Offered": "33,52,112",
+      "Shares bid for": "27,53,07,736"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "143.14",
+      "Shares Offered": "25,14,084",
+      "Shares bid for": "35,98,56,069"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "136.80",
+      "Shares Offered": "16,76,056",
+      "Shares bid for": "22,92,79,141"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "150.25",
+      "Shares Offered": "8,38,028",
+      "Shares bid for": "12,59,10,874"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "53.67",
+      "Shares Offered": "58,66,196",
+      "Shares bid for": "31,48,13,055"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "80.97",
+      "Shares Offered": "1,17,32,392",
+      "Shares bid for": "94,99,76,860"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Globe Civil Projects IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/globe-civil-projects-limited_87298.html",
+      "text": "Globe Civil Projects IPODRHP"
+    },
+    {
+      "title": "Globe Civil Projects IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/globe-civil-projects-limited-rhp_94642.html",
+      "text": "Globe Civil Projects IPORHP"
+    },
+    {
+      "title": "Globe Civil Projects IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE0V3U01015_28JUN2025.pdf",
+      "text": "Globe Civil Projects IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Ved Prakash Khurana, Nipun Khurana, and Vipul Khurana are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Globe Civil Projects Ltd.",
+    "address": "D-40,, Okhla Industrial Area, Phase-I, Delhi, ,, New Delhi, , 110020, Phone, :, Email, :, Website, :",
+    "phone": "+91 11 46561560",
+    "email": "cs@globecivilprojects.com",
+    "website": "http://www.globecivilprojects.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "gcpl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2002, Globe Civil Projects Limited is an integrated Engineering, Procurement, and Construction (EPC) company headquartered in New Delhi. The company has successfully executed projects across 11 states in India, including Uttar Pradesh, Haryana, Delhi, Maharashtra, Andhra Pradesh, Karnataka, Gujarat, Chhattisgarh, Rajasthan, Uttarakhand, and Himachal Pradesh. Globe Civil Projects Limited has completed 37 projects. Currently, the company is working on 12 ongoing projects, including five social and commercial projects. As of August 31, 2024, the company's order book stands at ₹8,929.45 million, covering 14 projects: Globe Civil Projects Limited has a team of 112 permanent employees as of August 31, 2024.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Mefcom Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/463/",
+      "title": "About Mefcom Capital Markets Ltd."
+    }
+  ],
+  "listing_gain_percent": "26.76%"
+}

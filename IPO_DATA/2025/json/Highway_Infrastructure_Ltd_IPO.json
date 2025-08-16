@@ -1,0 +1,477 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 5, 2025 to August 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 12, 2025"
+    ],
+    [
+      "Face Value",
+      "₹5per share"
+    ],
+    [
+      "Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "Lot Size",
+      "211 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,85,71,428shares(aggregating up to ₹130.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,39,31,428shares(aggregating up to ₹97.52Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "46,40,000shares of ₹5(aggregating up to ₹32.48Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "5,77,89,204shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "7,17,20,632shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "55,71,427 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "33,42,856 (18.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "22,28,571 (12.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "55,71,429 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "37,14,286 (20.00%)",
+      "Maximum Allottees": "1,257"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "18,57,143 (10.00%)",
+      "Maximum Allottees": "628"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "74,28,572 (40.00%)",
+      "Maximum Allottees": "35,206"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,85,71,428 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 4, 2025"
+    ],
+    [
+      "Shares Offered",
+      "33,42,856"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "23.40"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 7, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 6, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 7, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "211",
+      "Amount": "₹14,770"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "2,743",
+      "Amount": "₹1,92,010"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "2,954",
+      "Amount": "₹2,06,780"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "14,137",
+      "Amount": "₹9,89,590"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "14,348",
+      "Amount": "₹10,04,360"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.95%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.04%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "231.56",
+      "202.63",
+      "156.59"
+    ],
+    [
+      "Total Income",
+      "504.48",
+      "576.58",
+      "456.83"
+    ],
+    [
+      "Profit After Tax",
+      "22.40",
+      "21.41",
+      "13.80"
+    ],
+    [
+      "EBITDA",
+      "31.32",
+      "38.44",
+      "27.69"
+    ],
+    [
+      "Net Worth",
+      "117.72",
+      "100.19",
+      "74.81"
+    ],
+    [
+      "Reserves and Surplus",
+      "83.90",
+      "83.49",
+      "64.44"
+    ],
+    [
+      "Total Borrowing",
+      "71.82",
+      "69.62",
+      "63.36"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "19.03%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "16.56%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.61"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "19.03%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.44%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "6.32%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.44"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.88",
+      "Post IPO": "3.12"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.06",
+      "Post IPO": "22.41"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding Working Capital Requirements of the Company.",
+      "Expected Amount(₹ in crores)": "65.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes.",
+      "Expected Amount(₹ in crores)": "32.52"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 12, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544477"
+    ],
+    [
+      "NSE Symbol",
+      "HILINFRA"
+    ],
+    [
+      "ISIN",
+      "INE00RL01028"
+    ],
+    [
+      "Final Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "BE"
+    ],
+    [
+      "BSE Listing Group",
+      "T"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹70.00",
+      "NSE": "₹70.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹117.00",
+      "NSE": "₹115.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹116.00",
+      "NSE": "₹115.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹122.84",
+      "NSE": "₹120.75"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹122.84",
+      "NSE": "₹120.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "432.71",
+      "Shares Offered": "22,28,571",
+      "Shares bid for": "96,43,33,511"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "473.10",
+      "Shares Offered": "55,71,429",
+      "Shares bid for": "2,63,58,61,163"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "483.92",
+      "Shares Offered": "37,14,286",
+      "Shares bid for": "1,79,74,21,646"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "451.47",
+      "Shares Offered": "18,57,143",
+      "Shares bid for": "83,84,39,517"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "164.48",
+      "Shares Offered": "74,28,572",
+      "Shares bid for": "1,22,18,22,297"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "316.64",
+      "Shares Offered": "1,52,28,572",
+      "Shares bid for": "4,82,20,16,971"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Highway Infrastructure IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/sep-2024/highway-infrastructure-limited_87057.html",
+      "text": "Highway Infrastructure IPODRHP"
+    },
+    {
+      "title": "Highway Infrastructure IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/highway-infrastructure-limited-rhp_95618.html",
+      "text": "Highway Infrastructure IPORHP"
+    },
+    {
+      "title": "Highway Infrastructure IPO Final Prospectus",
+      "href": "https://www.highwayinfrastructure.in/_files/ugd/83fbd1_8762e6176787489badd9a740493eb6b0.pdf",
+      "text": "Highway Infrastructure IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Arun Kumar Jain, Anoop Agrawal and Riddharth Jain are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Highway Infrastructure Ltd.",
+    "address": "57-FA, Scheme No. 94,, Pipliyahana Junction,, Ring Road,, Indore, ,, Madhya Pradesh, , 452016, Phone, :, Email, :, Website, :",
+    "phone": "+91 731 4047177",
+    "email": "cs@highwayinfrastructure.in",
+    "website": "http://www.highwayinfrastructure.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Highway Infrastructure Limited (HIL), incorporated in 1995, is an Indian infrastructure development and management company engaged in tollway collection, EPC (Engineering, Procurement, and Construction) projects, and real estate development. The company specializes in the construction and maintenance of roads, highways, bridges, and residential projects. Business Segments: Workforce:As of August 31, 2024, HIL employs 398 individuals across its business segments.",
+    "competitive_strengths": [
+      "Tollway Collection Business:",
+      "HIL operates and manages tollway collection systems for highway projects, which are awarded through competitive bidding.",
+      "The company is among the few toll operators using ANPR (Automatic Number Plate Recognition) technology for tollway collection on the Delhi-Meerut Expressway.",
+      "Toll collection operations extend across 11 states and one Union Territory.",
+      "The company employs an updated Electronic Toll Collection (ETC) system using RFID tags and digital payment platforms for seamless toll payments.",
+      "As of August 31, 2024, HIL has completed 24 tollway collection projects and is currently operating 07 tollway collection projects.",
+      "EPC Infra Projects:",
+      "HIL has in-house resources to manage projects from conceptualization to completion.",
+      "The company has experience in various infrastructure projects, including roads, bridges, tanks, irrigation-related construction, and civil buildings.",
+      "As of August 31, 2024, HIL has completed 63 EPC Infra projects, with 20 projects currently under execution.",
+      "Ongoing projects are being executed in Indore, Ratlam, and Khandwa in Madhya Pradesh, India.",
+      "Real Estate:",
+      "The real estate segment involves owning, developing, constructing, and selling commercial and residential properties.",
+      "The company has developed gated communities and housing projects over time.",
+      "Real estate is the smallest business segment of HIL."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Pantomath Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/107/",
+      "title": "About Pantomath Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "64.29%"
+}

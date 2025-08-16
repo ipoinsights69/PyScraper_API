@@ -1,0 +1,474 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 30, 2025 to August 1, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹108 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "42,00,000shares(aggregating up to ₹45.36Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,16,000shares(aggregating up to ₹2.33Cr)Aryaman Capital Markets Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "39,84,000shares(aggregating up to ₹43.03Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,00,10,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,42,10,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,16,000 (5.14%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "19,92,000 (47.43%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "11,95,200 (28.46%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "7,96,800 (18.97%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,97,600 (14.23%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "3,98,400 (9.49%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,99,200 (4.74%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "13,94,400 (33.20%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "42,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 29, 2025"
+    ],
+    [
+      "Shares Offered",
+      "11,95,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "12.91"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 3, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 1, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,59,200"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,59,200"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,88,800"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "8,400",
+      "Amount": "₹9,07,200"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹10,36,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.44%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "68.90",
+      "31.96",
+      "27.18"
+    ],
+    [
+      "Total Income",
+      "84.13",
+      "55.33",
+      "55.10"
+    ],
+    [
+      "Profit After Tax",
+      "8.15",
+      "3.18",
+      "1.49"
+    ],
+    [
+      "EBITDA",
+      "15.58",
+      "5.79",
+      "3.21"
+    ],
+    [
+      "Net Worth",
+      "21.14",
+      "13.54",
+      "10.36"
+    ],
+    [
+      "Reserves and Surplus",
+      "11.13",
+      "13.53",
+      "10.35"
+    ],
+    [
+      "Total Borrowing",
+      "22.19",
+      "5.06",
+      "2.21"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "43.86%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "43.50%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.05"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "35.97%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.23%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "18.92%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.42"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.14",
+      "Post IPO": "5.73"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.27",
+      "Post IPO": "18.83"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment or Pre-payment of borrowings of the Company",
+      "Expected Amount(₹ in crores)": "6.80"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding Working Capital Requirement of the Company",
+      "Expected Amount(₹ in crores)": "7.30"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment or Pre-payment of its borrowings",
+      "Expected Amount(₹ in crores)": "11.60"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Purchase of Machinery",
+      "Expected Amount(₹ in crores)": "5.40"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "Funding Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "7.30"
+    },
+    {
+      "S.No.": "6",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "2.47"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544468"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE1LJ801017"
+    ],
+    [
+      "Final Issue Price",
+      "₹108 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "MT"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹108.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹108.90"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹108.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹109.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹108.15"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.27",
+      "Shares Offered": "7,96,800",
+      "Shares bid for": "10,12,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "3.66",
+      "Shares Offered": "5,97,600",
+      "Shares bid for": "21,88,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "5.59",
+      "Shares Offered": "3,98,400",
+      "Shares bid for": "22,28,400",
+      "Total Application": "888"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "0.89",
+      "Shares Offered": "1,99,200",
+      "Shares bid for": "1,76,400",
+      "Total Application": "888"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "1.32",
+      "Shares Offered": "13,94,400",
+      "Shares bid for": "18,43,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.81",
+      "Shares Offered": "27,88,800",
+      "Shares bid for": "50,44,800",
+      "Total Application": "888"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "B.D.Industries IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/368880/Draft_Red_Herring_Prospectus_BDIPL_20250307235444.pdf",
+      "text": "B.D.Industries IPODRHP"
+    },
+    {
+      "title": "B.D.Industries IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/b-d-industries-pune-limited_95809.html",
+      "text": "B.D.Industries IPORHP"
+    },
+    {
+      "title": "B.D.Industries IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/368880/SME_IPO%20BasisOfAllotment/Prospectus_B.%20D.%20Industries%20(Pune)%20Limited_02.08.2025_20250804122342.pdf",
+      "text": "B.D.Industries IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Dalbirpal Saini, Arti Saini, Akshay Saini, Rahul Saini are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "B.D.Industries (Pune) Ltd.",
+    "address": "15th Flr, 1501-B, Universal Majestic,, PL Lokhande Marg, G M Link Road, Nr RBK, International School, Govand West, Mumbai, ,, Maharashtra, , 400043, Phone, :, Email, :, Website, :",
+    "phone": "022-6249-0801",
+    "email": "cs@bdi-group.org",
+    "website": "https://www.bdi-group.org/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "priya@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 1984, B. D. Industries (Pune) Limited specializes in the manufacturing of rotationally molded plastic products. The company manufactures plastic fuel tanks for off-road vehicles, urea tanks, fenders, hydraulic tanks, air ducts, mudguards, cabin roofs, and products for various industries like safety, healthcare, and marine. The company operates three manufacturing facilities in Pune, Dewas, and Hoshiarpur, with a fourth under construction in Zaheerabad, Telangana, to support its diverse production and customer needs.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Aryaman Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/77/",
+      "title": "About Aryaman Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.83%"
+}

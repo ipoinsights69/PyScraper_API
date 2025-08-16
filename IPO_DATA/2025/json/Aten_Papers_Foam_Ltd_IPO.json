@@ -1,0 +1,404 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 13, 2025 to June 17, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 20, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "33,00,000shares(aggregating up to ₹31.68Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,65,600shares(aggregating up to ₹1.59Cr)Sunflower Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "31,34,400shares(aggregating up to ₹30.09Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "70,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,03,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,65,600 (5.02%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "14,89,200 (45.13%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "14,90,400 (45.16%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "33,00,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jun 13, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jun 17, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 17, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,30,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.96%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "34.90",
+      "32.92",
+      "29.62",
+      "27.85"
+    ],
+    [
+      "Total Income",
+      "138.70",
+      "96.80",
+      "91.00",
+      "89.82"
+    ],
+    [
+      "Profit After Tax",
+      "7.01",
+      "2.78",
+      "0.50",
+      "0.76"
+    ],
+    [
+      "EBITDA",
+      "10.65",
+      "5.15",
+      "1.88",
+      "1.90"
+    ],
+    [
+      "Net Worth",
+      "14.04",
+      "7.03",
+      "4.25",
+      "3.74"
+    ],
+    [
+      "Reserves and Surplus",
+      "7.04",
+      "6.03",
+      "3.25",
+      "2.75"
+    ],
+    [
+      "Total Borrowing",
+      "11.13",
+      "15.67",
+      "16.03",
+      "15.44"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "66.53%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "43.84%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.79"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "49.93%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.06%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "7.68%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.79"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "10.02",
+      "Post IPO": "6.81"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.58",
+      "Post IPO": "14.1"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital Expenditure",
+      "Expected Amount(₹ in crores)": "4.27"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "To Meet Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "15.50"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 20, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544417"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0XCV01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹96.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹85.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹85.50"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "2.91",
+      "Shares Offered": "1,54,800",
+      "Shares bid for": "4,50,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "0.66",
+      "Shares Offered": "14,89,200",
+      "Shares bid for": "9,81,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.17",
+      "Shares Offered": "14,90,400",
+      "Shares bid for": "32,38,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.49",
+      "Shares Offered": "31,34,400",
+      "Shares bid for": "46,70,400",
+      "Total Application": "3,092"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Aten Papers IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/323561/ATEN%20DRHP_16.9.24_20240920161426.pdf",
+      "text": "Aten Papers IPODRHP"
+    },
+    {
+      "title": "Aten Papers IPO Addendum DRHP",
+      "href": "https://www.bseindia.com/corporates/download/323561/AtenDRHPAddendum_20250221201254.pdf",
+      "text": "Aten Papers IPOAddendum DRHP"
+    },
+    {
+      "title": "Aten Papers IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/aten-papers-and-foam-limited_94523.html",
+      "text": "Aten Papers IPORHP"
+    },
+    {
+      "title": "Aten Papers IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/323561/SME_IPO%20BasisOfAllotment/Prospectus_20250618133612.pdf",
+      "text": "Aten Papers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Mohamedarif Mohamedibrahim Lakhani and Mrs. Amrin Lakhani are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Aten Papers & Foam Ltd.",
+    "address": "Block-A, 102/A,, F. F, Tirmizi Heights, Opp Bombay Housing Colony,, Near Kirtikunj Society,, Ahmedabad, ,, Gujarat, , 380028, Phone, :, Email, :, Website, :",
+    "phone": "+91-9537861212",
+    "email": "cs@atenpapers.com",
+    "website": "http://www.atenpapers.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in 2019, Aten Papers & Foam Limited is operates as a key intermediary in the paper product supply chain. The company sources paper from various mills and supplies it to clients in the packaging industry. The company offers Kraft paper, duplex boards, and other products in various grades, thicknesses, and sizes, while also purchasing and selling wastepaper to paper mills as a crucial raw material. Products: As on November 30th, 2024, the company had 14 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Swastika Investmart Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/122/",
+      "title": "About Swastika Investmart Ltd."
+    }
+  ],
+  "listing_gain_percent": "-6.25%"
+}

@@ -1,0 +1,485 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 30, 2025 to August 1, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price",
+      "₹800 per share"
+    ],
+    [
+      "Lot Size",
+      "18 Shares"
+    ],
+    [
+      "Sale Type",
+      "Offer For Sale"
+    ],
+    [
+      "Total Issue Size",
+      "5,01,45,001shares(aggregating up to ₹4,010.95Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹76.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "20,00,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "20,00,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "2,50,29,999 (49.92%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "1,50,17,999 (29.95%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "1,00,12,000 (19.97%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "75,09,001 (14.97%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "50,06,001 (9.98%)",
+      "Maximum Allottees": "19,865"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "25,03,000 (4.99%)",
+      "Maximum Allottees": "9,932"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,75,21,001 (34.94%)",
+      "Maximum Allottees": "9,73,388"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "85,000 (0.17%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "5,01,45,001 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 2 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 29, 2025"
+    ],
+    [
+      "Shares Offered",
+      "1,50,17,999"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "1,201.44"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 2, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 1, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 1, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "18",
+      "Amount": "₹14,400"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "234",
+      "Amount": "₹1,87,200"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "252",
+      "Amount": "₹2,01,600"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "69",
+      "Shares": "1,242",
+      "Amount": "₹9,93,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "70",
+      "Shares": "1,260",
+      "Amount": "₹10,08,000"
+    }
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "2,984.84",
+      "2,257.74",
+      "2,093.48"
+    ],
+    [
+      "Total Income",
+      "1,535.19",
+      "1,365.71",
+      "1,099.81"
+    ],
+    [
+      "Profit After Tax",
+      "343.12",
+      "275.45",
+      "234.81"
+    ],
+    [
+      "EBITDA",
+      "492.94",
+      "381.13",
+      "328.60"
+    ],
+    [
+      "Net Worth",
+      "2,005.34",
+      "1,684.10",
+      "1,428.86"
+    ],
+    [
+      "Reserves and Surplus",
+      "232.31",
+      "216.32",
+      "199.08"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "17.11%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "22.7%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "17.11%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "22.35%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "23.95%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.98"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "17.16",
+      "Post IPO": ""
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "46.63",
+      "Post IPO": ""
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Achieve the benefits of listing the Equity Shares on BSE",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544467"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE301O01023"
+    ],
+    [
+      "Final Issue Price",
+      "₹800 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹800.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹880.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹880.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹943.85"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹936.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "11",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "8",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "103.97",
+      "Shares Offered": "1,00,12,000",
+      "Shares bid for": "1,04,09,16,654"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "34.98",
+      "Shares Offered": "75,09,001",
+      "Shares bid for": "26,26,54,614"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "37.73",
+      "Shares Offered": "50,06,001",
+      "Shares bid for": "18,88,92,540"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "29.47",
+      "Shares Offered": "25,03,000",
+      "Shares bid for": "7,37,62,074"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "7.76",
+      "Shares Offered": "1,75,21,001",
+      "Shares bid for": "13,59,55,530"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "15.39",
+      "Shares Offered": "85,000",
+      "Shares bid for": "13,07,970"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "41.02",
+      "Shares Offered": "3,51,27,002",
+      "Shares bid for": "1,44,08,34,768"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "NSDL IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2023/national-securities-depository-limited-drhp_73701.html",
+      "text": "NSDL IPODRHP"
+    },
+    {
+      "title": "NSDL IPO Addendum DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/addendum-to-drhp-national-securities-depository-limited_94022.html",
+      "text": "NSDL IPOAddendum DRHP"
+    },
+    {
+      "title": "NSDL IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/national-securities-depository-limited-rhp_95614.html",
+      "text": "NSDL IPORHP"
+    }
+  ],
+  "company_contact_details": {
+    "company_name": "National Securities Depository Ltd.",
+    "address": "3rd Floor, Naman Chamber,, Plot C-32, G-Block,, Bandra Kurla Complex, Bandra East,, Mumbai, ,, Maharashtra, , 400051, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 2499 4200",
+    "email": "cs_nsdl@nsdl.com",
+    "website": "https://nsdl.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "nsdl.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2012, National Securities Depository Limited (NSDL) is SEBI-registered Market Infrastructure Institution (MII). Core Activities: Subsidiaries: Key Figures (as of March 31, 2025): Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    },
+    {
+      "name": "Axis Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/113/",
+      "title": "About Axis Capital Ltd."
+    },
+    {
+      "name": "HSBC Securities & Capital Markets (India) Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/69/",
+      "title": "About HSBC Securities & Capital Markets (India) Pvt.Ltd."
+    },
+    {
+      "name": "IDBI Capital Markets Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/47/",
+      "title": "About IDBI Capital Markets Services Ltd."
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    },
+    {
+      "name": "SBI Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/21/",
+      "title": "About SBI Capital Markets Ltd."
+    }
+  ],
+  "listing_gain_percent": "10.0%"
+}

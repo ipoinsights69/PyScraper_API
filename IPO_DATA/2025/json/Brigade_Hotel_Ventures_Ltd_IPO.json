@@ -1,0 +1,526 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 24, 2025 to July 28, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 31, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "Lot Size",
+      "166 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "8,44,12,765shares(aggregating up to ₹759.60Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹3.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "29,54,30,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "37,98,42,765shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "6,01,35,000 (71.23%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "3,60,81,000 (42.74%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "2,40,54,000 (28.49%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "1,20,27,000 (14.25%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "80,18,000 (9.50%)",
+      "Maximum Allottees": "3,450"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "40,09,000 (4.75%)",
+      "Maximum Allottees": "1,725"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "80,18,000 (9.50%)",
+      "Maximum Allottees": "48,301"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "8,73,103 (1.03%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Shareholders Shares Offered",
+      "Shares Offered": "33,76,000 (4.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "8,44,29,103 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only shareholder",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Allowed only if bidding amount is upto Rs 2 lakhs"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + Shareholder",
+      "Maximum Bidding Limits": "Shareholder limit: Up to Rs 2 LakhsEmployee limit: Up to Rs 5 Lakhs. (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + Shareholder + RII/NII",
+      "Maximum Bidding Limits": "Shareholder limit: Up to Rs 2 LakhsEmployee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/employee/RII"
+    },
+    {
+      "Application Category": "Shareholder + RII/NII",
+      "Maximum Bidding Limits": "Shareholder limit: Upto Rs. 2 lakhsIf applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/RII"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/RII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 23, 2025"
+    ],
+    [
+      "Shares Offered",
+      "3,60,81,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "324.73"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 28, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jul 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 28, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "166",
+      "Amount": "₹14,940"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "2,158",
+      "Amount": "₹1,94,220"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "2,324",
+      "Amount": "₹2,09,160"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "10,956",
+      "Amount": "₹9,86,040"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "11,122",
+      "Amount": "₹10,00,980"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.26%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "74.09%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "947.57",
+      "886.78",
+      "840.67"
+    ],
+    [
+      "Total Income",
+      "470.68",
+      "404.85",
+      "356.41"
+    ],
+    [
+      "Profit After Tax",
+      "23.66",
+      "31.14",
+      "-3.09"
+    ],
+    [
+      "EBITDA",
+      "166.87",
+      "144.61",
+      "113.98"
+    ],
+    [
+      "Net Worth",
+      "78.58",
+      "58.74",
+      "33.81"
+    ],
+    [
+      "Total Borrowing",
+      "617.32",
+      "601.19",
+      "632.50"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROCE",
+      "Values": "13.62%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "7.40"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "30.11%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.03%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "35.45%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "32.26"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "0.80",
+      "Post IPO": "0.62"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "112.38",
+      "Post IPO": "144.48"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/ prepayment, in full or in part, of certain outstanding borrowings availed by the company and Material Subsidiary, namely, SRP Prosperita Hotel Ventures Limited",
+      "Expected Amount(₹ in crores)": "468.14"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Payment of consideration for buying of undivided share of land from the Promoter, BEL",
+      "Expected Amount(₹ in crores)": "107.52"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Pursuing inorganic growth through unidentified acquisitions and other strategic initiatives and general corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 31, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544457"
+    ],
+    [
+      "NSE Symbol",
+      "BRIGHOTEL"
+    ],
+    [
+      "ISIN",
+      "INE03NU01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹90.00",
+      "NSE": "₹90.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹82.00",
+      "NSE": "₹81.10"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹81.49",
+      "NSE": "₹81.10"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹87.80",
+      "NSE": "₹87.84"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹85.40",
+      "NSE": "₹85.32"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "12",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "5.74",
+      "Shares Offered": "2,40,54,000",
+      "Shares bid for": "13,81,49,848"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "2.03",
+      "Shares Offered": "1,20,27,000",
+      "Shares bid for": "2,43,91,708"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.67",
+      "Shares Offered": "80,18,000",
+      "Shares bid for": "1,33,95,370"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "2.74",
+      "Shares Offered": "40,09,000",
+      "Shares bid for": "1,09,96,338"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "6.83",
+      "Shares Offered": "80,18,000",
+      "Shares bid for": "5,47,77,842"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "0.99",
+      "Shares Offered": "8,73,103",
+      "Shares bid for": "8,68,180"
+    },
+    {
+      "Category": "Shareholders",
+      "Subscription (times)": "3.48",
+      "Shares Offered": "33,76,000",
+      "Shares bid for": "1,17,36,366"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "4.76",
+      "Shares Offered": "4,83,48,103",
+      "Shares bid for": "22,99,23,944"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Brigade Hotel Ventures IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/nov-2024/brigade-hotel-ventures-limited_88270.html",
+      "text": "Brigade Hotel Ventures IPODRHP"
+    },
+    {
+      "title": "Brigade Hotel Ventures IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/brigade-hotel-ventures-limited-rhp_95620.html",
+      "text": "Brigade Hotel Ventures IPORHP"
+    },
+    {
+      "title": "Brigade Hotel Ventures IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE03NU01014_29JUL2025.pdf",
+      "text": "Brigade Hotel Ventures IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Brigade Enterprises Limited is the promoter of the company.",
+  "company_contact_details": {
+    "company_name": "Brigade Hotel Ventures Ltd.",
+    "address": "29 th & 30 th Floor, World Trade Center, Brigade, Gateway Campus, 26/1, Dr. Rajkumar Road,, Malleswaram Rajajinagar, Bengaluru, ,, Karnataka, , 560055, Phone, :, Email, :, Website, :",
+    "phone": "+91 80 4137 9200",
+    "email": "investors@bhvl.in",
+    "website": "https://bhvl.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "einward.ris@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Brigade Hotel Ventures Limited is the owner and developer of hotels in key cities in India, primarily across South India. The company is a wholly-owned subsidiary of BEL, which is one of the leading Indian real estate developers in India. The company owns chain-affiliated hotels and rooms in South India (comprising the states of Kerala, Andhra Pradesh, Tamil Nadu, Karnataka, Telangana, and the Union territories Lakshadweep, Andaman and Nicobar Islands and Pondicherry) among major private hotel asset owners (i.e., owning at least 500 rooms pan India) as of March 31, 2025. The hotels provide a comprehensive customer experience, including fine dining and specialty restaurants, venues for meetings, incentives, conferences, and exhibitions (“MICE”), lounges, swimming pools, outdoor spaces, spas, and gymnasiums. The company have a portfolio of nine operating hotels across Bengaluru (Karnataka), Chennai (Tamil Nadu), Kochi (Kerala), Mysuru (Karnataka) and the GIFT City (Gujarat) with 1,604 keys. The company's hotels are operated by global marquee hospitality companies such as Marriott, Accor and InterContinental Hotels Group.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "-9.89%"
+}

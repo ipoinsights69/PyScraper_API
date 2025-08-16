@@ -1,0 +1,374 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 21, 2025 to July 23, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 28, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹65 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "21,64,000shares(aggregating up to ₹14.07Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,10,000shares(aggregating up to ₹0.7150Cr)Horizon Financial Consultants Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "20,54,000shares(aggregating up to ₹13.35Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "60,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "81,64,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,10,000 (5.08%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "10,26,000 (47.41%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,28,000 (47.50%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "21,64,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 21, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 23, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 24, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 23, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,60,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,60,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "3",
+      "Shares": "6,000",
+      "Amount": "₹3,90,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.49%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "30.83",
+      "23.82",
+      "26.24"
+    ],
+    [
+      "Total Income",
+      "30.31",
+      "23.35",
+      "24.41"
+    ],
+    [
+      "Profit After Tax",
+      "2.63",
+      "0.65",
+      "0.58"
+    ],
+    [
+      "EBITDA",
+      "4.55",
+      "2.48",
+      "2.33"
+    ],
+    [
+      "Net Worth",
+      "10.67",
+      "8.03",
+      "7.39"
+    ],
+    [
+      "Reserves and Surplus",
+      "4.67",
+      "6.53",
+      "5.89"
+    ],
+    [
+      "Total Borrowing",
+      "9.12",
+      "8.97",
+      "9.64"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "28.17%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "32.74%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.85"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "24.70%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.88%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.36%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.66"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.39",
+      "Post IPO": "3.23"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "14.8",
+      "Post IPO": "20.14"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital Expenditure for acquisition of Plant & Machinery and Construction of Shed & Building",
+      "Expected Amount(₹ in crores)": "5.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "5.00"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 28, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544452"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0PTF01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹65 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹65.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹67.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹63.65"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹68.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹66.82"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "2.42",
+      "Shares Offered": "10,26,000",
+      "Shares bid for": "24,78,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "7.75",
+      "Shares Offered": "10,26,000",
+      "Shares bid for": "79,56,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "5.08",
+      "Shares Offered": "20,52,001",
+      "Shares bid for": "1,04,34,000",
+      "Total Application": "2,242"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Swastika Castal IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/387849/Swastika%20DP%20Filing%20Version_20250331195708.pdf",
+      "text": "Swastika Castal IPODRHP"
+    },
+    {
+      "title": "Swastika Castal IPO Final Prospectus",
+      "href": "https://www.bseindia.com/downloads/ipo/PROSPECTUS%20&%20GID_180720251944.zip",
+      "text": "Swastika Castal IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Varun Sharda and Indra Sharda.",
+  "company_contact_details": {
+    "company_name": "Swastika Castal Ltd.",
+    "address": "117A,, Chittaranjan Avenue,, Kolkata, Kolkata, ,, West Bengal, , 700073, Phone, :, Email, :, Website, :",
+    "phone": "+91 63539-26282",
+    "email": "compliance@aluminiumcasting.net",
+    "website": "https://sclcasting.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Accurate Securities & Registry Pvt.Ltd.",
+    "phone": "+91-79-48000319",
+    "email": "swastika.ipo@accuratesecurities.com",
+    "website": "https://www.accuratesecurities.com/ipo-details.php"
+  },
+  "about_company": {
+    "description": "Incorporated in 1996, Swastika Castal Limited is engaged in the business of aluminum casting. The company operates primarily in the manufacturing sector, focusing on producing high-quality aluminum castings through processes such as sand, gravity, and centrifugal casting. The company specializes in sand-casting for complex designs (up to 250 kg) and gravity casting (up to 80 kg) for precise, high-quality components with excellent surface finish and accuracy. The company has an in-house heat treatment facility, ensuring superior quality, efficiency, and cost-effectiveness with precise control over mechanical properties and dimensional stability. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Horizon Management Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/406/",
+      "title": "About Horizon Management Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "3.08%"
+}

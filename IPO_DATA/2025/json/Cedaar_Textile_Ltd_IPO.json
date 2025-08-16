@@ -1,0 +1,443 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 30, 2025 to July 2, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "43,50,000shares(aggregating up to ₹60.90Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,18,000shares(aggregating up to ₹3.05Cr)NNM Securities Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "41,32,000shares(aggregating up to ₹57.85Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "95,28,600shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,38,78,600shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,18,000 (4.88%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "12,02,000 (26.91%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "6,80,000 (15.23%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,22,000 (11.69%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "13,28,000 (29.74%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "15,00,000 (33.59%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "44,66,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 27, 2025"
+    ],
+    [
+      "Shares Offered",
+      "6,80,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "9.52"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 3, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 2, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,40,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "68.66%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "222.77",
+      "198.23",
+      "175.84",
+      "154.45"
+    ],
+    [
+      "Total Income",
+      "113.91",
+      "191.01",
+      "161.88",
+      "220.44"
+    ],
+    [
+      "Profit After Tax",
+      "7.06",
+      "11.05",
+      "4.59",
+      "7.99"
+    ],
+    [
+      "EBITDA",
+      "",
+      "28.81",
+      "15.63",
+      "15.26"
+    ],
+    [
+      "Net Worth",
+      "60.70",
+      "25.24",
+      "14.19",
+      "9.60"
+    ],
+    [
+      "Reserves and Surplus",
+      "51.17",
+      "17.74",
+      "13.94",
+      "9.35"
+    ],
+    [
+      "Total Borrowing",
+      "120.63",
+      "146.15",
+      "137.01",
+      "121.01"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "56.06%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "26.90%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "5.79"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "56.06%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.83%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.19%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.16"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.60",
+      "Post IPO": "7.33"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.07",
+      "Post IPO": "19.11"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Installation of Grid-tied Solar PV Rooftop System for Captive evacuation",
+      "Expected Amount(₹ in crores)": "8.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Modernization of the Machines",
+      "Expected Amount(₹ in crores)": "17.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "To meet working capital requirements",
+      "Expected Amount(₹ in crores)": "24.90"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose; and",
+      "Expected Amount(₹ in crores)": "4.91"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(₹ in crores)": "6.09"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "CEDAAR"
+    ],
+    [
+      "ISIN",
+      "INE11J101017"
+    ],
+    [
+      "Final Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹140.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹119.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹113.05"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹119.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹113.05"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "37.88",
+      "Shares Offered": "5,22,000",
+      "Shares bid for": "1,97,71,000",
+      "Total Application": "14"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "5.04",
+      "Shares Offered": "13,28,000",
+      "Shares bid for": "66,99,000",
+      "Total Application": "1,652"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "9.73",
+      "Shares Offered": "15,00,000",
+      "Shares bid for": "1,45,92,000",
+      "Total Application": "14,592"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "12.26",
+      "Shares Offered": "33,50,000",
+      "Shares bid for": "4,10,62,000",
+      "Total Application": "16,258"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Cedaar Textile IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_24122024194010_FINALDRHP.pdf",
+      "text": "Cedaar Textile IPODRHP"
+    },
+    {
+      "title": "Cedaar Textile IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_CEDAAR.zip",
+      "text": "Cedaar Textile IPORHP"
+    },
+    {
+      "title": "Cedaar Textile IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/CedaarTextileLimited_PROSP.pdf",
+      "text": "Cedaar Textile IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the company are Rajesh Mittal, Virender Goyal, Bachangada Monnappa Saraswathi and Monnappa Nachappa Bachangada,",
+  "company_contact_details": {
+    "company_name": "Cedaar Textile Ltd.",
+    "address": "KSSIDC Plot No B-34, Industrial Estate,, Yelahanka New Town,, Bangalore Urban, ,, Karnataka, , 560064, Phone, :, Email, :, Website, :",
+    "phone": "+91 9815610607",
+    "email": "Info@cedaartextile.com",
+    "website": "https://cedaartextile.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in September 2020, Cedaar Textile Limited specializes in manufacturing diverse yarns. The company manufactures quality melange yarn for household textiles, woven goods, and hosiery. Cedaar Textile's clientele includes top-tier customers in both domestic and international markets, supplying garments to renowned fashion brands. The company's production process begins with procuring raw materials, which are then processed by blending various fibres like cotton, polyester, viscose, acrylic, and others. Cedaar Textile manufactures various types of yarns, including: As of June, 01, 2025, the company had 583 employees all of which are on payroll.  Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Fast Track Finsec Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/161/",
+      "title": "About Fast Track Finsec Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-15.0%"
+}

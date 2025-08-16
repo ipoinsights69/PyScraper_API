@@ -1,0 +1,430 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 8, 2025 to August 12, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹142 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "48,92,000shares(aggregating up to ₹69.47Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "4,80,000shares(aggregating up to ₹6.82Cr)Share India Securities Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "34,40,000shares(aggregating up to ₹48.85Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "9,72,000shares of ₹10(aggregating up to ₹13.80Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "44,12,000shares(aggregating up to ₹62.65Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,35,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,74,20,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "4,80,000 (9.81%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "21,75,000 (44.46%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "13,04,000 (26.66%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "8,71,000 (17.80%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,57,000 (13.43%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "4,38,000 (8.95%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,19,000 (4.48%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "15,28,000 (31.23%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "52,000 (1.06%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "48,92,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 7, 2025"
+    ],
+    [
+      "Shares Offered",
+      "13,04,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "18.52"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 12, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 11, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 12, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,84,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,84,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,000",
+      "Amount": "₹4,26,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "7,000",
+      "Amount": "₹9,94,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "8,000",
+      "Amount": "₹11,36,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.92%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "98.16",
+      "81.64",
+      "61.23"
+    ],
+    [
+      "Total Income",
+      "83.79",
+      "79.97",
+      "58.68"
+    ],
+    [
+      "Profit After Tax",
+      "15.96",
+      "12.45",
+      "0.58"
+    ],
+    [
+      "EBITDA",
+      "28.60",
+      "22.34",
+      "5.81"
+    ],
+    [
+      "Net Worth",
+      "47.15",
+      "31.35",
+      "18.93"
+    ],
+    [
+      "Reserves and Surplus",
+      "33.65",
+      "29.85",
+      "17.43"
+    ],
+    [
+      "Total Borrowing",
+      "32.73",
+      "30.64",
+      "26.56"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "40.65%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "29.92%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.69"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "40.65%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "19.10%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "34.22%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.07"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.82",
+      "Post IPO": "9.16"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.01",
+      "Post IPO": "15.5"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To Meet Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "25.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/prepayment of certain borrowings availed of by the Company",
+      "Expected Amount(₹ in crores)": "12.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding the Capital Expenditure towards purchase of Refurbished Medical Equipment in running facilities",
+      "Expected Amount(₹ in crores)": "5.14"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB (Ex Anchor)",
+      "Subscription (times)": "12.85",
+      "Shares Offered": "8,71,000",
+      "Shares bid for": "1,11,88,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "4.38",
+      "Shares Offered": "6,57,000",
+      "Shares bid for": "28,75,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "5.12",
+      "Shares Offered": "4,38,000",
+      "Shares bid for": "22,42,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "2.89",
+      "Shares Offered": "2,19,000",
+      "Shares bid for": "6,33,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "2.32",
+      "Shares Offered": "15,28,000",
+      "Shares bid for": "35,38,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "0.31",
+      "Shares Offered": "52,000",
+      "Shares bid for": "16,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "5.67",
+      "Shares Offered": "31,08,000",
+      "Shares bid for": "1,76,17,000",
+      "Total Application": "2,243"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Star Imaging IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/393830/DRHP_Star_Imaging_20250326202011.pdf",
+      "text": "Star Imaging IPODRHP"
+    },
+    {
+      "title": "Star Imaging IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_070820251225.zip",
+      "text": "Star Imaging IPORHP"
+    }
+  ],
+  "promoters": "Mr. Pawan Gupta and Ms. Chhaya Gupta are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Star Imaging & Path Lab Ltd.",
+    "address": "4B/4,, Tilak Nagar, Near Sant Pura,, Tilak Nagar West Delhi,, New Delhi, ,, New Delhi, , 110018, Phone, :, Email, :, Website, :",
+    "phone": "+91 9990019189",
+    "email": "cs@starimaging.in",
+    "website": "https://www.starimaging.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "sipll.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2004, Star Imaging and Path Lab Limited is a healthcare company providing diagnostic services across a wide range of medical tests. The company specializes in imaging services such as X-rays, ultrasounds, CT scans, MRIs, and laboratory tests, including blood tests, urine tests, and other specialized diagnostics. With advanced technology and experienced medical professionals, the company aims to offer accurate and timely reports to patients, helping healthcare providers in effective diagnosis and treatment. The company has a strong presence in multiple regions, offering services to both individuals and healthcare institutions. Services: As of September 30th 2024, the company has 209 full time employees including executive directors. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Share India Capital Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/162/",
+      "title": "About Share India Capital Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

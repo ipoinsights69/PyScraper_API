@@ -1,0 +1,355 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 22, 2025 to January 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 29, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹145 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "37,00,000shares(aggregating up to ₹53.65Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,86,000shares(aggregating up to ₹2.70Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "30,64,000shares(aggregating up to ₹44.43Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "4,50,000shares of ₹10(aggregating up to ₹6.53Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "35,14,000shares(aggregating up to ₹50.95Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "79,56,460shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,12,06,460shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,86,000 (5.03%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,17,000 (22.08%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "26,97,000 (72.89%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "37,00,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jan 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jan 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jan 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jan 28, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jan 29, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,45,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,45,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,90,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "66.99%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "50.54",
+      "39.95",
+      "27.87"
+    ],
+    [
+      "Total Income",
+      "49.56",
+      "83.01",
+      "62.89"
+    ],
+    [
+      "Profit After Tax",
+      "4.08",
+      "5.18",
+      "0.63"
+    ],
+    [
+      "Net Worth",
+      "13.08",
+      "9.22",
+      "4.69"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.12",
+      "8.96",
+      "4.43"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "56.24%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "62.21%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.65"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "56.24%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.25%"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.69",
+      "Post IPO": "6.89"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "25.49",
+      "Post IPO": "21.04"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 29, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "REXPRO"
+    ],
+    [
+      "ISIN",
+      "INE113601012"
+    ],
+    [
+      "Final Issue Price",
+      "₹145 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹145.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹117.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹111.15"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹120.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹111.15"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "8.22",
+      "Shares Offered": "17,57,000",
+      "Shares bid for": "1,44,38,000",
+      "Total Application": "3,762"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "27.12",
+      "Shares Offered": "17,57,000",
+      "Shares bid for": "4,76,44,000",
+      "Total Application": "47,644"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "17.67",
+      "Shares Offered": "35,14,001",
+      "Shares bid for": "6,20,82,000",
+      "Total Application": "51,406"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Rexpro Enterprises IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/RexproEnterprisesLimited_DP.zip",
+      "text": "Rexpro Enterprises IPODRHP"
+    },
+    {
+      "title": "Rexpro Enterprises IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/rexpro-enterprises-limited_91369.html",
+      "text": "Rexpro Enterprises IPORHP"
+    },
+    {
+      "title": "Rexpro Enterprises IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/RexproEnterprisesLimited_PROSP.zip",
+      "text": "Rexpro Enterprises IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the company are Minesh Anilbhai Chovatia, Premal Niranjan Shah, Ragesh Deepak Bhatia and Ravishankar Sriramamurthi Malla.",
+  "company_contact_details": {
+    "company_name": "Rexpro Enterprises Ltd.",
+    "address": "Building No 2, WING A & B, Survey No -36, Hissa No 13, Waliv Village, Dhumal Nagar, Valiv, Vasai, Thane, ,, Maharashtra, , 401208, Phone, :, Email, :, Website, :",
+    "phone": "+91 84848 32162",
+    "email": "cs@rexpro.co",
+    "website": "https://www.rexpro.co/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "priya@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in March 2012, Rexpro Enterprises Limited is a furniture manufacturing company in Vashi Maharastra. The company started as a furniture and fixture business for retailers and acquired clients across multiple retail segments such as fashion, lifestyle, electronics, grocery, beauty, telecom etc. The company manufactures furniture for offices, hospitals, government offices, and the growing home segment. The company's clients include Shoppers Stop Limited, One RX India Private Limited (Samsung), Hindustan Unilever, Lenskart, Marks & Spencer Reliance India Private Limited, and Godrej & Boyce Mfg. Co. Limited. The company has three manufacturing units in Vashi, Maharastra. As of September 30, 2024, the total employee strength of the company is 65 employees permanently, and a further 126 are on a contractual basis. Nine employees are on the payroll of its subsidiary over and above 65 employees. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Horizon Management Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/406/",
+      "title": "About Horizon Management Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-19.31%"
+}

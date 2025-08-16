@@ -1,0 +1,456 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 20, 2025 to March 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "March 27, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹113 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "65,89,200shares(aggregating up to ₹74.46Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,30,000shares(aggregating up to ₹3.73Cr)Alacrity Securities Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "59,30,400shares(aggregating up to ₹67.01Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "3,28,800shares of ₹10(aggregating up to ₹3.72Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "62,59,200shares(aggregating up to ₹70.73Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,86,59,003shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,49,19,403shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,30,000 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "31,22,400 (47.39%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "18,73,200 (28.43%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "12,49,200 (18.96%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "9,37,200 (14.22%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "21,87,600 (33.20%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "12,000 (0.18%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "65,89,200 (100.00%)"
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only NII",
+      "Maximum Bidding Limits": "Above Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: Above Rs. 2 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "March 19, 2025"
+    ],
+    [
+      "Shares Offered",
+      "18,73,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "21.17"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "April 24, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "June 23, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Mar 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Mar 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Mar 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Mar 26, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Mar 26, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Mar 27, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMarch 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,35,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,35,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,71,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "75.02%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "54.85%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "97.94",
+      "73.91",
+      "42.26",
+      "34.37"
+    ],
+    [
+      "Total Income",
+      "31.86",
+      "31.53",
+      "17.05",
+      "6.03"
+    ],
+    [
+      "Profit After Tax",
+      "6.81",
+      "4.12",
+      "1.05",
+      "-0.79"
+    ],
+    [
+      "Net Worth",
+      "40.18",
+      "29.99",
+      "0.59",
+      "-1.63"
+    ],
+    [
+      "Reserves and Surplus",
+      "22.36",
+      "26",
+      "-0.42",
+      "-2.64"
+    ],
+    [
+      "Total Borrowing",
+      "40.22",
+      "34.96",
+      "37.07",
+      "34.72"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "25%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.13"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "26.67%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "13.05%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.50"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.21",
+      "Post IPO": "5.47"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "51.24",
+      "Post IPO": "20.67"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment and/or prepayment, in full or in part, of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "34.08"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Expansion of the Hotel properties in India",
+      "Expected Amount(₹ in crores)": "16.79"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "March 27, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "GCHOTELS"
+    ],
+    [
+      "ISIN",
+      "INE12E301017"
+    ],
+    [
+      "Final Issue Price",
+      "₹113 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹113.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹112.90"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹107.25"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹112.90"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹107.25"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "2.93",
+      "Shares Offered": "12,49,200",
+      "Shares bid for": "36,66,000",
+      "Total Application": "10"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.39",
+      "Shares Offered": "9,37,200",
+      "Shares bid for": "13,00,800",
+      "Total Application": "225"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.32",
+      "Shares Offered": "21,87,600",
+      "Shares bid for": "28,88,400",
+      "Total Application": "2,407"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.79",
+      "Shares Offered": "43,86,000",
+      "Shares bid for": "78,67,200",
+      "Total Application": "2,646"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Grand Continent Hotels IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_22112024122757_DRHP_GCH_211124.pdf",
+      "text": "Grand Continent Hotels IPODRHP"
+    },
+    {
+      "title": "Grand Continent Hotels IPO RHP",
+      "href": "https://archives.nseindia.com/content/ipo/RHP_GCHOTELS.zip",
+      "text": "Grand Continent Hotels IPORHP"
+    },
+    {
+      "title": "Grand Continent Hotels IPO Final Prospectus",
+      "href": "https://indorient.in/assets/documents/Prospectus_GCH_25.03.2025_1742962252.pdf",
+      "text": "Grand Continent Hotels IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Ramesh Siva and Mrs.Vidya Ramesh.",
+  "company_contact_details": {
+    "company_name": "Grand Continent Hotels Ltd.",
+    "address": "S No. 245/1A/1B, Venpursham Village,, Veeralapakkam, Thiruporur, Chengalpattu,, Mamallapuram,  Tirukalikundram, Kanchipuram, ,, Tamil Nadu, , 603110, Phone, :, Email, :, Website, :",
+    "phone": "080 4165 6491",
+    "email": "cs@grandcontinenthotels.com",
+    "website": "https://grandcontinenthotels.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "grandcontinent.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Founded in 2011, Grand Continent Hotels Limited is a hotel chain in India. The company caters to the mid-market segment, operating 19 properties across six major Indian cities, offering over 900 rooms. Each hotel is strategically located in prime urban areas, designed to meet the diverse needs of both business and leisure travelers. Grand Continent Hotels elevates customer experience by providing straightforward service interactions, user-friendly infrastructure, and a commitment to delivering value for money. They prioritize sustained service levels, availability, and regularly benchmark and update their services to meet evolving guest expectations. As of September 30, 2024, the company and JV Partner Entities operate 16 hotels with 753 keys across Karnataka (Bengaluru/Mysuru), Tamil Nadu (Hosur), Goa (Anjuna/Morjim), Andhra Pradesh (Tirupati), and Telangana (Secunderabad). The company serves Indian middle-class guests and business travelers with differentiated, comfortable services and value-for-money propositions. Each Grand Continent Hotels property is equipped with modern amenities and services, including: As of September 30 2024, the company had 538 employees in various departments. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Indorient Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/175/",
+      "title": "About Indorient Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "-0.09%"
+}

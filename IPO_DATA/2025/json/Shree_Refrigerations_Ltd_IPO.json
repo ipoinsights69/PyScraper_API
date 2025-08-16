@@ -1,0 +1,462 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 25, 2025 to July 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 31, 2025"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price",
+      "₹125 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "93,86,000shares(aggregating up to ₹117.33Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "4,71,000shares(aggregating up to ₹5.89Cr)Mansi Share & Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "70,90,000shares(aggregating up to ₹88.63Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "18,25,000shares of ₹2(aggregating up to ₹22.81Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "89,15,000shares(aggregating up to ₹111.44Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "2,80,69,409shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "3,56,30,409shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "4,71,000 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "44,55,000 (47.46%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "26,73,000 (28.48%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "17,82,000 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "13,38,000 (14.26%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "8,92,000 (9.50%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "4,46,000 (4.75%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "31,22,000 (33.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "93,86,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 24, 2025"
+    ],
+    [
+      "Shares Offered",
+      "26,73,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "33.41"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 29, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 28, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 29, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,50,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,50,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,000",
+      "Amount": "₹3,75,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "8,000",
+      "Amount": "₹10,00,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "9,000",
+      "Amount": "₹11,25,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "56.6%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "44.59%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "185.60",
+      "124.11",
+      "94.32"
+    ],
+    [
+      "Total Income",
+      "99.10",
+      "81.19",
+      "50.90"
+    ],
+    [
+      "Profit After Tax",
+      "13.55",
+      "11.53",
+      "2.57"
+    ],
+    [
+      "EBITDA",
+      "26.94",
+      "24.38",
+      "11.90"
+    ],
+    [
+      "Net Worth",
+      "114.74",
+      "60.72",
+      "45.22"
+    ],
+    [
+      "Reserves and Surplus",
+      "109.13",
+      "55.82",
+      "21.25"
+    ],
+    [
+      "Total Borrowing",
+      "39.73",
+      "36.80",
+      "32.07"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "15.44%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "23.22%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.37"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "15.44%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "13.72%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "27.29%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.98"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.25",
+      "Post IPO": ""
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "23.81",
+      "Post IPO": ""
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding the Working Capital requirement",
+      "Expected Amount(₹ in crores)": "70.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 31, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544458"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0FMZ01045"
+    ],
+    [
+      "Final Issue Price",
+      "₹125 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "MT"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹125.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹169.85"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹161.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹177.70"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹175.40"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "167.32",
+      "Shares Offered": "17,82,000",
+      "Shares bid for": "29,81,58,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "197.01",
+      "Shares Offered": "13,38,000",
+      "Shares bid for": "26,36,00,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "214.75",
+      "Shares Offered": "8,92,000",
+      "Shares bid for": "19,15,55,000",
+      "Total Application": "3,10,087"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "158.70",
+      "Shares Offered": "4,46,000",
+      "Shares bid for": "7,07,80,000",
+      "Total Application": "3,10,087"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "195.05",
+      "Shares Offered": "31,22,000",
+      "Shares bid for": "60,89,52,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "187.55",
+      "Shares Offered": "62,42,000",
+      "Shares bid for": "1,17,07,10,000",
+      "Total Application": "3,10,087"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Shree Refrigerations IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/338761/DRHP_20241230221850.pdf",
+      "text": "Shree Refrigerations IPODRHP"
+    },
+    {
+      "title": "Shree Refrigerations IPO RHP",
+      "href": "https://www.bsesme.com/download/338761/SME_IPO%20Open/RHP_SRL_20250722215043.pdf",
+      "text": "Shree Refrigerations IPORHP"
+    },
+    {
+      "title": "Shree Refrigerations IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/338761/SME_IPO%20BasisOfAllotment/Prospectus_SRL_20250730171554.pdf",
+      "text": "Shree Refrigerations IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Ravalnath Gopinath Shende, Mrs. Rajashri Ravalnath Shende, and Mrs. Devashree Vishwesh Nampurkar are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Shree Refrigerations Ltd.",
+    "address": "Plot. No. 131/1+2,, Opp. MSEB Stores, Virwade Road,, Ogalewadi,, Karad, ,, Maharashtra, , 415105, Phone, :, Email, :, Website, :",
+    "phone": "02164-272015",
+    "email": "Investor@shreeref.com",
+    "website": "http://www.shreeref.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "shreerefrigerations.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2006, Shree Refrigerations Limited is engaged in the manufacturing of HVAC systems, including air and water-cooled condensing units, chillers, and spray dampening systems. The company serves various sectors, such as automotive, marine, print media, chemical, pharmaceutical, and general engineering. The company offers a range of products, including chillers, test equipment, marine HVAC systems, and printing chillers, along with customized fabrication services to meet engineering industry standards and client needs. The company's manufacturing facility in Karad, Maharashtra, is equipped with the necessary machinery, testing, and handling equipment to ensure products meet pre-determined quality standards. The company offers chillers, test equipment, marine HVAC systems, and printing chillers, along with customized fabrication services, collaborating with clients to develop engineered components that meet quality standards.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Narnolia Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/185/",
+      "title": "About Narnolia Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "35.88%"
+}

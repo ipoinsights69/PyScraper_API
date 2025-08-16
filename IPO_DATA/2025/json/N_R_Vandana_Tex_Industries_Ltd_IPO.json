@@ -1,0 +1,438 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 28, 2025 to May 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 4, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹45 per share"
+    ],
+    [
+      "Lot Size",
+      "3,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "61,98,000shares(aggregating up to ₹27.89Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,12,000shares(aggregating up to ₹1.40Cr)Alacrity Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "58,86,000shares(aggregating up to ₹26.49Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,70,96,809shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,32,94,809shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,12,000 (7.03%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "29,37,000 (66.19%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "17,61,000 (39.69%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,76,000 (26.50%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,85,000 (19.95%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "5,88,000 (13.25%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,97,000 (6.69%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "20,64,000 (46.52%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "44,37,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 27, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,61,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.92"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 2, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 31, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jun 4, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 30, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "9,000",
+      "Amount": "₹4,05,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "21,000",
+      "Amount": "₹9,45,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "24,000",
+      "Amount": "₹10,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.39%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "202.94",
+      "183.55",
+      "167.96"
+    ],
+    [
+      "Total Income",
+      "271.10",
+      "220.21",
+      "195.60"
+    ],
+    [
+      "Profit After Tax",
+      "8.60",
+      "4.29",
+      "1.80"
+    ],
+    [
+      "EBITDA",
+      "19.28",
+      "13.86",
+      "9.77"
+    ],
+    [
+      "Net Worth",
+      "33.75",
+      "25.16",
+      "17.27"
+    ],
+    [
+      "Reserves and Surplus",
+      "19.93",
+      "25.17",
+      "17.64"
+    ],
+    [
+      "Total Borrowing",
+      "69.02",
+      "68.98",
+      "65.08"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "17.54%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "13.82%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.43"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "15.10%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "1.95%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "6.29%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "0.47"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.03",
+      "Post IPO": "3.69"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "8.95",
+      "Post IPO": "12.2"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the Company.",
+      "Expected Amount(₹ in crores)": "16.28"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Prepayment/Repayment of Loan.",
+      "Expected Amount(₹ in crores)": "5.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 4, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "NRVANDANA"
+    ],
+    [
+      "ISIN",
+      "INE104101014"
+    ],
+    [
+      "Final Issue Price",
+      "₹45 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹45.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹45.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹42.75"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹46.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹43.70"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "36.54",
+      "Shares Offered": "11,76,000",
+      "Shares bid for": "4,29,75,000",
+      "Total Application": "30"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "126.70",
+      "Shares Offered": "29,49,000",
+      "Shares bid for": "37,36,32,000",
+      "Total Application": "33,736"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "101.00",
+      "Shares Offered": "41,25,000",
+      "Shares bid for": "41,66,07,000",
+      "Total Application": "33,766"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "N R Vandana Tex Industries IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/hbagdiya_21032025172416_NRDRHP20032025Final.pdf",
+      "text": "N R Vandana Tex Industries IPODRHP"
+    },
+    {
+      "title": "N R Vandana Tex Industries IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_NRVANDANA.zip",
+      "text": "N R Vandana Tex Industries IPORHP"
+    },
+    {
+      "title": "N R Vandana Tex Industries IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/n-r-vandana-tex-industries-limited_94505.html",
+      "text": "N R Vandana Tex Industries IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Narain Prasad Lohia, Prabhu Lohia and Gyanesh Lohia.",
+  "company_contact_details": {
+    "company_name": "N R Vandana Tex Industries Ltd.",
+    "address": "220, Mahatma Gandhi Road, Barabazar, Kolkata, ,, West Bengal, , 700007, Phone, :, Email, :, Website, :",
+    "phone": "+91 9331281999",
+    "email": "cs@vandanafashion.com",
+    "website": "https://www.vandanafashion.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "inestors@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 1992,N R Vandana Tex Industries Limitedis a Kolkata-based company specializing in the design, manufacturing, and wholesale distribution of cotton textile products, including sarees, salwar suits, and bed sheets. The company markets its products under the brand namesVandanaandTanya. Operating on a B2B model, the company distributes its products through a network of1,041 wholesalersacross31 Indian statesand leverages a B2B e-commerce platform for broader reach. Certain manufacturing processes are outsourced on a job-work basis, with the company providing detailed technical specifications such as designs, patterns, quality standards, and fabric types.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Marwadi Chandarana Intermediaries Brokers Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/435/",
+      "title": "About Marwadi Chandarana Intermediaries Brokers Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

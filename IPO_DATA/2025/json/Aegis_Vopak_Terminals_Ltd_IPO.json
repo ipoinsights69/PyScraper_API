@@ -1,0 +1,462 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 26, 2025 to May 28, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 2, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹235 per share"
+    ],
+    [
+      "Lot Size",
+      "63 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "11,91,48,936shares(aggregating up to ₹2,800.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "11,91,48,936shares(aggregating up to ₹2,800.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "98,88,42,553shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,10,79,91,489shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "8,93,61,703 (136.36%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "5,36,17,021 (81.82%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "3,57,44,682 (54.55%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "1,78,72,340 (27.27%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "1,19,14,893 (18.18%)",
+      "Maximum Allottees": "13,508"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "59,57,447 (9.09%)",
+      "Maximum Allottees": "6,754"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "1,19,14,893 (18.18%)",
+      "Maximum Allottees": "1,89,125"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "6,55,31,915 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 23, 2025"
+    ],
+    [
+      "Shares Offered",
+      "5,36,17,021"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "1,260.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "June 27, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 26, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, May 26, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 28, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "63",
+      "Amount": "₹14,805"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "819",
+      "Amount": "₹1,92,465"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "882",
+      "Amount": "₹2,07,270"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "4,221",
+      "Amount": "₹9,91,935"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "4,284",
+      "Amount": "₹10,06,740"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.41%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "85.93%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "5,855.60",
+      "4,523.40",
+      "3,481.48",
+      "102.56"
+    ],
+    [
+      "Total Income",
+      "476.15",
+      "570.12",
+      "355.99",
+      "0.00"
+    ],
+    [
+      "Profit After Tax",
+      "85.89",
+      "86.54",
+      "-0.08",
+      "-1.09"
+    ],
+    [
+      "Net Worth",
+      "2,037.61",
+      "1,151.94",
+      "1,098.20",
+      "-0.53"
+    ],
+    [
+      "Reserves and Surplus",
+      "0.00",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    [
+      "Total Borrowing",
+      "2,485.75",
+      "2,586.42",
+      "1,745.17",
+      "98.10"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "8.68%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "8.39%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.59"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "7.51%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "15.18%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "17.71"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "0.88",
+      "Post IPO": "1.03"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "268.51",
+      "Post IPO": "227.36"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 2, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544407"
+    ],
+    [
+      "NSE Symbol",
+      "AEGISVOPAK"
+    ],
+    [
+      "ISIN",
+      "INE0INX01018"
+    ],
+    [
+      "Final Issue Price",
+      "₹235 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹235.00",
+      "NSE": "₹235.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹220.00",
+      "NSE": "₹220.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹220.00",
+      "NSE": "₹220.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹241.95",
+      "NSE": "₹242.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹241.95",
+      "NSE": "₹242.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "7",
+      "Neutral": "4",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "3.47",
+      "Shares Offered": "3,57,44,681",
+      "Shares bid for": "12,42,01,476"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "0.59",
+      "Shares Offered": "1,78,72,340",
+      "Shares bid for": "1,04,93,280"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "0.60",
+      "Shares Offered": "1,19,14,894",
+      "Shares bid for": "71,44,515"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "0.56",
+      "Shares Offered": "59,57,447",
+      "Shares bid for": "33,48,765"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "0.81",
+      "Shares Offered": "1,19,14,894",
+      "Shares bid for": "96,75,603"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.20",
+      "Shares Offered": "6,55,31,915",
+      "Shares bid for": "14,43,70,359"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Aegis Vopak Terminals IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/nov-2024/aegis-vopak-terminals-limited_88746.html",
+      "text": "Aegis Vopak Terminals IPODRHP"
+    },
+    {
+      "title": "Aegis Vopak Terminals IPO RHP",
+      "href": "https://www.bseindia.com/corporates/download/337588/IPO%20Open/RHP_20250521194320.pdf",
+      "text": "Aegis Vopak Terminals IPORHP"
+    },
+    {
+      "title": "Aegis Vopak Terminals IPO Final Prospectus",
+      "href": "https://static1.squarespace.com/static/66b48ecd29b81b3071c65bfa/t/68384ee63b955e05f492688b/1748520681634/Project+Kavach+-+Prospectus+%28Filing+Version%29.pdf",
+      "text": "Aegis Vopak Terminals IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Aegis Logistics Limited, Huron Holdings Limited, Trans Asia Petroleum INC, Asia Infrastructure Investment Limited, Vopak India B.V., and Koninklijke Vopak N.V. are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Aegis Vopak Terminals Ltd.",
+    "address": "502, Skylon, G.I.D.C,, Char Rasta, Vapi, Valsad,, 396195, Gujarat, India, Valsad, ,, Gujarat, , 396195, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 4193 6666",
+    "email": "secretarial@aegisindia.com",
+    "website": "http://www.aegisvopak.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "aegisvopak.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2013, Aegis Vopak Terminals Limited (AVTL) is a company that owns and operates storage terminals for liquefied petroleum gas (LPG) and various liquid products. The company provides safe storage and related infrastructure for products like petroleum, vegetable oils, lubricants, chemicals, and gases such as propane and butane. As of June 30, 2024, AVTL manages a total storage capacity of around 1.50 million cubic meters for liquid products and 70,800 metric tons (MT) for LPG. AVTL runs its business through two main divisions: The company operates two LPG storage terminals and 16 liquid storage terminals located across five major ports in India. These terminals handle coastal shipping, imports, and exports. The terminals are located in the ports of Haldia, West Bengal (“Haldia Terminal”), Kochi, Kerala (“Kochi Terminal”), Mangalore, Karnataka (“Mangalore Terminal”), Pipavav, Gujarat (“Pipavav Terminal”), and Kandla, Gujarat (“Kandla Terminal”) have an aggregate storage capacity of approximately 1.50 million cubic meters for liquid products and 70,800 MT of static capacity for LPG. As of March 31, 2022, 2023 and 2024 and June 30, 2023 and 2024 we had 24, 316, 396, 366, and 392 full-time employees, respectively.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    },
+    {
+      "name": "BNP Paribas",
+      "profile_link": "/report/ipo-lead-manager-review/112/137/",
+      "title": "About BNP Paribas"
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "Jefferies India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/112/",
+      "title": "About Jefferies India Pvt.Ltd."
+    },
+    {
+      "name": "HDFC Bank Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/82/",
+      "title": "About HDFC Bank Ltd."
+    }
+  ],
+  "listing_gain_percent": "-6.38%"
+}

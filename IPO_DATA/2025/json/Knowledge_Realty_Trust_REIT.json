@@ -1,0 +1,279 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 5, 2025 to August 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹[.]per share"
+    ],
+    [
+      "Issue Price",
+      "₹100 per share"
+    ],
+    [
+      "Lot Size",
+      "150 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "48,00,00,000shares(aggregating up to ₹4,800.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingREIT"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 75% of the issue"
+    },
+    {
+      "Investor Category": "NII Shares Offered",
+      "Shares Offered": "Not less than 25% of the Issue"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 4, 2025"
+    ],
+    [
+      "Shares Offered",
+      "16,20,00,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "1,620.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 11, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 10, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 7, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "All Investors",
+      "Lots": "1",
+      "Shares": "150",
+      "Amount": "₹15,000"
+    }
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "24,768.08",
+      "24,902.82",
+      "24,544.42"
+    ],
+    [
+      "Total Income",
+      "4,146.86",
+      "3,588.48",
+      "3,115.97"
+    ],
+    [
+      "Profit After Tax",
+      "222.52",
+      "339.66",
+      "219.24"
+    ],
+    [
+      "EBITDA",
+      "3,293.03",
+      "2,830.36",
+      "2,494.02"
+    ],
+    [
+      "Total Borrowing",
+      "19,792.17",
+      "19,757.58",
+      "20,226.66"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Partial or full repayment or prepayment of certain financial indebtedness of the Asset SPVs and theInvestment Entities",
+      "Expected Amount(₹ in crores)": "4,640.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "4",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "9.07",
+      "Shares Offered": "11,36,83,950",
+      "Shares bid for": "1,03,12,29,150"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "16.57",
+      "Shares Offered": "9,47,36,850",
+      "Shares bid for": "1,56,96,93,750"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "12.48",
+      "Shares Offered": "20,84,20,800",
+      "Shares bid for": "2,60,09,22,900"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Knowledge Realty Trust REIT DRHP",
+      "href": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/mar-2025/1741673615503.pdf#page=1&zoom=page-width,-15,850",
+      "text": "Knowledge Realty Trust REITDRHP"
+    },
+    {
+      "title": "Knowledge Realty Trust REIT RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/knowledge_realty_trust_offer_document_signed_010820251254.pdf",
+      "text": "Knowledge Realty Trust REITRHP"
+    }
+  ],
+  "company_contact_details": {
+    "company_name": "Knowledge Realty Trust",
+    "address": "One International Center, 14th Floor, Tower 1, Plot No. 612-613, Senapati Bapat Marg,, Elphinstone Road, Lower Parel West,, Mumbai, ,, Maharashtra, , 400013, Phone, :, Email, :, Website, :",
+    "phone": "91-22-6868 4400",
+    "email": "info@knowledgerealtytrust.com",
+    "website": "https://www.knowledgerealtytrust.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "knowledge.reit@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Knowledge Realty Trust is the largest office REIT in India, based on Gross Asset Value (GAV) worth Rs 619,989 million as of March 31, 2025. It is also the second largest office REIT globally in terms of leasable Area. Our Portfolio comprises 30 Grade A office assets totalling 46.3 msf as of March 31, 2025, 37.1 msf of Completed Area, 1.2 msf of Under Construction Area and 8.0 msf of Future Development Area. Its portfolio has 6 city-centre offices and 24 business park/centres. Its portfolio of assets offers a wide range of amenities, such as& multi-cuisine food courts, exclusive members-only clubs, indoor and outdoor sports facilities, medical clinics, creche, and other health and recreation facilities. The company's portfolio assets are spread across 6 cities, including Hyderabad, Mumbai, Bengaluru, Chennai, Gurugram and GIFT City, Ahmedabad. The company has a Committed Occupancy of 91.4% as of March 31, 2025. It has a diversified tenant mix of prominent multinational tenants, including Fortune 500 companies, Global Capability Centers (GCCs), and leading domestic corporates. Competitive Strengths",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Kotak Mahindra Capital Co.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/12/",
+      "title": "About Kotak Mahindra Capital Co.Ltd."
+    },
+    {
+      "name": "Axis Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/113/",
+      "title": "About Axis Capital Ltd."
+    },
+    {
+      "name": "BOFA Securities India Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/22/",
+      "title": "About BOFA Securities India Ltd."
+    },
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "Morgan Stanley India Co.Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/31/",
+      "title": "About Morgan Stanley India Co.Pvt.Ltd."
+    },
+    {
+      "name": "SBI Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/21/",
+      "title": "About SBI Capital Markets Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

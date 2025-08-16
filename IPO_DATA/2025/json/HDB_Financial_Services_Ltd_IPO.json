@@ -1,0 +1,564 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 25, 2025 to June 27, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹740 per share"
+    ],
+    [
+      "Lot Size",
+      "20 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "16,89,18,917shares(aggregating up to ₹12,500.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "3,37,83,782shares(aggregating up to ₹2,500.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "13,51,35,135shares of ₹10(aggregating up to ₹10,000.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "79,39,63,540shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "82,77,47,322shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,58,78,377 (44.92%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "4,55,27,026 (26.95%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "3,03,51,351 (17.97%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "2,27,63,514 (13.48%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "1,51,75,676 (8.98%)",
+      "Maximum Allottees": "54,198"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "75,87,838 (4.49%)",
+      "Maximum Allottees": "27,099"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "5,31,14,865 (31.44%)",
+      "Maximum Allottees": "26,55,743"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "2,70,270 (0.16%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Shareholders Shares Offered",
+      "Shares Offered": "1,68,91,891 (10.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "16,89,18,917 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only shareholder",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Allowed only if bidding amount is upto Rs 2 lakhs"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + Shareholder",
+      "Maximum Bidding Limits": "Shareholder limit: Up to Rs 2 LakhsEmployee limit: Up to Rs 5 Lakhs. (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + Shareholder + RII/NII",
+      "Maximum Bidding Limits": "Shareholder limit: Up to Rs 2 LakhsEmployee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/employee/RII"
+    },
+    {
+      "Application Category": "Shareholder + RII/NII",
+      "Maximum Bidding Limits": "Shareholder limit: Upto Rs. 2 lakhsIf applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/RII"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/RII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 24, 2025"
+    ],
+    [
+      "Shares Offered",
+      "4,55,27,026"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "3,369.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 29, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 27, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "20",
+      "Amount": "₹14,800"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "260",
+      "Amount": "₹1,92,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "280",
+      "Amount": "₹2,07,200"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "1,340",
+      "Amount": "₹9,91,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "1,360",
+      "Amount": "₹10,06,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.32%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "74.19%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "1,08,663.29",
+      "92,556.51",
+      "70,050.39"
+    ],
+    [
+      "Total Income",
+      "16,300.28",
+      "14,171.12",
+      "12,402.88"
+    ],
+    [
+      "Profit After Tax",
+      "2,175.92",
+      "2,460.84",
+      "1,959.35"
+    ],
+    [
+      "EBITDA",
+      "9,512.37",
+      "8,314.13",
+      "6,251.16"
+    ],
+    [
+      "Net Worth",
+      "14,936.50",
+      "12,802.76",
+      "10,436.09"
+    ],
+    [
+      "Reserves and Surplus",
+      "15,023.97",
+      "12,949.63",
+      "10,645.57"
+    ],
+    [
+      "Total Borrowing",
+      "87,397.77",
+      "74,330.67",
+      "54,865.31"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "14.72%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "5.85"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.72"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "27.41",
+      "Post IPO": "26.29"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "27",
+      "Post IPO": "28.15"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Augmentation of the Company’s Tier – I Capital base to meet their Company’s future capital requirements including onward lending under any of the Company’s business verticals i.e. Enterprise Lending, Asset Finance and Consumer Finance.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544429"
+    ],
+    [
+      "NSE Symbol",
+      "HDBFS"
+    ],
+    [
+      "ISIN",
+      "INE756I01012"
+    ],
+    [
+      "Final Issue Price",
+      "₹740 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹740.00",
+      "NSE": "₹740.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹835.00",
+      "NSE": "₹835.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹827.50",
+      "NSE": "₹827.15"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹850.45",
+      "NSE": "₹851.40"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹840.90",
+      "NSE": "₹840.95"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "15",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "8",
+      "Neutral": "1",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "58.64",
+      "Shares Offered": "3,03,51,352",
+      "Shares bid for": "1,77,96,82,480"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "10.55",
+      "Shares Offered": "2,27,63,514",
+      "Shares bid for": "24,02,61,660"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "12.44",
+      "Shares Offered": "1,51,75,676",
+      "Shares bid for": "18,87,73,540"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "6.79",
+      "Shares Offered": "75,87,838",
+      "Shares bid for": "5,14,88,120"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.51",
+      "Shares Offered": "5,31,14,865",
+      "Shares bid for": "8,02,72,980"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "6.03",
+      "Shares Offered": "2,70,270",
+      "Shares bid for": "16,31,060"
+    },
+    {
+      "Category": "Others",
+      "Subscription (times)": "4.50",
+      "Shares Offered": "1,68,91,892",
+      "Shares bid for": "7,59,55,180"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "17.65",
+      "Shares Offered": "12,33,91,893",
+      "Shares bid for": "2,17,78,03,360"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "HDB Financial IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/nov-2024/hdb-financial-services-limited_88226.html",
+      "text": "HDB Financial IPODRHP"
+    },
+    {
+      "title": "HDB Financial IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/hdb-financial-services-limited-rhp_94689.html",
+      "text": "HDB Financial IPORHP"
+    },
+    {
+      "title": "HDB Financial IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/hdb-financial-services-limited-prospectus_94856.html",
+      "text": "HDB Financial IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "HDFC Bank Limited is the promoter of the company .",
+  "company_contact_details": {
+    "company_name": "HDB Financial Services Ltd.",
+    "address": "Radhika, 2nd Floor,, Law Garden Road,, Navrangpura, Ahmedabad, ,, Gujarat, , 380009, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 4911 6350",
+    "email": "investorcommunications@hdbfs.com",
+    "website": "http://hdbfs.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "hdbfinancial.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2007, HDB Financial Services Limited is a retail-focused, non-banking financial company. The company also offer business process outsourcing (“BPO”) services such as back-office support services, collection and sales support services to our Promoter as well as fee-based products such as distribution of insurance products primarily to the lending customers. HDB Financial Services Limited's omni-channel “phygital” distribution model combines a large branch network, in-house tele-calling teams and various external distribution networks and channel partners. Business Verticals: As of March 31, 2025, with over 80% of the branches located outside the 20 largest cities in India.As at March 31, 2025, The company had a pan-India network of 1,771 branches in 1,170 towns and cities across 31 States and Union Territories, with over 80% of the branches located outside the 20 largest cities in India by population. As at Fiscals 2025, 2024 and 2023, the company had a total of 60,432, 56,560 and 45,883 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "BNP Paribas",
+      "profile_link": "/report/ipo-lead-manager-review/112/137/",
+      "title": "About BNP Paribas"
+    },
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "BOFA Securities India Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/22/",
+      "title": "About BOFA Securities India Ltd."
+    },
+    {
+      "name": "Goldman Sachs (India) Securities Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/75/",
+      "title": "About Goldman Sachs (India) Securities Pvt.Ltd."
+    },
+    {
+      "name": "HSBC Securities & Capital Markets (India) Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/69/",
+      "title": "About HSBC Securities & Capital Markets (India) Pvt.Ltd."
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "Jefferies India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/112/",
+      "title": "About Jefferies India Pvt.Ltd."
+    },
+    {
+      "name": "Morgan Stanley India Co.Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/31/",
+      "title": "About Morgan Stanley India Co.Pvt.Ltd."
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    },
+    {
+      "name": "Nomura Financial Advisory & Securities (India) Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/72/",
+      "title": "About Nomura Financial Advisory & Securities (India) Pvt.Ltd."
+    },
+    {
+      "name": "Nuvama Wealth Management Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/408/",
+      "title": "About Nuvama Wealth Management Ltd."
+    },
+    {
+      "name": "UBS Securities India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/13/",
+      "title": "About UBS Securities India Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "12.84%"
+}

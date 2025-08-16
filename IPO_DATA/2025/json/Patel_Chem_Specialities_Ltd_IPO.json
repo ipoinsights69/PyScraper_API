@@ -1,0 +1,459 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 25, 2025 to July 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹84 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "70,00,000shares(aggregating up to ₹58.80Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,53,600shares(aggregating up to ₹2.97Cr)Globalworth Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "66,46,400shares(aggregating up to ₹55.83Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,78,70,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,48,70,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,53,600 (5.05%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "33,16,800 (47.38%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "19,87,200 (28.39%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "13,29,600 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "9,98,400 (14.26%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "6,65,600 (9.51%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "3,32,800 (4.75%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "23,31,200 (33.30%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "70,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 24, 2025"
+    ],
+    [
+      "Shares Offered",
+      "19,87,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "16.69"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 28, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 29, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,68,800"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,68,800"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "4,800",
+      "Amount": "₹4,03,200"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "11,200",
+      "Amount": "₹9,40,800"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "12,800",
+      "Amount": "₹10,75,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.13%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.78%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "65.31",
+      "46.97",
+      "37.08"
+    ],
+    [
+      "Total Income",
+      "105.55",
+      "82.72",
+      "69.75"
+    ],
+    [
+      "Profit After Tax",
+      "10.57",
+      "7.66",
+      "2.89"
+    ],
+    [
+      "EBITDA",
+      "15.80",
+      "12.02",
+      "5.83"
+    ],
+    [
+      "Net Worth",
+      "35.40",
+      "19.52",
+      "11.87"
+    ],
+    [
+      "Reserves and Surplus",
+      "17.53",
+      "18.52",
+      "10.87"
+    ],
+    [
+      "Total Borrowing",
+      "14.85",
+      "15.46",
+      "11.79"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "29.85%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "36.26%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.42"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "24.32%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.01%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.97%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.11"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.91",
+      "Post IPO": "4.25"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "14.21",
+      "Post IPO": "19.77"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirement of the Company",
+      "Expected Amount(₹ in crores)": "43.15"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "8.40"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544460"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE161701011"
+    ],
+    [
+      "Final Issue Price",
+      "₹84 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "MT"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹84.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹110.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹104.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹114.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹104.50"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "105.27",
+      "Shares Offered": "13,29,600",
+      "Shares bid for": "13,99,71,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "236.62",
+      "Shares Offered": "9,98,400",
+      "Shares bid for": "23,62,44,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "165.26",
+      "Shares Offered": "10,19,200",
+      "Shares bid for": "16,84,36,800",
+      "Total Application": "1,52,542"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "204.81",
+      "Shares Offered": "3,32,800",
+      "Shares bid for": "6,81,61,600",
+      "Total Application": "1,52,542"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "173.03",
+      "Shares Offered": "23,31,200",
+      "Shares bid for": "40,33,69,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "167.32",
+      "Shares Offered": "46,59,200",
+      "Shares bid for": "77,95,85,600",
+      "Total Application": "1,52,542"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Patel Chem Specialities IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/367012/PATEL_CHEM_SPECIALITIES_LIMITED_DRHP_30122024_20241231005501.pdf",
+      "text": "Patel Chem Specialities IPODRHP"
+    },
+    {
+      "title": "Patel Chem Specialities IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_230720251147.zip",
+      "text": "Patel Chem Specialities IPORHP"
+    },
+    {
+      "title": "Patel Chem Specialities IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/367012/SME_IPO%20BasisOfAllotment/Prospectus_PatelChemSpecialitiesLimited_20250730180625.pdf",
+      "text": "Patel Chem Specialities IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Bhupesh Patel, Anshu Patel, and Vini Patel are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Patel Chem Specialities Ltd.",
+    "address": "Plot No. 272/4-5,, Phase II, G.I.D.C Industrial Estate,, Vatva Road, Ahmedabad, ,, Gujarat, , 382445, Phone, :, Email, :, Website, :",
+    "phone": "91- 9712999854",
+    "email": "cs@patelchem.com",
+    "website": "http://www.patelchem.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "patelchem.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2008, Patel Chem Specialities Limited (PCSL) is engaged in the manufacturing and exporting pharmaceutical excipients and specialty chemicals. The company manufactures various essential chemicals used in pharmaceuticals, food, cosmetics, and industrial applications, serving as binders, disintegrants, thickeners, stabilizers, and gelling agents across industries. The company’s manufacturing facilities in Vatva, Ahmedabad, and Talod, Himmatnagar, follow strict quality control standards, ensuring bulk production of chemicals that meet international certifications like US-DMF and GMP. The company’s manufacturing facility covers 7,000 square yards, with a capacity of over 7,200 MT annually for pharmaceutical excipients, featuring departments for storage, production, R&D, quality control, packaging, and warehousing. The company has expanded globally, serving East Asia, Europe, the Middle East, North America, and Southeast Asia, delivering high-quality products that meet international standards to lead the chemical industry.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Cumulative Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/431/",
+      "title": "About Cumulative Capital Pvt.Ltd."
+    },
+    {
+      "name": "Unistone Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/176/",
+      "title": "About Unistone Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "30.95%"
+}

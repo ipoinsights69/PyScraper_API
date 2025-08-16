@@ -1,0 +1,389 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 11, 2025 to August 13, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹102 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "41,20,800shares(aggregating up to ₹42.03Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,06,400shares(aggregating up to ₹2.11Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "31,89,600shares(aggregating up to ₹32.53Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "7,24,800shares of ₹10(aggregating up to ₹7.39Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "39,14,400shares(aggregating up to ₹39.93Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,22,41,020shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,56,37,020shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,06,400 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,08,000 (2.62%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "19,03,200 (46.19%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "10,62,400 (25.78%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "6,34,400 (15.40%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,03,200 (46.19%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "41,20,800 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 13, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,44,800"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,44,800"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,67,200"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹9,79,200"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "10,800",
+      "Amount": "₹11,01,600"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "88.24%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "64.46%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "24.75",
+      "10.67",
+      "5.85"
+    ],
+    [
+      "Total Income",
+      "22.08",
+      "10.99",
+      "9.72"
+    ],
+    [
+      "Profit After Tax",
+      "8.96",
+      "4.40",
+      "1.81"
+    ],
+    [
+      "EBITDA",
+      "13.43",
+      "4.26",
+      "1.95"
+    ],
+    [
+      "Net Worth",
+      "19.05",
+      "8.59",
+      "4.19"
+    ],
+    [
+      "Reserves and Surplus",
+      "6.81",
+      "8.59",
+      "4.19"
+    ],
+    [
+      "Total Borrowing",
+      "2.99",
+      "0.88",
+      "0.02"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "47.51%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "110.07%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.16"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "47.02%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "40.56%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "61.39%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "14.25"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.32",
+      "Post IPO": "5.73"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.94",
+      "Post IPO": "17.81"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Purchase of new office premises",
+      "Expected Amount(₹ in crores)": "16.70"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Purchase of hardware for new office",
+      "Expected Amount(₹ in crores)": "1.12"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Working capital requirement",
+      "Expected Amount(₹ in crores)": "5.20"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB (Ex Anchor)",
+      "Subscription (times)": "33.08",
+      "Shares Offered": "1,08,000",
+      "Shares bid for": "35,72,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.58",
+      "Shares Offered": "19,03,200",
+      "Shares bid for": "30,13,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.84",
+      "Shares Offered": "10,62,400",
+      "Shares bid for": "19,50,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "1.68",
+      "Shares Offered": "6,34,400",
+      "Shares bid for": "10,63,200",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "4.67",
+      "Shares Offered": "19,03,200",
+      "Shares bid for": "88,84,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "3.95",
+      "Shares Offered": "39,14,400",
+      "Shares bid for": "1,54,70,400",
+      "Total Application": "4,105"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Icodex Publishing Solutions IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/377541/Icodex%20Publishing%20Solutions%20Ltd_DRHP_Final_20250212153530.pdf",
+      "text": "Icodex Publishing Solutions IPODRHP"
+    },
+    {
+      "title": "Icodex Publishing Solutions IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_080820251716.zip",
+      "text": "Icodex Publishing Solutions IPORHP"
+    }
+  ],
+  "promoters": "Kamalakkannan Govindaraj and Chetan Shankaralal Soni are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Icodex Publishing Solutions Ltd.",
+    "address": "102, First Floor, Suman Business Park,, Kalyani Nagar,, Viman Nagar,, Pune, ,, Maharashtra, , 411014, Phone, :, Email, :, Website, :",
+    "phone": "+91 8856907928",
+    "email": "cs@icodexsolutions.com",
+    "website": "https://icodexsolutions.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2018, Icodex Publishing Solutions Limited is engaged in the business of Software Product Development for Scholarly Publishing. The company develops software products that assist in publishing research papers and academic articles, supporting the entire process from manuscript preparation to print and digital content distribution. The company offers Business Process Management services, including quality assurance, editorial services, and back-end support, to assist global publishing clients throughout the publishing process. The company offers Business Process Management services, including quality checks, editorial support, and IT services like hardware installation and back-end support, assisting global publishing clients throughout the process. Business Segment: As of January 31, 2025, The company had 116 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Indcap Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/445/",
+      "title": "About Indcap Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

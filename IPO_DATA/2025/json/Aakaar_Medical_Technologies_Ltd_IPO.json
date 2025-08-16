@@ -1,0 +1,416 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 20, 2025 to June 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 27, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹72 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "37,50,400shares(aggregating up to ₹27.00Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,88,800shares(aggregating up to ₹1.36Cr)Alacrity Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "35,61,600shares(aggregating up to ₹25.64Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,04,22,416shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,41,72,816shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,88,800 (7.04%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "17,79,200 (66.31%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "10,67,200 (39.77%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "7,12,000 (26.54%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,34,400 (19.92%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,48,000 (46.51%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "26,83,200 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 19, 2025"
+    ],
+    [
+      "Shares Offered",
+      "10,67,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.68"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 25, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 23, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,30,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "91.11%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.01%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "51.85",
+      "34.01",
+      "23.23"
+    ],
+    [
+      "Total Income",
+      "61.76",
+      "46.27",
+      "32.88"
+    ],
+    [
+      "Profit After Tax",
+      "6.04",
+      "2.87",
+      "2.15"
+    ],
+    [
+      "EBITDA",
+      "9.74",
+      "5.00",
+      "3.53"
+    ],
+    [
+      "Net Worth",
+      "23.20",
+      "12.53",
+      "9.66"
+    ],
+    [
+      "Reserves and Surplus",
+      "12.78",
+      "11.84",
+      "8.96"
+    ],
+    [
+      "Total Borrowing",
+      "22.74",
+      "15.06",
+      "5.87"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROCE",
+      "Values": "21.02%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.98"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "33.81%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.81%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.81%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.23"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.79",
+      "Post IPO": "4.26"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.43",
+      "Post IPO": "16.9"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "20.35"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 27, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "AAKAAR"
+    ],
+    [
+      "ISIN",
+      "INE1GYP01013"
+    ],
+    [
+      "Final Issue Price",
+      "₹72 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹72.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹75.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹71.25"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹75.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹71.25"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "3.51",
+      "Shares Offered": "7,12,000",
+      "Shares bid for": "24,96,000",
+      "Total Application": "7"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.48",
+      "Shares Offered": "5,36,000",
+      "Shares bid for": "7,93,600",
+      "Total Application": "123"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.93",
+      "Shares Offered": "12,48,000",
+      "Shares bid for": "24,11,200",
+      "Total Application": "1,507"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.28",
+      "Shares Offered": "24,96,000",
+      "Shares bid for": "57,00,800",
+      "Total Application": "1,637"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Aakaar Medical Technologies IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_28022025175016_Aakaar_DRHP_28022025.pdf",
+      "text": "Aakaar Medical Technologies IPODRHP"
+    },
+    {
+      "title": "Aakaar Medical Technologies IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_AAKAAR.zip",
+      "text": "Aakaar Medical Technologies IPORHP"
+    },
+    {
+      "title": "Aakaar Medical Technologies IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AakaarMedicalTechnologiesLimited_PROSP.pdf",
+      "text": "Aakaar Medical Technologies IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Dilip Ramesh Meswani and Bindi Dilip Meswani are the Promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Aakaar Medical Technologies Ltd.",
+    "address": "801, Heritage Plaza,, Telli Galli Cross Road, Andheri (East),, Mumbai, ,, Maharashtra, , 400069, Phone, :, Email, :, Website, :",
+    "phone": "+91 84528 44024",
+    "email": "companysecretary@aakaarmedical.in",
+    "website": "https://aakaarmedical.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in June 2013, Aakaar Medical Technologies Limited is an aesthetic medical company that offers a diverse selection of specialized cosmetic products and devices. The company deals in speciality products for Dermatologists, Plastic Surgeons, Aesthetic Physicians, Cosmetologists. The company's product portfolio encompasses both own brands, which consist of domestically manufactured products and internationally produced devices, and imported brands sourced from countries such as South Korea, Spain, Italy, and Austria. The company supplies products and devices mainly to dermatologists, plastic surgeons, and aesthetic physicians, who sell them to end consumers and use some consumables in treatments. The company's product range includes the following:- The company has branches across India with a team of 90 trained sales and service engineers, serving thousands of satisfied customers. The company sells its products to the states of Delhi, Haryana, Punjab, Chandigarh, Uttarakhand, Uttar Pradesh, Bihar, West Bengal, Assam, Gujarat, Madhya Pradesh, Maharashtra, Karnataka, Telangana, and Tamil Nadu. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Indorient Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/175/",
+      "title": "About Indorient Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.17%"
+}

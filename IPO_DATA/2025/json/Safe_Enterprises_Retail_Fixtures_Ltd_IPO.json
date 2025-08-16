@@ -1,0 +1,423 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 20, 2025 to June 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 27, 2025"
+    ],
+    [
+      "Face Value",
+      "₹5per share"
+    ],
+    [
+      "Issue Price",
+      "₹138 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "1,23,00,000shares(aggregating up to ₹169.74Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "6,24,000shares(aggregating up to ₹8.61Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "1,16,76,000shares(aggregating up to ₹161.13Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "3,43,04,478shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "4,66,04,478shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "6,24,000 (7.09%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "58,37,000 (66.34%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "35,01,000 (39.79%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "23,36,000 (26.55%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "17,52,000 (19.91%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "40,87,000 (46.45%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "87,99,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 19, 2025"
+    ],
+    [
+      "Shares Offered",
+      "35,01,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "48.31"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 24, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,38,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,38,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,76,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.18%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.07%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Mar 2025",
+      "31 Mar 2024"
+    ],
+    [
+      "Assets",
+      "101.94",
+      "54.40"
+    ],
+    [
+      "Total Income",
+      "139.73",
+      "101.38"
+    ],
+    [
+      "Profit After Tax",
+      "39.19",
+      "23.09"
+    ],
+    [
+      "Net Worth",
+      "72.08",
+      "28.99"
+    ],
+    [
+      "Reserves and Surplus",
+      "54.92",
+      "4.36"
+    ],
+    [
+      "Total Borrowing",
+      "0.00",
+      "0.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "77.54%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "69.10%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "54.37%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "28.33%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "19.79%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.57"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.42",
+      "Post IPO": "8.52"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.08",
+      "Post IPO": "16.19"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding the Capital Expenditure requirements towards setting up of a new manufacturing unit.",
+      "Expected Amount(₹ in crores)": "65.89"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Investment in the Subsidiary, Safe Enterprises Retail Technologies Private Limited for financing its capital expenditure requirements in relation towards installation of additional plant and machinery",
+      "Expected Amount(₹ in crores)": "6.99"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "To Meet Working Capital Requirements of the Company",
+      "Expected Amount(₹ in crores)": "30.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Investment in the subsidiary Safe Enterprises Retail Technologies Private Limited to meet working capital requirements",
+      "Expected Amount(₹ in crores)": "10.00"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 27, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SAFEENTP"
+    ],
+    [
+      "ISIN",
+      "INE17D601016"
+    ],
+    [
+      "Final Issue Price",
+      "₹138 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹138.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹151.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹151.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹158.55"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹158.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "34.31",
+      "Shares Offered": "23,36,000",
+      "Shares bid for": "8,01,39,000",
+      "Total Application": "43"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "12.51",
+      "Shares Offered": "17,52,000",
+      "Shares bid for": "2,19,17,000",
+      "Total Application": "1,637"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "4.44",
+      "Shares Offered": "40,87,000",
+      "Shares bid for": "1,81,38,000",
+      "Total Application": "18,138"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "14.70",
+      "Shares Offered": "81,75,000",
+      "Shares bid for": "12,01,94,000",
+      "Total Application": "19,818"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Safe Enterprises IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_17122024214305_SAFE_ENTERPRISES_RETAIL_FIXTURES_LIMITED_DRHP.pdf",
+      "text": "Safe Enterprises IPODRHP"
+    },
+    {
+      "title": "Safe Enterprises IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SafeEnterprisesRetailFixturesLimited_RHP.pdf",
+      "text": "Safe Enterprises IPORHP"
+    },
+    {
+      "title": "Safe Enterprises IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SafeEnterprisesRetailFixturesLimited_PROSP.pdf",
+      "text": "Safe Enterprises IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Saleem Shabbir Merchant, Mikdad Saleem Merchant, Huzefa Salim Merchant and Munira Salimbhai Merchant.",
+  "company_contact_details": {
+    "company_name": "Safe Enterprises Retail Fixtures Ltd.",
+    "address": "Plot No. D-372, TTC MIDC Industrial Area,, MIDC Kukshet Village, Sanpada,, Thane, ,, Maharashtra, , 400703, Phone, :, Email, :, Website, :",
+    "phone": "+917021883016",
+    "email": "compliance@safeenterprises.com",
+    "website": "https://safeenterprises.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 1976, Safe Enterprises Retail Fixtures Limited designs, manufactures, supplies, and installs shop fittings and retail fixtures, providing a range of customized solutions across various retail segments such as fashion, electronics, and department stores. The company provides merchandising solutions that address retail challenges in display, placement, storage, and safety, offering shop fitting services from design to installation tailored to customer needs. The company serves various retail sectors like fashion, electronics, grocery, and luxury. Clients include major Indian chains and hypermarkets, such as: The company offers the following products & services. The company has three manufacturing units, two of which are situated in Mumbai and one in Thane, Maharastra. The company has two franchisees in Navi Mumbai and Hyderabad, as well as two distributors in Dubai and Kansas City. The company sells products in over 25 states and union territories, with most revenue from Maharashtra, followed by Karnataka and Gujarat. As of October 31, 2024, the company had 15 employees in the design team. Competitive Strength:",
+    "competitive_strengths": [
+      "In-house product manufacturing capabilities.",
+      "Established relationships with customers across various geographical locations.",
+      "Experienced Senior Management backed by design and development team.",
+      "Positive consumer experience and long-term brand loyalty."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "9.42%"
+}

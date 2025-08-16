@@ -1,0 +1,405 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 22, 2025 to May 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "May 29, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹273 per share"
+    ],
+    [
+      "Lot Size",
+      "400 Shares"
+    ],
+    [
+      "Sale Type",
+      "Offer For Sale"
+    ],
+    [
+      "Total Issue Size",
+      "52,92,000shares(aggregating up to ₹144.47Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,67,600shares(aggregating up to ₹7.31Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "50,24,400shares(aggregating up to ₹137.17Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "2,00,90,100shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,00,90,100shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,67,600 (5.06%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "25,11,600 (47.46%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "15,06,800 (28.47%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "25,11,600 (47.46%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,54,000 (14.25%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "17,58,800 (33.24%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "52,92,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 21, 2025"
+    ],
+    [
+      "Shares Offered",
+      "15,06,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "41.14"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "June 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 25, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, May 22, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, May 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "400",
+      "Amount": "₹1,09,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "400",
+      "Amount": "₹1,09,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "800",
+      "Amount": "₹2,18,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "86.73%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "60.39%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "28 Feb 2025",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "128.71",
+      "78.42",
+      "64.30",
+      "36.14"
+    ],
+    [
+      "Total Income",
+      "203.66",
+      "266.80",
+      "112.81",
+      "95.50"
+    ],
+    [
+      "Profit After Tax",
+      "31.68",
+      "25.13",
+      "10.40",
+      "9.71"
+    ],
+    [
+      "EBITDA",
+      "33.17",
+      "27.87",
+      "12.47",
+      "11.15"
+    ],
+    [
+      "Net Worth",
+      "95.73",
+      "64.04",
+      "38.92",
+      "28.52"
+    ],
+    [
+      "Reserves and Surplus",
+      "75.64",
+      "63.99",
+      "38.87",
+      "28.47"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "48.81%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "52.55%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "39.23%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.65%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "10.70%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "8.56"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "12.51",
+      "Post IPO": "17.20"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "21.83",
+      "Post IPO": "15.87"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "May 29, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544406"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE1ABX01018"
+    ],
+    [
+      "Final Issue Price",
+      "₹273 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹273.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹285.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹272.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹299.25"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹299.25"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "83.22",
+      "Shares Offered": "10,04,800",
+      "Shares bid for": "8,36,23,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "212.43",
+      "Shares Offered": "7,54,000",
+      "Shares bid for": "16,01,72,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "43.62",
+      "Shares Offered": "17,58,800",
+      "Shares bid for": "7,67,25,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "91.12",
+      "Shares Offered": "35,17,600",
+      "Shares bid for": "32,05,21,600",
+      "Total Application": "2,94,824"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Unified Data-Tech Solutions IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/388787/UNIFIED%20DATA-%20TECH%20SOLUTIONS%20LIMITED_20241210170944.pdf",
+      "text": "Unified Data-Tech Solutions IPODRHP"
+    },
+    {
+      "title": "Unified Data-Tech Solutions IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/unified-data-tech-solutions-limited_94297.html",
+      "text": "Unified Data-Tech Solutions IPORHP"
+    },
+    {
+      "title": "Unified Data-Tech Solutions IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/388787/SME_IPO%20BasisOfAllotment/UdTech_Prospectus_20250528134554.pdf",
+      "text": "Unified Data-Tech Solutions IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Hiren Rajendra Mehta, Rajendra Kantilal Mehta and Harshaben Mehta are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Unified Data-Tech Solutions Ltd.",
+    "address": "701, 7th Floor,, Chintamani Avenue,, Village Dindoshi Off Western Express Highway,, Goregaon, ,, Maharashtra, , 400063, Phone, :, Email, :, Website, :",
+    "phone": "+91-22-40726000",
+    "email": "cs@udtechs.com",
+    "website": "http://www.udtechs.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "udts.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2010, Unified Data-Tech Solutions Private Limited (UDTechs) is a Mumbai-based IT service provider specializing in delivering innovative and customized technology solutions. The company offers IT solutions, including data centers, virtualization, cybersecurity, and networking, serving industries like banking, finance, and IT. It works with clients to provide secure, cost-effective, high-performance solutions and support. The company procures products and services for data centers, virtualization, cybersecurity, and secure application delivery. It is an authorized partner of OEMs, offering IT products, services, maintenance, and subscriptions. The company has expanded its presence with branches in Pune and Ahmedabad, serving over 1,000 clients across India. Services: As on n March 31, 2025, the Company had employed 38 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.4%"
+}

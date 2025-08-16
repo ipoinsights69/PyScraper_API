@@ -1,0 +1,468 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 28, 2025 to May 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 4, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "Lot Size",
+      "100 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "1,57,14,200shares(aggregating up to ₹220.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,41,94,700shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,99,08,900shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "78,57,000 (50.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "47,14,200 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "31,42,800 (20.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "23,57,200 (15.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "15,71,400 (10.00%)",
+      "Maximum Allottees": "1,047"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "7,85,800 (5.00%)",
+      "Maximum Allottees": "523"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "55,00,000 (35.00%)",
+      "Maximum Allottees": "55,000"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,57,14,200 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 27, 2025"
+    ],
+    [
+      "Shares Offered",
+      "47,14,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "66.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 1, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 30, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, May 28, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jun 4, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 30, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "100",
+      "Amount": "₹14,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "14",
+      "Shares": "1,400",
+      "Amount": "₹1,96,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "15",
+      "Shares": "1,500",
+      "Amount": "₹2,10,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "71",
+      "Shares": "7,100",
+      "Amount": "₹9,94,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "72",
+      "Shares": "7,200",
+      "Amount": "₹10,08,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "90.04%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "66.43%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "428.49",
+      "330.42",
+      "238.26",
+      "156.06"
+    ],
+    [
+      "Total Income",
+      "363.48",
+      "402.49",
+      "307.79",
+      "195.05"
+    ],
+    [
+      "Profit After Tax",
+      "24.91",
+      "18.30",
+      "10.34",
+      "1.64"
+    ],
+    [
+      "EBITDA",
+      "60.63",
+      "58.79",
+      "34.78",
+      "9.99"
+    ],
+    [
+      "Net Worth",
+      "143.55",
+      "63.61",
+      "45.31",
+      "34.98"
+    ],
+    [
+      "Reserves and Surplus",
+      "99.35",
+      "62.33",
+      "44.03",
+      "33.69"
+    ],
+    [
+      "Total Borrowing",
+      "202.16",
+      "202.66",
+      "139.31",
+      "109.90"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "28.77%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "15.92%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "28.77%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.58%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.70%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "8.76"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.14",
+      "Post IPO": "5.54"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "33.81",
+      "Post IPO": "25.25"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital expenditure towards expanding production capacity of seamless and welded tubes and pipes.",
+      "Expected Amount(₹ in crores)": "76.99"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding the part incremental working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "110.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 4, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544411"
+    ],
+    [
+      "NSE Symbol",
+      "SCODATUBES"
+    ],
+    [
+      "ISIN",
+      "INE090501011"
+    ],
+    [
+      "Final Issue Price",
+      "₹140 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹140.00",
+      "NSE": "₹140.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹140.00",
+      "NSE": "₹140.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹136.00",
+      "NSE": "₹135.10"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹146.95",
+      "NSE": "₹147.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹146.95",
+      "NSE": "₹147.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "3",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "72.97",
+      "Shares Offered": "31,42,943",
+      "Shares bid for": "22,93,30,500"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "121.72",
+      "Shares Offered": "23,57,143",
+      "Shares bid for": "28,69,13,500"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "135.31",
+      "Shares Offered": "15,71,429",
+      "Shares bid for": "21,26,34,400"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "94.54",
+      "Shares Offered": "7,85,714",
+      "Shares bid for": "7,42,79,100"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "20.89",
+      "Shares Offered": "55,00,000",
+      "Shares bid for": "11,48,79,200"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "57.37",
+      "Shares Offered": "1,10,00,086",
+      "Shares bid for": "63,11,23,200"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Scoda Tubes IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/scoda-tubes-limited_87223.html",
+      "text": "Scoda Tubes IPODRHP"
+    },
+    {
+      "title": "Scoda Tubes IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/scoda-tubes-limited-rhp_94133.html",
+      "text": "Scoda Tubes IPORHP"
+    },
+    {
+      "title": "Scoda Tubes IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE090501011_02JUN2025.pdf",
+      "text": "Scoda Tubes IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Samarth Patel, Jagrutkumar Patel, Ravi Patel, Saurabh Patel and Vipulkumar Patel are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Scoda Tubes Ltd.",
+    "address": "Survey No. 1566/1,, Village Rajpur, Kadi,, Mehsana,, Ahmedabad, ,, Gujarat, , 382740, Phone, :, Email, :, Website, :",
+    "phone": "027 64278278",
+    "email": "cs@scodatubes.com",
+    "website": "https://www.scodatubes.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "scodatubes.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2008, Scoda Tubes Limited is a manufacturer of stainless-steel tubes and pipes. The company's products are broadly categorized into two types: (i) seamless tubes/pipes and (ii) welded tubes/pipes. These are further divided into five product lines: The company markets its products under the brand name “Scoda Tubes Limited.” Customers include engineering companies, EPC (Engineering, Procurement, and Construction) firms, and industrial companies across sectors such as oil and gas, chemicals, fertilizers, power, pharmaceuticals, automotive, railways, and transportation. Manufacturing and Production: Market Presence (Fiscal 2024): Distribution Network: Workforce (as of August 31, 2024): Contractual Workers:347",
+    "competitive_strengths": [
+      "Stainless steel seamless pipes",
+      "Stainless steel seamless tubes",
+      "Stainless steel seamless “U” tubes",
+      "Stainless steel instrumentation tubes",
+      "Stainless steel welded tubes and “U” tubes"
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Monarch Networth Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/132/",
+      "title": "About Monarch Networth Capital Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

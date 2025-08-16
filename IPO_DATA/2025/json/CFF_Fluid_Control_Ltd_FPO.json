@@ -1,0 +1,370 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 9, 2025 to July 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 16, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹585 per share"
+    ],
+    [
+      "Lot Size",
+      "200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "15,00,000shares(aggregating up to ₹87.75Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "78,000shares(aggregating up to ₹4.56Cr)Aryaman Capital Markets Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "14,22,000shares(aggregating up to ₹83.19Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceFPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,94,74,100shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,09,74,100shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "78,000 (5.20%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,10,800 (47.39%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "7,11,200 (47.41%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "15,00,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jul 14, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 15, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 15, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 16, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 11, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "400",
+      "Amount": "₹2,34,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "400",
+      "Amount": "₹2,34,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "3",
+      "Shares": "600",
+      "Amount": "₹3,51,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "73.31%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "68.06%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "199.03",
+      "161.16",
+      "88.68"
+    ],
+    [
+      "Total Income",
+      "146.10",
+      "106.98",
+      "71.10"
+    ],
+    [
+      "Profit After Tax",
+      "23.85",
+      "17.09",
+      "10.14"
+    ],
+    [
+      "EBITDA",
+      "41.31",
+      "30.85",
+      "18.83"
+    ],
+    [
+      "Net Worth",
+      "147.84",
+      "125.94",
+      "24.99"
+    ],
+    [
+      "Reserves and Surplus",
+      "128.37",
+      "106.46",
+      "10.72"
+    ],
+    [
+      "Total Borrowing",
+      "21.11",
+      "23.48",
+      "45.90"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "17.42%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "21.84%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "16.13%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "16.39%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "28.38%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.71"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "12.25",
+      "Post IPO": "11.37"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "47.77",
+      "Post IPO": "51.45"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding Working capital requirements",
+      "Expected Amount(₹ in crores)": "72.60"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "8.34"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 16, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "543920"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0NJ001013"
+    ],
+    [
+      "Final Issue Price",
+      "₹585 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹585.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹621.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹621.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹674.80"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹653.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "10.06",
+      "Shares Offered": "7,11,000",
+      "Shares bid for": "71,50,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "6.34",
+      "Shares Offered": "7,11,000",
+      "Shares bid for": "45,08,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "8.45",
+      "Shares Offered": "14,22,001",
+      "Shares bid for": "1,20,14,600",
+      "Total Application": "15,261"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "CFF Fluid Control FPO DRHP",
+      "href": "https://www.bsesme.com/download/12904/DraftProspectus_20250113190127.pdf",
+      "text": "CFF Fluid Control FPODRHP"
+    },
+    {
+      "title": "CFF Fluid Control FPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/12904/SME_IPO%20Open/1_CFF_Fluid_Control_Limited_Prospectus_20250708175948.pdf",
+      "text": "CFF Fluid Control FPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company's promoters are Sunil Menon and Gautam Makker.",
+  "company_contact_details": {
+    "company_name": "CFF Fluid Control Ltd.",
+    "address": "Plot No 01, Survey No 96, Kumbhivli Madap Khopoli,, Khalapur, Raigarh, Khalapur, ,, Maharashtra, , 410203, Phone, :, Email, :, Website, :",
+    "phone": "+91-2246086806",
+    "email": "compliance@cffdefensys.com",
+    "website": "http://www.cffdefensys.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "priya@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "CFF Fluid Control Ltd manufactures and services Submarine machinery, critical component systems, and test facilities for the Indian Defence PSU Shipyard. Its product portfolio includes fluid control systems, distributors and air panels, weapons and control systems, steering gear, propulsion systems, high-pressure air systems, hydraulics systems, breathing and Diving air systems, etc. Its manufacturing facility is located at Khopoli, covering 6,000 square meters and featuring the latest machinery and testing facilities. It also has an additional manufacturing facility in the pipeline at Chakan Industrial Area, Pune, covering 1,950 square metres, for manufacturing critical and complex systems. The company has partnered with Atlas Elektronik GmbH to produce 12 low-frequency variable depth sonar systems for the Indian anti-submarine Warfare Shallow Water Craft program. Strengths",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Aryaman Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/77/",
+      "title": "About Aryaman Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "6.15%"
+}

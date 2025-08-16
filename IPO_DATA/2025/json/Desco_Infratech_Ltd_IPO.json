@@ -1,0 +1,433 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 24, 2025 to March 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "April 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹150 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "20,50,000shares(aggregating up to ₹30.75Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,07,000shares(aggregating up to ₹1.61Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "19,43,000shares(aggregating up to ₹29.15Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "56,26,008shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "76,76,008shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,07,000 (5.22%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "9,63,000 (46.98%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "5,77,000 (28.15%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "3,86,000 (18.83%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "2,94,000 (14.34%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "6,86,000 (33.46%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "20,50,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "March 21, 2025"
+    ],
+    [
+      "Shares Offered",
+      "5,77,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "8.66"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "April 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "June 25, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Mar 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Mar 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Mar 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Mar 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Mar 28, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Apr 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMarch 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,50,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹3,00,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "79.29%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "58.12%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "36.12",
+      "23.8",
+      "20.65",
+      "11.73"
+    ],
+    [
+      "Total Income",
+      "22.75",
+      "29.49",
+      "29.28",
+      "19.92"
+    ],
+    [
+      "Profit After Tax",
+      "3.38",
+      "3.46",
+      "1.23",
+      "0.83"
+    ],
+    [
+      "Net Worth",
+      "22.67",
+      "11.99",
+      "5.04",
+      "3.85"
+    ],
+    [
+      "Reserves and Surplus",
+      "17.04",
+      "11.72",
+      "4.79",
+      "3.6"
+    ],
+    [
+      "Total Borrowing",
+      "6.82",
+      "4.06",
+      "5.81",
+      "3.09"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "40.61%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "75.97%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.34"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "28.83%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.76%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.22"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.15",
+      "Post IPO": "8.81"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "24.4",
+      "Post IPO": "17.03"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of capital expenditure requirements towards setting up of corporate office in Surat, Gujarat.",
+      "Expected Amount(₹ in crores)": "1.04"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding of capital expenditure requirements towards purchase of machineries.",
+      "Expected Amount(₹ in crores)": "1.68"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding Working Capital Requirements of the Company.",
+      "Expected Amount(₹ in crores)": "18.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "April 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544387"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0TGG01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹150 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹150.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹160.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹160.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹168.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹168.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "28.76",
+      "Shares Offered": "3,86,000",
+      "Shares bid for": "1,11,00,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "233.26",
+      "Shares Offered": "2,94,000",
+      "Shares bid for": "6,85,78,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "50.62",
+      "Shares Offered": "6,86,000",
+      "Shares bid for": "3,47,28,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "83.75",
+      "Shares Offered": "13,66,000",
+      "Shares bid for": "11,44,06,000",
+      "Total Application": "48,838"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Desco Infratech IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/321600/Desco%20Infratech%20Limited-%20DRHP_20240930234441.pdf",
+      "text": "Desco Infratech IPODRHP"
+    },
+    {
+      "title": "Desco Infratech IPO RHP",
+      "href": "https://www.bsesme.com/download/321600/SME_IPO%20Open/1.%20Desco%20Infractech%20Limited%20RHP_17.03.2025_20250318205521.pdf",
+      "text": "Desco Infratech IPORHP"
+    },
+    {
+      "title": "Desco Infratech IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/321600/SME_IPO%20BasisOfAllotment/Prospectus_20250327151006.pdf",
+      "text": "Desco Infratech IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the Company are Ms. Indiraben Pruthubhai Desai, Mr. Pankaj Pruthu Desai, Ms Hina Pankaj Desai, Mr. Malhar P Desai and Mr Samarth Pankaj Desai",
+  "company_contact_details": {
+    "company_name": "Desco Infratech Ltd.",
+    "address": "A-703, Swastik Universal,, Next to Valentine Theatre, Dumas Road,, Umra,, Surat, ,, Gujarat, , 395007, Phone, :, Email, :, Website, :",
+    "phone": "+91 7574 999 09",
+    "email": "investors@descoinfra.co.in",
+    "website": "https://www.descoinfra.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in January 2011, Desco Infratech Limited is an infrastructure company focused on Engineering, Planning, & Construction, particularly in City Gas Distribution, Renewable Energy, Water, and Power sectors. The company operates across various sectors, including City Gas Distribution, Renewable Energy, Water, and Power. The company specializes in critical infrastructure projects, including city gas distribution (CGD), power transmission, water supply systems, and renewable energy solutions. The company specializes in developing and constructing pipelines, roads, bridges, and other critical structures, focusing strongly on City Gas Distribution (CGD), renewable energy, water management, and power infrastructure. The company has expanded its operations across over 55 cities in 14 states, laying over 4,000 kilometres of Medium-Density Polyethylene (MDPE) pipelines and delivering over 200,000 piped natural gas connections to residential, industrial, and commercial establishments. The company offers infrastructure services like designing and constructing water distribution networks, open wells, sump wells, and overhead tanks. As of December 31, 2024, the Company had 234 employees across various locations. Competitive Strength:",
+    "competitive_strengths": [
+      "Extensive experience in city gas distribution and maintenance services.",
+      "Experienced promoters and management team.",
+      "Direct Relationship with Suppliers.",
+      "SOPs are vital for city gas distribution contracting services.",
+      "Adherence to Safety and Compliance Standards."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "6.67%"
+}

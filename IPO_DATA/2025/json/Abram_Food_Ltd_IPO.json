@@ -1,0 +1,389 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 24, 2025 to June 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹98 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "14,28,000shares(aggregating up to ₹13.99Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "72,000shares(aggregating up to ₹0.7056Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "13,56,000shares(aggregating up to ₹13.29Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "37,26,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "51,54,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "72,000 (5.04%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,78,000 (47.48%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "6,78,000 (47.48%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "14,28,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,17,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,17,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,35,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "93.14%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.33%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "17.09",
+      "10.62",
+      "7.73"
+    ],
+    [
+      "Total Income",
+      "64.09",
+      "36.14",
+      "33.16"
+    ],
+    [
+      "Profit After Tax",
+      "3.26",
+      "1.02",
+      "0.48"
+    ],
+    [
+      "EBITDA",
+      "5.07",
+      "1.96",
+      "1.03"
+    ],
+    [
+      "Net Worth",
+      "8.43",
+      "4.15",
+      "3.13"
+    ],
+    [
+      "Reserves and Surplus",
+      "4.70",
+      "1.26",
+      "2.89"
+    ],
+    [
+      "Total Borrowing",
+      "7.13",
+      "6.01",
+      "4.39"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "38.62%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "56.02%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.85"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "38.62%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.08%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "7.92%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.33"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.74",
+      "Post IPO": "6.32"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.22",
+      "Post IPO": "15.52"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital Expenditure for purchase of machineries",
+      "Expected Amount(₹ in crores)": "3.85"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding of Working Capital Requirement of the company",
+      "Expected Amount(₹ in crores)": "6.70"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "2.05"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Issue related expenses in relation to Issue",
+      "Expected Amount(₹ in crores)": "1.40"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544422"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0ZDY01011"
+    ],
+    [
+      "Final Issue Price",
+      "₹98 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹98.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹90.40"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹86.01"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹94.92"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹94.92"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "2"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "40.92",
+      "Shares Offered": "6,78,000",
+      "Shares bid for": "2,77,46,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "16.05",
+      "Shares Offered": "6,78,000",
+      "Shares bid for": "1,08,84,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "28.49",
+      "Shares Offered": "13,56,001",
+      "Shares bid for": "3,86,30,400",
+      "Total Application": "13,030"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Abram Food IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/382470/DRHP-Abram-V1-15.01.2025%20Final_20250115192844.pdf",
+      "text": "Abram Food IPODRHP"
+    },
+    {
+      "title": "Abram Food IPO RHP",
+      "href": "https://www.bsesme.com/download/382470/SME_IPO%20Open/1%20Abram%20Prospectus_20250618184454.pdf",
+      "text": "Abram Food IPORHP"
+    },
+    {
+      "title": "Abram Food IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/382470/SME_IPO%20Open/1%20Abram%20Prospectus_20250618184454.pdf",
+      "text": "Abram Food IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Brij Bhushan, Ms. Mona Singhal and Mr. Arpit Gupta are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Abram Food Ltd.",
+    "address": "605, Pearl Business Park,, Nr. Fun Cinema, Netaji Subhash Place,, Pitampura,, New Delhi, ,, New Delhi, , 110034, Phone, :, Email, :, Website, :",
+    "phone": "+91-9983433244",
+    "email": "compliance@abramfood.in",
+    "website": "http://www.abramfood.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "afl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2009, Abram Food Limited is engaged in the manufacturing and trading of Chana Dal, Flour (Chakki Atta), Besan, Multi multi-grain atta, Maida, Sooji, Spices, Cattle Feed (khali), and edible oils. The Company markets and sells its product range in Rajasthan, Delhi/NCR, and Uttar Pradesh under the brand name \"Kherliwala\" through a network of distributors. The company provides Chana Dal, Atta, Besan, Chana Churi, and Cattle Feed (Khal) in bulk (30-50 kg packaging) to distributors, who sell them in loose quantities at retail outlets. The company processes products like chana dal, flour, spices, besan, and cattle feed without artificial preservatives or chemicals, ensuring quality and freshness at every step, from procurement to packaging. The company offers a range of flours, including Rajasthan Royal Besan, Maida, Suji, Chakki Fresh Atta, and Multi Grain Atta, along with various oils and spices. The company operates a manufacturing facility at B-34, Matsya Industrial Area, Alwar, Rajasthan, covering 3000 sq. meters, equipped for efficient cleaning, drying, grinding, and packaging to serve Rajasthan and Delhi/NCR. Product Portfolio: Rajasthan Royal Besan, Rajasthan Royal Chakki Fresh Aata, Rajasthan Royal Maida, Rajasthan Royal chilli Powder, etc. As of November 30, 2024, the company has 15 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Corporate Makers Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/440/",
+      "title": "About Corporate Makers Capital Ltd."
+    }
+  ],
+  "listing_gain_percent": "-7.76%"
+}

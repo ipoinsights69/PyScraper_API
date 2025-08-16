@@ -1,0 +1,468 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 31, 2025 to August 4, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹130 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "46,76,000shares(aggregating up to ₹60.79Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,59,000shares(aggregating up to ₹3.37Cr)Prabhat Financial Services Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "42,10,000shares(aggregating up to ₹54.73Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "2,07,000shares of ₹10(aggregating up to ₹2.69Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "44,17,000shares(aggregating up to ₹57.42Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,31,76,800shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,76,45,800shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,59,000 (5.54%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "22,04,000 (47.13%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "13,22,000 (28.27%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "8,82,000 (18.86%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,63,000 (14.18%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "4,42,000 (9.45%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,21,000 (4.73%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "15,50,000 (33.15%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "46,76,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 30, 2025"
+    ],
+    [
+      "Shares Offered",
+      "13,22,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "17.19"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 3, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 4, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,60,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,60,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,000",
+      "Amount": "₹3,90,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "7,000",
+      "Amount": "₹9,10,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "8,000",
+      "Amount": "₹10,40,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "78.21%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "57.23%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "94.39",
+      "93.36",
+      "76.33"
+    ],
+    [
+      "Total Income",
+      "142.18",
+      "97.77",
+      "81.31"
+    ],
+    [
+      "Profit After Tax",
+      "17.68",
+      "9.22",
+      "5.15"
+    ],
+    [
+      "EBITDA",
+      "20.67",
+      "8.81",
+      "5.42"
+    ],
+    [
+      "Net Worth",
+      "55.98",
+      "23.59",
+      "14.37"
+    ],
+    [
+      "Reserves and Surplus",
+      "42.80",
+      "17.59",
+      "14.27"
+    ],
+    [
+      "Total Borrowing",
+      "0.18",
+      "0.45",
+      "5.06"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "44.43%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "41.55%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "44.43%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "12.69%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.84%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.61"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "13.41",
+      "Post IPO": "10.02"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.69",
+      "Post IPO": "12.98"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Investment in Technology",
+      "Expected Amount(₹ in crores)": "5.31"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Capital expenditure",
+      "Expected Amount(₹ in crores)": "5.97"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding the Working Capital requirement",
+      "Expected Amount(₹ in crores)": "33.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Coporate Purposes",
+      "Expected Amount(₹ in crores)": "8.58"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "CUDML"
+    ],
+    [
+      "ISIN",
+      "INE0WL201014"
+    ],
+    [
+      "Final Issue Price",
+      "₹130 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹130.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹155.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹147.25"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹160.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹157.45"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "76.19",
+      "Shares Offered": "8,82,000",
+      "Shares bid for": "6,72,02,000",
+      "Total Application": "51"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "135.23",
+      "Shares Offered": "6,63,000",
+      "Shares bid for": "8,96,57,000",
+      "Total Application": "14,405"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "160.41",
+      "Shares Offered": "4,44,000",
+      "Shares bid for": "7,12,24,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "84.17",
+      "Shares Offered": "2,19,000",
+      "Shares bid for": "1,84,33,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "62.41",
+      "Shares Offered": "15,50,000",
+      "Shares bid for": "9,67,40,000",
+      "Total Application": "48,370"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "81.94",
+      "Shares Offered": "30,95,000",
+      "Shares bid for": "25,35,99,000",
+      "Total Application": "62,826"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Cash Ur Drive Marketing IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/aartic_05032025145626_CUD_DRHP.pdf",
+      "text": "Cash Ur Drive Marketing IPODRHP"
+    },
+    {
+      "title": "Cash Ur Drive Marketing IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_CUDML.zip",
+      "text": "Cash Ur Drive Marketing IPORHP"
+    },
+    {
+      "title": "Cash Ur Drive Marketing IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/CashUrDriveMarketingLimited_PROSP.pdf",
+      "text": "Cash Ur Drive Marketing IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Raghu Khanna, Ms. Parveen K Khanna and Mr. Bhupinder Kumar Khanna.",
+  "company_contact_details": {
+    "company_name": "Cash Ur Drive Marketing Ltd.",
+    "address": "4 th Floor,, SCO0032, Sector17C, Chandigarh, ,, Chandigarh, , 160017, Phone, :, Email, :, Website, :",
+    "phone": "+91 7011293001",
+    "email": "cs@cashurdrive.net",
+    "website": "https://www.cashurdrive.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in July 2009, Cash Ur Drive Marketing Limited specializes in outdoor advertising, focusing on vehicle wrap advertising as mobile billboards. The company provides a 360-degree marketing solution across transit media, digital wall paintings, and events, aiming for impactful branding through vehicle-based media in multiple Indian cities. The company is an OOH advertising firm offering diverse solutions like Transit, Outdoor, Print, and Digital Media Services, helping clients reach their target audience. The company offers bus branding, auto hood ads, billboard campaigns, and outdoor media solutions. The company also advertise EV vehicles and charging stations to leverage growth in the electric vehicle industry. The company has branches in Chandigarh, Lucknow, Mumbai, and Noida. Service Offers: As of June 30, 2025, the company employed 87 individuals on a payroll basis and three on a contract basis. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Narnolia Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/185/",
+      "title": "About Narnolia Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "19.23%"
+}

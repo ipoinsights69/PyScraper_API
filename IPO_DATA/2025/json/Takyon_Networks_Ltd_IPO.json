@@ -1,0 +1,459 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 30, 2025 to August 1, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹54 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "37,92,000shares(aggregating up to ₹20.48Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,92,000shares(aggregating up to ₹1.04Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "36,00,000shares(aggregating up to ₹19.44Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,05,30,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,43,22,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,92,000 (5.06%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "17,82,000 (46.99%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "10,68,000 (28.16%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "7,14,000 (18.83%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,46,000 (14.40%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "3,60,000 (9.49%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,86,000 (4.91%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,72,000 (33.54%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "37,92,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 29, 2025"
+    ],
+    [
+      "Shares Offered",
+      "10,68,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "5.77"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 3, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 1, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,16,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,16,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "6,000",
+      "Amount": "₹3,24,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "9",
+      "Shares": "18,000",
+      "Amount": "₹9,72,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "10",
+      "Shares": "20,000",
+      "Amount": "₹10,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.52%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "85.70",
+      "72.83",
+      "69.67"
+    ],
+    [
+      "Total Income",
+      "103.48",
+      "108.25",
+      "63.97"
+    ],
+    [
+      "Profit After Tax",
+      "6.96",
+      "5.22",
+      "2.81"
+    ],
+    [
+      "EBITDA",
+      "12.20",
+      "10.05",
+      "5.19"
+    ],
+    [
+      "Net Worth",
+      "35.22",
+      "28.27",
+      "22.86"
+    ],
+    [
+      "Reserves and Surplus",
+      "24.69",
+      "24.76",
+      "19.35"
+    ],
+    [
+      "Total Borrowing",
+      "12.08",
+      "18.37",
+      "18.64"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "21.92%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "24.43%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.34"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "19.75%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.75%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "11.83%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.01"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.61",
+      "Post IPO": "4.86"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "8.17",
+      "Post IPO": "11.12"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To Meet Working Capital requirements",
+      "Expected Amount(₹ in crores)": "10.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment of a portion of certain borrowing availed by the Company",
+      "Expected Amount(₹ in crores)": "3.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "4.86"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544471"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE14OX01013"
+    ],
+    [
+      "Final Issue Price",
+      "₹54 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "MT"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹54.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹55.85"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹53.06"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹58.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹55.72"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "13.29",
+      "Shares Offered": "7,14,000",
+      "Shares bid for": "94,86,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "37.00",
+      "Shares Offered": "5,46,000",
+      "Shares bid for": "2,02,04,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "45.19",
+      "Shares Offered": "3,60,000",
+      "Shares bid for": "1,62,68,000",
+      "Total Application": "7,865"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "22.19",
+      "Shares Offered": "1,86,000",
+      "Shares bid for": "41,28,000",
+      "Total Application": "7,865"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "19.99",
+      "Shares Offered": "12,72,000",
+      "Shares bid for": "2,54,32,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "21.77",
+      "Shares Offered": "25,32,000",
+      "Shares bid for": "5,51,22,000",
+      "Total Application": "7,865"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Takyon Networks IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/310216/DRHP_Takyon_24092024_20240924231249.pdf",
+      "text": "Takyon Networks IPODRHP"
+    },
+    {
+      "title": "Takyon Networks IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/takyon-networks-limited_95846.html",
+      "text": "Takyon Networks IPORHP"
+    },
+    {
+      "title": "Takyon Networks IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/310216/SME_IPO%20BasisOfAllotment/Prospectus_TNL_04082025_20250804155510.pdf",
+      "text": "Takyon Networks IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Manish Kumar Sharma and Neeraj Kumar are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Takyon Networks Ltd.",
+    "address": "CP 37,, Viraj Khand,, Gomti Nagar,, Lucknow, ,, Uttar Pradesh, , 226010, Phone, :, Email, :, Website, :",
+    "phone": "+91-0522-6656617",
+    "email": "cs@takyon.co.in",
+    "website": "https://takyon.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Cameo Corporate Services Ltd.",
+    "phone": "+91-44-28460390",
+    "email": "ipo@cameoindia.com",
+    "website": "https://ipo.cameoindia.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2009, Takyon Networks Limited is engaged in the business of IT solutions provider specializing in digital transformation services. The company offers a comprehensive range of services, including IT infrastructure, system integration, video conferencing, surveillance and security, network security, power conditioning, and customized software solutions. The company has expanded its operations, with branch offices in Delhi and Kolkata, serving a diverse clientele across sectors such as government, education, banking, railways, defense, telecom, healthcare, hospitality, manufacturing, media, and corporate enterprises. Services: As on June 30, 2025, the company has 533 employees on payroll. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "3.43%"
+}

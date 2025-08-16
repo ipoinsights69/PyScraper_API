@@ -1,0 +1,506 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 4, 2025 to August 6, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹170 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "29,24,800shares(aggregating up to ₹49.72Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,46,400shares(aggregating up to ₹2.49Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "27,78,400shares(aggregating up to ₹47.23Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹8.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,07,43,155shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,36,67,955shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,46,400 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "13,53,600 (46.28%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,12,000 (27.76%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,41,600 (18.52%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,07,200 (13.92%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,71,200 (9.27%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,36,000 (4.65%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,48,800 (32.44%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "68,800 (2.35%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "29,24,800 (100.00%)"
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only Individual investor (retail)",
+      "Bidding Limits": "2 lots"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Bidding Limits": "3 lots - 7 lots"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Bidding Limits": "8 lots and above"
+    },
+    {
+      "Application Category": "Only employee",
+      "Bidding Limits": "2 lots - 3 lots"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Bidding Limits": "1.Employee limit: 2 lots - 3 lotsAND2.If applying as RII: 2 lotsOR2.If applying as sNII: 3 lots - 7 lotsOR2.If applying as bNII: 8 lots and above"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 1, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,12,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "13.80"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 6, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 5, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 6, 2025"
+    ]
+  ],
+  "8": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,72,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,72,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹4,08,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "5,600",
+      "Amount": "₹9,52,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "6,400",
+      "Amount": "₹10,88,000"
+    },
+    {
+      "Application": "Employee (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,72,000"
+    },
+    {
+      "Application": "Employee (Max)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹4,08,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "79.60%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "62.57%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "106.76",
+      "66.53",
+      "50.70"
+    ],
+    [
+      "Total Income",
+      "176.20",
+      "87.17",
+      "65.70"
+    ],
+    [
+      "Profit After Tax",
+      "10.12",
+      "4.61",
+      "2.45"
+    ],
+    [
+      "EBITDA",
+      "17.53",
+      "9.05",
+      "4.31"
+    ],
+    [
+      "Net Worth",
+      "40.59",
+      "14.50",
+      "9.58"
+    ],
+    [
+      "Reserves and Surplus",
+      "30.57",
+      "13.25",
+      "8.64"
+    ],
+    [
+      "Total Borrowing",
+      "33.33",
+      "15.84",
+      "8.43"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "24.92%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "23.38%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.82"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "24.92%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.79%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "10.04%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.13"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.42",
+      "Post IPO": "7.40"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.05",
+      "Post IPO": "22.97"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Establishing GIS manufacturing facility in Gujarat",
+      "Expected Amount(₹ in crores)": "20.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Establishing manufacturing facility in Odisha",
+      "Expected Amount(₹ in crores)": "19.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment of Short Term Borrowings",
+      "Expected Amount(₹ in crores)": "15.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "1.79"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "PARTH"
+    ],
+    [
+      "ISIN",
+      "INE1H7V01011"
+    ],
+    [
+      "Final Issue Price",
+      "₹170 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹170.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹174.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹169.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹182.70"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹182.70"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "17.65",
+      "Shares Offered": "5,41,600",
+      "Shares bid for": "95,58,400",
+      "Total Application": "24"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "43.93",
+      "Shares Offered": "4,07,200",
+      "Shares bid for": "1,78,86,400",
+      "Total Application": "3,467"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "52.99",
+      "Shares Offered": "2,71,200",
+      "Shares bid for": "1,43,72,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "25.84",
+      "Shares Offered": "1,36,000",
+      "Shares bid for": "35,14,400",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "20.28",
+      "Shares Offered": "9,48,800",
+      "Shares bid for": "1,92,40,000",
+      "Total Application": "12,025"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "23.77",
+      "Shares Offered": "19,66,400",
+      "Shares bid for": "4,67,44,800",
+      "Total Application": "15,549"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Parth Electricals IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_27032025230813_DRHP.pdf",
+      "text": "Parth Electricals IPODRHP"
+    },
+    {
+      "title": "Parth Electricals IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/ParthElectricals&EngineeringLimited_RHP.pdf",
+      "text": "Parth Electricals IPORHP"
+    },
+    {
+      "title": "Parth Electricals IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/ParthElectricals&EngineeringLimited_PROSP.pdf",
+      "text": "Parth Electricals IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the company are Jigneshkumar Gordhanbhai Patel and Jemini Jigneshkumar Patel.",
+  "company_contact_details": {
+    "company_name": "Parth Electricals & Engineering Ltd.",
+    "address": "301, Riddhi-Siddhi Elanza,, Near Dominos,, Subhanpura, Vadodara, ,, Gujarat, , 390023, Phone, :, Email, :, Website, :",
+    "phone": "0265  2291922",
+    "email": "cs@parthelectricals.in",
+    "website": "http://www.parthelectricals.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "peel.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Established in May 2007, Parth Electricals and Engineering Limited is a service-oriented firm evolved into a manufacturing entity specializing in electrical equipment. The company offers products such as Medium Voltage (MV) switchgear panels, Vacuum Circuit Breaker (VCB) panels, Earth Link Boxes, Control and Relay Panels (CRP), and Compact Substations (CSS). It also offers installation, testing, commissioning, and turnkey execution for Air Insulated Substations (AIS) and Gas Insulated Substations (GIS) up to 220kV, along with High Voltage (HV) and Extra High Voltage (EHV) cable laying projects. The company's Clientele includes Aditya Birla, Ultratech Cement, L&T, RIL, Adani, Tata Power, Schneider Electric, BHEL, Tata Steel, Siemens, GFL, Jindal Steel & Power and many more. The company's manufacturing facility is situated in Manjusar, Vadodara. The company is ISO 9001:2015, 14001, and 45001 certified, reflecting its commitment to quality management, environmental management, and occupational health and safety standards. The company has served various industries, including power distribution, infrastructure, and industrial manufacturing. It has worked with leading clients like ABB, Reliance, and other major corporations. The company has expanded its operations globally, exporting products and services to international markets. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Horizon Management Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/406/",
+      "title": "About Horizon Management Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "2.35%"
+}

@@ -1,0 +1,405 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 3, 2025 to January 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 10, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹85 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "32,64,000shares(aggregating up to ₹27.74Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,64,800shares(aggregating up to ₹1.40Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "30,99,200shares(aggregating up to ₹26.34Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "90,55,362shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,23,19,362shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,64,800 (7.05%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "15,47,200 (66.23%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "9,28,000 (39.73%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "6,19,200 (26.51%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,65,600 (19.93%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,86,400 (46.51%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "23,36,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 2, 2025"
+    ],
+    [
+      "Shares Offered",
+      "9,28,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.89"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "February 8, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 8, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jan 3, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jan 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jan 8, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jan 9, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jan 10, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 7, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,36,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,36,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,72,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "93.07%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "9,438.96",
+      "8,911.75",
+      "8,057.67",
+      "8,187.62"
+    ],
+    [
+      "Total Income",
+      "6,222.89",
+      "9,799.26",
+      "12,510.15",
+      "11,394.85"
+    ],
+    [
+      "Profit After Tax",
+      "540.18",
+      "578.46",
+      "796.28",
+      "360.02"
+    ],
+    [
+      "Net Worth",
+      "6,187.78",
+      "5,145.17",
+      "4,530.25",
+      "3,734.76"
+    ],
+    [
+      "Reserves and Surplus",
+      "5,299.93",
+      "4,886.69",
+      "4,275.41",
+      "3,479.13"
+    ],
+    [
+      "Total Borrowing",
+      "320.03",
+      "574.63",
+      "566.46",
+      "850.18"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "11.96%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "15.83%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.11"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "11.95%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.90%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.38"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.39",
+      "Post IPO": "8.77"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.31",
+      "Post IPO": "9.69"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 10, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544332"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0HSD01011"
+    ],
+    [
+      "Final Issue Price",
+      "₹85 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹85.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹161.50"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹161.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹169.57"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹169.57"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "224.5",
+      "Shares Offered": "6,19,200",
+      "Shares bid for": "13,90,08,000",
+      "Total Application": "120"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1,485.52",
+      "Shares Offered": "4,65,600",
+      "Shares bid for": "69,16,56,000",
+      "Total Application": "33,343"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "715.05",
+      "Shares Offered": "10,86,400",
+      "Shares bid for": "77,68,32,000",
+      "Total Application": "4,85,597"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "740.37",
+      "Shares Offered": "21,71,200",
+      "Shares bid for": "1,60,74,96,000",
+      "Total Application": "7,56,010"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Fabtech Technologies IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/sep-2024/fabtech-technologies-limited_86808.html",
+      "text": "Fabtech Technologies IPODRHP"
+    },
+    {
+      "title": "Fabtech Technologies IPO RHP",
+      "href": "https://www.bsesme.com/download/301133/SME_IPO%20Open/Annexure%20I%20Fabtech%20Technologies%20Cleanrooms%20Limited%20-%20Red%20Herring%20Prospectus%20-%2026122024_20241227181001.pdf",
+      "text": "Fabtech Technologies IPORHP"
+    },
+    {
+      "title": "Fabtech Technologies IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/301133/SME_IPO%20BasisOfAllotment/Fabtech%20Technologies%20Cleanrooms%20Limited%20-%20Prospectus%20-%2007012025_20250108150753.pdf",
+      "text": "Fabtech Technologies IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Aasif Ahsan Khan, Aarif Ahsan Khan, Hemant Mohan Anavkar and Manisha Hemant Anavkar are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Fabtech Technologies Cleanrooms Ltd.",
+    "address": "615, Janki Center,, Off. Veera Desai Road,, Andheri West, Mumbai, ,, Maharashtra, , 400053, Phone, :, Email, :, Website, :",
+    "phone": "+91-22 4514 5321",
+    "email": "secretarial@fabtechnologies.com",
+    "website": "https://fabtechcleanroom.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 2015, Fabtech Technologies Cleanrooms Limited manufactures pre-engineered and pre-fabricated modular panels and doors for building cleanrooms in the pharmaceutical, healthcare, and biotech sectors. The company is an end-to-end supplier of cleanroom products and technology for plants. Itsproductrange includescleanroom panels, view panels, doors, ceiling panels, covings,HVAC systems, andelectrification works, tailored to plant designs and requirements. The Company has extensive experience in designing, manufacturing, and installing cleanrooms for various industries with necessary after sales service support. The company’s manufacturing facility is located in Umbergaon, Valsad, Gujarat, covering 70,000 sq. ft., equipped with high-performing machinery for cleanroom partition production. Through its subsidiary, Altair Partition Systems LLP, the company manufactures modular panels of economical grade. Altair’s facility, located in Murbad, Thane, spans 25,000 sq. ft. and is leased. As of November 30, 2024, The Company has 117 permanent employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Vivro Financial Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/62/",
+      "title": "About Vivro Financial Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

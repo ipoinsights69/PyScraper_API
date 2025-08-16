@@ -1,0 +1,360 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 25, 2025 to February 28, 2025"
+    ],
+    [
+      "Listing Date",
+      "March 5, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹44 per share"
+    ],
+    [
+      "Lot Size",
+      "3,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "53,10,000shares(aggregating up to ₹23.36Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,82,000shares(aggregating up to ₹1.24Cr)Pure Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "50,28,000shares(aggregating up to ₹22.12Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,43,44,200shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,96,54,200shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,82,000 (5.31%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "25,14,000 (47.34%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "25,14,000 (47.34%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "53,10,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Feb 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Feb 28, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Mar 3, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Mar 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Mar 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Mar 5, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 28, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "3,000",
+      "Amount": "₹1,32,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "3,000",
+      "Amount": "₹1,32,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,64,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.98%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "62.25",
+      "60.34",
+      "50.95",
+      "30.82"
+    ],
+    [
+      "Total Income",
+      "78.62",
+      "189.67",
+      "206.7",
+      "141.75"
+    ],
+    [
+      "Profit After Tax",
+      "2.41",
+      "4.39",
+      "4.38",
+      "1.34"
+    ],
+    [
+      "Net Worth",
+      "21.34",
+      "18.93",
+      "10.54",
+      "5.65"
+    ],
+    [
+      "Reserves and Surplus",
+      "6.99",
+      "4.59",
+      "9.8",
+      "4.97"
+    ],
+    [
+      "Total Borrowing",
+      "31.37",
+      "28.89",
+      "25.01",
+      "16.73"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "23.19%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "19.32%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "23.19%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "2.36%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.33"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.06",
+      "Post IPO": "1.63"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "14.37",
+      "Post IPO": "26.97"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "March 5, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544372"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0RXS01018"
+    ],
+    [
+      "Final Issue Price",
+      "₹44 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹44.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹35.20"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹33.44"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹35.20"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹33.44"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "0.52",
+      "Shares Offered": "25,14,000",
+      "Shares bid for": "13,17,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "3.18",
+      "Shares Offered": "25,14,000",
+      "Shares bid for": "80,04,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.85",
+      "Shares Offered": "50,28,000",
+      "Shares bid for": "93,21,000",
+      "Total Application": "3,936"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Shreenath Paper Products IPO DRHP",
+      "href": "https://www.bsesme.com/download/305180/Shreenath_30.04.2024_20240507114117.pdf",
+      "text": "Shreenath Paper Products IPODRHP"
+    },
+    {
+      "title": "Shreenath Paper Products IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/SHREENATH%20PAPER%20PRODUCTS%20LIMITED%20-%20PROSPECTUS%20&%20GID_200220251251.zip",
+      "text": "Shreenath Paper Products IPORHP"
+    },
+    {
+      "title": "Shreenath Paper Products IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/305180/SME_IPO%20Open/SHREENATH%20PAPER%20PRODUCTS%20LIMITED%20PROSPECTUS%2017022025_20250218182319.pdf",
+      "text": "Shreenath Paper Products IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Alok Parekh, Ronak Parekh, Navneetdas Parekh, Hasumati Navneetdas Parekh, Harish Parekh, Hasumati Harish Parekh, Neha Parekh and Sayali Parekh are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Shreenath Paper Products Ltd.",
+    "address": "Shop no. 5, Plot no.136, N-1,, Masco Corner API Road,, Cidco, Aurangabad, ,, Maharashtra, , 431003, Phone, :, Email, :, Website, :",
+    "phone": "+91 0240-2489888",
+    "email": "info@shreenathpaper.com",
+    "website": "https://shreenathpaper.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2011, Shreenath Paper Products Limited is engaged in offering supply chain solutions to industries that use paper materials such as coated, food-grade, machine-glazed, and adhesive papers in their manufacturing processes. The company supplies various papers, including sublimation base paper, thermal base paper, straw paper, cup stock paper, security PSA sheets, high-strength paper, C2S and C1S papers, and more. The company understands client needs, defines specifications, sources specialized manufacturers, tests samples, procures materials in desired quantities, and supplies paper in various grades made from recycled paper, bagasse, and virgin pulp. The company supplies paper products used in industries such as FMCG, textiles, pharmaceuticals, packaging, food & beverages, e-commerce, and more, primarily in Maharashtra, Gujarat, and Madhya Pradesh. Product Portfolio: Sublimation Base Paper, Thermal Base Paper, Straw Paper, Cone Sleeve, Cup Stock, ARSR etc. As of December 31, 2024, the company had 9 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Galactico Corporate Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/178/",
+      "title": "About Galactico Corporate Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

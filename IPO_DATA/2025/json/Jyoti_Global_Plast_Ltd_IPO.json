@@ -1,0 +1,472 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 4, 2025 to August 6, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹66 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "53,70,000shares(aggregating up to ₹35.44Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,70,000shares(aggregating up to ₹1.78Cr)LFC Securities Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "40,50,000shares(aggregating up to ₹26.73Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "10,50,000shares of ₹10(aggregating up to ₹6.93Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "51,00,000shares(aggregating up to ₹33.66Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,55,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,98,20,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,70,000 (5.03%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "25,44,000 (47.37%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "15,24,000 (28.38%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "10,20,000 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,68,000 (14.30%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "5,10,000 (9.50%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,58,000 (4.80%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "17,88,000 (33.30%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "53,70,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 1, 2025"
+    ],
+    [
+      "Shares Offered",
+      "15,24,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "10.06"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 6, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 5, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 6, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,64,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,64,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "6,000",
+      "Amount": "₹3,96,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "14,000",
+      "Amount": "₹9,24,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "16,000",
+      "Amount": "₹10,56,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.91%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "56.81",
+      "51.84",
+      "43.54"
+    ],
+    [
+      "Total Income",
+      "93.80",
+      "87.96",
+      "89.35"
+    ],
+    [
+      "Profit After Tax",
+      "6.08",
+      "3.62",
+      "2.32"
+    ],
+    [
+      "EBITDA",
+      "11.66",
+      "7.75",
+      "5.82"
+    ],
+    [
+      "Net Worth",
+      "21.34",
+      "15.26",
+      "11.65"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.84",
+      "14.76",
+      "11.15"
+    ],
+    [
+      "Total Borrowing",
+      "25.31",
+      "28.95",
+      "23.84"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "33.22%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "22.35%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.19"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "28.49%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.50%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.47%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.79"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.92",
+      "Post IPO": "3.07"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "16.82",
+      "Post IPO": "21.51"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Part finance the cost of establishing new manufacturing facility to expand the production capabilities at Plot No. D-61/2, MIDC, Mahad, District Raigad-402309, Maharashtra, India (“Proposed new facility”)",
+      "Expected Amount(₹ in crores)": "11.17"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding capital expenditure requirements of the Company towards set up of Solar Power Plant",
+      "Expected Amount(₹ in crores)": "9.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment and/or pre-payment, in part or full, of certain borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "1.20"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "4.27"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "JYOTIGLOBL"
+    ],
+    [
+      "ISIN",
+      "INE1M3T01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹66 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹66.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹65.90"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹62.60"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹67.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹65.80"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.86",
+      "Shares Offered": "10,22,000",
+      "Shares bid for": "19,00,000",
+      "Total Application": "3"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "14.70",
+      "Shares Offered": "7,66,000",
+      "Shares bid for": "1,12,62,000",
+      "Total Application": "677"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "17.76",
+      "Shares Offered": "5,10,000",
+      "Shares bid for": "90,58,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "8.61",
+      "Shares Offered": "2,56,000",
+      "Shares bid for": "22,04,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "9.54",
+      "Shares Offered": "17,88,000",
+      "Shares bid for": "1,70,64,000",
+      "Total Application": "4,266"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "8.45",
+      "Shares Offered": "35,76,000",
+      "Shares bid for": "3,02,26,000",
+      "Total Application": "4,946"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Jyoti Global Plast IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_01042025000156_DRHP_JyotiGlobalPlast.pdf",
+      "text": "Jyoti Global Plast IPODRHP"
+    },
+    {
+      "title": "Jyoti Global Plast IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_JYOTIGLOBL.zip",
+      "text": "Jyoti Global Plast IPORHP"
+    },
+    {
+      "title": "Jyoti Global Plast IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/JyotiGlobalPlastLimited_PROSP.pdf",
+      "text": "Jyoti Global Plast IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Bhawanji Khimji Shah, Hiren Bhawanji Shah, Deven Bhawanji Shah, Karan Deven Shah and Sainyum Hiren Shah.",
+  "company_contact_details": {
+    "company_name": "Jyoti Global Plast Ltd.",
+    "address": "R-554/555, TTC MIDC Area Rabale, Navi Mumbai, ,, Maharashtra, , 400701, Phone, :, Email, :, Website, :",
+    "phone": "+91 91521 53987",
+    "email": "info@jyotiglobalplast.com",
+    "website": "https://jyotiglobalplast.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "jyotiglobal.ipo@in.mpms.mufg.com",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in January 2004, Jyoti Global Plast Limited specialises in plastic molding solutions. The company specializes in plastic moulding, offering custom solutions for polymer-based packaging containers (like HDPE-PP products: drums, carboys, jerrycans, barrels, pails) and toys for industries such as pharmaceuticals, chemicals, food & beverage, oil, adhesives, and childcare. The company offers a diverse and innovative range of plastic molding products, catering to various industries. Their product portfolio includes: The company provides various products such as packaging containers, automotive parts, toys, and drone components. Their packaging solutions include HDPE drums, barrels, jerrycans, bottles, and pails, serving industries like pharmaceuticals, chemicals, food and beverages, lubricants, adhesives, and childcare. The company has two manufacturing units situated in Mumbai, Maharashtra, offering services to more than 1000 clients. The company serves a variety of industries, including paint, lubricants, chemicals, adhesives, food, oil, and toy components. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Unistone Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/176/",
+      "title": "About Unistone Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-0.15%"
+}

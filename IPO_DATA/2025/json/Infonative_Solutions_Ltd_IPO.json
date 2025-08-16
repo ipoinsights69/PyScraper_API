@@ -1,0 +1,435 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "March 28, 2025 to April 3, 2025"
+    ],
+    [
+      "Listing Date",
+      "April 8, 2025"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹79 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "31,28,000shares(aggregating up to ₹24.71Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,56,800shares(aggregating up to ₹1.24Cr)Share India Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "29,71,200shares(aggregating up to ₹23.47Cr)"
+    ],
+    [
+      "Retail Discount",
+      "Rs15.00per share"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "87,19,800shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,18,47,800shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,56,800 (5.28%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,04,000 (23.72%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "21,07,200 (71.00%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "29,68,000 (100.00%)"
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only NII",
+      "Maximum Bidding Limits": "Above Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only shareholder",
+      "Maximum Bidding Limits": "",
+      "Bidding at Cut-off Price Allowed": "Allowed only if bidding amount is upto Rs 2 lakhs"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + Shareholder",
+      "Maximum Bidding Limits": "Shareholder limit:Employee limit: . (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + Shareholder + RII/NII",
+      "Maximum Bidding Limits": "Shareholder limit:Employee limit:  (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/employee/RII"
+    },
+    {
+      "Application Category": "Shareholder + RII/NII",
+      "Maximum Bidding Limits": "Shareholder limit: Upto Rs. 2 lakhsIf applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/RII"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit:  (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for shareholder/RII"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Mar 28, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Apr 3, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Apr 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Apr 7, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Apr 7, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Apr 8, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onApril 3, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,26,400"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,26,400"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,52,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.13%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.28%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "18.2",
+      "14.37",
+      "13.53",
+      "10.54"
+    ],
+    [
+      "Total Income",
+      "11.42",
+      "18.08",
+      "20.95",
+      "18.63"
+    ],
+    [
+      "Profit After Tax",
+      "3.64",
+      "1.45",
+      "1.07",
+      "2.23"
+    ],
+    [
+      "Net Worth",
+      "13.75",
+      "10.11",
+      "8.66",
+      "7.59"
+    ],
+    [
+      "Reserves and Surplus",
+      "12.88",
+      "9.23",
+      "8.51",
+      "7.44"
+    ],
+    [
+      "Total Borrowing",
+      "1.71",
+      "1.97",
+      "2.49",
+      "0.46"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "15.46%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "18.60%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.19"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "15.46%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.20%"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "1.66",
+      "Post IPO": "6.15"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "47.5",
+      "Post IPO": "12.84"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To meet the expenses for development of new products, courses and new features in LMS and purchase of laptop",
+      "Expected Amount(₹ in crores)": "7.35"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "To meet the working capital requirements",
+      "Expected Amount(₹ in crores)": "5.01"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes and Unidentified Acquisitions",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "April 8, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544393"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE12IB01015"
+    ],
+    [
+      "Final Issue Price",
+      "₹79 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹79.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹63.20"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹60.04"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹63.20"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹60.04"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "18.57",
+      "Shares Offered": "1,60,000",
+      "Shares bid for": "29,71,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "2.15",
+      "Shares Offered": "7,04,001",
+      "Shares bid for": "15,13,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "4.25",
+      "Shares Offered": "21,07,200",
+      "Shares bid for": "89,61,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "4.53",
+      "Shares Offered": "29,71,201",
+      "Shares bid for": "1,34,46,400",
+      "Total Application": "7,078"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Infonative Solutions IPO DRHP",
+      "href": "https://www.bsesme.com/download/345798/sme_ipo/DRHP_30.09.2024%20Final_20240930195400.pdf",
+      "text": "Infonative Solutions IPODRHP"
+    },
+    {
+      "title": "Infonative Solutions IPO Addendum DRHP",
+      "href": "https://infonative.net/investor_relation/addendum_of_DRHP.pdf",
+      "text": "Infonative Solutions IPOAddendum DRHP"
+    },
+    {
+      "title": "Infonative Solutions IPO RHP",
+      "href": "https://www.bsesme.com/download/345798/SME_IPO%20Open/Infonative%20RHP_With%20QR%20Code_20250325112538.pdf",
+      "text": "Infonative Solutions IPORHP"
+    },
+    {
+      "title": "Infonative Solutions IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/345798/SME_IPO%20BasisOfAllotment/Prospectus-Final%20version-With%20QR_20250404173707.pdf",
+      "text": "Infonative Solutions IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Saurabh Kathuria, Mr. Abdur Rauf Rahmani, and Mr. Yogeshh Goel are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Infonative Solutions Ltd.",
+    "address": "107,, DLF South City Court,, Saket, New Delhi, ,, New Delhi, , 110017, Phone, :, Email, :, Website, :",
+    "phone": "011-45082517",
+    "email": "cs@infonativesolutions.com",
+    "website": "https://www.infonative.net/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "isl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2014, Infonative Solutions Ltd specializes in custom learning development solutions for corporate and educational sectors. The company focuses on developing and designing eLearning content, and services, including offering cloud-based learning management systems (LMS) and other related products. The company specializes in bespoke e-learning solutions, consulting, courseware, and off-the-shelf content, with expertise in LMS, instructional design, gamification, AR/VR-based content, and software simulations. The company provides cutting-edge e-learning delivery services to clients including Fortune 500 companies, Big 4 consulting firms, IT/ITES, education, and government agencies in industries like BFSI, consulting, and FMCG. Services: Products: As of March 31, 2024, and as of September 30, 2024, the company had a total strength of 154 and 157 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Share India Capital Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/162/",
+      "title": "About Share India Capital Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

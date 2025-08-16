@@ -1,0 +1,419 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 16, 2025 to June 18, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 23, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹120 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "58,00,800shares(aggregating up to ₹69.61Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,92,800shares(aggregating up to ₹3.51Cr)Mansi Share & Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "55,08,000shares(aggregating up to ₹66.10Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,60,20,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,15,28,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,92,800 (5.05%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "27,52,800 (47.46%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "16,51,200 (28.47%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,01,600 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,26,800 (14.25%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,28,400 (33.24%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "58,00,800 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 13, 2025"
+    ],
+    [
+      "Shares Offered",
+      "16,51,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "19.81"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 19, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 17, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 16, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jun 23, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 18, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,88,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.38%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.29%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "115.35",
+      "91.77",
+      "94.04"
+    ],
+    [
+      "Total Income",
+      "122.04",
+      "118.72",
+      "82.35"
+    ],
+    [
+      "Profit After Tax",
+      "11.70",
+      "7.84",
+      "4.20"
+    ],
+    [
+      "Net Worth",
+      "53.69",
+      "32.10",
+      "24.27"
+    ],
+    [
+      "Reserves and Surplus",
+      "37.67",
+      "27.06",
+      "19.23"
+    ],
+    [
+      "Total Borrowing",
+      "22.93",
+      "23.13",
+      "32.65"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "27.28%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "21.62%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.43"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "21.80%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.91%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.89%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.43"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.30",
+      "Post IPO": "5.36"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "16.43",
+      "Post IPO": "22.38"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of capital expenditure towards setup of new manufacturing facility",
+      "Expected Amount(₹ in crores)": "62.01"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment of a portion of certain borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "4.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 23, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "PATILAUTOM"
+    ],
+    [
+      "ISIN",
+      "INE17GV01016"
+    ],
+    [
+      "Final Issue Price",
+      "₹120 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹120.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹155.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹155.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹162.75"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹162.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "82.92",
+      "Shares Offered": "11,01,600",
+      "Shares bid for": "9,13,39,200",
+      "Total Application": "64"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "258.18",
+      "Shares Offered": "8,26,800",
+      "Shares bid for": "21,34,66,800",
+      "Total Application": "5,950"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "44.77",
+      "Shares Offered": "19,28,400",
+      "Shares bid for": "8,63,41,200",
+      "Total Application": "71,951"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "101.42",
+      "Shares Offered": "38,56,800",
+      "Shares bid for": "39,11,47,200",
+      "Total Application": "77,965"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Patil Automation IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_09012025184507_DRHP2025PAL.pdf",
+      "text": "Patil Automation IPODRHP"
+    },
+    {
+      "title": "Patil Automation IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/PatilAutomationLimited_RHP.pdf",
+      "text": "Patil Automation IPORHP"
+    },
+    {
+      "title": "Patil Automation IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/PatilAutomationLimited_PROSP.pdf",
+      "text": "Patil Automation IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Manoj Pandurang Patil, Aarti Manoj Patil and Prafulla Pandurang Patil.",
+  "company_contact_details": {
+    "company_name": "Patil Automation Ltd.",
+    "address": "Gat no. 154, behind G.E., Company, Village Sudumbre,, Tehsil Maval,, Pune, ,, Maharashtra, , 412109, Phone, :, Email, :, Website, :",
+    "phone": "+91-9168338383",
+    "email": "info@patilautomation.com",
+    "website": "https://patilautomation.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Purva Sharegistry (India) Pvt.Ltd.",
+    "phone": "+91-022-23018261",
+    "email": "newissue@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "about_company": {
+    "description": "Established in 2015, Patil Automation Limited specializes in welding and line automation solutions. The company has five operational facilities across India, including two in Pune, it offers comprehensive automation services such as welding lines, assembly lines, auto handling, gantries, production, and testing special-purpose machines. The company has acquired a total space of 460,000 sq. ft. for its operations. The company designs, manufactures, tests, and installs customized automation systems, including welding lines (spot, MIG, and TIG), assembly lines, and special-purpose machinery, tailored to clients' production needs. The company's product portfolio consists of the following- As of March 31, 2025, the company sold products in 10 Indian states: Maharashtra, Haryana, Karnataka, Gujarat, Madhya Pradesh, and Tamil Nadu. As of March 31, 2025, the company had 244 full-time employees and about 256 contract laborers. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Seren Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/450/",
+      "title": "About Seren Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "29.17%"
+}

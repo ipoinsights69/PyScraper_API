@@ -1,0 +1,477 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 29, 2025 to July 31, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 5, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹180 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "38,78,400shares(aggregating up to ₹69.81Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,94,400shares(aggregating up to ₹3.50Cr)Gretex Share Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "30,04,800shares(aggregating up to ₹54.09Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "6,79,200shares of ₹10(aggregating up to ₹12.23Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "36,84,000shares(aggregating up to ₹66.31Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,15,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,46,99,200shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,94,400 (5.01%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "15,55,200 (40.10%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "9,32,800 (24.05%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "6,22,400 (16.05%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,08,800 (20.85%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "5,39,200 (13.90%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,69,600 (6.95%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "13,20,000 (34.03%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "38,78,400 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 28, 2025"
+    ],
+    [
+      "Shares Offered",
+      "9,32,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "16.79"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 31, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 30, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 31, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,88,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,88,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹4,32,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "6",
+      "Shares": "4,800",
+      "Amount": "₹8,64,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "7",
+      "Shares": "5,600",
+      "Amount": "₹10,08,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "78.23%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "125.27",
+      "95.92",
+      "72.98"
+    ],
+    [
+      "Total Income",
+      "153.22",
+      "125.03",
+      "99.34"
+    ],
+    [
+      "Profit After Tax",
+      "16.90",
+      "11.31",
+      "5.59"
+    ],
+    [
+      "EBITDA",
+      "30.06",
+      "22.43",
+      "12.79"
+    ],
+    [
+      "Net Worth",
+      "50.07",
+      "33.55",
+      "21.14"
+    ],
+    [
+      "Reserves and Surplus",
+      "38.57",
+      "33.05",
+      "20.64"
+    ],
+    [
+      "Total Borrowing",
+      "38.15",
+      "35.51",
+      "27.01"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "40.43%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "33.25%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.76"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "33.76%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.06%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "19.68%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.13"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "14.70",
+      "Post IPO": "11.50"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.25",
+      "Post IPO": "15.65"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure for construction of additional warehouse facility in Amritsa",
+      "Expected Amount(₹ in crores)": "2.56"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding capital expenditure for construction of dedicated sales office in Amritsar;",
+      "Expected Amount(₹ in crores)": "3.73"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding capital expenditure towards purchase of advanced fabric processing system for our existing printing, dyeing and processing unit in Amritsar",
+      "Expected Amount(₹ in crores)": "5.01"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Funding the incremental working capital requirements; and",
+      "Expected Amount(₹ in crores)": "30.00"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 5, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "KAYTEX"
+    ],
+    [
+      "ISIN",
+      "INE13ZD01013"
+    ],
+    [
+      "Final Issue Price",
+      "₹180 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹180.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹144.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹136.80"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹151.20"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹150.60"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "31.16",
+      "Shares Offered": "6,22,400",
+      "Shares bid for": "1,93,93,600",
+      "Total Application": "31"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "43.19",
+      "Shares Offered": "8,08,800",
+      "Shares bid for": "3,49,35,200",
+      "Total Application": "8,319"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "33.93",
+      "Shares Offered": "7,33,600",
+      "Shares bid for": "2,48,92,000",
+      "Total Application": "47,825"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "37.97",
+      "Shares Offered": "2,69,600",
+      "Shares bid for": "1,02,37,600",
+      "Total Application": "47,825"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "47.85",
+      "Shares Offered": "13,20,000",
+      "Shares bid for": "6,31,60,000",
+      "Total Application": "39,475"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "42.70",
+      "Shares Offered": "27,51,200",
+      "Shares bid for": "11,74,88,800",
+      "Total Application": "47,825"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Kaytex Fabrics IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_17022025180634_DRHP_KaytexFabrics_Limited.pdf",
+      "text": "Kaytex Fabrics IPODRHP"
+    },
+    {
+      "title": "Kaytex Fabrics IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_KAYTEX.zip",
+      "text": "Kaytex Fabrics IPORHP"
+    },
+    {
+      "title": "Kaytex Fabrics IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/KaytexFabricsLimited_PROSP.pdf",
+      "text": "Kaytex Fabrics IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Individual Promoters of the company are Sanjeev Kandhari and Amit Kandhari.",
+  "company_contact_details": {
+    "company_name": "Kaytex Fabrics Ltd.",
+    "address": "Batala Road,, Post Office, Khanna Nagar, Amritsar, ,, Punjab, , 143001, Phone, :, Email, :, Website, :",
+    "phone": "01834009025",
+    "email": "investor@kaytexfabrics.com",
+    "website": "https://kaytexfabrics.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "investor@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in January 1996, Kaytex Fabrics Limited is a fast-fashion manufacturer that combines technology, creative design, and craftsmanship to deliver high-quality textiles. The company specializes in fabrics from diverse fibres like cotton, viscose, and polyester. The company offers quality fabrics, ready-to-stitch womenswear, and modern, trendy designs. The company sells its products under the brand names “Rasiya”, “Kaytex”, and “Darbaar-e-Khaas”. The company supplies quality fabrics, garments like ready-to-stitch suits and co-ord sets, and accessories such as shawls, scarves, and stoles for bulk buyers and retailers without specific branding. As of March 31, 2025, the company served 455, 447, and 497 customers in Fiscal years 2024, 2023, and 2025, respectively. Products: As of June 30, 2025, the company had 612 permanent employees and workers. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Socradamus Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/436/",
+      "title": "About Socradamus Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

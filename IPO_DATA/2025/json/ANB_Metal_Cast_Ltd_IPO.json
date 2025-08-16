@@ -1,0 +1,432 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 8, 2025 to August 12, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 18, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹156 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "32,00,000shares(aggregating up to ₹49.92Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,00,000shares(aggregating up to ₹3.12Cr)Pure Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "30,00,000shares(aggregating up to ₹46.80Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "86,34,780shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,18,34,780shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,00,000 (6.25%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "14,97,600 (46.80%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,98,400 (28.08%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,99,200 (18.73%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,51,200 (14.10%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "3,00,800 (9.40%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,50,400 (4.70%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,51,200 (32.85%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "32,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 7, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,98,400"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "14.02"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 12, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 11, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 12, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,49,600"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,49,600"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹3,74,400"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "6,400",
+      "Amount": "₹9,98,400"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "7,200",
+      "Amount": "₹11,23,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "91.49%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "98.05",
+      "63.58",
+      "44.02"
+    ],
+    [
+      "Total Income",
+      "162.64",
+      "112.15",
+      "84.28"
+    ],
+    [
+      "Profit After Tax",
+      "10.25",
+      "5.34",
+      "1.85"
+    ],
+    [
+      "EBITDA",
+      "17.47",
+      "10.71",
+      "3.15"
+    ],
+    [
+      "Net Worth",
+      "33.97",
+      "10.67",
+      "5.37"
+    ],
+    [
+      "Reserves and Surplus",
+      "25.33",
+      "7.67",
+      "2.37"
+    ],
+    [
+      "Total Borrowing",
+      "34.33",
+      "34.13",
+      "15.92"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "45.91%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "24.13%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.01"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "45.91%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.30%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "10.74%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.72"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.87",
+      "Post IPO": "8.66"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.15",
+      "Post IPO": "18.02"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirements for the proposed expansion in existing manufacturing facilities of our Company by constructing additional floor and installation of additional plant and machineries",
+      "Expected Amount(₹ in crores)": "13.70"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Part funding long-term working capital requirements",
+      "Expected Amount(₹ in crores)": "21.50"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 18, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "AMCL"
+    ],
+    [
+      "ISIN",
+      "INE0VG001016"
+    ],
+    [
+      "Final Issue Price",
+      "₹156 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB (Ex Anchor)",
+      "Subscription (times)": "1.04",
+      "Shares Offered": "5,99,200",
+      "Shares bid for": "6,24,800",
+      "Total Application": "3"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "4.29",
+      "Shares Offered": "2,51,200",
+      "Shares bid for": "10,78,400",
+      "Total Application": "198"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "6.29",
+      "Shares Offered": "1,00,800",
+      "Shares bid for": "6,33,600",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "2.96",
+      "Shares Offered": "1,50,400",
+      "Shares bid for": "4,44,800",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "2.39",
+      "Shares Offered": "10,51,200",
+      "Shares bid for": "25,16,800",
+      "Total Application": "1,573"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.22",
+      "Shares Offered": "19,01,600",
+      "Shares bid for": "42,20,000",
+      "Total Application": "1,774"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "ANB Metal Cast IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_06012025215320_ANB_DRHP_Final.pdf",
+      "text": "ANB Metal Cast IPODRHP"
+    },
+    {
+      "title": "ANB Metal Cast IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_AMCL.zip",
+      "text": "ANB Metal Cast IPORHP"
+    }
+  ],
+  "promoters": "The Promoter of the Company is Avnishkumar Dhirajlal Gajera.",
+  "company_contact_details": {
+    "company_name": "ANB Metal Cast Ltd.",
+    "address": "Riverwave Off. No 9, 8th Floor, Near Lords Pradhyuman,, Kalawad Road, Rajkot, ,, Gujarat, , 360005, Phone, :, Email, :, Website, :",
+    "phone": "98255 98259",
+    "email": "cs@anbmetalcast.com",
+    "website": "https://anbmetalcast.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "anb.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in March 2019, ANB Metal Cast Limited manufactures high-quality aluminum extrusions, including motor bodies, solar profiles, railings and sliding windows. The company caters to various industries, such as electronics, automotive, mechanical, solar, and architectural sectors. The company specialize in manufacturing a wide range of aluminium extrusion products, including motor bodies, various profiles, round bars, solar profiles, railings, and sliding windows. The company's manufacturing unit is located in Rajkot, Gujarat, spanning about 50,000 sq. ft., and is dedicated to the production of aluminum extrusions and non-ferrous metal alloys. The company offers aluminum products, including hardware items, railing and architectural solutions, engineering products, kitchen profiles, and aluminum extrusion products like channels, sections, flat bars and tubes. The company sells its products in Delhi, Gujarat, Haryana Karnataka, Maharashtra, Rajasthan and Tamil Nadu. Products: As of December 15, 2024, the company had 23 Employees. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Sun Capital Advisory Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/193/",
+      "title": "About Sun Capital Advisory Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

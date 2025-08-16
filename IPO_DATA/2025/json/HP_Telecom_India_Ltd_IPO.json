@@ -1,0 +1,366 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 20, 2025 to February 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 28, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹108 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "31,69,200shares(aggregating up to ₹34.23Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,59,600shares(aggregating up to ₹1.72Cr)Aftertrade Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "30,09,600shares(aggregating up to ₹32.50Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "87,45,510shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,19,14,710shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,59,600 (5.04%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "15,04,800 (47.48%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "15,04,800 (47.48%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "31,69,200 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Feb 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Feb 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Feb 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Feb 27, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Feb 27, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Feb 28, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,29,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,29,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,59,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.40%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "258.97",
+      "281.48",
+      "93.55",
+      "46.06"
+    ],
+    [
+      "Total Income",
+      "594.19",
+      "1,079.77",
+      "638.47",
+      "292.55"
+    ],
+    [
+      "Profit After Tax",
+      "5.24",
+      "8.6",
+      "6.35",
+      "2.13"
+    ],
+    [
+      "Net Worth",
+      "34.35",
+      "29.11",
+      "20.51",
+      "15.46"
+    ],
+    [
+      "Reserves and Surplus",
+      "25.61",
+      "20.37",
+      "14.68",
+      "9.63"
+    ],
+    [
+      "Total Borrowing",
+      "105.14",
+      "100.15",
+      "59.29",
+      "24.5"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "29.56%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "66.62%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "29.56%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "0.81%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.24"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.84",
+      "Post IPO": "8.79"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.98",
+      "Post IPO": "12.28"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 28, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "HPTL"
+    ],
+    [
+      "ISIN",
+      "INE0VA601019"
+    ],
+    [
+      "Final Issue Price",
+      "₹108 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹108.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹115.05"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹111.05"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹118.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹115.05"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.97",
+      "Shares Offered": "15,04,800",
+      "Shares bid for": "29,64,000",
+      "Total Application": "176"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.85",
+      "Shares Offered": "15,04,800",
+      "Shares bid for": "27,90,000",
+      "Total Application": "2,325"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.91",
+      "Shares Offered": "30,09,601",
+      "Shares bid for": "57,54,000",
+      "Total Application": "2,501"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "HP Telecom IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/HPTelecomIndiaLimited_DP.pdf",
+      "text": "HP Telecom IPODRHP"
+    },
+    {
+      "title": "HP Telecom IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/hp-telecom-india-limited_91821.html",
+      "text": "HP Telecom IPORHP"
+    },
+    {
+      "title": "HP Telecom IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/HPTelecomIndiaLimited_PROSP.pdf",
+      "text": "HP Telecom IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Vijay Lalsingh Yadav, Seemabahen Vijay Yadav and Bharatlal Lalsingh Singh.",
+  "company_contact_details": {
+    "company_name": "HP Telecom India Ltd.",
+    "address": "Plot No – 97, 01st Floor, Om Square, Near Ishwar Farm, BRTS, Canal Road, Bhatar, Althan, Surat, ,, Gujarat, , 395017, Phone, :, Email, :, Website, :",
+    "phone": "+91 9825309977",
+    "email": "compliancehptl@gmail.com",
+    "website": "https://www.hvciipl.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Founded in March 2011, HP Telecom India Limited initially concentrated on distributing mobile phones and accessories. The company secured exclusive distribution rights for Sony LED TVs, Mobiles, and other brands in Gujarat during the fiscal year 2014-15. It also expanded its product portfolio to include LCD/LED home theatres, air conditioners, and other appliances. Currently, HP Telecom is the exclusive distributor of Apple products in Madhya Pradesh, Chhattisgarh, select cities in Uttar Pradesh, and major urban centres in Gujarat. The company offer a range of Apple devices, including the iPhone, iPad, Mac, and Apple Watch, catering to tech-savvy consumers in these regions As of September 30, 2024, the company had 7 permanent employees and 84 employees on a contractual basis. Competitive Strength:",
+    "competitive_strengths": [
+      "Exclusive Distribution Rights",
+      "Strong Brand Reputation",
+      "Experienced and Visionary Leadership",
+      "Robust network and relationships with suppliers",
+      "Financial Stability and Resources."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Interactive Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/188/",
+      "title": "About Interactive Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "6.53%"
+}

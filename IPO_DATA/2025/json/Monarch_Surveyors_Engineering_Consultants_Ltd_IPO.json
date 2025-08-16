@@ -1,0 +1,459 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 22, 2025 to July 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 29, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹250 per share"
+    ],
+    [
+      "Lot Size",
+      "600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "37,50,000shares(aggregating up to ₹93.75Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,07,000shares(aggregating up to ₹5.18Cr)Spread X Securities Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "35,43,000shares(aggregating up to ₹88.58Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,04,06,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,41,56,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,07,000 (5.52%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "17,69,400 (47.18%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "10,61,400 (28.30%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "7,08,000 (18.88%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,32,800 (14.21%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "3,55,200 (9.47%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,77,600 (4.74%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,40,800 (33.09%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "37,50,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 21, 2025"
+    ],
+    [
+      "Shares Offered",
+      "10,61,400"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "26.54"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 24, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 23, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jul 22, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jul 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 24, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,200",
+      "Amount": "₹3,00,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,200",
+      "Amount": "₹3,00,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "1,800",
+      "Amount": "₹4,50,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "6",
+      "Shares": "3,600",
+      "Amount": "₹9,00,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "7",
+      "Shares": "4,200",
+      "Amount": "₹10,50,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "98.42%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.35%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "148.06",
+      "102.12",
+      "64.51"
+    ],
+    [
+      "Total Income",
+      "155.66",
+      "141.27",
+      "72.72"
+    ],
+    [
+      "Profit After Tax",
+      "34.83",
+      "30.01",
+      "8.59"
+    ],
+    [
+      "EBITDA",
+      "51.10",
+      "42.78",
+      "11.68"
+    ],
+    [
+      "Net Worth",
+      "108.80",
+      "73.97",
+      "43.96"
+    ],
+    [
+      "Reserves and Surplus",
+      "98.40",
+      "73.88",
+      "43.88"
+    ],
+    [
+      "Total Borrowing",
+      "14.29",
+      "12.96",
+      "8.37"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "32.01%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "39.59%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.13"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "32.01%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "22.60%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "33.15%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.39"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "33.47",
+      "Post IPO": "24.61"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "7.47",
+      "Post IPO": "10.16"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirement for purchase of machinery",
+      "Expected Amount(in Millions)": "319.89"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding Working Capital Requirement of the Company",
+      "Expected Amount(in Millions)": "300"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 29, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544453"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0V0L01028"
+    ],
+    [
+      "Final Issue Price",
+      "₹250 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹250.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹421.25"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹400.20"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹435.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹400.20"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "179.01",
+      "Shares Offered": "7,08,000",
+      "Shares bid for": "12,67,38,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "317.05",
+      "Shares Offered": "5,32,800",
+      "Shares bid for": "16,89,22,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "364.02",
+      "Shares Offered": "3,55,200",
+      "Shares bid for": "12,93,01,200",
+      "Total Application": "3,21,096"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "224.26",
+      "Shares Offered": "1,77,600",
+      "Shares bid for": "3,98,28,600",
+      "Total Application": "3,21,096"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "263.01",
+      "Shares Offered": "12,40,800",
+      "Shares bid for": "32,63,44,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "250.65",
+      "Shares Offered": "24,81,600",
+      "Shares bid for": "62,20,06,200",
+      "Total Application": "3,21,096"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Monarch Surveyors IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/369078/DRHP_Monarch_28.09.2024_20240928220829.pdf",
+      "text": "Monarch Surveyors IPODRHP"
+    },
+    {
+      "title": "Monarch Surveyors IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_180720251856.zip",
+      "text": "Monarch Surveyors IPORHP"
+    },
+    {
+      "title": "Monarch Surveyors IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/369078/SME_IPO%20BasisOfAllotment/Prospectus_20250725165522.pdf",
+      "text": "Monarch Surveyors IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Dattatraya Mohaniraj Karpe, Mr. Sanjay Bhalchandra Vidwans, Mr. Sunil Shrikrishna Bhalerao and Mr. Bhartesh Rajkumar Shah are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Monarch Surveyors & Engineering Consultants Ltd.",
+    "address": "Monarch House, CTS No. 434/1,, Near Kawade Petrol Pump,  Ghorpadi Gaon,, Hadapsar (N.V.), Haveli,, Pune, ,, Maharashtra, , 411036, Phone, :, Email, :, Website, :",
+    "phone": "+91 9766509911",
+    "email": "cs@monarchpune.in",
+    "website": "http://www.monarchconsultants.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1992, Monarch Surveyors & Engineering Consultants Limited is a civil engineering consultancy firm. The company offers comprehensive services spanning topographic surveys, project management consultancy, design and engineering, geotechnical investigations, land acquisition, GIS mapping, and feasibility studies. The company has successfully executed projects across various sectors, including railways, roads, ports, and oil & gas. The company provides consultancy services across infrastructure projects, including surveying, design, technical supervision, and land acquisition in roads, highways, railways, metros, and geospatial mapping, ensuring accurate and efficient project execution. Services: As of March 31, 2024, the company has a total 417 Employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "68.5%"
+}

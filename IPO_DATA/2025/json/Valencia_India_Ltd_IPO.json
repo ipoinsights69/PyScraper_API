@@ -1,0 +1,402 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 26, 2025 to June 30, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹110 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "44,49,600shares(aggregating up to ₹48.95Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,23,200shares(aggregating up to ₹2.46Cr)Aftertrade Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "37,76,400shares(aggregating up to ₹41.54Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "4,50,000shares of ₹10(aggregating up to ₹4.95Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "42,26,400shares(aggregating up to ₹46.49Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "90,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,29,99,600shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,23,200 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "4,22,400 (9.49%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "11,41,200 (25.65%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "26,62,800 (59.84%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "44,49,600 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 30, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,32,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,32,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,64,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "88.66%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "60%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "13.83",
+      "12.07",
+      "6.26",
+      "4.85"
+    ],
+    [
+      "Total Income",
+      "5.56",
+      "7.11",
+      "5.23",
+      "4.19"
+    ],
+    [
+      "Profit After Tax",
+      "1.54",
+      "1.94",
+      "0.56",
+      "0.25"
+    ],
+    [
+      "EBITDA",
+      "2.51",
+      "3.07",
+      "1.07",
+      "0.48"
+    ],
+    [
+      "Net Worth",
+      "10.48",
+      "9.21",
+      "1.27",
+      "0.71"
+    ],
+    [
+      "Reserves and Surplus",
+      "1.75",
+      "9.18",
+      "1.26",
+      "0.70"
+    ],
+    [
+      "Total Borrowing",
+      "1.15",
+      "1.47",
+      "3.49",
+      "2.17"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "37.07%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "28.36%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.16"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "21.08%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "43.15%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "10.75"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.16",
+      "Post IPO": "1.58"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "51.02",
+      "Post IPO": "69.63"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Development of 15 villas and club house",
+      "Expected Amount(₹ in crores)": "37.42"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544433"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE130701019"
+    ],
+    [
+      "Final Issue Price",
+      "₹110 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹110.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹88.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹83.60"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹88.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹83.60"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "2"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.28",
+      "Shares Offered": "4,22,400",
+      "Shares bid for": "5,38,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.22",
+      "Shares Offered": "11,41,200",
+      "Shares bid for": "13,90,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.31",
+      "Shares Offered": "26,62,800",
+      "Shares bid for": "34,94,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.28",
+      "Shares Offered": "42,26,400",
+      "Shares bid for": "54,24,000",
+      "Total Application": "3,048"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Valencia India IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/341151/DRHP_20241220230619.pdf",
+      "text": "Valencia India IPODRHP"
+    },
+    {
+      "title": "Valencia India IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/Price%20Band%20Advertisment_240620251028.pdf",
+      "text": "Valencia India IPORHP"
+    },
+    {
+      "title": "Valencia India IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/valencia-india-limited_95174.html",
+      "text": "Valencia India IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Keyur Patel is the promoter of the company.",
+  "company_contact_details": {
+    "company_name": "Valencia India Ltd.",
+    "address": "Unit No. 927, Gala Empire,, Opp. Doordarshan Tower, Drive In road,, Thaltej Road,, Ahmedabad, ,, Gujarat, , 380054, Phone, :, Email, :, Website, :",
+    "phone": "079-49258786",
+    "email": "cs@valenciaindia.in",
+    "website": "http://www.valenciaindia.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "vil.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2017, Valencia India Limited is a diversified business conglomerate with operations in India and overseas. The company has a significant presence in the real estate and construction industry, focusing on developing residential apartments, bungalows, malls, multiplexes, commercial spaces, and offices. In addition to real estate, Valencia India is actively involved in the export and import of food and non-food products globally, aiming to provide effective and reliable services across nations. The company also engages in trading FMCG, agro, and dairy commodities, particularly in the Middle East, and has established a presence in the hospitality and resort business. The club was leased to Valencia India Limited (formerly Valencia Country Club Pvt. Ltd.) in 2017 for operation and maintenance. No formal agreement existed between the company and Basil Buildcon Pvt. Ltd. In 2019, the company signed a 9-year Lease and License Agreement, including a 18-month lock-in period. The lease covers a 35,000 sq. ft. club building, villas, and associated areas like restaurants, gym, and spa. Apart from club facilities, the company organize a variety of events including pre-wedding functions, receptions, weddings, cocktail parties, family/group picnics, corporate picnics, birthday parties, and get-togethers. As on May 30, 2025, the company has total strength of 19 full time employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Interactive Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/188/",
+      "title": "About Interactive Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

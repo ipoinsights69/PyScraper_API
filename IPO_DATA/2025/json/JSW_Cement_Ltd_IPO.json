@@ -1,0 +1,501 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 7, 2025 to August 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹147 per share"
+    ],
+    [
+      "Lot Size",
+      "102 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "24,48,97,958shares(aggregating up to ₹3,600.00Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "10,88,43,537shares(aggregating up to ₹1,600.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "13,60,54,421shares of ₹10(aggregating up to ₹2,000.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,25,45,21,399shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,36,33,64,936shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "12,24,48,978 (50.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "7,34,69,386 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "4,89,79,592 (20.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "3,67,34,694 (15.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,44,89,796 (10.00%)",
+      "Maximum Allottees": "17,149"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,22,44,898 (5.00%)",
+      "Maximum Allottees": "8,574"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "8,57,14,286 (35.00%)",
+      "Maximum Allottees": "8,40,336"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "24,48,97,958 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "7,34,69,386"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "1,080.00"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 10, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 9, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 11, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "102",
+      "Amount": "₹14,994"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1,326",
+      "Amount": "₹1,94,922"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "1,428",
+      "Amount": "₹2,09,916"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "6,732",
+      "Amount": "₹9,89,604"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "6,834",
+      "Amount": "₹10,04,598"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "78.61%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.33%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "12,003.94",
+      "11,318.91",
+      "10,218.61"
+    ],
+    [
+      "Total Income",
+      "5,914.67",
+      "6,114.60",
+      "5,982.21"
+    ],
+    [
+      "Profit After Tax",
+      "-163.77",
+      "62.01",
+      "104.04"
+    ],
+    [
+      "EBITDA",
+      "815.32",
+      "1,035.66",
+      "826.97"
+    ],
+    [
+      "Net Worth",
+      "2,352.55",
+      "2,464.68",
+      "2,292.10"
+    ],
+    [
+      "Reserves and Surplus",
+      "1,287.31",
+      "1,399.06",
+      "1,296.66"
+    ],
+    [
+      "Total Borrowing",
+      "6,166.55",
+      "5,835.76",
+      "5,421.54"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "-6.90"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "7.05%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.98"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "-4.85%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "-2.77%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "13.78%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.16"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "-1.31",
+      "Post IPO": "-1.20"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "-112.61",
+      "Post IPO": "-122.38"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Part financing the cost of establishing a new integrated cement unit at Nagaur, Rajasthan",
+      "Expected Amount(₹ in crores)": "800.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Prepayment or repayment, in full or in part, of all or a portion of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "520.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "226.80"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544480"
+    ],
+    [
+      "NSE Symbol",
+      "JSWCEMENT"
+    ],
+    [
+      "ISIN",
+      "INE718I01012"
+    ],
+    [
+      "Final Issue Price",
+      "₹147 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹147.00",
+      "NSE": "₹147.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹153.00",
+      "NSE": "₹153.50"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹145.05",
+      "NSE": "₹145.05"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹154.70",
+      "NSE": "₹154.77"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹146.05",
+      "NSE": "₹146.07"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "7",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "2"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "16.71",
+      "Shares Offered": "4,89,79,594",
+      "Shares bid for": "81,86,50,266"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "11.60",
+      "Shares Offered": "3,67,34,694",
+      "Shares bid for": "42,62,50,350"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "13.29",
+      "Shares Offered": "2,44,89,796",
+      "Shares bid for": "32,53,54,194"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "8.24",
+      "Shares Offered": "1,22,44,898",
+      "Shares bid for": "10,08,96,156"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.91",
+      "Shares Offered": "8,57,14,286",
+      "Shares bid for": "16,39,34,400"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "8.22",
+      "Shares Offered": "17,14,28,574",
+      "Shares bid for": "1,40,88,35,016"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "JSW Cement IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2024/jsw-cement-limited_85982.html",
+      "text": "JSW Cement IPODRHP"
+    },
+    {
+      "title": "JSW Cement IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/jsw-cement-limited-rhp_95804.html",
+      "text": "JSW Cement IPORHP"
+    },
+    {
+      "title": "JSW Cement IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/jsw-cement-limited-prospectus_95998.html",
+      "text": "JSW Cement IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Sajjan Jindal, Parth Jindal, Sangita Jindal, Adarsh Advisory Services Private Limited and Sajjan Jindal Family Trust are the company promoters.",
+  "company_contact_details": {
+    "company_name": "JSW Cement Ltd.",
+    "address": "JSW Centre,, Bandra Kurla Complex,, Bandra (East),, Mumbai, ,, Maharashtra, , 400051, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 4286 3114",
+    "email": "secretarial.jswcl@jsw.in",
+    "website": "http://www.jswcement.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "jswcement.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2006, JSW Cement Limited is a manufacturer of green cement in India. As part of the JSW Group, the company is committed to sustainability and innovation in the cement industry. The company operated seven plants across the country, including one integrated unit, one clinker unit, and five grinding units located in Andhra Pradesh (Nandyal plant), Karnataka (Vijayanagar plant), Tamil Nadu (Salem plant), Maharashtra (Dolvi plant), West Bengal (Salboni plant), and Odisha (Jajpur plant and the majority-owned Shiva Cement Limited clinker unit). As of March 31, 2025, JSW Cement Limited had an installed grinding capacity of 20.60 MMTPA, comprising 11.00 MMTPA in the southern region, 4.50 MMTPA in the western region, and 5.10 MMTPA in the eastern region of India. Product Portfolio: JSW Cement Limited distributes its products through a well-connected network. As of March 31, 2025, the company had a distribution network comprising 4,653 dealers, 8,844 sub-dealers, and 158 warehouses. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "Axis Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/113/",
+      "title": "About Axis Capital Ltd."
+    },
+    {
+      "name": "Citigroup Global Markets India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/23/",
+      "title": "About Citigroup Global Markets India Pvt.Ltd."
+    },
+    {
+      "name": "Dam Capital Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/30/",
+      "title": "About Dam Capital Advisors Ltd."
+    },
+    {
+      "name": "Goldman Sachs (India) Securities Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/75/",
+      "title": "About Goldman Sachs (India) Securities Pvt.Ltd."
+    },
+    {
+      "name": "Jefferies India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/112/",
+      "title": "About Jefferies India Pvt.Ltd."
+    },
+    {
+      "name": "Kotak Mahindra Capital Co.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/12/",
+      "title": "About Kotak Mahindra Capital Co.Ltd."
+    },
+    {
+      "name": "SBI Capital Markets Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/21/",
+      "title": "About SBI Capital Markets Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.42%"
+}

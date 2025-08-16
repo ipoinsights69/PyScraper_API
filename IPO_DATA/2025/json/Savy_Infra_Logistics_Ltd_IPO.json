@@ -1,0 +1,440 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 21, 2025 to July 23, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 28, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹120 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "58,32,000shares(aggregating up to ₹69.98Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,92,800shares(aggregating up to ₹3.51Cr)Globalworth Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "55,39,200shares(aggregating up to ₹66.47Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,49,76,480shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,08,08,480shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,92,800 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "27,68,400 (47.47%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "16,60,800 (28.48%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,07,600 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,31,600 (14.26%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "5,54,400 (9.51%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,77,200 (4.75%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,39,200 (33.25%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "58,32,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 18, 2025"
+    ],
+    [
+      "Shares Offered",
+      "16,60,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "19.93"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 23, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 22, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 21, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 23, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 24, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 23, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,88,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,88,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹4,32,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "6",
+      "Shares": "7,200",
+      "Amount": "₹8,64,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "7",
+      "Shares": "8,400",
+      "Amount": "₹10,08,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "85.87%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "61.81%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "185.81",
+      "41.70",
+      "10.10"
+    ],
+    [
+      "Total Income",
+      "283.77",
+      "101.62",
+      "6.19"
+    ],
+    [
+      "Profit After Tax",
+      "23.88",
+      "9.87",
+      "0.34"
+    ],
+    [
+      "EBITDA",
+      "35.62",
+      "14.95",
+      "0.57"
+    ],
+    [
+      "Net Worth",
+      "52.25",
+      "10.51",
+      "0.64"
+    ],
+    [
+      "Reserves and Surplus",
+      "37.27",
+      "10.41",
+      "0.54"
+    ],
+    [
+      "Total Borrowing",
+      "44.84",
+      "8.49",
+      "3.12"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "76.10%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "36.69%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.86"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "45.70%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.43%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.57%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.44"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "15.94",
+      "Post IPO": "11.48"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "7.53",
+      "Post IPO": "10.46"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the company",
+      "Expected Amount(₹ in crores)": "49.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "14.02"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 28, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SAVY"
+    ],
+    [
+      "ISIN",
+      "INE0UCN01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹120 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹120.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹136.50"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹136.50"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹143.30"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹143.30"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "93.02",
+      "Shares Offered": "11,07,600",
+      "Shares bid for": "10,30,24,800",
+      "Total Application": "72"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "196.44",
+      "Shares Offered": "8,31,600",
+      "Shares bid for": "16,33,63,200",
+      "Total Application": "23,251"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "91.62",
+      "Shares Offered": "19,39,200",
+      "Shares bid for": "17,76,76,800",
+      "Total Application": "74,032"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "114.50",
+      "Shares Offered": "38,78,400",
+      "Shares bid for": "44,40,64,800",
+      "Total Application": "97,355"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Savy Infra IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_06122024135429_DRHPSavyInfra.pdf",
+      "text": "Savy Infra IPODRHP"
+    },
+    {
+      "title": "Savy Infra IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SavyInfraandLogisticsLimited_RHP.pdf",
+      "text": "Savy Infra IPORHP"
+    },
+    {
+      "title": "Savy Infra IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/savy-infra-and-logistics-limited_95844.html",
+      "text": "Savy Infra IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the company are Tilak Mundhra and Liladhar Mundhra.",
+  "company_contact_details": {
+    "company_name": "Savy Infra & Logistics Ltd.",
+    "address": "Office No. 718, Seventh Floor, Sharan Circle business Hub, Nr Sharan Circle Zunda, Cross, Zundal,, Gandhinagar, ,, Gujarat, , 382421, Phone, :, Email, :, Website, :",
+    "phone": "+91 9227027522",
+    "email": "compliance@savyinfra.com",
+    "website": "https://www.savyinfra.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@mashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in January 2006, Savy Infra and Logistics Limited is an EPC company specializing in earthwork and foundation preparation for infrastructure projects, including road construction, embankments, sub-grade preparation, and surface paving. The company offers demolition services, safely dismantling structures for new projects. The company operates an asset-light business model offering specialized services by renting trucks and drivers and managing the execution of transportation. The company also rents advanced machinery like rock breakers and heavy excavators, employing mechanical excavators for excavation. Services include shoring, strutting, side protection, slush removal, and disposal of excavated materials. The company completed EPC and Logistics projects in Gujarat, Maharashtra, Andhra Pradesh, Telangana, Madhya Pradesh, Chhattisgarh, Karnataka, and Odisha. As of April 30, 2025, the company employed 33 full-time staff at its sites. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Unistone Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/176/",
+      "title": "About Unistone Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "13.75%"
+}

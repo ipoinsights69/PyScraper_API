@@ -1,0 +1,513 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 7, 2025 to August 11, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price",
+      "₹275 per share"
+    ],
+    [
+      "Lot Size",
+      "54 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,45,70,760shares(aggregating up to ₹400.60Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,01,85,198shares(aggregating up to ₹280.03Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "43,85,562shares of ₹2(aggregating up to ₹120.57Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹26.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "5,53,22,580shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "6,55,07,778shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "72,67,504 (49.88%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "43,60,502 (29.93%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "29,07,002 (19.95%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "21,80,252 (14.96%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "14,53,501 (9.98%)",
+      "Maximum Allottees": "1,922"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "7,26,751 (4.99%)",
+      "Maximum Allottees": "961"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "50,87,254 (34.91%)",
+      "Maximum Allottees": "94,208"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "35,750 (0.25%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,45,70,760 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 6, 2025"
+    ],
+    [
+      "Shares Offered",
+      "43,60,502"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "119.91"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 10, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 9, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Aug 12, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 11, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "54",
+      "Amount": "₹14,850"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "702",
+      "Amount": "₹1,93,050"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "756",
+      "Amount": "₹2,07,900"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "3,618",
+      "Amount": "₹9,94,950"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "3,672",
+      "Amount": "₹10,09,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "90.98%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.15%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "562.32",
+      "415.46",
+      "400.48"
+    ],
+    [
+      "Total Income",
+      "559.24",
+      "515.88",
+      "443.76"
+    ],
+    [
+      "Profit After Tax",
+      "47.29",
+      "44.79",
+      "28.27"
+    ],
+    [
+      "EBITDA",
+      "101.34",
+      "97.10",
+      "73.38"
+    ],
+    [
+      "Net Worth",
+      "249.13",
+      "202.35",
+      "157.84"
+    ],
+    [
+      "Reserves and Surplus",
+      "247.73",
+      "200.87",
+      "156.60"
+    ],
+    [
+      "Total Borrowing",
+      "218.51",
+      "142.35",
+      "171.74"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "19.01%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "16.99%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.88"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "19.01%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.46%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "18.16%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.15"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.55",
+      "Post IPO": "7.22"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "32.17",
+      "Post IPO": "38.09"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Prepayment or repayment of all or a portion of certain outstanding borrowings availed by the Company.",
+      "Expected Amount(₹ in crores)": "143.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Purchase of equipment and machinery for the Manekpur Facility.",
+      "Expected Amount(₹ in crores)": "113.71"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": "0.40"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544479"
+    ],
+    [
+      "NSE Symbol",
+      "ALLTIME"
+    ],
+    [
+      "ISIN",
+      "INE0GV601021"
+    ],
+    [
+      "Final Issue Price",
+      "₹275 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹275.00",
+      "NSE": "₹275.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹314.30",
+      "NSE": "₹311.30"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹280.80",
+      "NSE": "₹280.65"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹322.15",
+      "NSE": "₹325.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹283.25",
+      "NSE": "₹283.30"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "6",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "10.30",
+      "Shares Offered": "29,07,003",
+      "Shares bid for": "2,99,29,230"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "14.01",
+      "Shares Offered": "21,80,252",
+      "Shares bid for": "3,05,48,016"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "14.60",
+      "Shares Offered": "14,53,501",
+      "Shares bid for": "2,12,15,034"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "12.84",
+      "Shares Offered": "7,26,751",
+      "Shares bid for": "93,32,982"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "5.36",
+      "Shares Offered": "50,87,254",
+      "Shares bid for": "2,72,86,632"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "7.81",
+      "Shares Offered": "35,750",
+      "Shares bid for": "2,79,288"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "8.62",
+      "Shares Offered": "1,02,10,259",
+      "Shares bid for": "8,80,43,166"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "All Time Plastics IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/all-time-plastics-limited_87321.html",
+      "text": "All Time Plastics IPODRHP"
+    },
+    {
+      "title": "All Time Plastics IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_ALLTIME.zip",
+      "text": "All Time Plastics IPORHP"
+    },
+    {
+      "title": "All Time Plastics IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/web/?file=https://www.sebi.gov.in/sebi_data/attachdocs/aug-2025/1754974321821.pdf#page=1&zoom=page-width,-15,842",
+      "text": "All Time Plastics IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Kailesh Punamchand Shah, Bhupesh Punamchand Shah and Nilesh Punamchand Shah are the company promoters.",
+  "company_contact_details": {
+    "company_name": "All Time Plastics Ltd.",
+    "address": "B-30,, Royal Industrial Estate,, Wadala, Mumbai, ,, Maharashtra, , 400031, Phone, :, Email, :, Website, :",
+    "phone": "+912266208900",
+    "email": "companysecretary@alltimeplastics.com",
+    "website": "http://www.alltimeplastics.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "atpl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Established in 1971, All Time Plastics Limited (ATPL) is an Indian company specializing in the manufacturing of plastic houseware products. The company mainly manufacture consumerware for B2B white-label clients, while also offering products under their proprietary brand, “All Time Branded Products,” for B2C customers. As at March 31, 2025, The company had 1,848 stock-keeping units (“SKUs”) across eight categories: Prep Time (kitchen tools for preparing cooking ingredients); Containers (food storage containers); Organization (miscellaneous storage containers); Hangers (various types of hangers); Meal Time (kitchenware); Cleaning Time (cleaning equipment); Bath Time (bathroom products); and Junior (child-friendly tableware, cutlery and other items). The company have a long-standing relationship with global retailers, including IKEA, Asda Stores Limited, trading as Asda (“Asda”), Michaels Stores, Inc., trading as Michaels (“Michaels”) and Tesco Plc (“Tesco”). In Fiscal 2025, the company sold the All Time Branded Products to 22 modern trade retailers, including Spencer’s Retail Limited, as well as five super distributors and 38 distributors with whom they do business directly across 23 states and six union territories in India. Products: As at March 31, 2025, the company had 690 employees and 1,589 persons working as contract labour. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Intensive Fiscal Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/35/",
+      "title": "About Intensive Fiscal Services Pvt.Ltd."
+    },
+    {
+      "name": "Dam Capital Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/30/",
+      "title": "About Dam Capital Advisors Ltd."
+    }
+  ],
+  "listing_gain_percent": "13.2%"
+}

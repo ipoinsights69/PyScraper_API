@@ -1,0 +1,499 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 7, 2025 to July 9, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 14, 2025"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹1100 per share"
+    ],
+    [
+      "Lot Size",
+      "13 Shares"
+    ],
+    [
+      "Sale Type",
+      "Offer For Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,81,81,818shares(aggregating up to ₹2,000.00Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹104.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "13,16,79,484shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "13,16,79,484shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "90,72,726 (71.20%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "54,43,635 (42.72%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "36,29,091 (28.48%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "27,21,818 (21.36%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "18,14,545 (14.24%)",
+      "Maximum Allottees": "9,970"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "9,07,273 (7.12%)",
+      "Maximum Allottees": "4,985"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "63,50,909 (49.84%)",
+      "Maximum Allottees": "4,88,531"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "40,160 (0.32%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,27,41,978 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 4, 2025"
+    ],
+    [
+      "Shares Offered",
+      "54,43,635"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "598.80"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 9, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 8, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 14, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 9, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "13",
+      "Amount": "₹14,300"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "169",
+      "Amount": "₹1,85,900"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "182",
+      "Amount": "₹2,00,200"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "69",
+      "Shares": "897",
+      "Amount": "₹9,86,700"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "70",
+      "Shares": "910",
+      "Amount": "₹10,01,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "86.19%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "1,902.73",
+      "1,696.44",
+      "1,332.32"
+    ],
+    [
+      "Total Income",
+      "1,762.71",
+      "1,462.40",
+      "1,103.58"
+    ],
+    [
+      "Profit After Tax",
+      "379.66",
+      "298.12",
+      "251.30"
+    ],
+    [
+      "EBITDA",
+      "676.35",
+      "549.99",
+      "458.05"
+    ],
+    [
+      "Net Worth",
+      "1,048.45",
+      "869.05",
+      "651.12"
+    ],
+    [
+      "Reserves and Surplus",
+      "1,040.24",
+      "869.74",
+      "651.60"
+    ],
+    [
+      "Total Borrowing",
+      "",
+      "63.78",
+      "31.05"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "35.47%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "51.40%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "34.64%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "21.54%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "40.07%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "13.82"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "28.83",
+      "Post IPO": "28.83"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "38.15",
+      "Post IPO": "38.15"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 14, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544443"
+    ],
+    [
+      "NSE Symbol",
+      "TRAVELFOOD"
+    ],
+    [
+      "ISIN",
+      "INE103V01028"
+    ],
+    [
+      "Final Issue Price",
+      "₹1100 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹1,100.00",
+      "NSE": "₹1,100.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹1,126.20",
+      "NSE": "₹1,125.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹1,065.20",
+      "NSE": "₹1,066.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹1,128.90",
+      "NSE": "₹1,130.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹1,075.20",
+      "NSE": "₹1,074.80"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "13",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "6",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "8.10",
+      "Shares Offered": "36,29,090",
+      "Shares bid for": "2,93,98,278"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "1.67",
+      "Shares Offered": "27,21,818",
+      "Shares bid for": "45,36,662"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.83",
+      "Shares Offered": "18,14,545",
+      "Shares bid for": "33,28,143"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "1.33",
+      "Shares Offered": "9,07,273",
+      "Shares bid for": "12,08,519"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "0.73",
+      "Shares Offered": "63,50,909",
+      "Shares bid for": "46,61,826"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "1.81",
+      "Shares Offered": "40,382",
+      "Shares bid for": "73,112"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "3.03",
+      "Shares Offered": "1,27,42,199",
+      "Shares bid for": "3,86,69,878"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Travel Food Services IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/dec-2024/travel-food-services-limited_89967.html",
+      "text": "Travel Food Services IPODRHP"
+    },
+    {
+      "title": "Travel Food Services IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/travel-food-services-limited-rhp_95127.html",
+      "text": "Travel Food Services IPORHP"
+    },
+    {
+      "title": "Travel Food Services IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/travel-food-services-limited-prospectus_95202.html",
+      "text": "Travel Food Services IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "SSP Group plc, SSP Group Holdings Limited, SSP Financing Limited, SSP Asia Pacific Holdings Limited and Kapur Family Trust, and Varun Kapur and Karan Kapur are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Travel Food Services Ltd.",
+    "address": "Block-A South Wing 1st Floor,, Shiv Sagar Estate, Dr. Annie Besant Road, Worli,, Mumbai, ,, Maharashtra, , 400018, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 4322 4322",
+    "email": "cs@travelfoodservices.com",
+    "website": "https://www.travelfoodservices.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "travelfood.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2007, Travel Food Services Limited is an Indian airport travel quick service restaurant (“Travel QSR”) and lounge (“Lounge”). The company's F&B brand portfolio, comprising 117 partner and in-house brands, is in the operation of 397 Travel QSRs across India and Malaysia, as of June 30, 2024. Travel QSR business comprises a range of curated food and beverage (“F&B”) concepts across cuisines, brands and formats, which have been adapted to cater to customers’ demands for speed and convenience within travel environments. Travel Food Business Limited's lounge business comprises designated areas within airport terminals, accessible primarily by first and business-class passengers, members of airline loyalty programmes, select credit card and debit card holders and members of other loyalty programmes. The company's Travel QSR and Lounge businesses are present in 14 airports in India and three airports in Malaysia, as of June 30, 2024. Such airports include the Delhi Airport, Mumbai Airport, Bengaluru Airport, Hyderabad Airport, Kolkata Airport, and Chennai Airport. As of June 30, 2024, Travel Food Services were present in the Delhi airport for 14 years, the Mumbai airport for 15 years, the Bengaluru airport for 5 years and the Chennai airport for 11 years. Competitve Strengths:",
+    "competitive_strengths": [
+      "Leading player in the Travel QSR and Lounge sectors in Indian airports.",
+      "The diversified portfolio of partner F&B brands franchised from high-quality brand partners and in-house F&B brands.",
+      "Deep understanding of traveller preferences with a focus on delivering a quality customer experience.",
+      "Experienced management team, supported by our synergistic partnerships with SSP and K Hospitality."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Kotak Mahindra Capital Co.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/12/",
+      "title": "About Kotak Mahindra Capital Co.Ltd."
+    },
+    {
+      "name": "HSBC Securities & Capital Markets (India) Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/69/",
+      "title": "About HSBC Securities & Capital Markets (India) Pvt.Ltd."
+    },
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    },
+    {
+      "name": "Batlivala & Karani Securities India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/167/",
+      "title": "About Batlivala & Karani Securities India Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "2.27%"
+}

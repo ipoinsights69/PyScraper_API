@@ -1,0 +1,441 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 25, 2025 to June 27, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹86 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "51,61,600shares(aggregating up to ₹44.39Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,59,200shares(aggregating up to ₹2.23Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "37,15,200shares(aggregating up to ₹31.95Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "11,87,200shares of ₹10(aggregating up to ₹10.21Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "49,02,400shares(aggregating up to ₹42.16Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,53,88,200shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,93,62,600shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,59,200 (7.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "24,49,600 (66.33%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "14,68,800 (39.77%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "9,80,800 (26.56%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,36,000 (19.93%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "17,16,800 (46.49%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "36,92,800 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 24, 2025"
+    ],
+    [
+      "Shares Offered",
+      "14,68,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "12.63"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 30, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 28, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 27, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,37,600"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,37,600"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,75,200"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.17%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "68.71%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "164.30",
+      "120.28",
+      "100.38",
+      "77.93"
+    ],
+    [
+      "Total Income",
+      "91.25",
+      "96.25",
+      "86.19",
+      "72.32"
+    ],
+    [
+      "Profit After Tax",
+      "10.28",
+      "9.25",
+      "5.76",
+      "3.02"
+    ],
+    [
+      "EBITDA",
+      "29.57",
+      "27.22",
+      "19.99",
+      "13.47"
+    ],
+    [
+      "Net Worth",
+      "48.84",
+      "38.56",
+      "26.32",
+      "20.56"
+    ],
+    [
+      "Reserves and Surplus",
+      "33.45",
+      "36.00",
+      "23.90",
+      "18.15"
+    ],
+    [
+      "Total Borrowing",
+      "79.93",
+      "56.38",
+      "33.38",
+      "34.25"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "28.50%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17.23%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.46"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "23.97"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.67%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "28.28%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.43"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.01",
+      "Post IPO": "7.08"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "14.31",
+      "Post IPO": "12.15"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding working capital requirements of the company",
+      "Expected Amount(₹ in crores)": "12.21"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding of capital expenditure requirements of the company towards purchase of Construction Equipments for civil construction business",
+      "Expected Amount(₹ in crores)": "12.51"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SUNTECH"
+    ],
+    [
+      "ISIN",
+      "INE0SGZ01016"
+    ],
+    [
+      "Final Issue Price",
+      "₹86 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹86.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹109.10"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹103.65"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹110.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹103.80"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "4",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "122.82",
+      "Shares Offered": "9,80,800",
+      "Shares bid for": "12,04,59,200",
+      "Total Application": "74"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "529.51",
+      "Shares Offered": "7,36,000",
+      "Shares bid for": "38,97,21,600",
+      "Total Application": "11,115"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "150.10",
+      "Shares Offered": "17,16,800",
+      "Shares bid for": "25,76,97,600",
+      "Total Application": "1,61,061"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "223.64",
+      "Shares Offered": "34,33,600",
+      "Shares bid for": "76,78,78,400",
+      "Total Application": "1,72,250"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Suntech Infra Solutions IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_30092024183247_DRHP_Suntech.pdf",
+      "text": "Suntech Infra Solutions IPODRHP"
+    },
+    {
+      "title": "Suntech Infra Solutions IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_SUNTECH.zip",
+      "text": "Suntech Infra Solutions IPORHP"
+    },
+    {
+      "title": "Suntech Infra Solutions IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/suntech-infra-solutions-limited_95111.html",
+      "text": "Suntech Infra Solutions IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoter of the company are Mr. Gaurav Gupta, Mr. Parveen Kumar Gupta and Mrs. Shikha Gupta.",
+  "company_contact_details": {
+    "company_name": "Suntech Infra Solutions Ltd.",
+    "address": "Unit No. 604-605-606, 6th Floor,, NDM-2, Plot No. D-1,2,3, Netaji Subhash Place,, Pitampura, Anandvas Shakurpura, North West Delhi, ,, New Delhi, , 110034, Phone, :, Email, :, Website, :",
+    "phone": "+91 8360228604",
+    "email": "compliance@suntechinfra.com",
+    "website": "https://suntechinfra.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MAS Services Ltd.",
+    "phone": "",
+    "email": "ipo@masserv.com",
+    "website": "https://www.masserv.com/opt.asp"
+  },
+  "about_company": {
+    "description": "Incorporated in April 2009, Suntech Infra Solutions Limited is a business-to-business (“ B2B”) construction company. The Company provides Civil Construction Services, including Foundation and Structural Works, through direct contracting, sub-contracting, and equipment rental. The company served public and private clients, providing solutions in Power, Oil & Gas, Steel, Cement, Renewable Energy, Refineries, Petrochemical, Fertilizer, and Process Plants. They also contribute to urban and rural infrastructure, including bridges and irrigation systems. As of July 31, 2024, the company has 06 ongoing projects valued at ₹ 18,637.19 Lakhs, confirmed by Letters of Allocation and a Purchase Order. Additionally, it has an Order Book for Construction Equipment Renting worth about ₹ 1,092.70 Lakhs. The company sells its products in Delhi, Bihar, Gujarat, Orissa, Rajasthan etc. The company has a large fleet of modern construction equipment, including Hydraulic Rotary Piling Rigs, Diaphragm Wall Grabs, Concrete Boom Placers, Crawler Cranes, and Vibro Hammers. The company has served key industry players such as Bharat Mandapam, ITPO, Delhi; IOCL Refinery Expansion at Barauni & Barmer; Ultratech Cement Plant at Kotputli, Rajasthan; and Highrise Building foundation for UNTIY Group, Etc. As of March 31, 2024, The company has around 462 full-time employees and employs 200 to 220 casual workers based on project needs. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "26.86%"
+}

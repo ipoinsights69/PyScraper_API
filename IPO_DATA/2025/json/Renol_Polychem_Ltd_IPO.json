@@ -1,0 +1,477 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 31, 2025 to August 4, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 7, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹105 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "24,54,000shares(aggregating up to ₹25.77Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,48,800shares(aggregating up to ₹1.56Cr)Asnani Stock Broker Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "23,05,200shares(aggregating up to ₹24.20Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "54,90,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "79,44,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,48,800 (6.06%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "6,40,800 (26.11%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "3,84,000 (15.65%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "2,56,800 (10.46%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "3,49,200 (14.23%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,32,800 (9.49%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,16,400 (4.74%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "13,15,200 (53.59%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "24,54,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 30, 2025"
+    ],
+    [
+      "Shares Offered",
+      "3,84,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "4.03"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 3, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 4, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,52,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,52,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,78,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "8,400",
+      "Amount": "₹8,82,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹10,08,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.11%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 May 2025",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "25.86",
+      "23.41",
+      "15.49",
+      "10.28"
+    ],
+    [
+      "Total Income",
+      "12.02",
+      "62.56",
+      "6.52",
+      "41.86"
+    ],
+    [
+      "Profit After Tax",
+      "1.14",
+      "5.00",
+      "1.53",
+      "0.73"
+    ],
+    [
+      "EBITDA",
+      "1.60",
+      "7.07",
+      "2.18",
+      "1.14"
+    ],
+    [
+      "Net Worth",
+      "14.47",
+      "13.33",
+      "8.69",
+      "2.71"
+    ],
+    [
+      "Reserves and Surplus",
+      "8.98",
+      "7.84",
+      "3.20",
+      ""
+    ],
+    [
+      "Total Borrowing",
+      "5.28",
+      "6.95",
+      "2.58",
+      "5.36"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "45.37%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "64.18%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.52"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "45.37%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.02%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "11.36%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.32"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.10",
+      "Post IPO": "8.62"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.54",
+      "Post IPO": "12.18"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital Expenditure in requirements for the purchase of Machinery",
+      "Expected Amount(₹ in crores)": "5.60"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment of certain borrowings",
+      "Expected Amount(₹ in crores)": "1.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "To meet out the Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "15.15"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "0.96"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 7, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "RNPL"
+    ],
+    [
+      "ISIN",
+      "INE0VZX01015"
+    ],
+    [
+      "Final Issue Price",
+      "₹105 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹105.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹105.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹99.75"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹105.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹99.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "8.41",
+      "Shares Offered": "2,56,800",
+      "Shares bid for": "21,60,000",
+      "Total Application": "4"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "6.89",
+      "Shares Offered": "3,49,200",
+      "Shares bid for": "24,04,800",
+      "Total Application": "288"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "7.21",
+      "Shares Offered": "2,32,800",
+      "Shares bid for": "16,77,600",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "6.25",
+      "Shares Offered": "1,16,400",
+      "Shares bid for": "7,27,200",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "6.51",
+      "Shares Offered": "13,15,200",
+      "Shares bid for": "85,60,800",
+      "Total Application": "3,567"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "6.83",
+      "Shares Offered": "19,21,200",
+      "Shares bid for": "1,31,25,600",
+      "Total Application": "3,860"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Renol Polychem IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/aartic_24122024171209_DRHP_Renol.pdf",
+      "text": "Renol Polychem IPODRHP"
+    },
+    {
+      "title": "Renol Polychem IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_RNPL.zip",
+      "text": "Renol Polychem IPORHP"
+    },
+    {
+      "title": "Renol Polychem IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/RenolPolychemLimited_PROSP.pdf",
+      "text": "Renol Polychem IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Bhaveshbhai Mansukhbhai Harsoda and Mr. Naitik Bhaveshbhai Harshoda.",
+  "company_contact_details": {
+    "company_name": "Renol Polychem Ltd.",
+    "address": "307, Sanskar Heights NR RA, Circle 150 FT Ring RD,, Mavdi,, Rajkot, ,, Gujarat, , 360004, Phone, :, Email, :, Website, :",
+    "phone": "+91- 9723780726",
+    "email": "compliance@renolpolychem.com",
+    "website": "https://www.renolpolychem.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in 2008, Renol Polychem Limited is a manufacturer and supplier specializing in colour masterbatches, plastic masterbatches, industrial chemicals, impact modifiers, plastic pigments, and more. Their product range includes various color masterbatches such as green, red, yellow, orange, pink, blue, brown, violet, ivory, white, maroon, silver, multicolor, and black, as well as transparent plastic filler masterbatches. The company offers all-in-one additives, including stabilisers, impact modifiers, and colour pigments, to assist manufacturers of UPVC, CPVC pipes, pipe fittings, and other plastic products. Renol Polychem Limited offers a wide variety ofmasterbatchesandpolymer solutions, including: The company's products find application in industries such as plastic packaging (flexible and rigid), Automotive Components, Household & Consumer Goods, Electrical & Electronics, Textiles & Fibers and Agricultural Films & Pipes. As of September 30, 2024, the company had 15 employees in various departments. Competitive Strength:",
+    "competitive_strengths": [
+      "Colour MasterbatchesGreen, Red, Yellow, Orange, Pink, Blue, Brown, Violet, Ivory, White, Maroon, Silver, Multicolor, and Black Masterbatches. Specially formulated masterbatches for plastic moulding, extrusion, and film applications.",
+      "Filler MasterbatchesTransparent Plastic Filler Masterbatches Talc and Calcium Carbonate-based filler masterbatches for improving cost efficiency and mechanical properties in plastic production.",
+      "Additive MasterbatchesUV Stabilizers Antioxidants Slip & Anti-block Agents Processing Aids Flame Retardants.",
+      "Polymer Compounds & PigmentsHigh-performance plastic pigments Polymer modifiers to enhance strength, flexibility, and durability."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Corporate Makers Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/440/",
+      "title": "About Corporate Makers Capital Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

@@ -1,0 +1,432 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 5, 2025 to May 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "May 12, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹99 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "17,14,800shares(aggregating up to ₹16.98Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "86,400shares(aggregating up to ₹0.8554Cr)Globalworth Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "16,28,400shares(aggregating up to ₹16.12Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "42,58,800shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "59,73,600shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "86,400 (7.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "8,10,000 (65.85%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "4,84,800 (39.41%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "3,25,200 (26.44%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "2,46,000 (20.00%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "5,72,400 (46.54%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "12,30,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 2, 2025"
+    ],
+    [
+      "Shares Offered",
+      "4,84,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "4.80"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "June 7, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 6, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, May 5, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, May 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, May 8, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, May 9, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, May 9, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, May 12, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 7, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,18,800"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,18,800"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,37,600"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "63.44%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "32.02",
+      "24.99",
+      "19.89",
+      "16.23"
+    ],
+    [
+      "Total Income",
+      "54.47",
+      "54.65",
+      "47.25",
+      "33.04"
+    ],
+    [
+      "Profit After Tax",
+      "3.77",
+      "3.1",
+      "2.81",
+      "1.13"
+    ],
+    [
+      "Net Worth",
+      "18.46",
+      "14.68",
+      "10.6",
+      "7.79"
+    ],
+    [
+      "Reserves and Surplus",
+      "14.2",
+      "10.3",
+      "8.79",
+      "5.97"
+    ],
+    [
+      "Total Borrowing",
+      "2.83",
+      "2.27",
+      "2.51",
+      "3.71"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "24.49%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "25.80%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.15"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "20.44%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.69%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.90"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.27",
+      "Post IPO": "8.42"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.62",
+      "Post IPO": "11.76"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To meet out the Capital Expenditure.",
+      "Expected Amount(₹ in crores)": ""
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "i.To set up a manufacturing facility at Plot No. 15, Ecotech – X, Industrial Area, Greater Noida, Gautam Budh Nagar, Uttar Pradesh",
+      "Expected Amount(₹ in crores)": "5.43"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "ii. Acquisition of machineries to be installed at proposed manufacturing facility as mentioned in point i. above",
+      "Expected Amount(₹ in crores)": "9.51"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "May 12, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544399"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0RJ901010"
+    ],
+    [
+      "Final Issue Price",
+      "₹99 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹99.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹188.10"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹188.10"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹197.50"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹197.50"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "136.52",
+      "Shares Offered": "3,25,200",
+      "Shares bid for": "4,43,96,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1,534.66",
+      "Shares Offered": "2,46,000",
+      "Shares bid for": "37,75,26,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "243.71",
+      "Shares Offered": "5,72,400",
+      "Shares bid for": "13,95,02,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "490.93",
+      "Shares Offered": "11,43,600",
+      "Shares bid for": "56,14,24,800",
+      "Total Application": "1,50,783"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Srigee DLM IPO DRHP",
+      "href": "https://www.bsesme.com/download/399962/sme_ipo/DRHP_Final_20240918045212.pdf",
+      "text": "Srigee DLM IPODRHP"
+    },
+    {
+      "title": "Srigee DLM IPO Addendum DRHP",
+      "href": "https://gyrcapitaladvisors.com/wp-content/uploads/2025/04/DRHP_to_Addendum.pdf",
+      "text": "Srigee DLM IPOAddendum DRHP"
+    },
+    {
+      "title": "Srigee DLM IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_300420251629.zip",
+      "text": "Srigee DLM IPORHP"
+    },
+    {
+      "title": "Srigee DLM IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/399962/SME_IPO%20BasisOfAllotment/Prospectus_Final_20250508143856.pdf",
+      "text": "Srigee DLM IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Shashi Kant Singh and Mrs. Suchitra Singh are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Srigee DLM Ltd.",
+    "address": "Plot No. 434,, Udyog Kendra 2, Ecotech 3,, Greater Noida, Noida, ,, Uttar Pradesh, , 201306, Phone, :, Email, :, Website, :",
+    "phone": "+91 9911786252",
+    "email": "compliance@srigee.com",
+    "website": "http://www.srigee.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in December 20, 2005, as Srigee Enterprises Private Limited, Srigee DLM Private Limited began with plastic mouldings for consumer durables. By 2013, Srigee DLM Private Limited diversified into home appliance mouldings and boosted its capacity by adding advanced injection molding machines. Srigee DLM Private Limited is engaged in design-led manufacturing and assembly services, specializing in plastic injection moulding, tool room & die manufacturing, mobile phone sub-assembly, and polymer compounding & trading. The company caters to industries like consumer durables, home appliances, automotive components, and electronics by delivering high-quality, cost-efficient, and reliable manufacturing solutions to leading OEMs. Business Verticals: Focused on quality, timely delivery, and cost efficiency, Srigee DLM Private Limited has built lasting relationships with OEM leaders like Symphony Limited, Starion, Dipty Lal Judge Mal Pvt. Ltd. (DLJM), and Syntyche Tradex Enterprises. Srigee DLM Private Limited is also expanding its footprint with a new facility at Ecotech-10, Greater Noida, focused on electronics, electrical assembly, and advanced plastic moulding. As of January 31, 2025, the company has 61 permanent employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

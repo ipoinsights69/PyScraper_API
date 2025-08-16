@@ -1,0 +1,406 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 16, 2025 to January 20, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 23, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹72 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "56,00,000shares(aggregating up to ₹40.32Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,84,800shares(aggregating up to ₹2.05Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "53,15,200shares(aggregating up to ₹38.27Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,50,10,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,06,10,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,84,800 (5.09%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "20,84,800 (37.23%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,48,000 (15.14%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "12,36,800 (22.09%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "11,50,400 (20.54%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "20,80,000 (37.14%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "56,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 15, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,48,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "6.11"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "February 18, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 19, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jan 16, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jan 20, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jan 21, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jan 23, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 20, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,15,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,30,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.92%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.31%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "5,216.36",
+      "4,431.51",
+      "3,625.3",
+      "3,611.51"
+    ],
+    [
+      "Total Income",
+      "1,924.81",
+      "3,707.03",
+      "2,162.62",
+      "1,931.54"
+    ],
+    [
+      "Profit After Tax",
+      "540.12",
+      "1,111.83",
+      "443.48",
+      "393.53"
+    ],
+    [
+      "Net Worth",
+      "4,215.44",
+      "3,675.31",
+      "2,563.49",
+      "2,120.01"
+    ],
+    [
+      "Reserves and Surplus",
+      "2,714.44",
+      "2,174.31",
+      "2,562.49",
+      "2,119.01"
+    ],
+    [
+      "Total Borrowing",
+      "198.81",
+      "73.69",
+      "250.62",
+      "527.34"
+    ],
+    [
+      "Amount in ₹ Lakhs"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "35.64%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.02"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "30.25%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "31.87%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.94"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.41",
+      "Post IPO": "5.24"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.72",
+      "Post IPO": "13.74"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 23, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544341"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE12QA01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹72 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹72.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹75.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹75.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹78.75"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹75.07"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "3",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "35.58",
+      "Shares Offered": "12,36,800",
+      "Shares bid for": "4,40,09,600",
+      "Total Application": "32"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "96.57",
+      "Shares Offered": "11,50,400",
+      "Shares bid for": "11,11,05,600",
+      "Total Application": "9,725"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "81.87",
+      "Shares Offered": "20,80,000",
+      "Shares bid for": "17,02,83,200",
+      "Total Application": "1,06,441"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "72.84",
+      "Shares Offered": "44,67,200",
+      "Shares bid for": "32,53,98,400",
+      "Total Application": "1,56,570"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Landmark Immigration Consultants IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/327379/DRHP_20240823000121.pdf",
+      "text": "Landmark Immigration Consultants IPODRHP"
+    },
+    {
+      "title": "Landmark Immigration Consultants IPO Addendum DRHP",
+      "href": "https://www.bsesme.com/download/327379/DRHPAddendum_Landmark_20250103171250.pdf",
+      "text": "Landmark Immigration Consultants IPOAddendum DRHP"
+    },
+    {
+      "title": "Landmark Immigration Consultants IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/landmark-immigration-consultants-limited_94277.html",
+      "text": "Landmark Immigration Consultants IPORHP"
+    },
+    {
+      "title": "Landmark Immigration Consultants IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/327379/SME_IPO%20BasisOfAllotment/Prospectus_LICL_20250121144524.pdf",
+      "text": "Landmark Immigration Consultants IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Jasmeet Singh Bhatia and Ms. Richa Arora are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Landmark Immigration Consultants Ltd.",
+    "address": "SCO-95 97 2nd Floor,, Sector 17 D,, Chandigarh G.P.O., Chandigarh, ,, Chandigarh, , 160017, Phone, :, Email, :, Website, :",
+    "phone": "+ 91 9041088824",
+    "email": "investors.landmarkimmigration@gmail.com",
+    "website": "http://www.landmarkimmigration.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "landmark.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2010, Landmark Immigration Consultants Limited is engaged in the business of Global Consultancy Services. The company offers Global Education Consultancy for students seeking to study abroad and Immigration Consultancy for visas, tourism, business, and permanent residency, primarily in Canada. The company offers global education and immigration consultancy through 9 fully equipped branches, partnering with over 30 Canadian institutions, with dedicated consultants and training facilities. Company has entered into 3 Franchise Agreements at Jammu, Jind, and Karnal. Services: As of September 30, 2024, the company has around 128 employees on a payroll basis. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Shreni Shares Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/449/",
+      "title": "About Shreni Shares Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.17%"
+}

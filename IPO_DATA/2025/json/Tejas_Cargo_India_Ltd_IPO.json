@@ -1,0 +1,450 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 14, 2025 to February 18, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 24, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹168 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "63,00,000shares(aggregating up to ₹105.84Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,15,200shares(aggregating up to ₹5.30Cr)New Berry Capitals Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "59,84,800shares(aggregating up to ₹100.54Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,75,92,840shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,38,92,840shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,15,200 (6.97%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "29,60,000 (65.42%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "17,75,200 (39.23%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,84,800 (26.18%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,88,800 (19.64%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "20,72,800 (45.81%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "63,200 (1.40%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "45,24,800 (100.00%)"
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only NII",
+      "Maximum Bidding Limits": "Above Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 2 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: Above Rs. 2 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 13, 2025"
+    ],
+    [
+      "Shares Offered",
+      "17,75,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "29.82"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "March 21, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 20, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Feb 19, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Feb 20, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Feb 20, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Feb 24, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 18, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,34,400"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "800",
+      "Amount": "₹1,34,400"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,68,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024"
+    ],
+    [
+      "Assets",
+      "294.29",
+      "236"
+    ],
+    [
+      "Total Income",
+      "255.09",
+      "422.59"
+    ],
+    [
+      "Profit After Tax",
+      "8.75",
+      "13.22"
+    ],
+    [
+      "Net Worth",
+      "63.16",
+      "55.45"
+    ],
+    [
+      "Reserves and Surplus",
+      "46.6",
+      "55.2"
+    ],
+    [
+      "Total Borrowing",
+      "206.28",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "38.62%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "28.30%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "23.85%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "3.13%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "0.07"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.52",
+      "Post IPO": "7.32"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "22.35",
+      "Post IPO": "22.95"
+    }
+  ],
+  "company_financials_1": [
+    [
+      "",
+      "Restated Standalone",
+      "Restated Standalone"
+    ],
+    [
+      "Period Ended",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "116.42",
+      "63.57"
+    ],
+    [
+      "Revenue",
+      "384.37",
+      "209.67"
+    ],
+    [
+      "Profit After Tax",
+      "9.86",
+      "3.16"
+    ],
+    [
+      "Net Worth",
+      "13.02",
+      "2.94"
+    ],
+    [
+      "Reserves and Surplus",
+      "13.01",
+      "3.16"
+    ]
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 24, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "TEJASCARGO"
+    ],
+    [
+      "ISIN",
+      "INE17WC01013"
+    ],
+    [
+      "Final Issue Price",
+      "₹168 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹168.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹175.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹168.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹175.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹168.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.33",
+      "Shares Offered": "11,84,800",
+      "Shares bid for": "15,78,400",
+      "Total Application": "2"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.07",
+      "Shares Offered": "8,88,800",
+      "Shares bid for": "9,52,800",
+      "Total Application": "48"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.09",
+      "Shares Offered": "20,72,800",
+      "Shares bid for": "22,68,800",
+      "Total Application": "2,836"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.15",
+      "Shares Offered": "42,09,600",
+      "Shares bid for": "48,46,400",
+      "Total Application": "2,906"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Tejas Cargo IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_4977_31012025191518.zip",
+      "text": "Tejas Cargo IPODRHP"
+    },
+    {
+      "title": "Tejas Cargo IPO RHP",
+      "href": "https://archives.nseindia.com/content/ipo/RHP_TEJASCARGO.zip",
+      "text": "Tejas Cargo IPORHP"
+    },
+    {
+      "title": "Tejas Cargo IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/TejasCargoIndiaLimited_PROSP.pdf",
+      "text": "Tejas Cargo IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company promoters are Chander Bindal and Manish Bindal.",
+  "company_contact_details": {
+    "company_name": "Tejas Cargo India Ltd.",
+    "address": "3 rd Floor, Tower B, Vatika Mindscape 12/3 , Mathura Road, Sector-27D,, NH-2,, Faridabad, ,, Haryana, , 121003, Phone, :, Email, :, Website, :",
+    "phone": "+91-129-4144812",
+    "email": "compliance.officer@tcipl.in",
+    "website": "https://www.tcipl.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in March 2021, Tejas Cargo India Limited is a logistics company located in Faridabad, Haryana, that provides supply chain transportation services by road throughout India. The company provides express road transportation services under Full Truck Load (FTL) to various sectors, including logistics, steel, e-commerce, FMCG, and white goods. As of October 30, 2024, the fleet includes 913 container trucks and 218 trailers, averaging 3.4 and 0.7 years old, respectively. As of October 31, 2024, the company has a fleet of 1,131 vehicles: 218 trailers and 913 container trucks, measuring 32 to 40 feet and with a capacity of up to 42 tonnes. As of September 30, 2024, the company has completed over and 58,943 trips and 98,913 trips during Fiscal 2024. The company operates nationwide through twenty-three branches for placements, loading, and unloading. The company has a workforce of 284 employees as of September 30, 2024. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "New Berry Capitals Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/429/",
+      "title": "About New Berry Capitals Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.17%"
+}

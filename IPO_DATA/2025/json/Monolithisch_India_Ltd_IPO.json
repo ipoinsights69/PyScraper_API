@@ -1,0 +1,424 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 12, 2025 to June 16, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 19, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹143 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "57,36,000shares(aggregating up to ₹82.02Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,88,000shares(aggregating up to ₹4.12Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "54,48,000shares(aggregating up to ₹77.91Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,60,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,17,36,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,88,000 (5.02%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "27,23,000 (47.47%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "16,33,000 (28.47%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "10,90,000 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,18,000 (14.26%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,07,000 (33.25%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "57,36,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 11, 2025"
+    ],
+    [
+      "Shares Offered",
+      "16,33,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "23.35"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 16, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 14, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jun 12, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jun 16, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jun 17, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 16, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,43,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,43,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,86,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.61%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "55.90",
+      "27.64",
+      "16.20"
+    ],
+    [
+      "Total Income",
+      "97.49",
+      "68.94",
+      "41.90"
+    ],
+    [
+      "Profit After Tax",
+      "14.49",
+      "8.51",
+      "4.54"
+    ],
+    [
+      "Net Worth",
+      "35.20",
+      "18.52",
+      "10.01"
+    ],
+    [
+      "Reserves and Surplus",
+      "19.20",
+      "16.72",
+      "8.21"
+    ],
+    [
+      "Total Borrowing",
+      "7.43",
+      "2.70",
+      "3.67"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "53.94%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "46.22%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.21"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "41.15%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "14.88%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "18.81%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "12.20"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.05",
+      "Post IPO": "6.67"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "15.79",
+      "Post IPO": "21.45"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure towards setting up of a manufacturing facility of the Company by purchase of land, building of factory shed, civil work and installation of additional plant and machinery therein",
+      "Expected Amount(₹ in crores)": "16.58"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Investment in our Subsidiary, Metalurgica India Private Limited for financing its capital expenditure towards purchase of land, building of factory shed, civil work and installation of additional plant and machinery therein",
+      "Expected Amount(₹ in crores)": "27.90"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "To meet working capital requirements",
+      "Expected Amount(₹ in crores)": "20.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 19, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "MONOLITH"
+    ],
+    [
+      "ISIN",
+      "INE1DV401010"
+    ],
+    [
+      "Final Issue Price",
+      "₹143 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹143.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹231.55"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹230.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹243.10"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹243.10"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "129.20",
+      "Shares Offered": "10,90,000",
+      "Shares bid for": "14,08,31,000",
+      "Total Application": "97"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "459.99",
+      "Shares Offered": "8,18,000",
+      "Shares bid for": "37,62,75,000",
+      "Total Application": "15,615"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "94.71",
+      "Shares Offered": "19,07,000",
+      "Shares bid for": "18,06,16,000",
+      "Total Application": "1,80,616"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "182.89",
+      "Shares Offered": "38,15,000",
+      "Shares bid for": "69,77,22,000",
+      "Total Application": "1,96,328"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Monolithisch IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/dr_03022025133836_DRHP_Monolithisch.pdf",
+      "text": "Monolithisch IPODRHP"
+    },
+    {
+      "title": "Monolithisch IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_MONOLITH.zip",
+      "text": "Monolithisch IPORHP"
+    },
+    {
+      "title": "Monolithisch IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/MonolithischIndiaLimited_PROSP.pdf",
+      "text": "Monolithisch IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company's promoters are Prabhat Tekriwal, Sharmila Tekriwal, Harsh Tekriwal, Kritish Tekriwal and Kargil Transport Private Limited.",
+  "company_contact_details": {
+    "company_name": "Monolithisch India Ltd.",
+    "address": "Plot No. 381, Village, Utaraha,, P.S. Neturia,, Purulia, ,, West Bengal, , 723101, Phone, :, Email, :, Website, :",
+    "phone": "+919155330164",
+    "email": "cs@monolithischindia.in",
+    "website": "https://monolithisch.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "mil.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in August 2018, Monolithisch India Limited manufactures and supplies specialized \"ramming mass,\" a heat insulation refractory used in the iron and steel industry induction furnaces. The company's products include SGB-777, SLM-999, BG-77, Quartzite Grain SLM -980 and SLM 980. The company is ISO certified and specializes in manufacturing specialized ramming mass for heat insulation, used by customers as a refractory consumable in induction furnaces for iron, steel, and foundry plants. The company’s major customers are iron and steel producers in Eastern India, primarily in West Bengal, Jharkhand, and Odisha. The company's manufacturing unit is situated in Purulia, West Bengal. The company's clients grew from 43 in 2023 to 61 in 2025. As of March 31, 2025, the Company has 26 full-time employees and hires contract labor for various operations in its manufacturing facility. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "61.92%"
+}

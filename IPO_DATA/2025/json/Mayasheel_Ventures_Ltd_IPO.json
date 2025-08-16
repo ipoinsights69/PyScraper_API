@@ -1,0 +1,419 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 20, 2025 to June 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 27, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹47 per share"
+    ],
+    [
+      "Lot Size",
+      "3,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "58,05,000shares(aggregating up to ₹27.28Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,91,000shares(aggregating up to ₹1.37Cr)Prabhat Financial Services Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "55,14,000shares(aggregating up to ₹25.92Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,62,45,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,20,50,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,91,000 (7.00%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "27,54,000 (66.28%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "16,50,000 (39.71%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "11,04,000 (26.57%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "8,28,000 (19.93%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "19,32,000 (46.50%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "41,55,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 19, 2025"
+    ],
+    [
+      "Shares Offered",
+      "16,50,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.76"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 24, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "3,000",
+      "Amount": "₹1,41,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "3,000",
+      "Amount": "₹1,41,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,82,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "91.97%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.76%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "99.10",
+      "92.56",
+      "79.03"
+    ],
+    [
+      "Total Income",
+      "172.05",
+      "131.14",
+      "127.10"
+    ],
+    [
+      "Profit After Tax",
+      "11.33",
+      "6.51",
+      "4.75"
+    ],
+    [
+      "Net Worth",
+      "28.84",
+      "24.09",
+      "18.06"
+    ],
+    [
+      "Reserves and Surplus",
+      "12.59",
+      "0.00",
+      "0.00"
+    ],
+    [
+      "Total Borrowing",
+      "34.06",
+      "35.05",
+      "33.23"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "42.83%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "28.62%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.60"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "42.83%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.63%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.01%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.65"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.98",
+      "Post IPO": "5.14"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "6.74",
+      "Post IPO": "9.14"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure requirements for the purchase of equipment/machineries",
+      "Expected Amount(₹ in crores)": "4.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding the Working Capital requirement",
+      "Expected Amount(₹ in crores)": "14.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 27, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "MAYASHEEL"
+    ],
+    [
+      "ISIN",
+      "INE0ZTO01018"
+    ],
+    [
+      "Final Issue Price",
+      "₹47 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹47.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹58.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹58.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹60.90"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹60.90"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "98.14",
+      "Shares Offered": "11,04,000",
+      "Shares bid for": "10,83,42,000",
+      "Total Application": "43"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "715.75",
+      "Shares Offered": "8,28,000",
+      "Shares bid for": "59,26,44,000",
+      "Total Application": "5,766"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "102.63",
+      "Shares Offered": "19,32,000",
+      "Shares bid for": "19,82,85,000",
+      "Total Application": "66,095"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "232.73",
+      "Shares Offered": "38,64,000",
+      "Shares bid for": "89,92,71,000",
+      "Total Application": "71,904"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Mayasheel Ventures IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/AD_IPO_4970_27022025154701.zip",
+      "text": "Mayasheel Ventures IPODRHP"
+    },
+    {
+      "title": "Mayasheel Ventures IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/MayasheelVenturesLimited_RHP.pdf",
+      "text": "Mayasheel Ventures IPORHP"
+    },
+    {
+      "title": "Mayasheel Ventures IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/mayasheel-ventures-limited_94879.html",
+      "text": "Mayasheel Ventures IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The company's promoters are Mr. Amit Garg, Ms. Meenu Garg and Mr. Prabhat Rajpoot.",
+  "company_contact_details": {
+    "company_name": "Mayasheel Ventures Ltd.",
+    "address": "IIIrd B-2,, Flat No.8, IInd, Nehru Nagar, Ghaziabad, ,, Uttar Pradesh, , 201001, Phone, :, Email, :, Website, :",
+    "phone": "0120-4265140",
+    "email": "cs@mayasheelventures.com",
+    "website": "https://www.mayasheelventures.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in May 2008, Mayasheel Ventures Limited constructs roads and highways for NHIDCL and other government departments. The company engages in constructing, altering, and developing complex projects like expressways, highways, flyovers, and bridges. The company undertakes projects on an EPC (Engineering, Procurement, and Construction) and BOQ (Bill of Quantity) basis. The company has engaged in electrical works, including constructing power houses, installing streetlights, and developing transmission lines. The company serves government departments, mainly generating revenue from tenders. Business Segments: As of March 31, 2025, the Company has 294 employees on the payroll. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Narnolia Financial Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/185/",
+      "title": "About Narnolia Financial Services Ltd."
+    }
+  ],
+  "listing_gain_percent": "23.4%"
+}

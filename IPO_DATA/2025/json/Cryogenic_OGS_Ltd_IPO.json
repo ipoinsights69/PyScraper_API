@@ -1,0 +1,441 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 3, 2025 to July 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 10, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹47 per share"
+    ],
+    [
+      "Lot Size",
+      "3,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "37,80,000shares(aggregating up to ₹17.77Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,89,000shares(aggregating up to ₹0.8883Cr)Spread X Securities Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "35,91,000shares(aggregating up to ₹16.88Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,05,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,42,80,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,89,000 (6.98%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "17,91,000 (66.19%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "10,74,000 (39.69%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "7,17,000 (26.50%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,40,000 (19.96%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "3,60,000 (13.30%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,80,000 (6.65%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,60,000 (46.56%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "27,06,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 2, 2025"
+    ],
+    [
+      "Shares Offered",
+      "10,74,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "5.05"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 6, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 5, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 8, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 7, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,82,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "6,000",
+      "Amount": "₹2,82,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "9,000",
+      "Amount": "₹4,23,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "21,000",
+      "Amount": "₹9,87,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "24,000",
+      "Amount": "₹11,28,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.52%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "33.85",
+      "28.35",
+      "24.00"
+    ],
+    [
+      "Total Income",
+      "33.79",
+      "25.67",
+      "22.71"
+    ],
+    [
+      "Profit After Tax",
+      "6.12",
+      "5.35",
+      "4.08"
+    ],
+    [
+      "EBITDA",
+      "7.96",
+      "6.39",
+      "5.65"
+    ],
+    [
+      "Net Worth",
+      "28.99",
+      "22.86",
+      "17.52"
+    ],
+    [
+      "Reserves and Surplus",
+      "18.49",
+      "22.40",
+      "17.02"
+    ],
+    [
+      "Total Borrowing",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "23.62%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "28.93%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "21.12%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "18.61%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "24.20%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.70"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.83",
+      "Post IPO": "4.29"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "8.06",
+      "Post IPO": "10.96"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "To Meet Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "11.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "3.96"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Public Issue Expenses",
+      "Expected Amount(₹ in crores)": "2.30"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 10, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544440"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0TL001013"
+    ],
+    [
+      "Final Issue Price",
+      "₹47 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹47.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹89.30"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹89.30"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹93.76"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹93.76"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "209.59",
+      "Shares Offered": "7,17,000",
+      "Shares bid for": "15,02,79,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1,155.38",
+      "Shares Offered": "5,40,000",
+      "Shares bid for": "62,39,07,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "773.70",
+      "Shares Offered": "12,60,000",
+      "Shares bid for": "97,48,68,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "694.90",
+      "Shares Offered": "25,17,000",
+      "Shares bid for": "1,74,90,54,000",
+      "Total Application": "1,91,388"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Cryogenic OGS IPO DRHP",
+      "href": "https://beelinemb.com/wp-content/uploads/2024/09/DRHP-Cryogenic.pdf",
+      "text": "Cryogenic OGS IPODRHP"
+    },
+    {
+      "title": "Cryogenic OGS IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_020720251055.zip",
+      "text": "Cryogenic OGS IPORHP"
+    },
+    {
+      "title": "Cryogenic OGS IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/381341/SME_IPO%20BasisOfAllotment/Prospectus_Cryogenic_20250708171102.pdf",
+      "text": "Cryogenic OGS IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Nilesh Natvarlal Patel, Mrs. Kiranben Nileshbhai Patel and Mr. Dhairya Patel.",
+  "company_contact_details": {
+    "company_name": "Cryogenic OGS Ltd.",
+    "address": "60, 61, 62, 63 POR Industrial Park, Behind Sahyog Hotel,, POR, Vadodara, ,, Gujarat, , 391243, Phone, :, Email, :, Website, :",
+    "phone": "9898867136",
+    "email": "cs@cryogenicogs.com",
+    "website": "https://www.cryogenicogs.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "cryogenic.smeipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in September 1997, Cryogenic OGS Limited manufactures and assembles high-quality measurement and filtration equipment for industries such as oil, gas, chemicals, and related fluid sectors. The company focuses on innovative and tailored services for oil, gas, chemicals, and allied fluid industry and provides customized solutions to meet the specific needs of its customers. The company provides design, process engineering, and manufacturing solutions, including fabrication, assembly, and testing facilities. Product Portfolio: The company's manufacturing unit is situated in Vadodara, Gujarat, spread across an area of 8300 Square meters. As of March 31, 2024, the company has 23 permanent employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Beeline Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/192/",
+      "title": "About Beeline Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

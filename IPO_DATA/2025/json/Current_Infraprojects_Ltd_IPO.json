@@ -1,0 +1,241 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "[.]"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price Band",
+      "[.] to [.] per share"
+    ],
+    [
+      "Lot Size",
+      ""
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "56,48,000shares(aggregating up to ₹[.]Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,68,800shares(aggregating up to ₹[.]Cr)Holani Consultants Pvt.Ltd."
+    ],
+    [
+      "Reserved for Employees",
+      "99,200shares(aggregating up to ₹[.]Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "52,80,000shares(aggregating up to ₹[.]Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,35,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,91,48,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 50% of the Net Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not less than 35.00% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII Shares Offered",
+      "Shares Offered": "Not less than 15% of the Net Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      ""
+    ],
+    [
+      "IPO Close Date",
+      ""
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM on"
+    ]
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "42.16",
+      "35.65",
+      "31.86"
+    ],
+    [
+      "Total Income",
+      "77.73",
+      "61.06",
+      "60.79"
+    ],
+    [
+      "Profit After Tax",
+      "5.09",
+      "1.49",
+      "1.51"
+    ],
+    [
+      "Net Worth",
+      "14.27",
+      "9.19",
+      "7.69"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.27",
+      "6.19",
+      "4.69"
+    ],
+    [
+      "Total Borrowing",
+      "11.74",
+      "7.83",
+      "6.09"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "43.39%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "29.94%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.82"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "35.65%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.56%"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Investment in Equity of our wholly owned subsidiary, Current Infra Dhanbad Solar Private Limited for setting up 1800 KW solar plant under RESCO Model at Indian Institute of Technology (Indian School of Mines) IIT(ISM), Dhanbad, Jharkhand",
+      "Expected Amount(in Millions)": "58.5"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding the working capital requirement of the company",
+      "Expected Amount(in Millions)": "300"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "10": [
+    [
+      ""
+    ]
+  ],
+  "prospectus_links": [
+    {
+      "title": "Current Infraprojects IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_31032025193330_DRHP.pdf",
+      "text": "Current Infraprojects IPODRHP"
+    }
+  ],
+  "promoters": "The Promoters of the Company are Mr. Sunil Singh Gangwar, Mrs. Sujata Gangwar, Mr. Satyavrat Singh and Mr. Devvrath Singh.",
+  "company_contact_details": {
+    "company_name": "Current Infraprojects Ltd.",
+    "address": "A-27, Basant Vihar, Vaishali Marg, (West), Panchyawala, Jaipur, ,, Rajasthan, , 302034, Phone, :, Email, :, Website, :",
+    "phone": "0141-6762066",
+    "email": "cs@currentinfraprojects.com",
+    "website": "https://www.currentinfra.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Established in 2013, Current Infraprojects Limited (CIPL) is an infrastructure and renewable energy company offering civil, mechanical, electrical, and water engineering services. The company specializes in Engineering, Procurement, and Construction (EPC) services, providing comprehensive solutions in Solar, Electrical, Water, and Civil EPC contracts, including interior works and road furniture, all on a fixed-sum turnkey basis. The company offers specialized Engineering Consulting in Mechanical, Electrical, and Plumbing (MEP) systems and Project Management Consulting (PMC) services. The company also engages in hospitality services by leasing a farmhouse property known asYAHVIThe Farmhouse. The company operates in 12 states in India. As of September 30, 2024, the company has completed projects totaling ₹ 23,744 Lakhs. As of February 28, 2025, the company had 67 permanent employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Holani Consultants Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/151/",
+      "title": "About Holani Consultants Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

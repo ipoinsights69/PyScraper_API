@@ -1,0 +1,500 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 13, 2025 to June 17, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 20, 2025"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹614 per share"
+    ],
+    [
+      "Lot Size",
+      "24 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "2,25,95,114shares(aggregating up to ₹1,387.34Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,44,95,114shares(aggregating up to ₹890.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "81,00,000shares of ₹1(aggregating up to ₹497.34Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "9,94,82,300shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "11,39,77,414shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,12,97,557 (50.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "67,78,533 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "45,19,024 (20.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "33,89,267 (15.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "22,59,511 (10.00%)",
+      "Maximum Allottees": "6,724"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "11,29,756 (5.00%)",
+      "Maximum Allottees": "3,362"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "79,08,290 (35.00%)",
+      "Maximum Allottees": "3,29,512"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "2,25,95,114 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 12, 2025"
+    ],
+    [
+      "Shares Offered",
+      "67,78,533"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "416.20"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 17, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 15, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jun 13, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jun 17, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jun 18, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jun 19, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jun 20, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 17, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "24",
+      "Amount": "₹14,736"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "312",
+      "Amount": "₹1,91,568"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "336",
+      "Amount": "₹2,06,304"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "1,608",
+      "Amount": "₹9,87,312"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "1,632",
+      "Amount": "₹10,02,048"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "99.88%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "80.07%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "1,096.01",
+      "511.28",
+      "252.30",
+      "221.84"
+    ],
+    [
+      "Total Income",
+      "1,067.34",
+      "761.23",
+      "387.47",
+      "361.11"
+    ],
+    [
+      "Profit After Tax",
+      "216.71",
+      "97.67",
+      "34.20",
+      "16.93"
+    ],
+    [
+      "EBITDA",
+      "321.01",
+      "150.12",
+      "57.82",
+      "38.52"
+    ],
+    [
+      "Net Worth",
+      "378.80",
+      "160.17",
+      "59.97",
+      "24.57"
+    ],
+    [
+      "Reserves and Surplus",
+      "387.96",
+      "173.42",
+      "73.22",
+      "37.82"
+    ],
+    [
+      "Total Borrowing",
+      "346.30",
+      "75.42",
+      "59.28",
+      "87.54"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROCE",
+      "Values": "81.85%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.42"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "88.73%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "12.83%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "19.79%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "38.14"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "9.82",
+      "Post IPO": "25.35"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "62.54",
+      "Post IPO": "24.22"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding certain capital expenditure of the Company.",
+      "Expected Amount(₹ in crores)": "89.86"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Investment in the wholly-owned Subsidiary, Oswal Solar, in the form of debt or equity, for funding the setting up of new manufacturing units at Karnal, Haryana.",
+      "Expected Amount(₹ in crores)": "272.76"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Pre-payment/ re-payment, in part or full, of certain outstanding borrowings availed by the Company.",
+      "Expected Amount(₹ in crores)": "280.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Investment in the wholly-owned Subsidiary, Oswal Solar, in the form of debt or equity, for repayment/prepayment, in part or full, of certain outstanding borrowings availed by Oswal Solar.",
+      "Expected Amount(₹ in crores)": "31.00"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 20, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544418"
+    ],
+    [
+      "NSE Symbol",
+      "OSWALPUMPS"
+    ],
+    [
+      "ISIN",
+      "INE0BYP01024"
+    ],
+    [
+      "Final Issue Price",
+      "₹614 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹614.00",
+      "NSE": "₹614.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹632.00",
+      "NSE": "₹634.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹621.90",
+      "NSE": "₹622.25"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹649.15",
+      "NSE": "₹652.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹624.90",
+      "NSE": "₹625.35"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "17",
+      "Neutral": "2",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "3",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "88.08",
+      "Shares Offered": "45,43,116",
+      "Shares bid for": "40,01,38,176"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "36.70",
+      "Shares Offered": "35,00,959",
+      "Shares bid for": "12,84,70,944"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "43.78",
+      "Shares Offered": "23,33,973",
+      "Shares bid for": "10,21,83,216"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "22.53",
+      "Shares Offered": "11,66,986",
+      "Shares bid for": "2,62,87,728"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "3.60",
+      "Shares Offered": "81,68,905",
+      "Shares bid for": "2,94,33,576"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "34.42",
+      "Shares Offered": "1,62,12,980",
+      "Shares bid for": "55,80,42,696"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Oswal Pumps IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/sep-2024/oswal-pumps-limited_86873.html",
+      "text": "Oswal Pumps IPODRHP"
+    },
+    {
+      "title": "Oswal Pumps IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/oswal-pumps-limited-rhp_94507.html",
+      "text": "Oswal Pumps IPORHP"
+    },
+    {
+      "title": "Oswal Pumps IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE0BYP01024_18JUN2025.pdf",
+      "text": "Oswal Pumps IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Vivek Gupta, Amulya Gupta, Shivam Gupta, Ess Aar Corporate Services Private Limited, Shorya Trading Company Private Limited and Singh Engcon Private Limited are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Oswal Pumps Ltd.",
+    "address": "Oswal Estate NH-1,, Kutail Road, P. O. Kutail,, District Karnal,, Karnal, ,, Haryana, , 132037, Phone, :, Email, :, Website, :",
+    "phone": "+91 18 4350 0307",
+    "email": "investorrelations@oswalpumps.com",
+    "website": "http://www.oswalpumps.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "oswalpumps.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2003, Oswal Pumps Limited is a manufacturer and distributor of pumps. The company offers a diverse range of products catering to domestic, agricultural, and industrial applications, including solar pumps, submersible pumps, monoblock pumps, pressure pumps, sewage pumps, electric motors, submersible winding wires & cables, and electric panels. As of August 31, 2024, the company had executed orders for 26,270 turnkey solar pumping systems directly under the PM-KUSUM Scheme for several states, including Haryana, Rajasthan, Uttar Pradesh, and Maharashtra. The company operates a manufacturing facility located in Karnal, Haryana, which covers a total land area of 41,076 square meters as of March 31, 2024. The company has a growing network of distributors across India, increasing from 473 distributors as of March 31, 2022, to 636 distributors as of March 31, 2024. Further, between April 1, 2021, and March 31, 2024, Oswal Pumps exported its products to 17 countries across the Asia-Pacific, Middle East, and North Africa regions. As of March 31, 2024, the company had a team of 164 employees.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "Axis Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/113/",
+      "title": "About Axis Capital Ltd."
+    },
+    {
+      "name": "CLSA India Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/142/",
+      "title": "About CLSA India Pvt.Ltd."
+    },
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "Nuvama Wealth Management Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/408/",
+      "title": "About Nuvama Wealth Management Ltd."
+    }
+  ],
+  "listing_gain_percent": "3.26%"
+}

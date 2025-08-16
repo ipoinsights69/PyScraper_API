@@ -1,0 +1,438 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 22, 2025 to January 24, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 29, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹294 per share"
+    ],
+    [
+      "Lot Size",
+      "50 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "75,00,000shares(aggregating up to ₹220.50Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,92,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,67,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "37,50,000 (71.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "22,50,000 (42.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "15,00,000 (28.57%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "11,25,000 (21.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "7,50,000 (14.29%)",
+      "Maximum Allottees": "1,071"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "3,75,000 (7.14%)",
+      "Maximum Allottees": "535"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "26,25,000 (50.00%)",
+      "Maximum Allottees": "52,500"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "52,50,000 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 21, 2025"
+    ],
+    [
+      "Shares Offered",
+      "22,50,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "66.15"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "February 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jan 24, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jan 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jan 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jan 28, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jan 29, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 24, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "50",
+      "Amount": "₹14,700"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "650",
+      "Amount": "₹1,91,100"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "700",
+      "Amount": "₹2,05,800"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "68",
+      "Shares": "3,400",
+      "Amount": "₹9,99,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "69",
+      "Shares": "3,450",
+      "Amount": "₹10,14,300"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.91%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "220.35",
+      "219.85",
+      "123.28",
+      "60.64"
+    ],
+    [
+      "Total Income",
+      "98.51",
+      "241.84",
+      "175.75",
+      "119.64"
+    ],
+    [
+      "Profit After Tax",
+      "24.2",
+      "59.73",
+      "50.11",
+      "38.34"
+    ],
+    [
+      "Net Worth",
+      "188.46",
+      "164.26",
+      "104.55",
+      "54.43"
+    ],
+    [
+      "Reserves and Surplus",
+      "169.26",
+      "145.06",
+      "99.74",
+      "49.63"
+    ],
+    [
+      "Total Borrowing",
+      "0.71",
+      "0.86",
+      "1.15",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "36.36%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "76.99%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.01"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "36.36%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "25.03%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.01"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "31.11",
+      "Post IPO": "18.13"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.45",
+      "Post IPO": "16.22"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 29, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544345"
+    ],
+    [
+      "NSE Symbol",
+      "DENTA"
+    ],
+    [
+      "ISIN",
+      "INE0R4L01018"
+    ],
+    [
+      "Final Issue Price",
+      "₹294 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "BE"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹294.00",
+      "NSE": "₹294.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹330.00",
+      "NSE": "₹325.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹325.05",
+      "NSE": "₹325.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹346.45",
+      "NSE": "₹341.25"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹346.45",
+      "NSE": "₹341.25"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "13",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "236.94",
+      "Shares Offered": "15,00,000",
+      "Shares bid for": "35,54,07,600"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "507.07",
+      "Shares Offered": "11,25,000",
+      "Shares bid for": "57,04,54,850"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "556.49",
+      "Shares Offered": "7,50,000",
+      "Shares bid for": "41,73,70,050"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "408.23",
+      "Shares Offered": "3,75,000",
+      "Shares bid for": "15,30,84,800"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "90.38",
+      "Shares Offered": "26,25,000",
+      "Shares bid for": "23,72,46,800"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "221.54",
+      "Shares Offered": "52,50,000",
+      "Shares bid for": "1,16,31,09,250"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Denta Water IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/corporate/DRHP_DentaWateraddendum.zip",
+      "text": "Denta Water IPODRHP"
+    },
+    {
+      "title": "Denta Water IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/denta-water-and-infra-solutions-limited-prospectus_91337.html",
+      "text": "Denta Water IPORHP"
+    },
+    {
+      "title": "Denta Water IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/denta-water-and-infra-solutions-limited-prospectus_91337.html",
+      "text": "Denta Water IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Sowbhagyamma, Sujith TR, C Mruthyunjaya Swamy and Hema HM are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Denta Water & Infra Solutions Ltd.",
+    "address": "40, 3rd floor,, Sri Lakshminarayana Mansion, South End Road,, Basavanagudi, South Bangalore 560 004, Bangalore Urban, ,, Karnataka, Phone, :, Email, :, Website, :",
+    "phone": "+91-080-42106509",
+    "email": "cs@denta.co.in",
+    "website": "http://www.denta.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Integrated Registry Management Services Pvt.Ltd.",
+    "phone": "044 - 28140801",
+    "email": "vijayagopal@integratedindia.in",
+    "website": "https://www.integratedregistry.in/RegistrarsToSTA.aspx?OD=1"
+  },
+  "about_company": {
+    "description": "Incorporated in 2016, Denta Water and Infra Solutions Limited is a growing water and infrastructure solutions company engaged in designing, installing, and commissioning water management infrastructure projects with expertise in groundwater recharge projects. The company has experience in water engineering and EPC services, the company specializes in infrastructure projects, including groundwater recharging through recycled water, addressing growing water solution demands. The company has successfully executed major projects like Byrapura, Hiremagaluru LIS, and KC Valley, contributing to Bengaluru's wastewater management and supporting the Government's Jal Jeevan Mission. The company owns 98 acres of land in Madikeri, Karnataka, producing coffee, pepper, and cardamom. Additionally, it has a beach resort in Udupi, generating revenue through a facility management agreement. Services: The company provides a comprehensive range of water management services like  As of November 30, 2024, the company has executed 32 water management projects 11 as the main contractor, 1 in a joint venture, and 20 as a sub-contractor. In addition, the company undertakes construction projects on railways and highways. As of November 30, 2024, the company had 89 permanent employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "SMC Capitals Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/120/",
+      "title": "About SMC Capitals Ltd."
+    }
+  ],
+  "listing_gain_percent": "10.54%"
+}

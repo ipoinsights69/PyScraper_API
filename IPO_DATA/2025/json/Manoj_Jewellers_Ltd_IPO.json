@@ -1,0 +1,371 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 5, 2025 to May 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "May 12, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹54 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "30,00,000shares(aggregating up to ₹16.20Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,52,000shares(aggregating up to ₹0.8208Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "28,48,000shares(aggregating up to ₹15.38Cr)"
+    ],
+    [
+      "Issue Type",
+      "Fixed PriceIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "59,85,628shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "89,85,628shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,52,000 (5.07%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "14,24,000 (47.47%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "14,24,000 (47.47%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "30,00,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, May 5, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, May 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, May 8, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, May 9, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, May 9, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, May 12, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 7, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "2,000",
+      "Amount": "₹1,08,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "2,000",
+      "Amount": "₹1,08,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,16,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.99%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "63.28%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "34.68",
+      "26.22",
+      "12.99",
+      "15.18"
+    ],
+    [
+      "Total Income",
+      "42.97",
+      "43.38",
+      "13.64",
+      "6.76"
+    ],
+    [
+      "Profit After Tax",
+      "3.77",
+      "3.24",
+      "0.62",
+      "0.36"
+    ],
+    [
+      "Net Worth",
+      "13.57",
+      "9.8",
+      "6.56",
+      "2.43"
+    ],
+    [
+      "Reserves and Surplus",
+      "7.58",
+      "3.81",
+      "0.57",
+      "0.77"
+    ],
+    [
+      "Total Borrowing",
+      "18.82",
+      "15.38",
+      "5.67",
+      "12.01"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "39.63%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "30.57%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.57"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "33.08%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "7.48%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.30"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "5.42",
+      "Post IPO": "5.59"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.97",
+      "Post IPO": "9.66"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/ prepayment of certain borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "13.23"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "1.67"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "May 12, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544400"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0MV001018"
+    ],
+    [
+      "Final Issue Price",
+      "₹54 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹54.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹53.95"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹51.26"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹53.95"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹53.77"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.27",
+      "Shares Offered": "14,24,000",
+      "Shares bid for": "18,08,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.01",
+      "Shares Offered": "14,24,000",
+      "Shares bid for": "14,36,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.14",
+      "Shares Offered": "28,48,000",
+      "Shares bid for": "32,44,000",
+      "Total Application": "846"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Manoj Jewellers IPO DRHP",
+      "href": "https://www.bsesme.com/download/310113/DraftProspectusMJL_20241224200652.pdf",
+      "text": "Manoj Jewellers IPODRHP"
+    },
+    {
+      "title": "Manoj Jewellers IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/apr-2025/manoj-jewellers-limited_93700.html",
+      "text": "Manoj Jewellers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "S Manojkumar, Raj Kumari M, S Sunil and Shalu are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Manoj Jewellers Ltd.",
+    "address": "No. 59,, NSC Bose Road,, Sowcarpet,, Chennai, ,, Tamil Nadu, , 600079, Phone, :, Email, :, Website, :",
+    "phone": "044  4204 9741",
+    "email": "investor@manojjewellerslimited.com",
+    "website": "http://www.manojjewellerslimited.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in 2007, Manoj Jewellers Limited is engaged in the retail business of various jewellery and ornaments made out of gold and diamonds studded with precious and semiprecious stones. They are particularly known for their wide range of gold jewellery that includes items such as earrings, rings, necklaces, bracelets, and pendants. The company ensures product quality through strict procedures, timely delivery, and competitive prices. It offers regular designs, guarantees on-time delivery, and BIS hallmarked jewellery for customer confidence in purity. The company offers a range of jewellery, including rings, earrings, pendants, bracelets, necklaces, bangles, and wedding jewellery. It operates a showroom at No. 59, NSC Bose Road, Sowcarpet, Chennai. Products:  As of April 28, 2025, the company has 14 employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Jawa Capital Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/421/",
+      "title": "About Jawa Capital Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-0.09%"
+}

@@ -1,0 +1,396 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 25, 2025 to June 27, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹92 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "32,49,600shares(aggregating up to ₹29.90Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,63,200shares(aggregating up to ₹1.50Cr)Asnani Stock Broker Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "30,86,400shares(aggregating up to ₹28.39Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "91,09,088shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,23,58,688shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,63,200 (5.02%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "14,65,200 (45.09%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "14,66,400 (45.13%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "32,49,600 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 27, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,10,400"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,10,400"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,20,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.04%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.31%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "44.19",
+      "24.80",
+      "4.81"
+    ],
+    [
+      "Total Income",
+      "75.19",
+      "65.14",
+      "2.38"
+    ],
+    [
+      "Profit After Tax",
+      "6.19",
+      "5.02",
+      "0.06"
+    ],
+    [
+      "EBITDA",
+      "9.48",
+      "7.39",
+      "0.09"
+    ],
+    [
+      "Net Worth",
+      "16.90",
+      "9.70",
+      "1.07"
+    ],
+    [
+      "Reserves and Surplus",
+      "7.79",
+      "5.19",
+      "0.07"
+    ],
+    [
+      "Total Borrowing",
+      "12.27",
+      "5.52",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "36.66%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "30.86%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.73"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "36.66%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.25%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.62%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.36"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.80",
+      "Post IPO": "5.01"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "13.53",
+      "Post IPO": "18.36"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working capital requirement.",
+      "Expected Amount(₹ in crores)": "16.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment of portion of certain borrowings availed by the Company.",
+      "Expected Amount(₹ in crores)": "3.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": ""
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Issue Expenses.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544428"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0SC101013"
+    ],
+    [
+      "Final Issue Price",
+      "₹92 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹92.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹73.60"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹69.92"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹73.60"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹69.92"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "2"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.01",
+      "Shares Offered": "1,54,000",
+      "Shares bid for": "1,54,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "2.09",
+      "Shares Offered": "14,65,200",
+      "Shares bid for": "30,68,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "7.06",
+      "Shares Offered": "14,66,400",
+      "Shares bid for": "1,03,59,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "4.40",
+      "Shares Offered": "30,85,600",
+      "Shares bid for": "1,35,82,800",
+      "Total Application": "13,500"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Supertech EV IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/317363/SME_IPO/DRHP%20Addendum-Supertech_20241025160338.pdf",
+      "text": "Supertech EV IPODRHP"
+    },
+    {
+      "title": "Supertech EV IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&%20GID_240620252141.zip",
+      "text": "Supertech EV IPORHP"
+    },
+    {
+      "title": "Supertech EV IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/317363/SME_IPO%20BasisOfAllotment/Prospectus_Supertech_20250630154241.pdf",
+      "text": "Supertech EV IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Yetender Sharma, Mr. Jitender Kumar Sharma, and Ms. Geetanjali Sharma are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Supertech EV Ltd.",
+    "address": "Plot No. 150, Sector- 16,, PhaseI,, Bahadur Garh,, Jhajjar, ,, Haryana, , 124507, Phone, :, Email, :, Website, :",
+    "phone": "+91-1276-462166",
+    "email": "compliances@supertechev.in",
+    "website": "http://www.supertechev.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Skyline Financial Services Pvt.Ltd.",
+    "phone": "02228511022",
+    "email": "ipo@skylinerta.com",
+    "website": "https://www.skylinerta.com/ipo.php"
+  },
+  "about_company": {
+    "description": "Incorporated in 2022, Supertech EV Limited is engaged in the manufacturing of electric vehicles (EVs) in India. The company’s product portfolio includes 12 models, comprising 8 variants of electric two-wheelers and 4 variants of E-Rickshaws. Supertech EV Limited has built a distribution network of 445 distributors and has a presence across 19 states in India, including Delhi, Haryana, Punjab, Himachal Pradesh, Uttarakhand, Rajasthan, Uttar Pradesh, Gujarat, Madhya Pradesh, Jharkhand, Bihar, Maharashtra, Chhattisgarh, Odisha, Telangana, Karnataka, Andhra Pradesh, and Assam. Products: As of June 30, 2024, the company employs 115 people. The company’s top distributors include Gk Autovehicles Private Limited, Aziz Automobiles, Najon Digitel, Hindustan Energysavers, Kisan Auto Mobiles, Bhupender Hari Enterprises, Supertech Auto Agency (Nangloi), Krisha Electric Vehicle, E Ashwa Automotive Pvt Ltd, EVS Tritech India, EV World Motors, Green Wheels Auto, and Electra E-Mobility. The company’s top creditors include Akash Indchi Imports & Export Co., Fengxian Enland Internation Trading Co. Ltd, Supertech Auto Agency, Yuki Electric India Private Limited, Om Steels, A. S. T. Pipes Pvt. Ltd, Eastman Auto & Power Ltd, Emercion Industries LLP, B.H. Enterprises, EVS Tritech India, Laxmi Components, Powerlink Battery Systems, and New Era Trading Co.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Corporate Makers Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/440/",
+      "title": "About Corporate Makers Capital Ltd."
+    }
+  ],
+  "listing_gain_percent": "-20.0%"
+}

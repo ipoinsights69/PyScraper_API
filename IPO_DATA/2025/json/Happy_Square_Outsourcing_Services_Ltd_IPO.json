@@ -1,0 +1,440 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 3, 2025 to July 7, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 10, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹76 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "31,90,400shares(aggregating up to ₹24.25Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,88,000shares(aggregating up to ₹2.19Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "29,02,400shares(aggregating up to ₹22.06Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "84,10,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,16,00,400shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,88,000 (9.03%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "14,48,000 (45.39%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,68,800 (27.23%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,79,200 (18.15%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,36,800 (13.69%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,91,200 (9.13%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,45,600 (4.56%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,17,600 (31.90%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "31,90,400 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 2, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,68,800"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "6.60"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 7, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 6, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jul 3, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jul 7, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jul 8, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 7, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,43,200"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,43,200"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "4,800",
+      "Amount": "₹3,64,800"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "12,800",
+      "Amount": "₹9,72,800"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "14,400",
+      "Amount": "₹10,94,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "84.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "60.89%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "39.64",
+      "28.38",
+      "14.32"
+    ],
+    [
+      "Total Income",
+      "97.68",
+      "69.54",
+      "52.80"
+    ],
+    [
+      "Profit After Tax",
+      "5.90",
+      "4.39",
+      "1.79"
+    ],
+    [
+      "EBITDA",
+      "9.45",
+      "6.64",
+      "2.85"
+    ],
+    [
+      "Net Worth",
+      "12.48",
+      "6.57",
+      "2.14"
+    ],
+    [
+      "Reserves and Surplus",
+      "12.47",
+      "6.52",
+      "2.13"
+    ],
+    [
+      "Total Borrowing",
+      "14.59",
+      "10.98",
+      "6.57"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "61.97%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "57.75%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.17"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "61.97%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.06%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "9.70%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.12"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.02",
+      "Post IPO": "5.09"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.83",
+      "Post IPO": "14.93"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "19.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": "3.48"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 10, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "WHITEFORCE"
+    ],
+    [
+      "ISIN",
+      "INE0TLP01015"
+    ],
+    [
+      "Final Issue Price",
+      "₹76 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹76.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹77.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹77.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹80.85"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹80.85"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "7.16",
+      "Shares Offered": "5,79,200",
+      "Shares bid for": "41,47,200",
+      "Total Application": "3"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "2.24",
+      "Shares Offered": "4,36,800",
+      "Shares bid for": "9,77,600",
+      "Total Application": "65"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "2.12",
+      "Shares Offered": "10,17,600",
+      "Shares bid for": "21,60,000",
+      "Total Application": "675"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "3.58",
+      "Shares Offered": "20,33,600",
+      "Shares bid for": "72,84,800",
+      "Total Application": "743"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Happy Square Outsourcing IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_30012025182411_DRHP_HappySquare.pdf",
+      "text": "Happy Square Outsourcing IPODRHP"
+    },
+    {
+      "title": "Happy Square Outsourcing IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_WHITEFORCE.zip",
+      "text": "Happy Square Outsourcing IPORHP"
+    },
+    {
+      "title": "Happy Square Outsourcing IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/HappySquareOutsourcingServicesLimited_PROSP.pdf",
+      "text": "Happy Square Outsourcing IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Shraddha Rajpal and Nalini Rajpal.",
+  "company_contact_details": {
+    "company_name": "Happy Square Outsourcing Services Ltd.",
+    "address": "240, Nagpur Road, Madan Mahal,, Jabalpur, ,, Madhya Pradesh, , 482008, Phone, :, Email, :, Website, :",
+    "phone": "0761-4083591",
+    "email": "info@white-force.com",
+    "website": "https://www.white-force.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Purva Sharegistry (India) Pvt.Ltd.",
+    "phone": "+91-022-23018261",
+    "email": "newissue@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "about_company": {
+    "description": "Incorporated in April 2017, Happy Square Outsourcing Services specializes in HR outsourcing, focusing on recruitment, payroll, onboarding, and flexible staffing. The company is involved in a tech-based human resource outsourcing business focusing on end-to-end solutions. The company's services include Recruitment, Payroll, Onboarding and flexible staffing. The company is an ISO 9001:2015 certified company. The company utilizes a large talent pool to meet staffing needs for businesses in India and the US, emphasizing technology-based solutions and a comprehensive network to source qualified candidates, acting as a third-party provider for workforce management through robust recruitment and HR capabilities. Happy Square operates in both the Indian and US markets, understanding the specific needs of each region for staffing solutions. As of July 31, 2024, the company has 4,225 personnel deployed at various locations for its clients. As of July 31 2024, the company had 151 department employees. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Corpwis Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/420/",
+      "title": "About Corpwis Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "1.32%"
+}

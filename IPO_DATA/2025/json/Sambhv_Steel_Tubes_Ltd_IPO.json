@@ -1,0 +1,516 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 25, 2025 to June 27, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹82 per share"
+    ],
+    [
+      "Lot Size",
+      "182 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "6,58,69,291shares(aggregating up to ₹540.13Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "5,36,74,171shares(aggregating up to ₹440.13Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "1,21,95,120shares of ₹10(aggregating up to ₹100.00Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹4.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "24,10,02,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "29,46,76,171shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "3,27,74,389 (49.76%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "1,96,64,633 (29.85%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "1,31,09,756 (19.90%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "98,32,317 (14.93%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "65,54,878 (9.95%)",
+      "Maximum Allottees": "2,572"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "32,77,439 (4.98%)",
+      "Maximum Allottees": "1,286"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "2,29,42,073 (34.83%)",
+      "Maximum Allottees": "1,26,055"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "3,20,512 (0.49%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "6,58,69,291 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 24, 2025"
+    ],
+    [
+      "Shares Offered",
+      "1,96,64,633"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "161.25"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 29, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 27, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jun 25, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 2, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 27, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "182",
+      "Amount": "₹14,924"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "2,366",
+      "Amount": "₹1,94,012"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "2,548",
+      "Amount": "₹2,08,936"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "12,194",
+      "Amount": "₹9,99,908"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "12,376",
+      "Amount": "₹10,14,832"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "71.9%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "57.4%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "1,411.82",
+      "940.13",
+      "552.14",
+      "458.51"
+    ],
+    [
+      "Total Income",
+      "1,018.81",
+      "1,289.38",
+      "939.00",
+      "820.75"
+    ],
+    [
+      "Profit After Tax",
+      "40.69",
+      "82.44",
+      "60.38",
+      "72.11"
+    ],
+    [
+      "EBITDA",
+      "106.37",
+      "159.87",
+      "117.30",
+      "124.52"
+    ],
+    [
+      "Net Worth",
+      "478.46",
+      "438.28",
+      "210.40",
+      "149.30"
+    ],
+    [
+      "Reserves and Surplus",
+      "",
+      "197.28",
+      "190.31",
+      "129.21"
+    ],
+    [
+      "Total Borrowing",
+      "619.15",
+      "346.88",
+      "282.77",
+      "241.29"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "25.42%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17.66%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.80"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "25.42%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.41%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "12.43%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.51"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "3.42",
+      "Post IPO": "1.84"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "23.97",
+      "Post IPO": "44.54"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Pre-payment or scheduled re-payment of a portion of certain outstanding borrowings availed by the Company; and",
+      "Expected Amount(₹ in crores)": "390.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 2, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544430"
+    ],
+    [
+      "NSE Symbol",
+      "SAMBHV"
+    ],
+    [
+      "ISIN",
+      "INE12NJ01018"
+    ],
+    [
+      "Final Issue Price",
+      "₹82 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹82.00",
+      "NSE": "₹82.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹110.10",
+      "NSE": "₹110.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹96.17",
+      "NSE": "₹96.25"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹110.89",
+      "NSE": "₹111.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹97.58",
+      "NSE": "₹97.59"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "8",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "1",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "66.36",
+      "Shares Offered": "1,31,09,755",
+      "Shares bid for": "86,99,84,024"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "33.88",
+      "Shares Offered": "98,32,917",
+      "Shares bid for": "33,31,75,388"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "35.82",
+      "Shares Offered": "65,54,878",
+      "Shares bid for": "23,48,23,862"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "30.01",
+      "Shares Offered": "32,77,439",
+      "Shares bid for": "9,83,51,526"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "8.56",
+      "Shares Offered": "2,29,42,073",
+      "Shares bid for": "19,63,29,042"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "5.71",
+      "Shares Offered": "3,20,513",
+      "Shares bid for": "18,31,466"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "30.33",
+      "Shares Offered": "4,62,04,657",
+      "Shares bid for": "1,40,13,19,920"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Sambhv Steel Tubes IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/oct-2024/sambhv-steel-tubes-limited_87282.html",
+      "text": "Sambhv Steel Tubes IPODRHP"
+    },
+    {
+      "title": "Sambhv Steel Tubes IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/sambhv-steel-tubes-limited-rhp_94680.html",
+      "text": "Sambhv Steel Tubes IPORHP"
+    },
+    {
+      "title": "Sambhv Steel Tubes IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/sambhv-steel-tubes-limited-prospectus_94963.html",
+      "text": "Sambhv Steel Tubes IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Brijlal Goyal, Suresh Kumar Goyal, Vikas Kumar Goyal, Sheetal Goyal, Shashank Goyal and Rohit Goyal are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Sambhv Steel Tubes Ltd.",
+    "address": "Office No. 501 to 511,, Harshit Corporate,, Amanaka, Raipur, ,, Chhattisgarh, , 492001, Phone, :, Email, :, Website, :",
+    "phone": "+91 771 2222 360",
+    "email": "cs@sambhv.com",
+    "website": "http://www.sambhv.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "sstl.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2017, Sambhv Steel Tubes Limited is a manufacturer of electric resistance welded (“ERW”) steel pipes and structural tubes (hollow section) in India. The company's manufacturing facility is located in Village - Sarora, Tehsil Tilda, Raipur (“Sarora (Tilda) Facility”) in the mineral-rich state of Chhattisgarh. The company's iron ore is sourced from “Navratna” public sector undertaking (“PSU”) mining company’s mines and coal from a “Maharatna” PSU through one of its highest coal producing subsidiary whose mines are Asia’s largest coal mines and are merely 250 kilometres from our Sarora (Tilda) Facility. As of March 31, 2024, The company has have a wide distribution network in India which extends across 15 states and one union territory as of December 31, 2024. The company has a widespread presence in the Indian states of Chhattisgarh, Maharashtra, Gujarat, Haryana, Rajasthan, Uttar Pradesh, Madhya Pradesh and Telangana. Sambhv Steel Tubes Limited's sales and marketing team comprises 23 personnel, as of July 31, 2024. Products: Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Nuvama Wealth Management Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/408/",
+      "title": "About Nuvama Wealth Management Ltd."
+    },
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    }
+  ],
+  "listing_gain_percent": "34.15%"
+}

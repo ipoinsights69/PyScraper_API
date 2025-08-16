@@ -1,0 +1,405 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "February 12, 2025 to February 14, 2025"
+    ],
+    [
+      "Listing Date",
+      "February 19, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "30,00,000shares(aggregating up to ₹27.00Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,12,800shares(aggregating up to ₹1.92Cr)Wiinance Financial Services Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "27,87,200shares(aggregating up to ₹25.08Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "81,43,527shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,11,43,527shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,12,800 (9.82%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "13,90,400 (64.18%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,33,600 (38.48%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,56,800 (25.70%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,19,200 (19.35%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,77,600 (45.13%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "21,66,400 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "February 11, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,33,600"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.50"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "March 18, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "May 17, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Feb 12, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Feb 14, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Feb 17, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Feb 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Feb 19, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onFebruary 14, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,600",
+      "Amount": "₹1,44,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,88,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "92.88%"
+    ],
+    [
+      "Share Holding Post Issue",
+      ""
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "18.33",
+      "10.99",
+      "11.9",
+      "12.13"
+    ],
+    [
+      "Total Income",
+      "21.58",
+      "31.45",
+      "26.63",
+      "24.83"
+    ],
+    [
+      "Profit After Tax",
+      "2.49",
+      "3.56",
+      "1.99",
+      "0.79"
+    ],
+    [
+      "Net Worth",
+      "10.93",
+      "3.21",
+      "-0.35",
+      "-2.34"
+    ],
+    [
+      "Reserves and Surplus",
+      "2.78",
+      "3.06",
+      "-0.5",
+      "-2.49"
+    ],
+    [
+      "Total Borrowing",
+      "0.39",
+      "1.19",
+      "3.8",
+      "5.55"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "249.01%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "123.06%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.37"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "110.91%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.53%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "22.17"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.38",
+      "Post IPO": "4.46"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "20.57",
+      "Post IPO": "20.17"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "February 19, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "VOLERCAR"
+    ],
+    [
+      "ISIN",
+      "INE241X01014"
+    ],
+    [
+      "Final Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹85.50"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹93.90"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹91.45"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "9.34",
+      "Shares Offered": "5,56,800",
+      "Shares bid for": "52,03,200",
+      "Total Application": "7"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "18.56",
+      "Shares Offered": "4,19,200",
+      "Shares bid for": "77,79,200",
+      "Total Application": "528"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "13.94",
+      "Shares Offered": "9,77,600",
+      "Shares bid for": "1,36,27,200",
+      "Total Application": "8,517"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "13.62",
+      "Shares Offered": "19,53,600",
+      "Shares bid for": "2,66,09,600",
+      "Total Application": "9,052"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Voler Car IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_17092024210500_VOLER_CAR_DRHP_17092024_.pdf",
+      "text": "Voler Car IPODRHP"
+    },
+    {
+      "title": "Voler Car IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/feb-2025/voler-car-limited_91731.html",
+      "text": "Voler Car IPORHP"
+    },
+    {
+      "title": "Voler Car IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/VolerCarLimited_PROSP.pdf",
+      "text": "Voler Car IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Vikas Parasrampuria and Mr. Pawan Parasrampuria are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Voler Car Ltd.",
+    "address": "22 Burtolla Street,, 4th Floor,, Kolkata, ,, West Bengal, , 700007, Phone, :, Email, :, Website, :",
+    "phone": "+91 9147359888",
+    "email": "compliance@volercars.com",
+    "website": "https://volercars.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "volercar.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2010, Voler Cars Limited provides reliable and efficient employee transportation services (ETS) to large MNCs and corporate clients. The company offers comprehensive home-to-office transportation with 24/7 customer service, dedicated teams, and over 2,500 vehicles, including cars, SUVs, electric vehicles, buses, and tempo travellers. In FY 2023-24, the company completed approximately 3,23,550 trips, averaging over 884 visits daily. The company operates in Kolkata, Mumbai, Pune, Bhubaneshwar, Delhi-NCR, and Ahmedabad, offering corporate transportation with vendor-sourced and leased vehicles, ensuring timely pick-ups and drop-offs per service level agreements (SLA). The company integrates GPS tracking with third-party technology to manage corporate travel, handling reservations, tracking, incident response, and client SLAs through a unified system. The company offers Employee Transportation Services (ETS) in Kolkata, Mumbai, Pune, Bhubaneswar, Delhi-NCR, and Ahmedabad, ensuring reliable home-to-office transportation with 24/7 operations for corporate clients. As of December 31, 2024, the company has 774 Employees. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}

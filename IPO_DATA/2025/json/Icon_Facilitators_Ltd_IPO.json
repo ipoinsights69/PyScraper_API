@@ -1,0 +1,386 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 24, 2025 to June 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹91 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "21,00,000shares(aggregating up to ₹19.11Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,05,600shares(aggregating up to ₹0.9610Cr)Nikunj Stock Brokers Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "19,94,400shares(aggregating up to ₹18.15Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "57,59,600shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "78,59,600shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,05,600 (5.03%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "9,46,800 (45.09%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,46,800 (45.09%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "21,00,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,09,200"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,200",
+      "Amount": "₹1,09,200"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,18,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.65%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "70.09%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "23.95",
+      "17.66",
+      "14.93"
+    ],
+    [
+      "Total Income",
+      "58.07",
+      "49.85",
+      "42.96"
+    ],
+    [
+      "Profit After Tax",
+      "4.47",
+      "1.76",
+      "1.92"
+    ],
+    [
+      "EBITDA",
+      "6.55",
+      "2.89",
+      "3.12"
+    ],
+    [
+      "Net Worth",
+      "12.69",
+      "5.95",
+      "4.19"
+    ],
+    [
+      "Reserves and Surplus",
+      "6.93",
+      "5.94",
+      "4.18"
+    ],
+    [
+      "Total Borrowing",
+      "0.00",
+      "0.00",
+      "0.00"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "35.23%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "37.09%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.35"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "35.23%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "7.70%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "11.28%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.05"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.76",
+      "Post IPO": "5.69"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "11.72",
+      "Post IPO": "16"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(₹ in crores)": "16.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544426"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0Y0E01012"
+    ],
+    [
+      "Final Issue Price",
+      "₹91 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹91.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹85.50"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹90.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹85.50"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "1",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "2.18",
+      "Shares Offered": "1,00,800",
+      "Shares bid for": "2,19,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "0.92",
+      "Shares Offered": "9,46,800",
+      "Shares bid for": "8,67,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "4.10",
+      "Shares Offered": "9,46,800",
+      "Shares bid for": "38,80,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.49",
+      "Shares Offered": "19,94,400",
+      "Shares bid for": "49,68,000",
+      "Total Application": "4,589"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Icon Facilitators IPO Addendum DRHP",
+      "href": "https://www.bseindia.com/corporates/download/368878/AddendumAndDRHP_20250312184443.pdf",
+      "text": "Icon Facilitators IPOAddendum DRHP"
+    },
+    {
+      "title": "Icon Facilitators IPO RHP",
+      "href": "https://www.bsesme.com/download/368878/SME_IPO%20Open/ICON_%20Red%20Herring%20Prospectus_16%20June_20250620115330.pdf",
+      "text": "Icon Facilitators IPORHP"
+    },
+    {
+      "title": "Icon Facilitators IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/icon-facilitators-limited_95559.html",
+      "text": "Icon Facilitators IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Dinesh Makhija and Ms. Pooja Makhija are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Icon Facilitators Ltd.",
+    "address": "C-28,, 2nd Floor Community Centre,, Janakpuri, New Delhi, ,, New Delhi, , 110058, Phone, :, Email, :, Website, :",
+    "phone": "+91-9625930130",
+    "email": "cs@iconf.in",
+    "website": "http://www.iconf.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in 2002, Icon Facilitators Limited (IFL) is a facilities management company offering integrated technical services across India. The company provides a comprehensive range of services, including electrical system management, HVAC operations, water treatment, fire and safety equipment maintenance, and more. The company offers Integrated Facilities Management, covering soft services like housekeeping and pest control, and hard services like HVAC, electrical management, fire safety, and building operations. The company operates mainly in Northern India with 127 sites, recently expanding to Bengaluru for growth. Mr. Basil Arun Keelor leads South India operations to strengthen the company’s presence. Products: As on May 15, 2025, the company has 1,955 employees on roll. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Khambatta Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/154/",
+      "title": "About Khambatta Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "-1.1%"
+}

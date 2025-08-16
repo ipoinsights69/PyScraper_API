@@ -1,0 +1,336 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 18, 2025 to August 20, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹51 to ₹54 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,37,50,000shares(aggregating up to ₹74.25Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "6,88,000shares(aggregating up to ₹3.72Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "1,03,12,000shares(aggregating up to ₹55.68Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "27,50,000shares of ₹2(aggregating up to ₹14.85Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "1,30,62,000shares(aggregating up to ₹70.53Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,08,91,755shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,18,91,755shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "6,88,000 (5.00%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,32,000 (0.96%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "51,72,000 (37.61%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "34,48,000 (25.08%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "17,24,000 (12.54%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "77,58,000 (56.42%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,37,50,000 (100.00%)"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 20, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 21, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Aug 22, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 22, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 25, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 20, 2025"
+    ]
+  ],
+  "5": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,16,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,16,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "6,000",
+      "Amount": "₹3,24,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "9",
+      "Shares": "18,000",
+      "Amount": "₹9,72,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "10",
+      "Shares": "20,000",
+      "Amount": "₹10,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "73.50%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "46.67",
+      "36.49",
+      "18.16"
+    ],
+    [
+      "Total Income",
+      "105.01",
+      "102.49",
+      "46.71"
+    ],
+    [
+      "Profit After Tax",
+      "11.67",
+      "10.90",
+      "2.79"
+    ],
+    [
+      "EBITDA",
+      "15.51",
+      "14.82",
+      "3.74"
+    ],
+    [
+      "Net Worth",
+      "27.54",
+      "15.87",
+      "4.96"
+    ],
+    [
+      "Reserves and Surplus",
+      "19.36",
+      "15.86",
+      "4.95"
+    ],
+    [
+      "Total Borrowing",
+      "0.00",
+      "0.00",
+      "0.06"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "53.78%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "57.29%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "53.78%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "11.17%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.85%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "8.02"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.85",
+      "Post IPO": "2.25"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.92",
+      "Post IPO": "24.01"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Capital Expenditure",
+      "Expected Amount(in Million)": "180"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Working Capital Requirement",
+      "Expected Amount(in Million)": "249.2"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Million)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "12": [
+    [
+      ""
+    ]
+  ],
+  "prospectus_links": [
+    {
+      "title": "Studio LSD IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_24012025181402_DRHP_StudioLSD.pdf",
+      "text": "Studio LSD IPODRHP"
+    },
+    {
+      "title": "Studio LSD IPO RHP",
+      "href": "https://corpwis.com/wp-content/uploads/2025/08/RHP_StudioLSD.pdf",
+      "text": "Studio LSD IPORHP"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Prateek Sharma, Mrs. Suman Sharma and Mr. Parth Shah.",
+  "company_contact_details": {
+    "company_name": "Studio LSD Ltd.",
+    "address": "Unit No.302,301, 3rd Floor, Laxmi Mall,, Laxmi Industrial Estate New Link Road, Andheri West,, Mumbai, ,, Maharashtra, , 400053, Phone, :, Email, :, Website, :",
+    "phone": "+91 91371 95384",
+    "email": "compliance@studiolsd.in",
+    "website": "https://www.studiolsd.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Purva Sharegistry (India) Pvt.Ltd.",
+    "phone": "+91-022-23018261",
+    "email": "newissue@purvashare.com",
+    "website": "https://www.purvashare.com/investor-service/ipo-query"
+  },
+  "about_company": {
+    "description": "Incorporated in February 2017, Studio LSD Limited is a multimedia production house specializing in original content for television and OTT platforms, known for innovative storytelling and high-quality, genre-defining shows across India, focusing on captivating digital series with a strong creative vision. The company engages in all aspects of content creation, including idea development, distribution, project financing, hiring actors and crew, scouting locations, building sets, managing budgets, and overseeing production and post-production. The company creates content for television and OTT platforms. The company's services include the following As of January 31 2025, the company has 16 department employees. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Corpwis Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/420/",
+      "title": "About Corpwis Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

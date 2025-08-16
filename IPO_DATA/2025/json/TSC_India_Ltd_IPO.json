@@ -1,0 +1,441 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 23, 2025 to July 25, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 30, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "Lot Size",
+      "2,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "36,98,000shares(aggregating up to ₹25.89Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,86,000shares(aggregating up to ₹1.30Cr)Prabhat Financial Services Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "35,12,000shares(aggregating up to ₹24.58Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,03,50,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,40,48,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,86,000 (5.03%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "17,52,000 (47.38%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "10,50,000 (28.39%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "7,02,000 (18.98%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "5,28,000 (14.28%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "3,52,000 (9.52%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,76,000 (4.76%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "12,32,000 (33.32%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "36,98,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 22, 2025"
+    ],
+    [
+      "Shares Offered",
+      "10,50,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "7.35"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 27, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 26, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 23, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Jul 25, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Jul 28, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 25, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,80,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "4,000",
+      "Amount": "₹2,80,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "6,000",
+      "Amount": "₹4,20,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "14,000",
+      "Amount": "₹9,80,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "16,000",
+      "Amount": "₹11,20,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "90.74%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "66.85%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "61.45",
+      "53.33",
+      "26.16"
+    ],
+    [
+      "Total Income",
+      "26.32",
+      "20.59",
+      "9.85"
+    ],
+    [
+      "Profit After Tax",
+      "4.93",
+      "4.72",
+      "1.22"
+    ],
+    [
+      "EBITDA",
+      "8.75",
+      "8.19",
+      "2.82"
+    ],
+    [
+      "Net Worth",
+      "15.83",
+      "8.74",
+      "4.56"
+    ],
+    [
+      "Reserves and Surplus",
+      "5.48",
+      "6.82",
+      "2.64"
+    ],
+    [
+      "Total Borrowing",
+      "25.53",
+      "17.76",
+      "13.08"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "31.13%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "19.49%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "31.13%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "19.11%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "33.96%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "1.55"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.53",
+      "Post IPO": "3.85"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "15.44",
+      "Post IPO": "18.17"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Working Capital Requirements of the Company",
+      "Expected Amount(in Millions)": "220"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Millions)": ""
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Issue Expenses",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 30, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "TSC"
+    ],
+    [
+      "ISIN",
+      "INE16VK01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹70 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹70.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹68.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹64.60"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹71.40"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹71.40"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "40.03",
+      "Shares Offered": "7,04,000",
+      "Shares bid for": "2,81,82,000",
+      "Total Application": "18"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "133.17",
+      "Shares Offered": "5,28,000",
+      "Shares bid for": "7,03,12,000",
+      "Total Application": "5,602"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "66.47",
+      "Shares Offered": "12,30,000",
+      "Shares bid for": "8,17,60,000",
+      "Total Application": "20,440"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "73.21",
+      "Shares Offered": "24,62,000",
+      "Shares bid for": "18,02,54,000",
+      "Total Application": "26,060"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "TSC India IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_26122024214811_261224_TSC_DRHP.pdf",
+      "text": "TSC India IPODRHP"
+    },
+    {
+      "title": "TSC India IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/tsc-india-limited_95821.html",
+      "text": "TSC India IPORHP"
+    },
+    {
+      "title": "TSC India IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/TSCIndiaLimited_PROSP.pdf",
+      "text": "TSC India IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are. Mr Ashish Kumar Mittal, Mrs Puja Mittal and Mr Vinay Gupta.",
+  "company_contact_details": {
+    "company_name": "TSC India Ltd.",
+    "address": "Office No. 3, 2nd Floor, Midland Financial Centre, Plot No. 21-22,, G.T. Road,, Jalandhar, ,, Punjab, , 144001, Phone, :, Email, :, Website, :",
+    "phone": "+91-181-4288888",
+    "email": "cs@tscpl.biz",
+    "website": "https://www.tscindialimited.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2003, TSC India Limited is a travel management company specializing in comprehensive air ticketing services for its clients. Focused on B2B and corporate sectors, TSC collaborates with airlines and travel agents to provide cost-effective travel solutions. TSC partners with various travel providers to manage travel planning, including booking flights and organizing corporate itineraries. Operating in cities like Jalandhar, Chandigarh, Lucknow, Ahmedabad, Jaipur, New Delhi, and Pune, it reflects its expanding presence in India. The company has a diverse client base, including travel agencies, corporations, and tour operators. The company manages over 420 bookings daily, 3,000 weekly, and 12,000 monthly, demonstrating operational efficiency. By June 30, 2024, it registered over 2,100 customers, highlighting its strong B2B travel market presence. The company offers the following services:- As of September 30, 2024, the company employed 77 people across various departments, including Administration, Finance, HR, Projects, Procurement, R&D, Sales, Operations, and Design. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Expert Global Consultants Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/196/",
+      "title": "About Expert Global Consultants Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-2.86%"
+}

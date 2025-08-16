@@ -1,0 +1,311 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 19, 2025 to August 21, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹2per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹309 to ₹325 per share"
+    ],
+    [
+      "Lot Size",
+      "46 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,38,84,615shares(aggregating up to ₹451.25Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "53,84,615shares(aggregating up to ₹175.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "85,00,000shares of ₹2(aggregating up to ₹276.25Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,68,52,523shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,22,37,138shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 50.00% of the Net Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not less than 35.00% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII Shares Offered",
+      "Shares Offered": "Not less than 15.00% of the Net Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Aug 21, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Aug 22, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 25, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 25, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 26, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 21, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "46",
+      "Amount": "₹14,950"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "598",
+      "Amount": "₹1,94,350"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "644",
+      "Amount": "₹2,09,300"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "3,036",
+      "Amount": "₹9,86,700"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "3,082",
+      "Amount": "₹10,01,650"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "75%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "55.06%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "534.52",
+      "368.57",
+      "295.76"
+    ],
+    [
+      "Total Income",
+      "505.64",
+      "454.23",
+      "425.09"
+    ],
+    [
+      "Profit After Tax",
+      "53.38",
+      "50.10",
+      "44.67"
+    ],
+    [
+      "EBITDA",
+      "88.45",
+      "78.35",
+      "66.19"
+    ],
+    [
+      "Net Worth",
+      "283.98",
+      "230.55",
+      "179.53"
+    ],
+    [
+      "Reserves and Surplus",
+      "278.26",
+      "224.88",
+      "182.36"
+    ],
+    [
+      "Total Borrowing",
+      "222.37",
+      "111.13",
+      "89.36"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "18.80%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "16.02%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.78"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "18.80%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "10.56%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "17.55%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.36"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "11.39",
+      "Post IPO": "10.22"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "28.52",
+      "Post IPO": "31.8"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Prepayment and/or repayment, in full or in part, of all or a portion of certain outstanding borrowings availed by our Company and our Subsidiary, Krystal Ingredients Private Limited; and",
+      "Expected Amount(₹ in crores)": "140.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "12": [
+    [
+      ""
+    ]
+  ],
+  "prospectus_links": [
+    {
+      "title": "Gem Aromatics IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/gem-aromatics-limited_90548.html",
+      "text": "Gem Aromatics IPODRHP"
+    }
+  ],
+  "promoters": "The promoters of the company are Vipul Parekh, Kaksha Vipul Parekh, Yash Vipul Parekh, and Parekh Family Trust.",
+  "company_contact_details": {
+    "company_name": "Gem Aromatics Ltd.",
+    "address": "A/410, Kailas Complex, Vikhroli Powai Link, Road, Park Site,, Vikhroli (W), Mumbai, ,, Maharashtra, , 400079, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 25185231",
+    "email": "secretarial@gemaromatics.in",
+    "website": "http://www.gemaromatics.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "gem.ipo@motilaloswal.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in October 1997, Gem Aromatics Limited manufactures speciality ingredients, including essential oils, aroma chemicals, and Value-Added Derivatives in India, with over two decades of experience. The company offers various products, from Mother Ingredients to Value-Added Derivatives. The company's products are used in oral care, cosmetics, nutraceuticals, pharmaceuticals, wellness, pain management, and personal care. The company provides a total of seventy products, categorized into four distinct groups, which include: In Fiscal 2025, the company serves 225 customers and 44  international customers across 18 countries, including the Americas, Asia, Africa, and Australia. The company sells products directly to customers on a business-to-business basis, with export sales through methods including (i) direct sales, (ii) sales via its subsidiary, Gem Aromatics LLC, in the USA, and (iii) sales through third-party agencies. As of Mar 31, 2025, the company had an in-house R&D team of 13 scientists who pivotally implemented state-of-the-art technology that advanced our formulations in Value-Added Derivatives. Competitive Strength",
+    "competitive_strengths": [
+      "Mint and its derivatives;;",
+      "Clove and its derivatives;",
+      "Phenol; and",
+      "Other synthetic and natural ingredients."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Motilal Oswal Investment Advisors Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/28/",
+      "title": "About Motilal Oswal Investment Advisors Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

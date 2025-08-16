@@ -1,0 +1,450 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 14, 2025 to July 16, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 21, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "63,51,600shares(aggregating up to ₹60.98Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "3,21,600shares(aggregating up to ₹3.09Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "60,30,000shares(aggregating up to ₹57.89Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,77,51,809shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,41,03,409shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "3,21,600 (5.06%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "30,06,000 (47.33%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "18,03,600 (28.40%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "12,02,400 (18.93%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "9,07,200 (14.28%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "6,04,800 (9.52%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "3,02,400 (4.76%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "21,16,800 (33.33%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "63,51,600 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 11, 2025"
+    ],
+    [
+      "Shares Offered",
+      "18,03,600"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "17.31"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 16, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 15, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jul 14, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Jul 16, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Jul 17, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Jul 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Jul 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Jul 21, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 16, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,30,400"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,30,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,45,600"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹9,21,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "10,800",
+      "Amount": "₹10,36,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "88.50%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "65.18%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "182.76",
+      "106.58",
+      "93.15"
+    ],
+    [
+      "Total Income",
+      "227.14",
+      "154.24",
+      "117.68"
+    ],
+    [
+      "Profit After Tax",
+      "10.79",
+      "5.44",
+      "1.13"
+    ],
+    [
+      "EBITDA",
+      "31.23",
+      "15.01",
+      "10.80"
+    ],
+    [
+      "Net Worth",
+      "43.15",
+      "25.09",
+      "20.15"
+    ],
+    [
+      "Reserves and Surplus",
+      "27.30",
+      "15.77",
+      "10.33"
+    ],
+    [
+      "Total Borrowing",
+      "91.16",
+      "48.33",
+      "49.50"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "31.63%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "33.66%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.11"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "31.63%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.75%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "13.75%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.95"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "6.08",
+      "Post IPO": "4.48"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "15.79",
+      "Post IPO": "21.44"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding the working capital requirements of the company",
+      "Expected Amount(₹ in crores)": "29.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Investment in the wholly owned subsidiary, SIPL, for funding its working capital requirements",
+      "Expected Amount(₹ in crores)": "10.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Repayment, in full or in part, of certain borrowings availed by the company",
+      "Expected Amount(₹ in crores)": "8.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Coporate Purposes",
+      "Expected Amount(₹ in crores)": "8.14"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 21, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "SPUNWEB"
+    ],
+    [
+      "ISIN",
+      "INE19QH01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹96 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹96.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹151.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹151.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹158.55"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹158.55"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "165.43",
+      "Shares Offered": "12,06,000",
+      "Shares bid for": "19,95,03,600",
+      "Total Application": "125"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "364.58",
+      "Shares Offered": "9,04,800",
+      "Shares bid for": "32,98,76,400",
+      "Total Application": "35,945"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "251.84",
+      "Shares Offered": "21,10,800",
+      "Shares bid for": "53,15,78,400",
+      "Total Application": "2,21,491"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "251.32",
+      "Shares Offered": "42,21,600",
+      "Shares bid for": "1,06,09,58,400",
+      "Total Application": "2,57,561"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Spunweb Nonwoven IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_28012025220350_SpunwebDRHPFinal28012025.pdf",
+      "text": "Spunweb Nonwoven IPODRHP"
+    },
+    {
+      "title": "Spunweb Nonwoven IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/spunweb-nonwovenlimited_95109.html",
+      "text": "Spunweb Nonwoven IPORHP"
+    },
+    {
+      "title": "Spunweb Nonwoven IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/SpunwebNonwovenLimited_PROSP.pdf",
+      "text": "Spunweb Nonwoven IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the Company are Jay Dilipbhai Kagathara and Kishan Dilipbhai Kagathara.",
+  "company_contact_details": {
+    "company_name": "Spunweb Nonwoven Ltd.",
+    "address": "Survey No.109(2), N.H. 27, Near Wankaner Boundry Post at Jalida,, Village Rangpar, Wankaner, Rajkot, ,, Gujarat, , 363621, Phone, :, Email, :, Website, :",
+    "phone": "+91-87 5894 4844",
+    "email": "cs@spunweb.in",
+    "website": "https://www.spunweb.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "spunweb.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2015, Spunweb Nonwoven Limited is a manufacturer and supplier of non-woven fabrics, primarily used for applications like doormats, bags, carpets, and tarpaulins. They are recognized for their quality control system, which includes testing, inspection, and analysis to ensure high-quality products. The company manufactures nonwoven fabric, laminated, and UV-treated nonwoven fabric. The company operates state-of-the-art testing facilities, which include Universal Tensile Testing and Rewet Properties Testing. The company exports its products to North America, Europe, and the Middle East. More than two-thirds of its revenue is generated from the demand for fabric in the hygiene sector, while the remaining portion is derived from applications in the medical, packaging, agriculture, and construction industries. The company's clients include RGI Meditech Private Limited, Millenium Babycares Limited, Sekhani Industries Private Limited, Myra Hygiene Products Private Limited, Rotech Healthcare Private Limited, Poligof Micro Hygiene (India) Private Limited, Salus Products Private Limited, Kwalitex Healthcare Private Limited, JDS Nonwoven, Vyom Nonwoven, among others. The company has exported its products to countries such as the United States of America, United Arab Emirates, Italy, Egypt, Saudi Arabia, Sri Lanka, Nepal, Kenya and Nigeria. The company has a manufacturing facility situated in Rajkot, Gujarat. Product Portfolio:Hydrophobic Fabric, Hydrophilic Fabric and UV-Treated Fabric. As of May 31, 2025, the company had 199 employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Vivro Financial Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/62/",
+      "title": "About Vivro Financial Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "57.29%"
+}

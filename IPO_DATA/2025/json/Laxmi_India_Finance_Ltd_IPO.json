@@ -1,0 +1,491 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 29, 2025 to July 31, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 5, 2025"
+    ],
+    [
+      "Face Value",
+      "₹5per share"
+    ],
+    [
+      "Issue Price",
+      "₹158 per share"
+    ],
+    [
+      "Lot Size",
+      "94 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "1,60,92,195shares(aggregating up to ₹254.26Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,04,53,575shares(aggregating up to ₹165.17Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "56,38,620shares of ₹5(aggregating up to ₹89.09Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "4,18,14,300shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "5,22,67,875shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "79,65,632 (49.50%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "47,79,379 (29.70%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "31,86,253 (19.80%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "23,89,691 (14.85%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "15,93,128 (9.90%)",
+      "Maximum Allottees": "1,210"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "7,96,563 (4.95%)",
+      "Maximum Allottees": "605"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "55,75,944 (34.65%)",
+      "Maximum Allottees": "59,318"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "1,60,928 (1.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,60,92,195 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 2 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 28, 2025"
+    ],
+    [
+      "Shares Offered",
+      "47,79,379"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "75.51"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 30, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jul 29, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jul 31, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 31, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "94",
+      "Amount": "₹14,852"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "1,222",
+      "Amount": "₹1,93,076"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "1,316",
+      "Amount": "₹2,07,928"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "6,298",
+      "Amount": "₹9,95,084"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "6,392",
+      "Amount": "₹10,09,936"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "89.05%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "60.45%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "1,412.52",
+      "984.85",
+      "778.71"
+    ],
+    [
+      "Total Income",
+      "248.04",
+      "175.02",
+      "130.67"
+    ],
+    [
+      "Profit After Tax",
+      "36.01",
+      "22.47",
+      "15.97"
+    ],
+    [
+      "EBITDA",
+      "163.88",
+      "114.59",
+      "85.96"
+    ],
+    [
+      "Net Worth",
+      "257.47",
+      "201.22",
+      "152.33"
+    ],
+    [
+      "Reserves and Surplus",
+      "236.99",
+      "181.87",
+      "134.23"
+    ],
+    [
+      "Total Borrowing",
+      "1,137.06",
+      "766.68",
+      "615.49"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "Debt/Equity",
+      "Values": "4.42"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "13.95%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "14.48%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "66.07%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.57"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.61",
+      "Post IPO": "6.89"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "18.35",
+      "Post IPO": "22.94"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Augmentation of the capital base to meet the future capital requirements towards onward lending",
+      "Expected Amount(₹ in crores)": "143.00"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 5, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544465"
+    ],
+    [
+      "NSE Symbol",
+      "LAXMIINDIA"
+    ],
+    [
+      "ISIN",
+      "INE06WU01026"
+    ],
+    [
+      "Final Issue Price",
+      "₹158 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹158.00",
+      "NSE": "₹158.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹136.00",
+      "NSE": "₹137.52"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹133.00",
+      "NSE": "₹132.98"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹146.70",
+      "NSE": "₹146.68"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹134.00",
+      "NSE": "₹134.11"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "7",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "1.30",
+      "Shares Offered": "31,86,253",
+      "Shares bid for": "41,36,940"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "1.83",
+      "Shares Offered": "23,89,690",
+      "Shares bid for": "43,81,904"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.82",
+      "Shares Offered": "15,93,127",
+      "Shares bid for": "28,94,354"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "1.87",
+      "Shares Offered": "7,96,563",
+      "Shares bid for": "14,87,550"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.20",
+      "Shares Offered": "55,75,943",
+      "Shares bid for": "1,22,51,302"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "1.54",
+      "Shares Offered": "1,60,928",
+      "Shares bid for": "2,47,596"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.86",
+      "Shares Offered": "1,13,12,814",
+      "Shares bid for": "2,10,17,742"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Laxmi India Finance IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/dec-2024/laxmi-india-finance-limited_90148.html",
+      "text": "Laxmi India Finance IPODRHP"
+    },
+    {
+      "title": "Laxmi India Finance IPO Addendum DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/apr-2025/laxmi-india-finance-limited-addendum-to-drhp_93417.html",
+      "text": "Laxmi India Finance IPOAddendum DRHP"
+    },
+    {
+      "title": "Laxmi India Finance IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/laxmi-india-finance-limited-rhp_95526.html",
+      "text": "Laxmi India Finance IPORHP"
+    },
+    {
+      "title": "Laxmi India Finance IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jul-2025/laxmi-india-finance-limited-prospectus_95753.html",
+      "text": "Laxmi India Finance IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Deepak Baid, Prem Devi Baid, Aneesha Baid, Hirak vinimay Private Limited, Deepak Hitech Motors Private Limited, Prem dealers Private Limited and Vivan Baid Family Trust are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Laxmi India Finance Ltd.",
+    "address": "2 DFL,, Gopinath Marg,, MI Road,, Jaipur, ,, Rajasthan, , 302001, Phone, :, Email, :, Website, :",
+    "phone": "+91 9773376198",
+    "email": "investors@lifc.in",
+    "website": "http://www.lifc.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "laxmifinance.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1996, Laxmi India Finance Limited is engaged in the business of Non Banking Financial Company. The company offers MSME loans, vehicle loans, construction loans, and other lending products, supporting small businesses and entrepreneurs, with over 80% of MSME loans qualifying as Priority Sector Lending. Key Facts as of March 31, 2025 Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "PL Capital Markets Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/68/",
+      "title": "About PL Capital Markets Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-12.96%"
+}

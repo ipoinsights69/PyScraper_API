@@ -1,0 +1,294 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 22, 2025 to August 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹82 to ₹87 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "47,71,200shares(aggregating up to ₹41.51Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,78,400shares(aggregating up to ₹2.42Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "44,92,800shares(aggregating up to ₹39.09Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,31,93,750shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,79,64,950shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 50% of the Net Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not less than 35% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII Shares Offered",
+      "Shares Offered": "Not less than 15% of the Net Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Aug 22, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Aug 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 28, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Aug 28, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 29, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Sep 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 26, 2025"
+    ]
+  ],
+  "6": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,78,400"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,78,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "4,800",
+      "Amount": "₹4,17,600"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "11,200",
+      "Amount": "₹9,74,400"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "12,800",
+      "Amount": "₹11,13,600"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "97.73%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "71.77%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "92.2",
+      "76.79",
+      "74.99"
+    ],
+    [
+      "Total Income",
+      "194.41",
+      "151.13",
+      "134.37"
+    ],
+    [
+      "Profit After Tax",
+      "12.28",
+      "2.08",
+      "1.45"
+    ],
+    [
+      "Net Worth",
+      "33.92",
+      "21.64",
+      "19.55"
+    ],
+    [
+      "Reserves and Surplus",
+      "28.64",
+      "16.36",
+      "1,427.56"
+    ],
+    [
+      "Total Borrowing",
+      "45.73",
+      "43.11",
+      "39.21"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "24.66%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17.68%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.23"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "21.95%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.10%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "10.24%"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure of our company to purchase Plant and Machinery",
+      "Expected Amount(in Millions)": "100"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment of a portion of certain outstanding borrowing availed by the company",
+      "Expected Amount(in Millions)": "100"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding the working capital requirements of the company",
+      "Expected Amount(in Millions)": "166"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(in Millions)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Classic Electrodes IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/ClassicElectrodesIndiaLimited_DP.zip",
+      "text": "Classic Electrodes IPODRHP"
+    }
+  ],
+  "promoters": "The promoters of the Company are Mr. Hanuman Prasad Agarwal, Mr. Sushil Kumar Agarwal, Mr. Nitesh Agarwal, Mr. Sunil Kumar Mittal and M/s Alltime Suppliers Private Limited.",
+  "company_contact_details": {
+    "company_name": "Classic Electrodes (India) Ltd.",
+    "address": "1 A,, Bonfield Lane, Kolkata, ,, West Bengal, , 700001, Phone, :, Email, :, Website, :",
+    "phone": "+91 8336007981",
+    "email": "compliance@classicelectrodes.com",
+    "website": "http://www.classicelectrodes.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "classicelectrodes.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Established in 1997 and headquartered in Kolkata, West Bengal, Classic Electrodes (India) Limited is a prominent Indian manufacturer specialising in welding consumables, including electrodes and MIG wires. The company manufactures welding electrodes and provides engineering solutions to domestic and international customers. Classic Electrodes offers a diverse range of welding consumables designed for various industrial applications. Their product line includes: The company has two manufacturing units: Unit I in Dhulagarh, West Bengal, and Unit II in Jhajjar, Haryana. Previously in Bahadurgarh, Haryana, Unit III closed in FY 2023-2024. These units are strategically located in West Bengal, ensuring access to various transportation modes for efficient product distribution, raw material sourcing, and customer access. As of July 31, 2024, the company had an employee base of 78 permanent employees. Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "GYR Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/182/",
+      "title": "About GYR Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

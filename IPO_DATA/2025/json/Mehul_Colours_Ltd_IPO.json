@@ -1,0 +1,455 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 30, 2025 to August 1, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹72 per share"
+    ],
+    [
+      "Lot Size",
+      "1,600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "30,08,000shares(aggregating up to ₹21.66Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,52,000shares(aggregating up to ₹1.09Cr)Asnani Stock Broker Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "28,56,000shares(aggregating up to ₹20.56Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "75,41,040shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,05,49,040shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,52,000 (5.05%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "14,25,600 (47.39%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,54,400 (28.40%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,71,200 (18.99%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,28,800 (14.26%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "2,86,400 (9.52%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "1,42,400 (4.73%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,01,600 (33.30%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "30,08,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 29, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,54,400"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "6.15"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 2, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 1, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Jul 30, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 1, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,30,400"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "3,200",
+      "Amount": "₹2,30,400"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "4,800",
+      "Amount": "₹3,45,600"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "12,800",
+      "Amount": "₹9,21,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "14,400",
+      "Amount": "₹10,36,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "96.86%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.24%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "18.95",
+      "13.87",
+      "10.82"
+    ],
+    [
+      "Total Income",
+      "23.71",
+      "22.66",
+      "21.37"
+    ],
+    [
+      "Profit After Tax",
+      "5.50",
+      "3.22",
+      "2.94"
+    ],
+    [
+      "EBITDA",
+      "6.88",
+      "4.18",
+      "3.97"
+    ],
+    [
+      "Net Worth",
+      "17.06",
+      "11.56",
+      "8.36"
+    ],
+    [
+      "Reserves and Surplus",
+      "9.52",
+      "11.27",
+      "8.07"
+    ],
+    [
+      "Total Borrowing",
+      "",
+      "0.36",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "38.46%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "43.53%"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "32.26%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "24.11%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "30.17%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.70"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.30",
+      "Post IPO": "5.22"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "9.87",
+      "Post IPO": "13.8"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of capital expenditure towards setup of a new manufacturing facility",
+      "Expected Amount(₹ in crores)": "14.63"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding of Working Capital Requirements",
+      "Expected Amount(₹ in crores)": "4.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "0.21"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 6, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544472"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE1KH601014"
+    ],
+    [
+      "Final Issue Price",
+      "₹72 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "MT"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹72.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹85.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹85.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹89.25"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹86.03"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "13.54",
+      "Shares Offered": "5,71,200",
+      "Shares bid for": "77,34,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "10.91",
+      "Shares Offered": "4,28,800",
+      "Shares bid for": "46,80,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "14.27",
+      "Shares Offered": "2,86,400",
+      "Shares bid for": "40,86,400",
+      "Total Application": "1,508"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "5.24",
+      "Shares Offered": "1,42,400",
+      "Shares bid for": "7,45,600",
+      "Total Application": "1,508"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "3.56",
+      "Shares Offered": "10,01,600",
+      "Shares bid for": "35,68,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "7.98",
+      "Shares Offered": "20,01,600",
+      "Shares bid for": "1,59,82,400",
+      "Total Application": "1,508"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Mehul Colours IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/358340/DRHPMEHUL_20250328225325.pdf",
+      "text": "Mehul Colours IPODRHP"
+    },
+    {
+      "title": "Mehul Colours IPO RHP",
+      "href": "https://www.bsesme.com/download/358340/SME_IPO%20Open/Mehul%20Colours%20Ltd.%20-%20RHP_20250724181557.pdf",
+      "text": "Mehul Colours IPORHP"
+    },
+    {
+      "title": "Mehul Colours IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/358340/SME_IPO%20BasisOfAllotment/PROSPECTUS_20250804154142.pdf",
+      "text": "Mehul Colours IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mehul Pravinchandra Joshi and Bhakti Mehul Joshi are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Mehul Colours Ltd.",
+    "address": "Unit No - A 305,306, Kemp Plaza, Link Road,, Chincholi Bunder Road, Mind Space,, Near Evershine Mall, Malad West, Mumbai, ,, Maharashtra, , 400064, Phone, :, Email, :, Website, :",
+    "phone": "+91-22-2872 3555",
+    "email": "info@mehulcolours.com",
+    "website": "https://www.mehulcolours.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 1995, Mehul Colours & Masterbatches Pvt. Ltd., is engaged in the manufacturing and exporting of masterbatches in India. The company offers a diverse range of products, including white, black, color, and additive masterbatches, catering to various applications in plastics, rubbers, and elastomers. The company's operates two facilities in Tungareshwar Industrial Estate, Vasai East, Mumbai, with capacities of 10,56,000 kg and 2,28,000 kg, each covering 3,200 sq. ft. of built-up area. Products Offering: As of June 30, 2025, the company had a total of 32 permanent employees in the Company. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Seren Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/450/",
+      "title": "About Seren Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "18.06%"
+}

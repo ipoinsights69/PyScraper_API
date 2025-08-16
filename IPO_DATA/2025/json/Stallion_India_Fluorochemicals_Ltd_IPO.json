@@ -1,0 +1,444 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "January 16, 2025 to January 20, 2025"
+    ],
+    [
+      "Listing Date",
+      "January 23, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "Lot Size",
+      "165 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "2,21,61,396shares(aggregating up to ₹199.45Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,78,58,740shares(aggregating up to ₹160.73Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "43,02,656shares of ₹10(aggregating up to ₹38.72Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "6,14,66,514shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "7,93,25,254shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "1,10,80,697 (71.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "66,48,418 (42.86%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "44,32,279 (28.57%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "33,24,210 (21.43%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "22,16,140 (14.29%)",
+      "Maximum Allottees": "959"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "11,08,070 (7.14%)",
+      "Maximum Allottees": "479"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "77,56,489 (50.00%)",
+      "Maximum Allottees": "47,009"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "1,55,12,978 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "January 15, 2025"
+    ],
+    [
+      "Shares Offered",
+      "66,48,418"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "59.84"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "February 20, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "April 21, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Thu, Jan 16, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Mon, Jan 20, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Tue, Jan 21, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Wed, Jan 22, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Jan 23, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJanuary 20, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "165",
+      "Amount": "₹14,850"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "2,145",
+      "Amount": "₹1,93,050"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "2,310",
+      "Amount": "₹2,07,900"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "11,055",
+      "Amount": "₹9,94,950"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "11,220",
+      "Amount": "₹10,09,800"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.63%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "67.90%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "30 Sep 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "235.69",
+      "203.14",
+      "126.18",
+      "98.01"
+    ],
+    [
+      "Total Income",
+      "141.53",
+      "236.23",
+      "226.06",
+      "186.34"
+    ],
+    [
+      "Profit After Tax",
+      "16.57",
+      "14.79",
+      "9.75",
+      "21.11"
+    ],
+    [
+      "Net Worth",
+      "134.53",
+      "117.96",
+      "70.7",
+      "60.94"
+    ],
+    [
+      "Total Borrowing",
+      "81.05",
+      "65.35",
+      "18.27",
+      "1.97"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "12.54%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "13.96%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.55"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "12.54%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.26%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "4.69"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "2.41",
+      "Post IPO": "4.18"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "37.41",
+      "Post IPO": "21.55"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "January 23, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544342"
+    ],
+    [
+      "NSE Symbol",
+      "STALLION"
+    ],
+    [
+      "ISIN",
+      "INE0RYC01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹90 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "BE"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹90.00",
+      "NSE": "₹90.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹120.00",
+      "NSE": "₹120.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹120.00",
+      "NSE": "₹120.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹125.99",
+      "NSE": "₹126.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹125.99",
+      "NSE": "₹126.00"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "1",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "172.93",
+      "Shares Offered": "44,32,279",
+      "Shares bid for": "76,64,65,095"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "422.35",
+      "Shares Offered": "33,24,210",
+      "Shares bid for": "1,40,39,93,910"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "472.89",
+      "Shares Offered": "22,16,140",
+      "Shares bid for": "1,04,79,82,155"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "321.29",
+      "Shares Offered": "11,08,070",
+      "Shares bid for": "35,60,11,755"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "96.81",
+      "Shares Offered": "77,56,489",
+      "Shares bid for": "75,09,19,290"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "188.32",
+      "Shares Offered": "1,55,12,978",
+      "Shares bid for": "2,92,13,78,295"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Stallion India Fluorochemicals IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/mar-2024/stallion-india-fluorochemicals-limited-drhp_82505.html",
+      "text": "Stallion India Fluorochemicals IPODRHP"
+    },
+    {
+      "title": "Stallion India Fluorochemicals IPO Addendum DRHP",
+      "href": "https://www.sarthi.in/wp-content/uploads/2024/12/Stallion_-Addendum-to-DRHP.pdf",
+      "text": "Stallion India Fluorochemicals IPOAddendum DRHP"
+    },
+    {
+      "title": "Stallion India Fluorochemicals IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/stallion-india-fluorochemicals-limited-rhp_90745.html",
+      "text": "Stallion India Fluorochemicals IPORHP"
+    },
+    {
+      "title": "Stallion India Fluorochemicals IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/stallion-india-fluorochemicals-limited-prospectus_91076.html",
+      "text": "Stallion India Fluorochemicals IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Shazad Sheriar Rustomji, Manisha Shazad Rustomji and Rohan Shazad Rustomji are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Stallion India Fluorochemicals Ltd.",
+    "address": "2, A Wing, Knox Plaza,, Off. Link Road, Mindspace,, Malad - (West), Mumbai - 400064, Malad, ,, Maharashtra, Phone, :, Email, :, Website, :",
+    "phone": "022-43510000",
+    "email": "compliance@stallion.in",
+    "website": "https://stallionfluorochemicals.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2002, Stallion India Fluorochemicals Limited is engaged in the business of selling Refrigerant and Industrial Gases and related products. The company's primary business includes debulking, blending and processing Refrigerant and Industrial gases, and selling of pre-filled cans and small Cylinders/ Containers. The company has four Plants in Khalapur, Raigad (Maharashtra), Ghiloth, Alwar (Rajasthan), Manesar, Gurugram (Haryana) and Panvel, Raigad (Maharashtra). Stallion India Fluorochemicals Limited (Stallion) deals in gases that are broadly classified as Fluorochemicals. They are majorly used as refrigerants. Stallion's products such as gases are used in various industries, including semiconductor manufacturing, automotive, electronics, pharmaceuticals, healthcare, fire extinguishers, spray foam, glass bottle making, and aerosol production. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Sarthi Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/104/",
+      "title": "About Sarthi Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "33.33%"
+}

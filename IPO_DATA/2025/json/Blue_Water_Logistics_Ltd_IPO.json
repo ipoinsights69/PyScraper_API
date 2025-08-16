@@ -1,0 +1,433 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 27, 2025 to May 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹135 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "30,00,000shares(aggregating up to ₹40.50Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,56,000shares(aggregating up to ₹2.11Cr)Shreni Shares Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "28,44,000shares(aggregating up to ₹38.39Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "80,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,10,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,56,000 (5.20%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "13,94,000 (46.47%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "8,35,000 (27.83%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,59,000 (18.63%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "4,40,000 (14.67%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "10,10,000 (33.67%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "30,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 26, 2025"
+    ],
+    [
+      "Shares Offered",
+      "8,35,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "11.27"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "June 29, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 29, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 29, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,70,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "95.62%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "69.55%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "76.34",
+      "42.12",
+      "29.28",
+      "38.80"
+    ],
+    [
+      "Total Income",
+      "196.29",
+      "138.74",
+      "98.07",
+      "84.72"
+    ],
+    [
+      "Profit After Tax",
+      "10.67",
+      "5.94",
+      "1.54",
+      "1.04"
+    ],
+    [
+      "EBITDA",
+      "18.75",
+      "10.50",
+      "3.83",
+      "2.35"
+    ],
+    [
+      "Net Worth",
+      "20.15",
+      "9.48",
+      "3.54",
+      ""
+    ],
+    [
+      "Reserves and Surplus",
+      "12.15",
+      "7.48",
+      "1.54",
+      ""
+    ],
+    [
+      "Total Borrowing",
+      "36.73",
+      "17.22",
+      "18.81",
+      ""
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "72.02%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "0.30"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.82"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "52.95%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "5.44%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "9.56%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "11.39"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "13.34",
+      "Post IPO": "9.70"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.12",
+      "Post IPO": "13.92"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of capital expenditure requirements by purchase of Vehicles and its body building",
+      "Expected Amount(₹ in crores)": "10.52"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "20.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "BLUEWATER"
+    ],
+    [
+      "ISIN",
+      "INE0X3M01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹135 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹135.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹141.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹135.20"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹148.05"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹148.05"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "14.04",
+      "Shares Offered": "5,59,000",
+      "Shares bid for": "78,49,000",
+      "Total Application": "12"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "9.87",
+      "Shares Offered": "4,40,000",
+      "Shares bid for": "43,42,000",
+      "Total Application": "417"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "6.55",
+      "Shares Offered": "10,10,000",
+      "Shares bid for": "66,17,000",
+      "Total Application": "6,617"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "9.36",
+      "Shares Offered": "20,09,000",
+      "Shares bid for": "1,88,08,000",
+      "Total Application": "7,046"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Blue Water Logistics IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/aartic_22012025193333_BWL_DRHP.pdf",
+      "text": "Blue Water Logistics IPODRHP"
+    },
+    {
+      "title": "Blue Water Logistics IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_BLUEWATER.zip",
+      "text": "Blue Water Logistics IPORHP"
+    },
+    {
+      "title": "Blue Water Logistics IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/BlueWaterLogisticsLimited_PROSP.pdf",
+      "text": "Blue Water Logistics IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Mr. Laxmi Narayan Mishra, Mr. Lalit Panda, Ms. Madhusmita Mohanty and Ms. Supriya Mishra.",
+  "company_contact_details": {
+    "company_name": "Blue Water Logistics Ltd.",
+    "address": "H. No. 8-2-270/B/1/2, Block-3, 4th Floor, Uptown Banjara, Road No. 3,, Banjara Hills, Hyderabad, ,, Telangana, , 500034, Phone, :, Email, :, Website, :",
+    "phone": "+91 8341101774",
+    "email": "investors@bwl.co.in",
+    "website": "https://bwl.co.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "Maashitla Securities Pvt.Ltd.",
+    "phone": "+91-11-45121795-96",
+    "email": "investor.ipo@maashitla.com",
+    "website": "https://maashitla.com/allotment-status/public-issues"
+  },
+  "about_company": {
+    "description": "Incorporated in April 2010, Blue Water Logistics Ltd provides logistics and supply chain solutions. The company's primary services include freight forwarding, custom clearance and transportation handling services. The company provides comprehensive project logistics, supply chain management (SCM), and warehousing across air, sea, and land transport, focusing on tailored solutions for client needs, including cargo pick-up, customs clearance, and delivery, offering a complete suite of logistics services. The company has five branches in Chennai, Delhi, Jaipur, Visakhapatnam, and Thane. The company serves customers in confectionery, chemicals, crockery, natural stones, textiles, electronics, and fitness equipment. As of March 31, 2025, the company has 25 commercial vehicles for various transportation needs. The company provides services in Telangana, Gujarat, Maharashtra, Rajasthan, Andhra Pradesh, Tamil Nadu, Delhi, Punjab, Karnataka, Uttar Pradesh, Madhya Pradesh, Odisha, and abroad in Africa, Singapore, and the UAE. As of March 31, 2025, the Company has 83 employees in various departments. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.44%"
+}

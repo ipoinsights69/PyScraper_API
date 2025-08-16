@@ -1,0 +1,512 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "July 4, 2025 to July 8, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 11, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹161 per share"
+    ],
+    [
+      "Lot Size",
+      "800 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "49,80,000shares(aggregating up to ₹80.18Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,52,000shares(aggregating up to ₹4.06Cr)Hem Finlease Pvt.Ltd."
+    ],
+    [
+      "Fresh Issue(Ex Market Maker)",
+      "9,93,000shares(aggregating up to ₹15.99Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "37,35,000shares of ₹10(aggregating up to ₹60.13Cr)"
+    ],
+    [
+      "Net Offered to Public",
+      "47,28,000shares(aggregating up to ₹76.12Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹10.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,76,36,400shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,88,81,400shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,52,000 (7.04%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "23,37,600 (65.34%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "14,02,400 (39.20%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "9,35,200 (26.14%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,02,400 (19.63%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "4,68,800 (13.10%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,33,600 (6.53%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "16,37,600 (45.77%)"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "50,400 (1.41%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "35,77,600 (100.00%)"
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only Individual investor (retail)",
+      "Bidding Limits": "2 lots"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Bidding Limits": "3 lots - 7 lots"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Bidding Limits": "8 lots and above"
+    },
+    {
+      "Application Category": "Only employee",
+      "Bidding Limits": "2 lots - 3 lots"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Bidding Limits": "1.Employee limit: 2 lots - 3 lotsAND2.If applying as RII: 2 lotsOR2.If applying as sNII: 3 lots - 7 lotsOR2.If applying as bNII: 8 lots and above"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 3, 2025"
+    ],
+    [
+      "Shares Offered",
+      "14,02,400"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "22.58"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "August 7, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "October 6, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Jul 4, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Jul 8, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Jul 9, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Jul 10, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Jul 11, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJuly 8, 2025"
+    ]
+  ],
+  "8": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,57,600"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,57,600"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹3,86,400"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "5,600",
+      "Amount": "₹9,01,600"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "6,400",
+      "Amount": "₹10,30,400"
+    },
+    {
+      "Application": "Employee (Min)",
+      "Lots": "2",
+      "Shares": "1,600",
+      "Amount": "₹2,57,600"
+    },
+    {
+      "Application": "Employee (Max)",
+      "Lots": "3",
+      "Shares": "2,400",
+      "Amount": "₹3,86,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "94.94%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "68.90%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "74.38",
+      "59.03",
+      "76.41"
+    ],
+    [
+      "Total Income",
+      "220.02",
+      "153.05",
+      "109.54"
+    ],
+    [
+      "Profit After Tax",
+      "14.50",
+      "10.51",
+      "6.54"
+    ],
+    [
+      "EBITDA",
+      "22.24",
+      "15.69",
+      "9.20"
+    ],
+    [
+      "Net Worth",
+      "44.55",
+      "30.05",
+      "19.54"
+    ],
+    [
+      "Reserves and Surplus",
+      "26.91",
+      "29.28",
+      "18.77"
+    ],
+    [
+      "Total Borrowing",
+      "17.35",
+      "0.77",
+      "7.60"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "38.88%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "37.81%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.39"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "32.55%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "6.63%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "10.17%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.37"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.22",
+      "Post IPO": "7.68"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "19.58",
+      "Post IPO": "20.96"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment in full or in part, of certain of the outstanding borrowings",
+      "Expected Amount(₹ in crores)": "16.70"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding capital expenditure towards establishment of new office premises at Unit no 911, 9th Floor, MINT Sahar, Andheri - kurla Road, Andheri east, Mumbai",
+      "Expected Amount(₹ in crores)": "1.20"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Setup of an interactive experience centre at our registered office situated at Unit no 118 and 119, 1st Floor, Ackruti Star, MIDC, Andheri East, Mumbai 400093",
+      "Expected Amount(₹ in crores)": "0.91"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General Corporate Purpose",
+      "Expected Amount(₹ in crores)": "0.00"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 11, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544441"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE162901016"
+    ],
+    [
+      "Final Issue Price",
+      "₹161 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹161.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹225.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹225.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹236.25"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹236.25"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "2",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "147.76",
+      "Shares Offered": "9,35,200",
+      "Shares bid for": "13,81,87,200",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "309.16",
+      "Shares Offered": "7,02,400",
+      "Shares bid for": "21,71,52,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "122.01",
+      "Shares Offered": "16,37,600",
+      "Shares bid for": "19,98,00,800",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "0.59",
+      "Shares Offered": "50,400",
+      "Shares bid for": "29,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "166.94",
+      "Shares Offered": "33,25,600",
+      "Shares bid for": "55,51,70,400",
+      "Total Application": "1,61,468"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Meta Infotech IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/389961/DRHPMETA_20241212222237.pdf",
+      "text": "Meta Infotech IPODRHP"
+    },
+    {
+      "title": "Meta Infotech IPO Addendum DRHP",
+      "href": "https://www.bsesme.com/download/389961/Addendum_DRHP_20250512124227.pdf",
+      "text": "Meta Infotech IPOAddendum DRHP"
+    },
+    {
+      "title": "Meta Infotech IPO RHP",
+      "href": "https://www.bsesme.com/download/389961/SME_IPO%20Open/META%20INFOTECH%20LIMITED_20250701194842.pdf",
+      "text": "Meta Infotech IPORHP"
+    },
+    {
+      "title": "Meta Infotech IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/389961/SME_IPO%20BasisOfAllotment/Prospectus-Meta%20Infotech%20Limited_20250709162033.pdf",
+      "text": "Meta Infotech IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Venu Gopal Peruri is the promoter of the company.",
+  "company_contact_details": {
+    "company_name": "Meta Infotech Ltd.",
+    "address": "118/119, first floor,, Ackruti Star, Opposite Ackruti Centre Point,, MIDC, Andheri (E), Mumbai City,, Andheri, ,, Maharashtra, , 400093, Phone, :, Email, :, Website, :",
+    "phone": "+91-22-69372500",
+    "email": "info@metainfotech.com",
+    "website": "http://www.metainfotech.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "meta.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 1998, Meta Infotech Limited is engaged in the business of cybersecurity solutions for various industries, including banking, IT, and manufacturing. The company offers services such as consulting, implementation, and sustenance, focusing on protecting and maintaining the integrity of information and systems. They are authorized resellers of cybersecurity products from international OEMs, providing solutions for secure access and cloud workload protection. Meta Infotech provides end-to-end cybersecurity solutions for industries like banking, IT, insurance, and manufacturing. The company optimizes and secures network resources, ensuring reliable, scalable connectivity for digital infrastructure management. Service offers:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Hem Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/76/",
+      "title": "About Hem Securities Ltd."
+    }
+  ],
+  "listing_gain_percent": "39.75%"
+}

@@ -1,0 +1,459 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 4, 2025 to August 6, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹103 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "54,00,000shares(aggregating up to ₹55.62Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,73,600shares(aggregating up to ₹2.82Cr)NNM Securities Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "51,26,400shares(aggregating up to ₹52.80Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,32,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,86,00,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,73,600 (5.07%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "25,53,600 (47.29%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "15,31,200 (28.36%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "10,22,400 (18.93%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "7,77,600 (14.40%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "5,18,400 (9.60%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,59,200 (4.80%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "17,95,200 (33.24%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "54,00,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 1, 2025"
+    ],
+    [
+      "Shares Offered",
+      "15,31,200"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "15.77"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 6, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 5, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 4, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 6, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,47,200"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,47,200"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,70,800"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹9,88,800"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "10,800",
+      "Amount": "₹11,12,400"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "92.42%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "65.59%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "48.76",
+      "25.87",
+      "20.13"
+    ],
+    [
+      "Total Income",
+      "110.69",
+      "83.27",
+      "18.81"
+    ],
+    [
+      "Profit After Tax",
+      "10.79",
+      "4.96",
+      "0.18"
+    ],
+    [
+      "EBITDA",
+      "16.98",
+      "6.79",
+      "1.04"
+    ],
+    [
+      "Net Worth",
+      "20.94",
+      "10.15",
+      "5.20"
+    ],
+    [
+      "Reserves and Surplus",
+      "7.74",
+      "8.50",
+      "3.55"
+    ],
+    [
+      "Total Borrowing",
+      "19.67",
+      "9.47",
+      "10.13"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "51.51%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "42.41%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.94"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "51.51%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "9.80%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "15.42%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "6.49"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "8.17",
+      "Post IPO": "5.80"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.6",
+      "Post IPO": "17.76"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Part finance the cost of establishing new manufacturing facility to expand our production capabilities of cables at Plot Nos. 188/1, Village Panwa Tehsil Kasrawad, District Khargone, Madhya Pradesh, India (“Proposed new facility”)",
+      "Expected Amount(₹ in crores)": "22.32"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Funding working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "20.00"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "7.88"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 11, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "BHADORA"
+    ],
+    [
+      "ISIN",
+      "INE0ZRC01017"
+    ],
+    [
+      "Final Issue Price",
+      "₹103 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "SM"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹103.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹101.00"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹101.00"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹106.05"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹105.95"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "0.68",
+      "Shares Offered": "10,22,400",
+      "Shares bid for": "6,96,000",
+      "Total Application": "5"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.28",
+      "Shares Offered": "7,77,600",
+      "Shares bid for": "9,97,200",
+      "Total Application": "88"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.18",
+      "Shares Offered": "5,18,400",
+      "Shares bid for": "6,12,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "1.49",
+      "Shares Offered": "2,59,200",
+      "Shares bid for": "3,85,200",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "0.98",
+      "Shares Offered": "17,95,200",
+      "Shares bid for": "17,56,800",
+      "Total Application": "732"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "0.96",
+      "Shares Offered": "35,95,200",
+      "Shares bid for": "34,50,000",
+      "Total Application": "825"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Bhadora Industries IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_15022025173200_DRHPBhadora.pdf",
+      "text": "Bhadora Industries IPODRHP"
+    },
+    {
+      "title": "Bhadora Industries IPO RHP",
+      "href": "https://nsearchives.nseindia.com/content/ipo/RHP_BHADORA.zip",
+      "text": "Bhadora Industries IPORHP"
+    },
+    {
+      "title": "Bhadora Industries IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/BhadoraIndustriesLimited_PROSP.pdf",
+      "text": "Bhadora Industries IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The Promoters of the company are Shashank Bhadora, Pradeep Bhadora and Anil Bhadora.",
+  "company_contact_details": {
+    "company_name": "Bhadora Industries Ltd.",
+    "address": "Office No. 505, Plot No 39.405, NRK BIZ PARK PU-4, Scheme N 54, DDU Nagar,, Indore, ,, Madhya Pradesh, , 452010, Phone, :, Email, :, Website, :",
+    "phone": "+91-70000 61995",
+    "email": "cs@vidhutcables.com",
+    "website": "https://www.vidhutcables.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "bhadora.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Incorporated in April 1986, Bhadora Industries Limited manufactures industrial cables for efficient electricity transmission and distribution, serving government discoms and EPC companies across various industrial sectors. The company operates under the brand name of \"Vidhut Cables\". The product portfolio of the company includes Polyvinyl Chloride (PVC) cables Low Voltage (LV) cables, LT Aerial Bunched Cables and Cross-Linked Polyethylene (XLPE) cables. The company's manufacturing facility is accredited by the Bureau of Indian Standards (BIS) and certified in Quality Management (BIS ISO 9001:2015), Environmental Management (ISO 14001:2015), and Occupational Health and Safety (ISO 45001:2018). The company sells its products in the states of Andhra Pradesh, Assam,Bihar, Chhattisgarh, Delhi, Haryana, Himachal Pradesh, J&K, Jharkhand, Kerala, Madhya Pradesh, Maharashtra, Punjab, Rajasthan, Telangana, Uttar Pradesh and Uttarakhand. The company supply its products to State Electricity Boards, domestic and EPC companies across India. The company's manufacturing unit is located in Tikamgarh, Madhya Pradesh covering an area of 15028 Square Feet. As of June 30, 2025, the company had 87 employees in various departments. Competitive Strength",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Unistone Capital Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/176/",
+      "title": "About Unistone Capital Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "-1.94%"
+}

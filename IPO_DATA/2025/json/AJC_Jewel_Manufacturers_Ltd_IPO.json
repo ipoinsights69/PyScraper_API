@@ -1,0 +1,445 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 23, 2025 to June 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹95 per share"
+    ],
+    [
+      "Lot Size",
+      "1,200 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "16,20,000shares(aggregating up to ₹15.39Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "84,000shares(aggregating up to ₹0.7980Cr)Rikhav Securities Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "15,36,000shares(aggregating up to ₹14.59Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "44,48,360shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "59,84,360shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "84,000 (4.93%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "7,56,000 (44.37%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "4,52,400 (26.55%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "3,03,600 (17.82%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "2,37,600 (13.94%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "5,42,400 (31.83%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "17,04,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 20, 2025"
+    ],
+    [
+      "Shares Offered",
+      "4,52,400"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "4.30"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 27, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 25, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Jun 23, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 26, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,28,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "2,400",
+      "Amount": "₹2,28,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "3,600",
+      "Amount": "₹3,42,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "8",
+      "Shares": "9,600",
+      "Amount": "₹9,12,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "9",
+      "Shares": "10,800",
+      "Amount": "₹10,26,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "76.85%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "56.33%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "34.28",
+      "36.73",
+      "36.00",
+      "16.42"
+    ],
+    [
+      "Total Income",
+      "175.53",
+      "246.84",
+      "194.25",
+      "127.40"
+    ],
+    [
+      "Profit After Tax",
+      "1.85",
+      "3.32",
+      "2.04",
+      "1.26"
+    ],
+    [
+      "EBITDA",
+      "3.64",
+      "5.40",
+      "3.94",
+      "2.14"
+    ],
+    [
+      "Net Worth",
+      "13.90",
+      "12.04",
+      "7.12",
+      "5.08"
+    ],
+    [
+      "Reserves and Surplus",
+      "9.45",
+      "7.60",
+      "4.28",
+      "2.24"
+    ],
+    [
+      "Total Borrowing",
+      "18.41",
+      "22.48",
+      "26.23",
+      "6.61"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "34.64%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "17.47%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "1.87"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "27.56%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "1.35%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "2.19%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "3.18"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "7.46",
+      "Post IPO": "4.13"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "12.73",
+      "Post IPO": "23.01"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of capital expenditure requirements for purchase of new Equipment by the Company",
+      "Expected Amount(₹ in crores)": "2.63"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/prepayment of all or certain of the borrowings availed of by the Company",
+      "Expected Amount(₹ in crores)": "8.90"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544425"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0XRR01010"
+    ],
+    [
+      "Final Issue Price",
+      "₹95 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹95.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹99.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹94.05"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹99.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹95.39"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "3.57",
+      "Shares Offered": "3,03,600",
+      "Shares bid for": "10,83,600",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "1.79",
+      "Shares Offered": "2,37,600",
+      "Shares bid for": "4,26,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "2.86",
+      "Shares Offered": "5,42,400",
+      "Shares bid for": "15,50,400",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.82",
+      "Shares Offered": "10,83,600",
+      "Shares bid for": "30,60,000",
+      "Total Application": "828"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "AJC Jewel Manufacturers IPO DRHP",
+      "href": "https://www.bsesme.com/download/383499/DRHPAJCJewelManufacturersLimited_20250507203048.pdf",
+      "text": "AJC Jewel Manufacturers IPODRHP"
+    },
+    {
+      "title": "AJC Jewel Manufacturers IPO RHP",
+      "href": "https://www.bseindia.com/downloads/ipo/RHP%20&GID_190620252002.zip",
+      "text": "AJC Jewel Manufacturers IPORHP"
+    },
+    {
+      "title": "AJC Jewel Manufacturers IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/383499/SME_IPO%20BasisOfAllotment/Prospectus_20250627134849.pdf",
+      "text": "AJC Jewel Manufacturers IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mr. Ashraf P, Mr. Kunhimohamed P, and Ms. Fathima Jasna Kottekattu are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "AJC Jewel Manufacturers Ltd.",
+    "address": "38/227-Z, Inkel Greens Edu City,, Karathode-Konampara Road, Panakkad Village,, Pattarkadavu, Malappuram, Ernad,, Malappuram, ,, Kerala, , 676519, Phone, :, Email, :, Website, :",
+    "phone": "+91 9567916106",
+    "email": "investors@ajcjewel.com",
+    "website": "https://ajcjewel.com/ab"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2018, AJC Jewel Manufacturers Limited is engaged in the business of jewelry manufacturing specializing in crafting bracelets, bangles, rings, earrings, necklaces, and anklets for men, women, and children. The company manufactures finished gold jewelry from raw bullion and consumables, offering a variety of designs for men, women, and children, and sells to dealers, showrooms, corporates, and small shops. The company operates a 21,780.76 Sq. Ft. leased manufacturing facility in Malappuram, equipped with advanced machinery like 3D printers, casting machines, and polishing equipment for seamless jewelry production. Products:The company manufactures plain gold, studded gold, named gold, and rose gold jewelry, including rings, pendants, chains, necklaces, anklets, bracelets, bangles, and earrings in 22K and 18K for men, women, and children. As on February 28, 2025, the company has employed 67 personnel at the Manufacturing Plant and Registered Office. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Smart Horizon Capital Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/172/",
+      "title": "About Smart Horizon Capital Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "4.21%"
+}

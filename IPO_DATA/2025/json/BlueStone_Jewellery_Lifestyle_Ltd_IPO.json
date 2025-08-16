@@ -1,0 +1,403 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 11, 2025 to August 13, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹1per share"
+    ],
+    [
+      "Issue Price",
+      "₹517 per share"
+    ],
+    [
+      "Lot Size",
+      "29 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital-cum-Offer for Sale"
+    ],
+    [
+      "Total Issue Size",
+      "2,97,99,798shares(aggregating up to ₹1,540.65Cr)"
+    ],
+    [
+      "Fresh Issue",
+      "1,58,60,735shares(aggregating up to ₹820.00Cr)"
+    ],
+    [
+      "Offer for Sale",
+      "1,39,39,063shares of ₹1(aggregating up to ₹720.65Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "13,54,59,637shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "15,13,20,372shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "2,23,49,850 (75.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "1,34,09,910 (45.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "89,39,940 (30.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "44,69,969 (15.00%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "29,79,979 (10.00%)",
+      "Maximum Allottees": "7,339"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "14,89,990 (5.00%)",
+      "Maximum Allottees": "3,669"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "29,79,979 (10.00%)",
+      "Maximum Allottees": "1,02,757"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "2,97,99,798 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "August 8, 2025"
+    ],
+    [
+      "Shares Offered",
+      "1,34,09,910"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "693.29"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 13, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 12, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Mon, Aug 11, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Wed, Aug 13, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Thu, Aug 14, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Aug 18, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Aug 19, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 13, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "29",
+      "Amount": "₹14,993"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "377",
+      "Amount": "₹1,94,909"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "406",
+      "Amount": "₹2,09,902"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "66",
+      "Shares": "1,914",
+      "Amount": "₹9,89,538"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "67",
+      "Shares": "1,943",
+      "Amount": "₹10,04,531"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "18.28%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "16.07%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "3,532.28",
+      "2,453.49",
+      "1,255.49"
+    ],
+    [
+      "Total Income",
+      "1,830.04",
+      "1,303.49",
+      "787.89"
+    ],
+    [
+      "Profit After Tax",
+      "-221.84",
+      "-142.24",
+      "-167.24"
+    ],
+    [
+      "EBITDA",
+      "73.16",
+      "53.05",
+      "-56.03"
+    ],
+    [
+      "Reserves and Surplus",
+      "877.12",
+      "346.28",
+      "-81.06"
+    ],
+    [
+      "Total Borrowing",
+      "728.62",
+      "430.43",
+      "228.42"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "-34.53%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "-3.67%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.80"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "-24.45%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "-12.53%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "4.13%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.01"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding our working capital requirements",
+      "Expected Amount(₹ in crores)": "750.00"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "20.75"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "1"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "5"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB (Ex Anchor)",
+      "Subscription (times)": "4.25",
+      "Shares Offered": "89,39,939",
+      "Shares bid for": "3,79,61,783"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "0.57",
+      "Shares Offered": "44,69,970",
+      "Shares bid for": "25,32,947"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "0.68",
+      "Shares Offered": "29,79,980",
+      "Shares bid for": "20,32,813"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "0.34",
+      "Shares Offered": "14,89,990",
+      "Shares bid for": "5,00,134"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.38",
+      "Shares Offered": "29,79,980",
+      "Shares bid for": "41,24,873"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.72",
+      "Shares Offered": "1,63,89,889",
+      "Shares bid for": "4,46,19,603"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "BlueStone Jewellery IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/dec-2024/bluestone-jewellery-and-lifestyle-limited_89962.html",
+      "text": "BlueStone Jewellery IPODRHP"
+    },
+    {
+      "title": "BlueStone Jewellery IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/bluestone-jewellery-and-lifestyle-limited-rhp_95849.html",
+      "text": "BlueStone Jewellery IPORHP"
+    },
+    {
+      "title": "BlueStone Jewellery IPO Final Prospectus",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2025/bluestone-jewellery-and-lifestyle-limited-ipo-prospectus_96095.html",
+      "text": "BlueStone Jewellery IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Gaurav Singh Kushwaha is the promoter of the company.",
+  "company_contact_details": {
+    "company_name": "BlueStone Jewellery & Lifestyle Ltd.",
+    "address": "Site No. 89/2, Lava Kusha Arcade,, Munnekolal Village, Outer Ring Road,, Marathahalli, Bangalore Urban, ,, Karnataka, , 560037, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 4515 2729",
+    "email": "investor.relations@bluestone.com",
+    "website": "https://www.bluestone.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "bluestone.ipo@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "BlueStone Jewellery and Lifestyle Limited manufactures and provides diamond, gold, platinum and studded jewellery under our flagship brand,BlueStone. The company has a pan-India presence with 275 stores across 117 cities in 26 States and Union Territories in India, as of March 31, 2025, servicing over 12,600 PIN codes across India. As of March 31, 2025, the company's network of stores comprised 200 company-owned stores (“Company Stores”) and 75 franchisee stores (“Franchisee Stores”) with an aggregate area of over 605,000 square feet. The company offers a wide range of product offerings including rings, earrings, necklaces, pendants, solitaires, bangles, bracelets and chains that cater to diverse customer segments and are retailed at varied price points. As of March 31, 2025, BlueStone had 91 collections (defined as a set of jewellery designs created with a specific theme) of jewellery products. Competitive Strength:",
+    "competitive_strengths": [
+      "Leading digital-first jewellery brand in India offering an omni-channel retail experience.",
+      "In-house Technology Architecture Driving End-to-End Business Operations.",
+      "Differentiated Approach to Product and Design.",
+      "Advanced Manufacturing Capabilities with Vertically Integrated Operations.",
+      "Pan-India Presence Across Tier-I, Tier-II and Tier-III Cities with Healthy Unit Economics.",
+      "Founder-led Company Supported by an Experienced and Professional Management Team and backed by Marquee Investors."
+    ]
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Axis Capital Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/113/",
+      "title": "About Axis Capital Ltd."
+    },
+    {
+      "name": "IIFL Capital Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/71/",
+      "title": "About IIFL Capital Services Ltd."
+    },
+    {
+      "name": "Kotak Mahindra Capital Co.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/12/",
+      "title": "About Kotak Mahindra Capital Co.Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

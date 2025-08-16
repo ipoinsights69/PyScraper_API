@@ -1,0 +1,459 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 1, 2025 to August 5, 2025"
+    ],
+    [
+      "Listing Date",
+      "August 8, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹225 per share"
+    ],
+    [
+      "Lot Size",
+      "600 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "45,57,000shares(aggregating up to ₹102.53Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "2,29,800shares(aggregating up to ₹5.17Cr)Giriraj Stock Broking Pvt.Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "43,27,200shares(aggregating up to ₹97.36Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "NSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "1,27,46,751shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,73,03,751shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "2,29,800 (5.04%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "21,61,800 (47.44%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "12,96,000 (28.44%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "8,65,800 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "6,49,800 (14.26%)"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "4,33,200 (9.51%)"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "2,16,600 (4.75%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "15,15,600 (33.26%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "45,57,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "July 31, 2025"
+    ],
+    [
+      "Shares Offered",
+      "12,96,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "29.16"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "September 4, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "November 3, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Fri, Aug 1, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Tue, Aug 5, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Wed, Aug 6, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Thu, Aug 7, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Fri, Aug 8, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 5, 2025"
+    ]
+  ],
+  "7": [
+    {
+      "Application": "Individual investors (Retail) (Min)",
+      "Lots": "2",
+      "Shares": "1,200",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "Individual investors (Retail) (Max)",
+      "Lots": "2",
+      "Shares": "1,200",
+      "Amount": "₹2,70,000"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "3",
+      "Shares": "1,800",
+      "Amount": "₹4,05,000"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "7",
+      "Shares": "4,200",
+      "Amount": "₹9,45,000"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "8",
+      "Shares": "4,800",
+      "Amount": "₹10,80,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "44.08%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "32.47%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "191.84",
+      "77.15",
+      "20.12"
+    ],
+    [
+      "Total Income",
+      "195.38",
+      "106.72",
+      "34.68"
+    ],
+    [
+      "Profit After Tax",
+      "28.41",
+      "11.25",
+      "3.44"
+    ],
+    [
+      "EBITDA",
+      "41.41",
+      "14.99",
+      "5.23"
+    ],
+    [
+      "Net Worth",
+      "128.85",
+      "47.32",
+      "11.33"
+    ],
+    [
+      "Reserves and Surplus",
+      "137.63",
+      "63.23",
+      "9.57"
+    ],
+    [
+      "Total Borrowing",
+      "17.93",
+      "2.56",
+      "3.36"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "32.25%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "41.80%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.14"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "32.25%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "14.54%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "21.20%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "2.23"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "22.28",
+      "Post IPO": "16.42"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "10.1",
+      "Post IPO": "13.71"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding capital expenditure towards acquisition of six new aircraft on long term dry lease basis",
+      "Expected Amount(₹ in crores)": "80.47"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Repayment/prepayment, in full or part, certain outstanding borrowings availed by the company",
+      "Expected Amount(₹ in crores)": "7.28"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "General Corporate Purposes",
+      "Expected Amount(₹ in crores)": "9.79"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "August 8, 2025"
+    ],
+    [
+      "BSE Script Code",
+      ""
+    ],
+    [
+      "NSE Symbol",
+      "FLYSBS"
+    ],
+    [
+      "ISIN",
+      "INE0VCK01011"
+    ],
+    [
+      "Final Issue Price",
+      "₹225 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "ST"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "NSE SME": "₹225.00"
+    },
+    {
+      "Price Details": "Open",
+      "NSE SME": "₹427.50"
+    },
+    {
+      "Price Details": "Low",
+      "NSE SME": "₹427.50"
+    },
+    {
+      "Price Details": "High",
+      "NSE SME": "₹448.85"
+    },
+    {
+      "Price Details": "Last Trade",
+      "NSE SME": "₹448.85"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "2",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "191.93",
+      "Shares Offered": "8,65,800",
+      "Shares bid for": "16,61,76,000",
+      "Total Application": "213"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "563.64",
+      "Shares Offered": "6,49,800",
+      "Shares bid for": "36,62,53,800",
+      "Total Application": "90,542"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "683.93",
+      "Shares Offered": "4,33,200",
+      "Shares bid for": "29,62,77,000",
+      "Total Application": ""
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "323.07",
+      "Shares Offered": "2,16,600",
+      "Shares bid for": "6,99,76,800",
+      "Total Application": ""
+    },
+    {
+      "Category": "Individual Investors",
+      "Subscription (times)": "286.06",
+      "Shares Offered": "15,15,600",
+      "Shares bid for": "43,35,49,200",
+      "Total Application": "3,61,291"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "318.68",
+      "Shares Offered": "30,31,200",
+      "Shares bid for": "96,59,79,000",
+      "Total Application": "4,52,046"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Flysbs Aviation IPO DRHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/Registration_20042025011641_FlySBSDRHP19042025.pdf",
+      "text": "Flysbs Aviation IPODRHP"
+    },
+    {
+      "title": "Flysbs Aviation IPO RHP",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/FlysbsAviationLimited_RHP.pdf",
+      "text": "Flysbs Aviation IPORHP"
+    },
+    {
+      "title": "Flysbs Aviation IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/emerge/corporates/content/FlysbsAviationLimited_PROSP.pdf",
+      "text": "Flysbs Aviation IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "The promoters of the company are Ambashankar, Capt. Deepak Parasuraman, Kannan Ramakrishnan, Bastimal Kishanraj And Shreshtha Business Solutions LLP.",
+  "company_contact_details": {
+    "company_name": "Flysbs Aviation Ltd.",
+    "address": "Plot no. 16 (NP), 3rd Floor, Indiqube Palmyra, SIDCO Industrial Estate, Ekkatuthangal,, Guindy Industrial Estate, Chennai, ,, Tamil Nadu, , 600032, Phone, :, Email, :, Website, :",
+    "phone": "+91-44 2260 4444",
+    "email": "corporate@sbsaviation.in",
+    "website": "https://sbsaviation.in/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "flysbsaviation.ipo@in.mpms.mufg.com",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Established on August 7, 2020, FlySBS Aviation Limited, formerly known as FlySBS Aviation Private Limited, is an Indian aviation company specializing in private jet services. The company is headquartered in Chennai, Tamil Nadu, and operates under the legal jurisdiction of India. FlySBS Aviation provides a range of private jet services, including: The company provides air chartering services on domestic and international routes, successfully flying clients to destinations across six continents. The company provides various programs for different client needs, including long-term chartering, subscription options like the \"Je'time\" Program, membership for frequent flyers, and the Flexjet Program for those with moderate flying hours. The company has its presence in multiple cities, including Chennai, Delhi, Mumbai, Bengaluru, Hyderabad, Coimbatore and Kerala. The company's clients include mid-sized and large corporations, ultra-high net worth individuals, and high net worth individuals. The company's total flying hours for fiscal 2025 was 2,600 hours, including 1,812 international flying hours.  Competitive Strength:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Vivro Financial Services Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/62/",
+      "title": "About Vivro Financial Services Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "90.0%"
+}

@@ -1,0 +1,302 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "August 20, 2025 to August 22, 2025"
+    ],
+    [
+      "Listing Date",
+      "[.]"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price Band",
+      "₹533 to ₹561 per share"
+    ],
+    [
+      "Lot Size",
+      "26 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "71,30,124shares(aggregating up to ₹400.00Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "2,05,00,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "2,76,30,124shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "Not more than 50% of the Net Issue"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "Not less than 35% of the Net Issue"
+    },
+    {
+      "Investor Category": "NII Shares Offered",
+      "Shares Offered": "Not less than 15% of the Net Issue"
+    }
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Wed, Aug 20, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Fri, Aug 22, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Mon, Aug 25, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Tue, Aug 26, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Tue, Aug 26, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Thu, Aug 28, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onAugust 22, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "26",
+      "Amount": "₹14,586"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "338",
+      "Amount": "₹1,89,618"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "364",
+      "Amount": "₹2,04,204"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "68",
+      "Shares": "1,768",
+      "Amount": "₹9,91,848"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "69",
+      "Shares": "1,794",
+      "Amount": "₹10,06,434"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100.00%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "74.19%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Mar 2025",
+      "31 Mar 2024",
+      "31 Mar 2023"
+    ],
+    [
+      "Assets",
+      "366.46",
+      "246.54",
+      "221.26"
+    ],
+    [
+      "Total Income",
+      "551.39",
+      "452.13",
+      "357.81"
+    ],
+    [
+      "Profit After Tax",
+      "47.31",
+      "20.95",
+      "24.74"
+    ],
+    [
+      "EBITDA",
+      "81.84",
+      "42.63",
+      "44.42"
+    ],
+    [
+      "Net Worth",
+      "162.16",
+      "114.99",
+      "93.97"
+    ],
+    [
+      "Total Borrowing",
+      "149.12",
+      "92.12",
+      "96.64"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "29%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "25.38%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "0.92"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "34.14%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "8.61%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.90%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "7.09"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "23.08",
+      "Post IPO": "17.12"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "24.31",
+      "Post IPO": "32.77"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/ prepayment, in full or in part, of certain outstanding borrowings availed by the Company",
+      "Expected Amount(₹ in crores)": "101.27"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Capital expenditure including civil works of the Company for expanding the facility at Unit IV situated at Reengus Sikar District, Rajasthan",
+      "Expected Amount(₹ in crores)": "87.86"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Funding working capital requirements of the Company",
+      "Expected Amount(₹ in crores)": "122.00"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Mangal Electrical IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jan-2025/mangal-electrical-industries-limited_90535.html",
+      "text": "Mangal Electrical IPODRHP"
+    }
+  ],
+  "promoters": "Rahul Mangal, Ashish Mangal, Saroj Mangal and Aniketa Mangal are the promoters of the company.",
+  "company_contact_details": {
+    "company_name": "Mangal Electrical Industries Ltd.",
+    "address": "C-61, C-61 (A&B),, Road No. 1-C,, V. K. I. Area,, Jaipur, ,, Rajasthan, , 302013, Phone, :, Email, :, Website, :",
+    "phone": "+91141-4036113",
+    "email": "compliance@mangals.com",
+    "website": "http://www.mangals.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "Bigshare Services Pvt.Ltd.",
+    "phone": "+91-22-6263 8200",
+    "email": "ipo@bigshareonline.com",
+    "website": "https://ipo.bigshareonline.com/IPO_Status.html"
+  },
+  "about_company": {
+    "description": "Incorporated in 2008, Mangal Electrical Industries Limited is engaged in manufacturing the transformers that are used for the distribution and transmission of electricity in the power sector. The company processes transformer components, including lamination, CRGO slit coils, amorphous cores, coil and core assemblies, wound cores, toroidal cores, and oil-immersed circuit breakers. The company markets and sells its products under the brand name \"Mangal Electrical,\" known for its strong reputation and high brand recall value. The company operates five production facilities in Rajasthan with an annual capacity of 16,200 MT for CRGO, 10,22,500 KVA for transformers, 75,000 units for ICB, and 2,400 MT for amorphous units. Products Portfolio: The company manufactures and supplies critical components for transformers used in electricity distribution and transmission, including small, distribution, and large transformers, contributing to energy-saving electrical equipment. As of June 30, 2025, the company had 761 permanent employees in the registered and corporate offices and across all the units.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Systematix Corporate Services Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/61/",
+      "title": "About Systematix Corporate Services Ltd."
+    }
+  ],
+  "listing_gain_percent": null
+}

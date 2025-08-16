@@ -1,0 +1,441 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "May 27, 2025 to May 29, 2025"
+    ],
+    [
+      "Listing Date",
+      "June 3, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹135 per share"
+    ],
+    [
+      "Lot Size",
+      "1,000 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "27,90,000shares(aggregating up to ₹37.67Cr)"
+    ],
+    [
+      "Reserved forMarket Maker",
+      "1,44,000shares(aggregating up to ₹1.94Cr)Basan Equity Broking Ltd."
+    ],
+    [
+      "Net Offered to Public",
+      "26,46,000shares(aggregating up to ₹35.72Cr)"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE SME"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "77,21,000shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "1,05,11,000shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "Market Maker Shares Offered",
+      "Shares Offered": "1,44,000 (5.16%)"
+    },
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "13,20,000 (47.31%)"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "7,90,000 (28.32%)"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "5,30,000 (19.00%)"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "3,99,000 (14.30%)"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "9,27,000 (33.23%)"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "27,90,000 (100.00%)"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "May 26, 2025"
+    ],
+    [
+      "Shares Offered",
+      "7,90,000"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "10.67"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "June 29, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "August 28, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, May 27, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, May 29, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, May 30, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 2, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jun 3, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onMay 29, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "1",
+      "Shares": "1,000",
+      "Amount": "₹1,35,000"
+    },
+    {
+      "Application": "HNI (Min)",
+      "Lots": "2",
+      "Shares": "2,000",
+      "Amount": "₹2,70,000"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "98.42%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "72.30%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "96.52",
+      "80.89",
+      "64.28",
+      "52.91"
+    ],
+    [
+      "Total Income",
+      "69.69",
+      "80.29",
+      "67.26",
+      "30.17"
+    ],
+    [
+      "Profit After Tax",
+      "4.10",
+      "3.81",
+      "0.67",
+      "0.25"
+    ],
+    [
+      "Net Worth",
+      "17.28",
+      "11.97",
+      "8.16",
+      "7.49"
+    ],
+    [
+      "Reserves and Surplus",
+      "9.56",
+      "4.37",
+      "4.16",
+      "3.49"
+    ],
+    [
+      "Total Borrowing",
+      "49.48",
+      "42.40",
+      "35.99",
+      "29.52"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "ROE",
+      "Values": "37.86%"
+    },
+    {
+      "KPI": "ROCE",
+      "Values": "22.95%"
+    },
+    {
+      "KPI": "Debt/Equity",
+      "Values": "2.16"
+    },
+    {
+      "KPI": "RoNW",
+      "Values": "31.83%"
+    },
+    {
+      "KPI": "PAT Margin",
+      "Values": "4.75%"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "14.60%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "8.57"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "4.93",
+      "Post IPO": "5.20"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "27.36",
+      "Post IPO": "25.94"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Funding of expenses proposed to be incurred towards registration in Bolivia, South America",
+      "Expected Amount(₹ in crores)": "1.29"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "Purchase and installation of plant and machineries for ointment production for the purpose of export in accordance with the international standards and protocols, on the 2nd floor of the Existing Premises",
+      "Expected Amount(₹ in crores)": "5.23"
+    },
+    {
+      "S.No.": "3",
+      "Objects of the Issue": "Advertising, marketing and brand building",
+      "Expected Amount(₹ in crores)": "4.95"
+    },
+    {
+      "S.No.": "4",
+      "Objects of the Issue": "Investment in procuring hardware and software",
+      "Expected Amount(₹ in crores)": "0.68"
+    },
+    {
+      "S.No.": "5",
+      "Objects of the Issue": "Funding of working capital requirements",
+      "Expected Amount(₹ in crores)": "19.75"
+    },
+    {
+      "S.No.": "6",
+      "Objects of the Issue": "General corporate purposes",
+      "Expected Amount(₹ in crores)": ""
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "June 3, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544409"
+    ],
+    [
+      "NSE Symbol",
+      ""
+    ],
+    [
+      "ISIN",
+      "INE0TG901011"
+    ],
+    [
+      "Final Issue Price",
+      "₹135 per share"
+    ],
+    [
+      "BSE Listing Group",
+      "M"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE SME": "₹135.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE SME": "₹137.45"
+    },
+    {
+      "Price Details": "Low",
+      "BSE SME": "₹135.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE SME": "₹140.00"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE SME": "₹135.65"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "1",
+      "Neutral": "0",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "0"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "0.70",
+      "Shares Offered": "13,20,000",
+      "Shares bid for": "9,27,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "NII*",
+      "Subscription (times)": "5.60",
+      "Shares Offered": "3,99,000",
+      "Shares bid for": "22,33,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.69",
+      "Shares Offered": "9,27,000",
+      "Shares bid for": "15,67,000",
+      "Total Application": "0"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "1.79",
+      "Shares Offered": "26,46,000",
+      "Shares bid for": "47,27,000",
+      "Total Application": "2,190"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Astonea Labs IPO DRHP",
+      "href": "https://www.bseindia.com/corporates/download/316805/DRHP%20ASTONEA%20LABS%20LTD_16.08.24_20240830124837.pdf",
+      "text": "Astonea Labs IPODRHP"
+    },
+    {
+      "title": "Astonea Labs IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/may-2025/astonea-labs-limited_94265.html",
+      "text": "Astonea Labs IPORHP"
+    },
+    {
+      "title": "Astonea Labs IPO Final Prospectus",
+      "href": "https://www.bsesme.com/download/316805/SME_IPO%20BasisOfAllotment/Prospectus_AstoneaLabsLimited_20250530165451.pdf",
+      "text": "Astonea Labs IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Ashish Gulati is the promoter of the company.",
+  "company_contact_details": {
+    "company_name": "Astonea Labs Ltd.",
+    "address": "House No. 1358,, 1st Floor,, Sector-22B,, Charkhi Dadri, ,, Chandigarh, , 160022, Phone, :, Email, :, Website, :",
+    "phone": "+91  9888302323",
+    "email": "cs@astonea.org",
+    "website": "https://www.astonea.org/"
+  },
+  "ipo_registrar_details": {
+    "name": "Kfin Technologies Ltd.",
+    "phone": "04067162222",
+    "email": "murali.m@kfintech.com",
+    "website": "https://ipostatus.kfintech.com/"
+  },
+  "about_company": {
+    "description": "Incorporated in 2017, Astonea Labs Ltd. is engaged in contract manufacturing of pharmaceutical and cosmetic products for companies both within India and internationally. The company manufactures and markets a variety of pharmaceutical and cosmetic products, including antibiotics, anti-cold medicines, antihistamines, and treatments for diabetes, heart, gynecological issues, infections, and more. The company offers skin, tooth, and hair care products in forms like gels, creams, and serums, and also trades packaging and raw materials for pharmaceutical and cosmetic industries, meeting industry standards. The company engages in contract manufacturing of pharmaceutical and cosmetic products, markets its own brands \"Glow Up\" and \"Regero,\" plans to launch \"Avicel,\" and exports to countries like Iraq and Yemen. Produts and Offerings: As of August 16, 2024, the company had 217 employees on payroll. Competitive Strengths:",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "Oneview Corporate Advisors Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/94/",
+      "title": "About Oneview Corporate Advisors Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "1.81%"
+}

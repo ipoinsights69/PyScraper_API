@@ -1,0 +1,490 @@
+{
+  "1": [
+    [
+      ""
+    ]
+  ],
+  "2": [
+    [
+      ""
+    ]
+  ],
+  "ipo_details": [
+    [
+      "IPO Date",
+      "June 24, 2025 to June 26, 2025"
+    ],
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "Face Value",
+      "₹10per share"
+    ],
+    [
+      "Issue Price",
+      "₹414 per share"
+    ],
+    [
+      "Lot Size",
+      "36 Shares"
+    ],
+    [
+      "Sale Type",
+      "Fresh Capital"
+    ],
+    [
+      "Total Issue Size",
+      "3,84,24,456shares(aggregating up to ₹1,590.77Cr)"
+    ],
+    [
+      "Employee Discount",
+      "₹38.00"
+    ],
+    [
+      "Issue Type",
+      "BookbuildingIPO"
+    ],
+    [
+      "Listing At",
+      "BSE, NSE"
+    ],
+    [
+      "Share Holding Pre Issue",
+      "16,74,89,537shares"
+    ],
+    [
+      "Share Holding Post Issue",
+      "20,59,13,993shares"
+    ]
+  ],
+  "reservation": [
+    {
+      "Investor Category": "QIB Shares Offered",
+      "Shares Offered": "2,85,16,306 (133.66%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− Anchor Investor Shares Offered",
+      "Shares Offered": "1,71,09,783 (80.20%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− QIB (Ex. Anchor) Shares Offered",
+      "Shares Offered": "1,14,06,523 (53.46%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "NII (HNI) Shares Offered",
+      "Shares Offered": "57,03,260 (26.73%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "− bNII > ₹10L",
+      "Shares Offered": "38,02,174 (17.82%)",
+      "Maximum Allottees": "7,543"
+    },
+    {
+      "Investor Category": "− sNII < ₹10L",
+      "Shares Offered": "19,01,086 (8.91%)",
+      "Maximum Allottees": "3,771"
+    },
+    {
+      "Investor Category": "Retail Shares Offered",
+      "Shares Offered": "38,02,173 (17.82%)",
+      "Maximum Allottees": "1,05,615"
+    },
+    {
+      "Investor Category": "Employee Shares Offered",
+      "Shares Offered": "4,22,872 (1.98%)",
+      "Maximum Allottees": "NA"
+    },
+    {
+      "Investor Category": "Total Shares Offered",
+      "Shares Offered": "2,13,34,828 (100.00%)",
+      "Maximum Allottees": ""
+    }
+  ],
+  "5": [
+    {
+      "Application Category": "Only RII",
+      "Maximum Bidding Limits": "Up to Rs 2 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Only sNII",
+      "Maximum Bidding Limits": "Rs 2 Lakhs to Rs 10 Lakhs",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only bNII",
+      "Maximum Bidding Limits": "Rs 10 Lakhs to NII Reservation Portion",
+      "Bidding at Cut-off Price Allowed": "No"
+    },
+    {
+      "Application Category": "Only employee",
+      "Maximum Bidding Limits": "Up to Rs 5 Lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes"
+    },
+    {
+      "Application Category": "Employee + RII/NII",
+      "Maximum Bidding Limits": "Employee limit: Up to Rs 5 Lakhs (In certain cases, employees are given discount if bidding amount is upto Rs. 2 lakhs)If applying as RII: Upto Rs. 2 lakhsIf applying as NII: sNII > Rs. 2 lakhs and upto Rs. 10 lakhs and bNII > Rs. 10 lakhs",
+      "Bidding at Cut-off Price Allowed": "Yes for Employee and RII/NII"
+    }
+  ],
+  "anchor_investors": [
+    [
+      "Bid Date",
+      "June 23, 2025"
+    ],
+    [
+      "Shares Offered",
+      "1,71,09,783"
+    ],
+    [
+      "Anchor Portion Size (In Cr.)",
+      "708.35"
+    ],
+    [
+      "Anchorlock-in periodend date for 50% shares (30 Days)",
+      "July 26, 2025"
+    ],
+    [
+      "Anchor lock-in period end date for remaining shares (90 Days)",
+      "September 24, 2025"
+    ]
+  ],
+  "timeline": [
+    [
+      "IPO Open Date",
+      "Tue, Jun 24, 2025"
+    ],
+    [
+      "IPO Close Date",
+      "Thu, Jun 26, 2025"
+    ],
+    [
+      "Tentative Allotment",
+      "Fri, Jun 27, 2025"
+    ],
+    [
+      "Initiation of Refunds",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Credit of Shares to Demat",
+      "Mon, Jun 30, 2025"
+    ],
+    [
+      "Tentative Listing Date",
+      "Tue, Jul 1, 2025"
+    ],
+    [
+      "Cut-off time for UPI mandate confirmation",
+      "5 PM onJune 26, 2025"
+    ]
+  ],
+  "lots": [
+    {
+      "Application": "Retail (Min)",
+      "Lots": "1",
+      "Shares": "36",
+      "Amount": "₹14,904"
+    },
+    {
+      "Application": "Retail (Max)",
+      "Lots": "13",
+      "Shares": "468",
+      "Amount": "₹1,93,752"
+    },
+    {
+      "Application": "S-HNI (Min)",
+      "Lots": "14",
+      "Shares": "504",
+      "Amount": "₹2,08,656"
+    },
+    {
+      "Application": "S-HNI (Max)",
+      "Lots": "67",
+      "Shares": "2,412",
+      "Amount": "₹9,98,568"
+    },
+    {
+      "Application": "B-HNI (Min)",
+      "Lots": "68",
+      "Shares": "2,448",
+      "Amount": "₹10,13,472"
+    }
+  ],
+  "promoters_holdings": [
+    [
+      "Share Holding Pre Issue",
+      "100%"
+    ],
+    [
+      "Share Holding Post Issue",
+      "81.3%"
+    ]
+  ],
+  "company_financials": [
+    [
+      "Period Ended",
+      "31 Dec 2024",
+      "31 Mar 2024",
+      "31 Mar 2023",
+      "31 Mar 2022"
+    ],
+    [
+      "Assets",
+      "15,562.35",
+      "13,879.43",
+      "12,540.77",
+      "13,410.57"
+    ],
+    [
+      "Total Income",
+      "1,699.49",
+      "2,029.94",
+      "3,716.61",
+      "1,248.55"
+    ],
+    [
+      "Profit After Tax",
+      "5.51",
+      "-116.51",
+      "-229.43",
+      "-125.36"
+    ],
+    [
+      "EBITDA",
+      "101.67",
+      "-78.01",
+      "-49.67",
+      "-35.98"
+    ],
+    [
+      "Net Worth",
+      "1,579.54",
+      "1,028.23",
+      "1,221.89",
+      "1,429.01"
+    ],
+    [
+      "Total Borrowing",
+      "11,056.40",
+      "10,688.31",
+      "9,679.64",
+      "10,365.97"
+    ],
+    [
+      "Amount in ₹ Crore"
+    ]
+  ],
+  "KPI": [
+    {
+      "KPI": "RoNW",
+      "Values": "-10.15"
+    },
+    {
+      "KPI": "EBITDA Margin",
+      "Values": "-4.04%"
+    },
+    {
+      "KPI": "Price to Book Value",
+      "Values": "5.62"
+    }
+  ],
+  "EPS": [
+    {
+      "": "EPS (Rs)",
+      "Pre IPO": "-6.96",
+      "Post IPO": "0.36"
+    },
+    {
+      "": "P/E (x)",
+      "Pre IPO": "-59.52",
+      "Post IPO": "1160.05"
+    }
+  ],
+  "objectives": [
+    {
+      "S.No.": "1",
+      "Objects of the Issue": "Repayment/pre-payment, in full or in part, of certain borrowings availed by: Company; and Subsidiaries",
+      "Expected Amount(₹ in crores)": "1,192.50"
+    },
+    {
+      "S.No.": "2",
+      "Objects of the Issue": "General corporate purposes.",
+      "Expected Amount(₹ in crores)": "311.36"
+    }
+  ],
+  "listing_details": [
+    [
+      "Listing Date",
+      "July 1, 2025"
+    ],
+    [
+      "BSE Script Code",
+      "544423"
+    ],
+    [
+      "NSE Symbol",
+      "KALPATARU"
+    ],
+    [
+      "ISIN",
+      "INE227J01012"
+    ],
+    [
+      "Final Issue Price",
+      "₹414 per share"
+    ],
+    [
+      "NSE Listing Group",
+      "EQ"
+    ],
+    [
+      "BSE Listing Group",
+      "B"
+    ]
+  ],
+  "listing_day_trading": [
+    {
+      "Price Details": "Final Issue Price",
+      "BSE": "₹414.00",
+      "NSE": "₹414.00"
+    },
+    {
+      "Price Details": "Open",
+      "BSE": "₹414.10",
+      "NSE": "₹414.00"
+    },
+    {
+      "Price Details": "Low",
+      "BSE": "₹414.10",
+      "NSE": "₹414.00"
+    },
+    {
+      "Price Details": "High",
+      "BSE": "₹453.00",
+      "NSE": "₹452.80"
+    },
+    {
+      "Price Details": "Last Trade",
+      "BSE": "₹433.80",
+      "NSE": "₹432.95"
+    }
+  ],
+  "review": [
+    {
+      "Review By": "Brokers",
+      "Subscribe": "4",
+      "Neutral": "4",
+      "Avoid": "0"
+    },
+    {
+      "Review By": "Members",
+      "Subscribe": "0",
+      "Neutral": "0",
+      "Avoid": "3"
+    }
+  ],
+  "bidding_details": [
+    {
+      "Category": "QIB",
+      "Subscription (times)": "3.12",
+      "Shares Offered": "1,14,06,521",
+      "Shares bid for": "3,55,99,716"
+    },
+    {
+      "Category": "NII",
+      "Subscription (times)": "1.40",
+      "Shares Offered": "57,03,261",
+      "Shares bid for": "79,71,192"
+    },
+    {
+      "Category": "bNII (bids above ₹10L)",
+      "Subscription (times)": "1.48",
+      "Shares Offered": "38,02,174",
+      "Shares bid for": "56,21,652"
+    },
+    {
+      "Category": "sNII (bids below ₹10L)",
+      "Subscription (times)": "0.80",
+      "Shares Offered": "19,01,087",
+      "Shares bid for": "15,30,324"
+    },
+    {
+      "Category": "Retail",
+      "Subscription (times)": "1.43",
+      "Shares Offered": "38,02,174",
+      "Shares bid for": "54,53,784"
+    },
+    {
+      "Category": "Employee",
+      "Subscription (times)": "0.76",
+      "Shares Offered": "4,22,872",
+      "Shares bid for": "3,19,968"
+    },
+    {
+      "Category": "Total",
+      "Subscription (times)": "2.31",
+      "Shares Offered": "2,13,34,828",
+      "Shares bid for": "4,93,44,660"
+    }
+  ],
+  "prospectus_links": [
+    {
+      "title": "Kalpataru IPO DRHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/aug-2024/kalpataru-limited-drhp_86040.html",
+      "text": "Kalpataru IPODRHP"
+    },
+    {
+      "title": "Kalpataru IPO RHP",
+      "href": "https://www.sebi.gov.in/filings/public-issues/jun-2025/kalpataru-limited-rhp_94679.html",
+      "text": "Kalpataru IPORHP"
+    },
+    {
+      "title": "Kalpataru IPO Final Prospectus",
+      "href": "https://nsearchives.nseindia.com/corporate/FP_INE227J01012_27JUN2025.pdf",
+      "text": "Kalpataru IPOFinal Prospectus"
+    }
+  ],
+  "promoters": "Mofatraj P. Munot and Parag M. Munot are the company promoters.",
+  "company_contact_details": {
+    "company_name": "Kalpataru Ltd.",
+    "address": "91, Kalpataru Synergy,, Opposite Grand Hyatt,, Santa, Mumbai, ,, Maharashtra, , 400055, Phone, :, Email, :, Website, :",
+    "phone": "+91 22 3064 5000",
+    "email": "investor.cs@kalpataru.com",
+    "website": "http://www.kalpataru.com/"
+  },
+  "ipo_registrar_details": {
+    "name": "MUFG Intime India Pvt.Ltd.",
+    "phone": "+91-22-4918 6270",
+    "email": "kalpataru.ipo@linkintime.co.in",
+    "website": "https://linkintime.co.in/Initial_Offer/public-issues.html"
+  },
+  "about_company": {
+    "description": "Kalpataru Limited, founded in 1988, is a real estate development company based in Mumbai, Maharashtra. The company specialises in developing residential and commercial properties, retail spaces, and integrated townships across several Indian cities, including Mumbai, Thane, Panvel, Pune, Hyderabad, Indore, Bengaluru, and Jodhpur. Kalpataru Limited is part of the Kalpataru Group, which includes Kalpataru Projects International Limited, Property Solutions (India) Private Limited, Shree Shubham Logistics Limited, and their respective subsidiaries, among others. As of March 31, 2024, the company has 40 ongoing projects and has completed 70 projects.",
+    "competitive_strengths": []
+  },
+  "ipo_lead_managers": [
+    {
+      "name": "ICICI Securities Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/17/",
+      "title": "About ICICI Securities Ltd."
+    },
+    {
+      "name": "JM Financial Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/18/",
+      "title": "About JM Financial Ltd."
+    },
+    {
+      "name": "Nomura Financial Advisory & Securities (India) Pvt.Ltd.",
+      "profile_link": "/report/ipo-lead-manager-review/112/72/",
+      "title": "About Nomura Financial Advisory & Securities (India) Pvt.Ltd."
+    }
+  ],
+  "listing_gain_percent": "0.0%"
+}
