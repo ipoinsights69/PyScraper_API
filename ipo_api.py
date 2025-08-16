@@ -1088,4 +1088,4 @@ if __name__ == '__main__':
     # Start the background cache refresher
     start_cache_refresher()
 
-    app.run(debug=True, host="0.0.0.0", port=1111, use_reloader=False) # use_reloader=False when using threading
+    app.run(debug=True, host="0.0.0.0", port=1234, use_reloader=False) # use_reloader=False when using threading
