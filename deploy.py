@@ -55,7 +55,7 @@ if not command_exists("pm2"):
     print("pm2 not found. Installing pm2 globally...")
     subprocess.run(["sudo", "npm", "install", "-g", "pm2"], check=True)
 
-# 5. Install lxml dependencies
+# 5. Install lxml build dependencies
 install_lxml_dependencies()
 
 # 6. Create virtual environment
@@ -63,29 +63,27 @@ if not VENV_DIR.exists():
     print("Creating virtual environment...")
     subprocess.run([sys.executable, "-m", "venv", str(VENV_DIR)], check=True)
 
-# 7. Upgrade pip, setuptools, wheel in venv (fix for lxml install)
+# 7. Upgrade pip, setuptools, wheel in venv
 pip_path = VENV_DIR / "bin" / "pip"
+python_path = VENV_DIR / "bin" / "python"
 subprocess.run([str(pip_path), "install", "--upgrade", "pip", "setuptools", "wheel"], check=True)
 
-# 8. Install lxml first to avoid build errors
-subprocess.run([str(pip_path), "install", "lxml"], check=True)
-
-# 9. Install remaining dependencies
-print("Installing dependencies from requirements.txt...")
+# 8. Install dependencies inside venv
+print("Installing dependencies in venv...")
 subprocess.run([str(pip_path), "install", "-r", str(REQUIREMENTS_FILE)], check=True)
 
-# 10. Create cron shell script
+# 9. Create cron shell script
 cron_script_path = BASE_DIR / "run_meta_parser.sh"
 with open(cron_script_path, "w") as f:
     f.write(f"""#!/bin/bash
 source {VENV_DIR}/bin/activate
-python3 {META_SCRIPT}
-python3 {PARSER_SCRIPT}
+{python_path} {META_SCRIPT}
+{python_path} {PARSER_SCRIPT}
 """)
 os.chmod(cron_script_path, 0o755)
 print(f"Cron script created at {cron_script_path}")
 
-# 11. Schedule cron job every 4 hours
+# 10. Schedule cron job every 4 hours
 cron_job = f"0 */4 * * * {cron_script_path}\n"
 existing_cron = subprocess.run(["crontab", "-l"], capture_output=True, text=True)
 if cron_job.strip() not in existing_cron.stdout:
@@ -95,10 +93,15 @@ if cron_job.strip() not in existing_cron.stdout:
 else:
     print("Cron job already exists")
 
-# 12. Deploy ipo_api.py using PM2
-print("Deploying ipo_api.py using PM2...")
-subprocess.run(["pm2", "start", str(API_SCRIPT), "--name", "ipo_api"], check=True)
-subprocess.run(["pm2", "save"], check=True)
-subprocess.run(["pm2", "startup"], check=True)
+# 11. Deploy ipo_api.py using PM2 with venv Python
+print("Deploying ipo_api.py using PM2 with venv Python...")
+subprocess.run(["pm2", "delete", "ipo_api"], check=False)  # remove old instance if any
+subprocess.run([
+    "pm2", "start", str(API_SCRIPT),
+    "--name", "ipo_api",
+    "--interpreter", str(python_path)  # ensure venv Python is used
+], check=True)
 
-print("Setup completed successfully!")
+subprocess.run(["pm2", "save"], check=True)
+
+print("Setup completed successfully! Flask and other deps should now be found inside venv.")
