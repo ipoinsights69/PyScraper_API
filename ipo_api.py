@@ -56,61 +56,68 @@ def parse_date_robustly(date_string):
     return None
 
 
-def get_ipo_status(ipo_details):
+def get_ipo_status(ipo_details, timeline=None):
     """
-    Determines the status of an IPO based on its IPO Date and Listing Date.
-    Returns 'Upcoming', 'Open', 'Closed', or 'Unknown'.
+    Determine IPO status (Upcoming, Open, Closed, Unknown) based on IPO and Listing Dates, with robust fallback to timeline.
     """
-    ipo_date_range_str = None
-    listing_date_str = None
-
+    ipo_date = None
+    listing_date = None
+    # Extract IPO Date and Listing Date from ipo_details
     for detail in ipo_details:
         if detail[0] == "IPO Date":
-            ipo_date_range_str = detail[1]
-        elif detail[0] == "Listing Date":
-            listing_date_str = detail[1]
-
-    if not ipo_date_range_str:
-        app.logger.debug("IPO Date not found in details for status calculation.")
-        return "Unknown"
-
-    ipo_open_date = None
-    ipo_close_date = None
-
-    # Try to parse date range like "May 14, 2025toMay 16, 2025"
-    date_match = re.match(r'(\w+ \d+, \d{4})to(\w+ \d+, \d{4})', ipo_date_range_str)
-    if date_match:
-        ipo_open_date_str = date_match.group(1)
-        ipo_close_date_str = date_match.group(2)
-        ipo_open_date = parse_date_robustly(ipo_open_date_str)
-        ipo_close_date = parse_date_robustly(ipo_close_date_str)
-    else:
-        # If no range, assume it's a single date for both open and close
-        ipo_open_date = parse_date_robustly(ipo_date_range_str)
-        ipo_close_date = ipo_open_date # For single date IPOs, open and close are the same
-
-    if not ipo_open_date or not ipo_close_date:
-        app.logger.debug(f"Failed to parse IPO dates from '{ipo_date_range_str}'.")
-        return "Unknown"
-
-    current_date_only = date.today() # Get today's date
-
-    if current_date_only < ipo_open_date:
-        return "Upcoming"
-    elif ipo_open_date <= current_date_only <= ipo_close_date:
-        return "Open"
-    elif current_date_only > ipo_close_date:
-        # If closed, also check listing date for a more precise "closed" status
-        if listing_date_str:
-            listing_date_match = re.search(r'(\w+ \d+, \d{4})', listing_date_str)
-            if listing_date_match:
-                listing_date = parse_date_robustly(listing_date_match.group(0))
-                if listing_date and current_date_only >= listing_date:
+            ipo_date = detail[1]
+        if detail[0] == "Listing Date":
+            listing_date = detail[1]
+    today = datetime.now().date()
+    # Try to extract Open/Close dates from timeline if available
+    open_date = None
+    close_date = None
+    if timeline:
+        for entry in timeline:
+            if entry[0] == "IPO Open Date":
+                open_date = parse_date_robustly(entry[1])
+            if entry[0] == "IPO Close Date":
+                close_date = parse_date_robustly(entry[1])
+    # Use timeline dates if present
+    if open_date and close_date:
+        if today < open_date:
+            return "Upcoming"
+        elif open_date <= today <= close_date:
+            return "Open"
+        elif today > close_date:
+            return "Closed"
+    # Fallback to IPO Date range
+    if ipo_date:
+        match = re.match(r"([A-Za-z]+ \d{1,2}, \d{4}) to ([A-Za-z]+ \d{1,2}, \d{4})", ipo_date)
+        if match:
+            start_date = parse_date_robustly(match.group(1))
+            end_date = parse_date_robustly(match.group(2))
+            if start_date and today < start_date:
+                return "Upcoming"
+            elif start_date and end_date and start_date <= today <= end_date:
+                return "Open"
+            elif end_date and today > end_date:
+                return "Closed"
+        else:
+            single_date = parse_date_robustly(ipo_date)
+            if single_date:
+                if today < single_date:
+                    return "Upcoming"
+                elif today == single_date:
+                    return "Open"
+                elif today > single_date:
                     return "Closed"
-        return "Closed" # Default to closed if post IPO close date, even without listing
-    else:
-        app.logger.debug(f"Unhandled date comparison for IPO: Open={ipo_open_date}, Close={ipo_close_date}, Current={current_date_only}")
-        return "Unknown"
+    # Fallback to listing date
+    if listing_date and listing_date not in ("[.]", "", None):
+        listing_dt = parse_date_robustly(listing_date)
+        if listing_dt:
+            if today < listing_dt:
+                return "Upcoming"
+            elif today == listing_dt:
+                return "Open"
+            elif today > listing_dt:
+                return "Closed"
+    return "Unknown"
 
 def load_year_data(year):
     """
@@ -153,23 +160,39 @@ def load_year_data(year):
             return False
     return True
 
-def get_ipo_detail_data(year, ipo_json_path):
+def get_ipo_detail_data(year, ipo_slug):
     """
     Retrieves individual IPO data from cache or loads it from file (lazy loading).
     Checks modification time for freshness.
     """
-    # Assuming json_path already contains the year and json/ part, e.g., "2025/json/Astonea_Labs_Ltd_IPO.json"
-    full_path = os.path.join(IPO_DATA_BASE_DIR, ipo_json_path)
-    ipo_identifier = ipo_json_path # Using json_path as unique key in cache for details
-
     # Ensure the year's meta data structure exists in cache before accessing ipo_data sub-dict
     if year not in ipo_cache:
         # This shouldn't typically happen if load_year_data is called properly upstream,
         # but as a fallback, ensure year's meta is loaded.
         app.logger.debug(f"Attempting to load year data for {year} before getting IPO detail.")
         if not load_year_data(year):
-            app.logger.error(f"Failed to load meta data for year {year}, cannot get detail data for {ipo_json_path}")
+            app.logger.error(f"Failed to load meta data for year {year}, cannot get detail data for {ipo_slug}")
             return None
+    
+    # Find the IPO entry by slug
+    ipo_entry = None
+    for entry in ipo_cache[year]['meta_data']:
+        if entry.get('slug') == ipo_slug:
+            ipo_entry = entry
+            break
+    
+    if not ipo_entry:
+        app.logger.error(f"IPO with slug '{ipo_slug}' not found in year {year}")
+        return None
+    
+    ipo_json_path = ipo_entry.get('json_path')
+    if not ipo_json_path:
+        app.logger.error(f"No json_path found for IPO with slug '{ipo_slug}' in year {year}")
+        return None
+    
+    # Assuming json_path already contains the year and json/ part, e.g., "2025/json/Astonea_Labs_Ltd_IPO.json"
+    full_path = os.path.join(IPO_DATA_BASE_DIR, ipo_json_path)
+    ipo_identifier = ipo_slug # Using slug as unique key in cache for details
 
     if not os.path.exists(full_path):
         app.logger.error(f"IPO detail file not found: {full_path}")
@@ -263,10 +286,11 @@ def get_all_ipos():
         if load_year_data(year):  # Ensure meta data is loaded/fresh
             for ipo_meta in ipo_cache[year]['meta_data']:
                 # For basic list, we only need meta data and status (which requires ipo_details)
-                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['json_path'])
+                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['slug'])
                 status = "Unknown"
                 if ipo_data_for_status and "ipo_details" in ipo_data_for_status:
-                    status = get_ipo_status(ipo_data_for_status["ipo_details"])
+                    timeline = ipo_data_for_status.get("timeline", [])
+                    status = get_ipo_status(ipo_data_for_status["ipo_details"], timeline)
                 else:
                     app.logger.debug(f"No 'ipo_details' found or failed to load data for {ipo_meta.get('name')} (for status).")
 
@@ -294,10 +318,11 @@ def get_ipos_by_year(year):
     ipos_in_year = []
     for ipo_meta in ipo_cache[year]['meta_data']:
         # For basic list, we only need meta data and status (which requires ipo_details)
-        ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['json_path'])
+        ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['slug'])
         status = "Unknown"
         if ipo_data_for_status and "ipo_details" in ipo_data_for_status:
-            status = get_ipo_status(ipo_data_for_status["ipo_details"])
+            timeline = ipo_data_for_status.get("timeline", [])
+            status = get_ipo_status(ipo_data_for_status["ipo_details"], timeline)
         else:
             app.logger.debug(f"No 'ipo_details' found or failed to load data for {ipo_meta.get('name')} in year {year} (for status).")
 
@@ -351,15 +376,16 @@ def get_single_ipo_by_slug(ipo_slug):
         abort(404, description=f"IPO with slug '{ipo_slug}' not found.")
 
     # This call will load the full IPO data into cache if not already present
-    ipo_data = get_ipo_detail_data(target_year, found_ipo_meta['json_path'])
+    ipo_data = get_ipo_detail_data(target_year, ipo_slug)
     if not ipo_data:
         app.logger.error(
-            f"Failed to load detailed data for IPO with slug '{ipo_slug}' from path '{found_ipo_meta['json_path']}'.")
+            f"Failed to load detailed data for IPO with slug '{ipo_slug}'.")
         abort(500, description=f"Failed to load detailed data for IPO with slug '{ipo_slug}'.")
 
     status = "Unknown"
     if "ipo_details" in ipo_data:
-        status = get_ipo_status(ipo_data["ipo_details"])
+        timeline = ipo_data.get("timeline", [])
+        status = get_ipo_status(ipo_data["ipo_details"], timeline)
     else:
         app.logger.debug(f"No 'ipo_details' found for detailed IPO data of {ipo_slug}")
 
@@ -421,10 +447,11 @@ def get_ipos_by_status(status_type):
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
                 # Need ipo_details for status calculation
-                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['json_path'])
+                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['slug'])
                 status = "Unknown"
                 if ipo_data_for_status and "ipo_details" in ipo_data_for_status:
-                    status = get_ipo_status(ipo_data_for_status["ipo_details"])
+                    timeline = ipo_data_for_status.get("timeline", [])
+                    status = get_ipo_status(ipo_data_for_status["ipo_details"], timeline)
                 else:
                     app.logger.debug(f"No 'ipo_details' found or failed to load data for {ipo_meta.get('name')} (for status).")
 
@@ -469,10 +496,11 @@ def search_ipos():
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
                 # Need ipo_details for status and about_company.description for search
-                ipo_data_for_search = get_ipo_detail_data(year, ipo_meta['json_path'])
+                ipo_data_for_search = get_ipo_detail_data(year, ipo_meta['slug'])
                 status = "Unknown"
                 if ipo_data_for_search and "ipo_details" in ipo_data_for_search:
-                    status = get_ipo_status(ipo_data_for_search["ipo_details"])
+                    timeline = ipo_data_for_search.get("timeline", [])
+                    status = get_ipo_status(ipo_data_for_search["ipo_details"], timeline)
 
                 # Check name
                 name_match = False
@@ -528,10 +556,11 @@ def get_ipo_overview():
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
                 # Need ipo_details for status calculation
-                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['json_path'])
+                ipo_data_for_status = get_ipo_detail_data(year, ipo_meta['slug'])
                 status = "Unknown"
                 if ipo_data_for_status and "ipo_details" in ipo_data_for_status:
-                    status = get_ipo_status(ipo_data_for_status["ipo_details"])
+                    timeline = ipo_data_for_status.get("timeline", [])
+                    status = get_ipo_status(ipo_data_for_status["ipo_details"], timeline)
 
                 ipo_entry = {
                     "name": ipo_meta.get("name"),
@@ -572,6 +601,189 @@ def get_ipo_overview():
     return jsonify(overview)
 
 
+@app.route('/api/ipo/statistics', methods=['GET'])
+def get_ipo_statistics():
+    """
+    Provides detailed statistics about IPOs by category, including:
+    - Total IPOs by year
+    - IPOs by status (Upcoming, Open, Closed, Unknown) with detailed information
+    - IPOs by listing type (e.g., NSE, BSE, SME)
+    - IPOs by industry sector
+    
+    Query Parameters:
+        include_details (bool, optional): Whether to include detailed IPO information for each category.
+                                         Default is False (only counts).
+        limit (int, optional): Maximum number of IPOs to include in each category when details are requested.
+                              Default is no limit.
+    """
+    include_details = request.args.get('include_details', 'false').lower() == 'true'
+    limit = request.args.get('limit', type=int)
+    
+    # Initialize statistics structure
+    statistics = {
+        "by_year": {},
+        "by_status": {
+            "Upcoming": {
+                "count": 0,
+                "ipos": [] if include_details else None
+            },
+            "Open": {
+                "count": 0,
+                "ipos": [] if include_details else None
+            },
+            "Closed": {
+                "count": 0,
+                "ipos": [] if include_details else None
+            },
+            "Unknown": {
+                "count": 0,
+                "ipos": [] if include_details else None
+            }
+        },
+        "by_listing_type": {},
+        "by_industry": {}
+    }
+    
+    years_to_process = []
+    if os.path.exists(IPO_DATA_BASE_DIR):
+        for year_str in os.listdir(IPO_DATA_BASE_DIR):
+            try:
+                year = int(year_str)
+                years_to_process.append(year)
+                # Initialize year structure
+                statistics["by_year"][str(year)] = {
+                    "count": 0,
+                    "ipos": [] if include_details else None
+                }
+            except ValueError:
+                pass # Ignore non-numeric directory names
+    
+    for year in sorted(years_to_process, reverse=True):
+        if load_year_data(year):
+            for ipo_meta in ipo_cache[year]['meta_data']:
+                # Increment year count
+                statistics["by_year"][str(year)]["count"] += 1
+                
+                # Get IPO details for status and other categorization
+                ipo_data = get_ipo_detail_data(year, ipo_meta['slug'])
+                if not ipo_data:
+                    continue
+                
+                # Create basic IPO info object
+                ipo_info = {
+                    "name": ipo_meta.get("name"),
+                    "slug": ipo_meta.get("slug"),
+                    "url": ipo_meta.get("url"),
+                    "year": year
+                }
+                
+                # Add detailed information if requested
+                if include_details:
+                    # Add IPO details
+                    if "ipo_details" in ipo_data:
+                        ipo_info["ipo_details"] = ipo_data["ipo_details"]
+                    
+                    # Add timeline
+                    if "timeline" in ipo_data:
+                        ipo_info["timeline"] = ipo_data["timeline"]
+                    
+                    # Add company information
+                    if "about_company" in ipo_data:
+                        ipo_info["about_company"] = ipo_data["about_company"]
+                    
+                    # Add listing details
+                    if "listing_details" in ipo_data:
+                        ipo_info["listing_details"] = ipo_data["listing_details"]
+                    
+                    # Add registrar information
+                    if "registrar_info" in ipo_data:
+                        ipo_info["registrar_info"] = ipo_data["registrar_info"]
+                    
+                    # Add lead managers
+                    if "lead_managers" in ipo_data:
+                        ipo_info["lead_managers"] = ipo_data["lead_managers"]
+                    
+                    # Add listing gain percentage if available
+                    if "listing_details" in ipo_data and "listing_gain_percentage" in ipo_data["listing_details"]:
+                        ipo_info["listing_gain_percentage"] = ipo_data["listing_details"]["listing_gain_percentage"]
+                
+                # Calculate status
+                status = "Unknown"
+                if "ipo_details" in ipo_data:
+                    timeline = ipo_data.get("timeline", [])
+                    status = get_ipo_status(ipo_data["ipo_details"], timeline)
+                ipo_info["status"] = status
+                
+                # Add to status category
+                statistics["by_status"][status]["count"] += 1
+                if include_details and statistics["by_status"][status]["ipos"] is not None:
+                    statistics["by_status"][status]["ipos"].append(ipo_info)
+                
+                # Add to year category if details requested
+                if include_details and statistics["by_year"][str(year)]["ipos"] is not None:
+                    statistics["by_year"][str(year)]["ipos"].append(ipo_info)
+                
+                # Extract listing type
+                listing_type = "Unknown"
+                if "listing_details" in ipo_data and "listing_at" in ipo_data["listing_details"]:
+                    listing_type = ipo_data["listing_details"]["listing_at"]
+                
+                if listing_type:
+                    # Initialize listing type if not exists
+                    if listing_type not in statistics["by_listing_type"]:
+                        statistics["by_listing_type"][listing_type] = {
+                            "count": 0,
+                            "ipos": [] if include_details else None
+                        }
+                    
+                    # Increment count and add to list if details requested
+                    statistics["by_listing_type"][listing_type]["count"] += 1
+                    if include_details and statistics["by_listing_type"][listing_type]["ipos"] is not None:
+                        statistics["by_listing_type"][listing_type]["ipos"].append(ipo_info)
+                
+                # Extract industry sector
+                industry = "Unknown"
+                # if "about_company" in ipo_data and "industry" in ipo_data["about_company"]:
+                #     industry = ipo_data["about_company"]["industry"]
+                
+                if industry:
+                    # Initialize industry if not exists
+                    if industry not in statistics["by_industry"]:
+                        statistics["by_industry"][industry] = {
+                            "count": 0,
+                            "ipos": [] if include_details else None
+                        }
+                    
+                    # Increment count and add to list if details requested
+                    statistics["by_industry"][industry]["count"] += 1
+                    if include_details and statistics["by_industry"][industry]["ipos"] is not None:
+                        statistics["by_industry"][industry]["ipos"].append(ipo_info)
+    
+    # Apply limit if provided
+    if include_details and limit is not None:
+        # Limit IPOs in status categories
+        for status in statistics["by_status"]:
+            if statistics["by_status"][status]["ipos"] is not None:
+                statistics["by_status"][status]["ipos"] = statistics["by_status"][status]["ipos"][:limit]
+        
+        # Limit IPOs in year categories
+        for year in statistics["by_year"]:
+            if statistics["by_year"][year]["ipos"] is not None:
+                statistics["by_year"][year]["ipos"] = statistics["by_year"][year]["ipos"][:limit]
+        
+        # Limit IPOs in listing type categories
+        for listing_type in statistics["by_listing_type"]:
+            if statistics["by_listing_type"][listing_type]["ipos"] is not None:
+                statistics["by_listing_type"][listing_type]["ipos"] = statistics["by_listing_type"][listing_type]["ipos"][:limit]
+        
+        # Limit IPOs in industry categories
+        for industry in statistics["by_industry"]:
+            if statistics["by_industry"][industry]["ipos"] is not None:
+                statistics["by_industry"][industry]["ipos"] = statistics["by_industry"][industry]["ipos"][:limit]
+    
+    return jsonify(statistics)
+
+
 @app.route('/api/ipo/today', methods=['GET'])
 def get_today_ipos():
     """
@@ -593,7 +805,7 @@ def get_today_ipos():
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
                 # Need ipo_details for date checks and status
-                ipo_data_for_today = get_ipo_detail_data(year, ipo_meta['json_path'])
+                ipo_data_for_today = get_ipo_detail_data(year, ipo_meta['slug'])
                 if not ipo_data_for_today or "ipo_details" not in ipo_data_for_today:
                     continue
 
@@ -641,7 +853,7 @@ def get_today_ipos():
                         "html_path": ipo_meta.get("html_path"),
                         "json_path": ipo_meta.get("json_path"),
                         "year": year,
-                        "status": get_ipo_status(ipo_data_for_today["ipo_details"]),  # Get current status
+                        "status": get_ipo_status(ipo_data_for_today["ipo_details"], ipo_data_for_today.get("timeline", [])),  # Get current status
                         "today_events": event_type
                     }
                     today_ipos.append(ipo_entry)
@@ -672,7 +884,7 @@ def get_ipos_by_listing_type(listing_type):
         if load_year_data(year):
             for ipo_meta in ipo_cache[year]['meta_data']:
                 # Need ipo_details to get 'Listing At'
-                ipo_data_for_listing_type = get_ipo_detail_data(year, ipo_meta['json_path'])
+                ipo_data_for_listing_type = get_ipo_detail_data(year, ipo_meta['slug'])
                 if not ipo_data_for_listing_type or "ipo_details" not in ipo_data_for_listing_type:
                     continue
 
@@ -876,4 +1088,4 @@ if __name__ == '__main__':
     # Start the background cache refresher
     start_cache_refresher()
 
-    app.run(debug=True, host="0.0.0.0", port=1234, use_reloader=False) # use_reloader=False when using threading
+    app.run(debug=True, host="0.0.0.0", port=1111, use_reloader=False) # use_reloader=False when using threading

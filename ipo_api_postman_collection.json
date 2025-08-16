@@ -1,0 +1,122 @@
+{
+  "info": {
+    "name": "IPO API Collection",
+    "description": "Comprehensive Postman collection for IPO API endpoints.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "version": "1.0.0"
+  },
+  "item": [
+    {
+      "name": "Get Available Years",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/years",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "years"]
+        },
+        "description": "Returns a list of all years for which IPO data is available."
+      }
+    },
+    {
+      "name": "Get All IPOs",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/all",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "all"]
+        },
+        "description": "Returns a flattened list of all IPOs from all available years, with their basic metadata and calculated status."
+      }
+    },
+    {
+      "name": "Get IPOs By Year",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/year/:year",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "year", ":year"],
+          "variable": [{"key": "year", "value": "2025"}]
+        },
+        "description": "Returns a list of all IPOs for a specific year, with their basic metadata and calculated status."
+      }
+    },
+    {
+      "name": "Get Single IPO By Slug",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/details/:ipo_slug",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "details", ":ipo_slug"],
+          "variable": [{"key": "ipo_slug", "value": "astonea-labs-ltd"}]
+        },
+        "description": "Returns the complete data for a single IPO based on its slug. Optional query parameter: fields (comma-separated list of keys to include in the response, supports dot notation for nested keys)."
+      }
+    },
+    {
+      "name": "Get IPOs By Status",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/status/:status_type",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "status", ":status_type"],
+          "variable": [{"key": "status_type", "value": "open"}]
+        },
+        "description": "Returns IPOs filtered by status (upcoming, open, closed)."
+      }
+    },
+    {
+      "name": "Search IPOs",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/search?query=pharma",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "search"],
+          "query": [{"key": "query", "value": "pharma"}]
+        },
+        "description": "Searches for IPOs based on a query string in their name and company description. Required query parameter: query."
+      }
+    },
+    {
+      "name": "Get IPO Overview",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/overview?limit=5",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "overview"],
+          "query": [{"key": "limit", "value": "5"}]
+        },
+        "description": "Provides a summary of IPOs, including counts for current year, upcoming, open, and closed IPOs. Optional query parameter: limit."
+      }
+    },
+    {
+      "name": "Get Today's IPOs",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "{{base_url}}/api/ipo/today",
+          "host": ["{{base_url}}"],
+          "path": ["api", "ipo", "today"]
+        },
+        "description": "Returns IPOs that are opening, closing, or listing today."
+      }
+    }
+  ],
+  "variable": [
+    {"key": "base_url", "value": "http://localhost:5000"}
+  ]
+}
